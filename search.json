@@ -4,20 +4,13 @@
     "href": "index.html",
     "title": "Cheatsheet Book for Data Lab Training",
     "section": "",
-    "text": "1 Welcome to the cheatsheet!\nHere’s some caveats about what you can expect in the cheatsheet.\nLearn more about our training modules maybe."
+    "text": "Welcome to the cheatsheet!\nHere’s some caveats about what you can expect in the cheatsheet.\nLearn more about our training modules maybe."
   },
   {
     "objectID": "baseR.html",
     "href": "baseR.html",
-    "title": "2  Base R functions",
+    "title": "1  Base R functions",
     "section": "",
     "text": "This page shows some base R. Here are some links to go along with a table down there.\n\ntable…."
-  },
-  {
-    "objectID": "summary.html",
-    "href": "summary.html",
-    "title": "3  Working with SCE objects",
-    "section": "",
-    "text": "Some links, probably a picture.\ntable with jazz like rowData() colData()"
   }
 ]
