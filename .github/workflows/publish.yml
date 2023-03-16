@@ -24,9 +24,6 @@ jobs:
         uses: quarto-dev/quarto-actions/publish@v2
         with:
           target: gh-pages
-          # Directory of book is `content/`
-          path: content/
-          # Send it to:
-          to: docs/
+          to: content/
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
