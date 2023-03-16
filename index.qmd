@@ -1,4 +1,4 @@
-# Welcome to the cheatsheet! {.unnumbered}
+# Welcome to the cheatsheet!
 
 Here's some caveats about what you can expect in the cheatsheet.
 
