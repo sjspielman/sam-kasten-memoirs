@@ -9,7 +9,4 @@ book:
     - index.qmd
     - baseR.qmd
 
-format:
-  html:
-    theme: cosmo
-
+format: html
