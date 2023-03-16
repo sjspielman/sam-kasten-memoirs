@@ -4,10 +4,12 @@ project:
 
 book:
   title: "Stephanie is related to Sam Kestin"
-  author: "Or is it Sam Kasten? What is spelling?"
-  date: "today."
+  author: "Or is it Sam Kasten? What even is spelling?"
+  cover-image: ccdl-logo.png
   chapters:
-    - *qmd
+    - content/index.qmd
+    - content/intro.qmd
+    - content/summary.qmd
 
 format:
   html:
