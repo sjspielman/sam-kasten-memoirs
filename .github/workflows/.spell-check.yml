@@ -1,13 +1,7 @@
 
 name: Spell check R Markdown and Markdown files
 
-# Controls when the action will run.
-# Pull requests to main only.
-# THE BELOW IS PUSHING NOT PR'ING TO MAIN!
-on:
-  workflow_dispatch:
-  push:
-    branches: main
+# dont run
 
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
