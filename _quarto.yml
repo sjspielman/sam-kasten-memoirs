@@ -2,12 +2,12 @@ project:
   type: book
 
 book:
-  title: "Stephanie is related to Sam Kestin"
-  author: "Or is it Sam Kasten? What even is spelling?"
+  title: "Cheatsheet Book for Data Lab Training"
+  author: "for now just me!"
   cover-image: ccdl-logo.png
   chapters:
     - index.qmd
-    - intro.qmd
+    - baseR.qmd
     - summary.qmd
 
 format:
