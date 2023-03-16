@@ -6,9 +6,9 @@ book:
   author: "Or is it Sam Kasten? What even is spelling?"
   cover-image: ccdl-logo.png
   chapters:
-    - index.qmd
-    - intro.qmd
-    - summary.qmd
+    - content/index.qmd
+    - content/intro.qmd
+    - content/summary.qmd
 
 format:
   html:
