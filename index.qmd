@@ -5,4 +5,4 @@ This is a Quarto book
 and I'm writing it!!! It's so much fun. I can write a book!!!!
 So the question is whether this appears.
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
+That quarto link should be gone now.
