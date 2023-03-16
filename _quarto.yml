@@ -1,0 +1,17 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Stephanie is related to Sam Kestin"
+  author: "Or is it Sam Kasten? What is spelling?"
+  date: "today."
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - summary.qmd
+
+format:
+  html:
+    theme: cosmo
+
