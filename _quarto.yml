@@ -7,7 +7,8 @@ book:
   author: "Or is it Sam Kasten? What is spelling?"
   date: "today."
   chapters:
-    - content/*qmd
+    - *qmd
+
 format:
   html:
     theme: cosmo
