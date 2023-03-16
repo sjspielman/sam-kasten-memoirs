@@ -1,0 +1,21 @@
+project:
+  type: book
+
+book:
+  title: "It's a cheatsheet"
+  author: "Stephanie"
+  date: "merp."
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - summary.qmd
+    - references.qmd
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+
+
