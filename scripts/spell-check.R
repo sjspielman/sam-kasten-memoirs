@@ -12,7 +12,7 @@ root_dir <- rprojroot::find_root(rprojroot::has_dir(".git"))
 dictionary <- readLines(file.path(root_dir, 'components', 'dictionary.txt'))
 
 # The only files we want to check are Quarto (.qmd) and Markdown files
-files <- list.files(pattern = '\\.(rmd|md)$', recursive = TRUE, full.names = TRUE)
+files <- list.files(pattern = '\\.(qmd|md)$', recursive = TRUE, full.names = TRUE)
 
 # Remove the LICENSE from the spell check
 files <- grep('LICENSE.md', files, invert = TRUE, value = TRUE)
