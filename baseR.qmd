@@ -1,8 +1,0 @@
-# Base R functions
-
-> This page shows some base R.
-> Here are some links to go along with a table down there.
-
-
-
-table....
