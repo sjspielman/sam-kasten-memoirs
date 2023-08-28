@@ -6,5 +6,6 @@ book:
   author: "Sam Kestin, translated by Stephanie Spielman"
   chapters:
     - index.qmd
+    - chapters/01_1946-09-07.qmd
 
 format: html
