@@ -2,11 +2,9 @@ project:
   type: book
 
 book:
-  title: "Cheatsheet Book for Data Lab Training"
-  author: "for now just me!"
-  cover-image: ccdl-logo.png
+  title: "Sam Kestin describes 50 years in the Yiddish Theater"
+  author: "Sam Kestin, translated by Stephanie Spielman"
   chapters:
     - index.qmd
-    - baseR.qmd
 
 format: html

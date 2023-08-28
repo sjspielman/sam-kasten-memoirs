@@ -1,3 +1,41 @@
-# Sam Kasten/Kestin {.unnumbered}
+# Preface {.unnumbered}
 
-I've been learning a lot!
+Like many other well-known names in the American Yiddish theater, Sam Kasten's (written in Yiddish as "Kestin") memoirs were published as serialized articles in _Forverts_ (_The Forward_, aka _The Jewish Daily Forward_).
+He wrote two articles per week, from September 1946 - February 1947.
+
+::: {layout-ncol=2}
+
+![Running advertisement in _Forverts_ for Sam's memoir series. Image from 1946-09-01 edition.](img/1946-09-01_forverts.png){width=3.5in}
+
+> **Sam Kestin describes of 50 years of Yiddish Theater**
+>
+> The famous comedian, who for 50 years has danced and sung on the Yiddish stage, tells his memories the "Forverts".
+> Dramatic, romantic, funny, and comical tales that occurred in and around the Yiddish theater in the last half century.
+>
+> Start reading Sam Kestin's articles in the _Forverts_ Saturday, September 7th.
+> The articles will appear twice a week, Wednesday and Saturday.
+
+:::
+
+I obtained all articles from [The National Library of Israel](https://www.nli.org.il/en/newspapers/frw), and, for those newspaper editions that were not available online, from the [New York Public Library's](https://www.nypl.org/)'s microfiche archives.
+
+This e-book contains my translation of these memoirs, with some important caveats:
+
+**This is an "alpha" version of the translation.**
+
+I do not (yet!) really know Yiddish, so I performed all translating by typing into Google Translate, with some help from a separate dictionary.
+Rather than directly typing what Google Translate has spit out, I've rephrased things so they flow well in English.
+For the most part, I believe I have retained the original meanings, but it's worth noting that I may not have correctly gotten the original meaning!
+I therefore _italicize_ aspects whose translations I don't think are reliable.
+
+Where possible, I have cross-referenced items Sam discusses, as detailed in footnotes and inserted images.
+All newspaper clippings are from archives in [The National Library of Israel](https://www.nli.org.il/en).
+
+As I begin my journey to learn Yiddish, I plan to return and update this translation as part of a _very long-term project_.
+
+Much thanks to Steve Lasky for making many translations from [Zalmen Zylbercweig's "Leksikon fun Yidishn Teater"](https://www.museumoffamilyhistory.com/yt/lex-biography.htm) available!
+
+---
+
+In memory of Sol Glassman ז׳׳ל, whose untimely death sent me down an ancestry rabbit hole wherein I accidentally ended up at Sam (who is wholly unrelated to Sol), and discovered a treasure trove of Yiddish writings.
+Uniting the two sides of my family through Yiddish Theater is, simply put, beshert.
