@@ -7,5 +7,6 @@ book:
   chapters:
     - index.qmd
     - chapters/01_1946-09-07.qmd
+    - chapters/02_1946-09-19.qmd
 
 format: html
