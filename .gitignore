@@ -4,3 +4,5 @@
 /_site/
 /_book/
 .Rproj.user
+
+spell_check_errors.tsv
