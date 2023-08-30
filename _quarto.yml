@@ -10,5 +10,6 @@ book:
     - chapters/02_1946-09-19.qmd
     - chapters/03_1946-09-21.qmd
     - chapters/04_1946-09-25.qmd
+    - chapters/05_1946-09-28.qmd
 
 format: html
