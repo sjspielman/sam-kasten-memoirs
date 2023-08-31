@@ -11,6 +11,7 @@ book:
     - chapters/03_1946-09-21.qmd
     - chapters/04_1946-09-25.qmd
     - chapters/05_1946-09-28.qmd
+    - chapters/06_1946-10-03.qmd
 
 format: html
 
