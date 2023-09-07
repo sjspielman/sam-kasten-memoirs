@@ -18,3 +18,7 @@ format: html
 
 website:
   google-analytics: "G-WWFS41KSZH"
+
+theme:
+  light: flatly
+  dark: darkly
