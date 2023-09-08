@@ -5,7 +5,7 @@ I do NOT own copyright of these materials. Where known, sources are provided all
 
 - [`makarover-rebbe.jpg`](https://jewua.org/makarov/) 
 - [`medvedev.jpg`](https://www.centropa.org/en/photo/portrait-mikhail-efimovich-medvedev-meer-haimovich-bernshtein)
-- [`mogulesko.jpg`](https://www.jewishgen.org/bessarabia/ImgViewDB.asp?id=221)
+- [`mogulesko.jpg`](https://archive.nyu.edu/handle/2451/58547?mode=full)
 
 
 ## Newspaper clippings folder
