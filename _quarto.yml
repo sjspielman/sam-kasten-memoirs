@@ -3,7 +3,8 @@ project:
 
 book:
   title: "Sam Kestin describes 50 years in the Yiddish Theater"
-  author: "Sam Kestin, translated by Stephanie Spielman"
+  author: "Sam Kestin (Kasten), translated by Stephanie Spielman"
+  translator: "Stephanie Spielman"
   chapters:
     - index.qmd
     - chapters/01_1946-09-07.qmd
@@ -14,12 +15,10 @@ book:
     - chapters/06_1946-10-03.qmd
     - chapters/07_1946-10-10.qmd
     - chapters/08_1946-10-12.qmd
+  page-footer: '<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Except images and newspaper clippings, this work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.'
+  google-analytics: "G-WWFS41KSZH"
 
 format: html
-
-website:
-  google-analytics: "G-WWFS41KSZH"
-  page-footer: '<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Except images and newspaper clippings, this work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.'
 
 theme:
   light: flatly
