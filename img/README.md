@@ -10,5 +10,4 @@ I do NOT own copyright of these materials. Where known, sources are provided all
 
 ## Newspaper clippings folder
 
-- `1888-10-04_Philadelphia-Inquirer.png`: <https://newspaperarchive.com>
 - `1946-09-01_forverts.png`: <https://www.nli.org.il/en/newspapers/frw>
