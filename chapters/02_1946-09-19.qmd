@@ -2,9 +2,13 @@
 
 By nature, _tate_ was one of those types of people who would always be inspired by something. Needless to say, he was a chasid - a <a href="https://en.wikipedia.org/wiki/Makarov_(Hasidic_dynasty)">Makarover chasid</a>. When he was able to tear himself away from his livelihood in the village, he left for Makariv to see the Rebbe^[Rebbe ], and when he came back from there he was completely different and he would tell one story of the _chiddush_^[halakhic innovation; new way of doing something in orthodox Judaism] that he saw at the Rebbe's, and he sang all the _nigunim_^[songs, tunes, "lai-dai-dai" etc.] that he heard there. 
 
-![Makarover Rebbe at the time, Yaakov Yitzchok Twersky (1828 – 1892). <a href="https://jewua.org/makarov/">Image source.</a>](../img/makarover-rebbe.jpg){width=2in}
+::: {layout-ncol="2"}
 
 In general, at our house, in the small village of Zatishiye, there was such a "geist" that you could literally see and feel how _tate_'s faith in God and in his Makarover Rebbe were connected with everything - When the business went well and we didn't have any problems with the landowner, _tate_ was sure that it was thanks to the blessings and wishes that the Makarover Rebbe gave him, and so, he should go the first chance he has to the Rebbe and give him the fine fruit and be joyous together with the other chasidim.
+
+![Makarover Rebbe at the time, Yaakov Yitzchok Twersky (1828 – 1892). <a href="https://jewua.org/makarov/">Image source.</a>](../img/makarover-rebbe.jpg){width=2in}
+
+:::
 
 And on the other hand if, God forbid, business went poorly and people had to endure the landowner's caprices, they really needed to go to the rabbi, pour out their bitter heart to him and beg for him to give his blessing and pray that God will help. Also, when something happened in the house and someone in the household was not healthy, the father of the family went to the Rebbe and asked him to grant him a _refua shlema_^[healing]. Believing in God and in them, holy rabbis, was connected. Even with the _nigunim_ that we used to sing at home, during a _simcha_^[joyous occasion with religious connotation], or even there heartache...
 
