@@ -3,6 +3,8 @@ I do NOT own copyright of these materials. Where known, sources are provided all
 
 ## Images
 
+- [`dramatic-hall-1890.jpg`](https://archive.nyu.edu/handle/2451/56843)
+- [`gaskill-1959.jpg`](https://www.ocfrealty.com/naked-philly/society-hill/delorean-time-machine-5th-gaskill/)
 - [`makarover-rebbe.jpg`](https://jewua.org/makarov/) 
 - [`medvedev.jpg`](https://www.centropa.org/en/photo/portrait-mikhail-efimovich-medvedev-meer-haimovich-bernshtein)
 - [`mogulesko.jpg`](https://archive.nyu.edu/handle/2451/58547?mode=full)
