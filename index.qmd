@@ -6,7 +6,7 @@ Like many other well-known names in the American Yiddish theater, Sam Kasten (wr
 He (generally) wrote two articles per week, from September 1946 - February 1947.
 
 ::: {layout-ncol="2"}
-![Running advertisement in *Forverts* for Sam's memoir series. Image from 1946-09-01 edition.](img/newspaper_clippings/1946-09-01_forverts.png){width="4in"}
+![Running advertisement in *Forverts* for Sam's memoir series. Image from [1946-09-01 edition](https://www.nli.org.il/en/newspapers/frw/1946/09/01/01/).](img/newspaper_clippings/1946-09-01_forverts.png){width="4in"}
 
 > **Sam Kestin describes of 50 years of Yiddish Theater**
 >
