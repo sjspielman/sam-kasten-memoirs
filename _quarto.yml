@@ -3,7 +3,7 @@ project:
 
 book:
   title: "Sam Kestin describes 50 years in the Yiddish Theater"
-  author: "Sam Kestin (Kasten), translated by Stephanie Spielman"
+  author: "Sam Kestin (Kasten), translated by <a href = 'https://sjspielman.github.io' style='color:#18BC9C;'>Stephanie Spielman</a>"
   translator: "Stephanie Spielman"
   chapters:
     - index.qmd
