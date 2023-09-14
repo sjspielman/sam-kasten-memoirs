@@ -1,0 +1,36 @@
+# October 19th, 1946
+
+> How I appeared for the first time in the ["The Kuni Lemels"](https://web.uwm.edu/yiddish-stage/plotting-yiddish-drama/di-tsvey-kuni-leml)^[The play "The Two Kuni Lemels" is one of Goldfaden's most famous plays. In the 1960s, it was made into an <a href="https://en.wikipedia.org/wiki/The_Flying_Matchmaker">Israeli film</a>.]. - The actor [Jacob Frank](https://www.museumoffamilyhistory.com/yt/lex/F/frank-jacob.htm). - An offer to play in a theater in [Brownsville](https://en.wikipedia.org/wiki/Brownsville,_Brooklyn#)^[Neighborhood in Brooklyn that was _extremely_ Jewish through the 1950s.]. - Ten dollars a week^[$10 in the 1890s equates to roughly $340 today (2023)].
+
+The whole time that I yearned to be a professional actor, I was drawn to New York. There was the center of Yiddish theater; there the greatest Jewish actors played there, and I really wanted to play with them. But at the same time that my desire to play with them in New York was so great, I was still afraid of them, but in general the city of New York did not scare me much^[Unclear if this is a correct translation - that he _wasn't_ scared of NYC.]. 
+
+And it was no wonder that I was so frightened of them, of the famous actors of that time. There was something about them that really plunged you into fear and yet really stirred the imagination; They had a innumerable fans, who were ready to "jump into fire and water"^[implies they would do anything for them; "come hell or high water" these fans are ready to defend their actors.] for them; All the walls were covered with their pictures, and even their names were wrapped in something unusual: [Aba Schehngold](https://en.wikipedia.org/wiki/Abba_Schoengold) called himself **"Yaffa-Zahav"**^[Hebrew translated from his name: _schehn_ <-> _yaffa_ and _gold_ <-> _zahav_] - that's how he translated his name to Hebrew, so that it would sound like nice and shiny. And James P. Adler^[He was introduced in <a href="https://sjspielman.github.io/sam-kasten/chapters/06_1946-10-03.html>Chapter 6</a>.] called himself no other name than the **"Nesher HaGadol"**^[Again, another Hebrew play on words, described in Chapter 6 footnotes.] And when he used to came down with his troupe to a "province-town"^[A town outside of the major cities], a picture of an eagle with two heads was printed on his posters, along with a warning to other others who were playing in the provinces:
+
+-- Fly away, little birds - the great eagle is here!
+
+That was usually how the wording was...
+
+
+Ah, what tales were told about the great actors and their caprices!
+
+_Nu_, it was indeed no wonder that I was frightened to come to them in New York, even though I was really drawn there...
+
+So, that's why I didn't go try my luck in New York after my mother's death; I instead came back to Philadelphia from the farm in Bridgeton, and there I 
+
+That's why I didn't go to try my luck in New York, but I came back to Philadelphia from the farm in Bridgeton, and there I met the actor Jacob Frank, who then ran a barber shop. He was a very good actor, Jacob Frank, an excellent comedian, but he had no ambition in the slightest. And even more, of that, he's was pretty lazy and her never had any desire to really study a role.
+
+In his certainty that when he goes out on the stage, everything would be fine and he would be able to "cope"^[As in, he'll just figure it out when he gets on the stage!], he neglected everything. But with his talent was able to get away with a lot of things^[This may not be a correct translation, but it's the right vibe.]. And you can say, that in a better "theater-atmosphere" Jacob Frank would certainly have been more prominent and he would certainly have occupied a more honorable place on our Jewish stage, and his talent would have developed better. 
+
+But it was not destined for him to be in a better "theater–atmosphere." And that's how he lived out all his years, and is now completely gone from the world^[He passed away in 1942, according to his Leksikon entry, in Los Angeles where he settled when he became older and ill.] and he has been forgotten.
+
+Together, Frank and I established a little theater company that we called the "Star Specialty Club"^[סטאַר ספּעשעלטי קלאָב]. And the manager of the club, I remember, was a young man from Philadelphia named Staller, a cigar maker, who was studying medicine and later become a doctor^[This was Max Staller, a prominent anarchist. There is some information about him on <a href="https://www.findagrave.com/memorial/33506807/max-staller"><Find a Grave</a>.]
+
+Whenever we could and wherever we were allowed, we gave concerts, staged scenes, sang, and danced. We were satisfied that we were playing theater, and we looked forward to the opportunity when we would achieve what we wanted.^[It's worth noting that, according to the book <a href="https://www.goodreads.com/book/show/2214842.Jewish_Quarter_of_Philadelphia">_Jewish Quarter of Philadelphia: A History & Guide 1881-1930_</a>, the "Star Specialty Club" troupe would sometimes play at the old fire station at 512 S 3rd St, right above South St.].
+
+::: {layout-ncol="2"}
+
+By chance, at that time, the anarchists turned to us with a request that we should give a benefit performance for the [_Fraye Arbeter Shtime_](https://en.wikipedia.org/wiki/Fraye_Arbeter_Shtime)^["The Free Voice of Labor"; Anarchist Yiddish newspaper], which was published out of New York. We were assured that [David Edelstadt](https://en.wikipedia.org/wiki/David_Edelstadt) himself, the editor of the _Fraye Arbeter Shtime_, will come to the performance from New York. And needless to say, when Frank and I heard about it, we were enthusiastic about it. And soon we were studying hard with all the members of our club to really learn Goldfaden's play _The Two Kuni Lemels_ well. The real Kuni Lemel was played by Frank, and I played the real Kuni Lemel.
+
+![Advertisement in the _Fraye Arbeter Shtime_ for the performance of _The Two Kuni Lemels_ in Philadelphia by the Star Specialty Company. The show was performed on Wednesday February 11th, 1891 in the Dramatic Hall at 5th and Gaskill. <a href="https://www.nli.org.il/en/newspapers/freiearb/1891/02/06/01/">Source</a>.](../img/newspaper_clippings/1891-02-06_freiearb.png){width="2in"}
+
+:::

@@ -13,3 +13,4 @@ I do NOT own copyright of these materials. Where known, sources are provided all
 ## Newspaper clippings folder
 
 - `1946-09-01_forverts.png`: <https://www.nli.org.il/en/newspapers/frw>
+- `1891-02-06_freiearb.png`: <https://www.nli.org.il/en/newspapers/freiearb>
