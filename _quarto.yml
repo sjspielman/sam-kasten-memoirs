@@ -14,9 +14,9 @@ book:
         - chapters/03_1946-09-21.qmd
         - chapters/04_1946-09-25.qmd
         - chapters/05_1946-09-28.qmd
-        - chapters/06_1946-10-03.qmd
-    - part: "Part 2: Settling in in America"
+    - part: "Part 2: Making a living in America"
       chapters:
+        - chapters/06_1946-10-03.qmd
         - chapters/07_1946-10-10.qmd
         - chapters/08_1946-10-12.qmd
         - chapters/09_1946-10-17.qmd
@@ -34,7 +34,9 @@ book:
   page-footer: '<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Except images and newspaper clippings, this work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.'
   google-analytics: "G-WWFS41KSZH"
 
-format: html
+format: 
+  html:
+    sidebar-width: 500px
 
 theme:
   light: flatly
