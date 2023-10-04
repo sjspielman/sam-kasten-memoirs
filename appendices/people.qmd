@@ -26,6 +26,8 @@ _Lekiskon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
     - [Leskikon](https://www.museumoffamilyhistory.com/yt/lex/B/bekerman-simeon.htm)
 - Charlie Cohan
     - [Leskikon](https://www.museumoffamilyhistory.com/yt/lex/C/cohan-charlie.htm)
+- Jacob ("Jakele") Cone
+  - [Leskikon](https://www.museumoffamilyhistory.com/yt/lex/C/cone-jacob.htm)
 - Jacob Frank
     - [Leskikon](https://www.museumoffamilyhistory.com/yt/lex/F/frank-jacob.htm)
 - Feyvele Fridman
@@ -73,21 +75,24 @@ _Lekiskon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
 - Berta Tanzman
     - [Leskikon](https://www.museumoffamilyhistory.com/yt/lex/T/tanzman-berta.htm)
 - Boris Thomashefsky
-    - [Wikipedia](https://en.wikipedia.org/wiki/Boris_Thomashefsky)
-    - [Leskikon](https://www.museumoffamilyhistory.com/yt/lex/T/thomashefsky-boris.htm)
+  - [Wikipedia](https://en.wikipedia.org/wiki/Boris_Thomashefsky)
+  - [Leskikon](https://www.museumoffamilyhistory.com/yt/lex/T/thomashefsky-boris.htm)
 - Bessie Thomashefsky
-    - [Wikipedia](https://en.wikipedia.org/wiki/Bessie_Thomashefsky)
-    - [Leskikon](https://www.museumoffamilyhistory.com/yt/lex/T/thomashefsky-bessie.htm)
+  - [Wikipedia](https://en.wikipedia.org/wiki/Bessie_Thomashefsky)
+  - [Leskikon](https://www.museumoffamilyhistory.com/yt/lex/T/thomashefsky-bessie.htm)
 - Mendel Teplitzky
-    - [Leskikon](https://www.museumoffamilyhistory.com/yt/lex/T/teplitzky-mendel.htm)
+  - [Leskikon](https://www.museumoffamilyhistory.com/yt/lex/T/teplitzky-mendel.htm)
 - Yosef Wachtel
-    - [Leskikon](https://www.museumoffamilyhistory.com/yt/lex/V/vakhtel-yosef.htm)
+  - [Leskikon](https://www.museumoffamilyhistory.com/yt/lex/V/vakhtel-yosef.htm)
 - Israel Weinblatt
-    - [Leskikon](https://www.museumoffamilyhistory.com/yt/lex/W/weinblatt-israel.htm)
+  - [Leskikon](https://www.museumoffamilyhistory.com/yt/lex/W/weinblatt-israel.htm)
 - Sigmund Weintraub
-    - [Leskikon](https://www.museumoffamilyhistory.com/yt/lex/W/weintraub-sigmund.htm)
+  - [Leskikon](https://www.museumoffamilyhistory.com/yt/lex/W/weintraub-sigmund.htm)
+- Boaz (Bernard) Young
+  - [Wikipedia](https://en.wikipedia.org/wiki/Boaz_Young)
+  - [Leskikon](https://www.museumoffamilyhistory.com/yt/lex/Y/young-bernard.htm)
 - Moshe Zilberman
-    - [Leksikon entry](https://www.museumoffamilyhistory.com/yt/lex/Z/zilberman-moshe.htm)
+  - [Leksikon entry](https://www.museumoffamilyhistory.com/yt/lex/Z/zilberman-moshe.htm)
 
 :::
 
@@ -125,11 +130,16 @@ _Lekiskon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
 <div style = "font-size:13px;">
 
 - David Belasco
-    - [Wikipedia](https://en.wikipedia.org/wiki/David_Belasco)
+  - [Wikipedia](https://en.wikipedia.org/wiki/David_Belasco)
+- Henry Irving
+  - [Wikipedia](https://en.wikipedia.org/wiki/Henry_Irving)
+- Richard Mansfield
+  - [Wikipedia](https://en.wikipedia.org/wiki/Richard_Mansfield)
 - Morris Gest^[Though his career was predominantly in the American theater, in his teens he was an "errand-boy" for Yiddish actors in Boston.]
-    - [Wikipedia](https://en.wikipedia.org/wiki/Morris_Gest)
+  - [Wikipedia](https://en.wikipedia.org/wiki/Morris_Gest)
 - Max Reinhardt
-    - [Wikipedia](https://en.wikipedia.org/wiki/Max_Reinhardt)
+  - [Wikipedia](https://en.wikipedia.org/wiki/Max_Reinhardt)
+  
 </div>
 
 
