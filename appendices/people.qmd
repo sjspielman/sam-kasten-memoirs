@@ -4,7 +4,7 @@ This appendix contains links to more information about people Sam meets and/or d
 People are listed below in alphabetical order.
 _Lekiskon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Teater_](https://en.wikipedia.org/wiki/Leksikon_fun_yidishn_teater), many of which have been [translated](https://www.museumoffamilyhistory.com/yt/lex-biography.htm).
 
-## Performers in the Yiddish theater
+### Performers in the Yiddish theater
 
 <div style = "font-size:13px;">
 
@@ -95,30 +95,34 @@ _Lekiskon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
 
 </div>
 
-## Yiddish writers
+### Yiddish playwrites
 
-> Includes playwrites, lyricists, journalists, novelists, and authors in general.
 
-- Nahum Meïr Schaikewitz (_Shomer_)
-  - [Wikipedia](https://en.wikipedia.org/wiki/Nahum_Meir_Schaikewitz)
-  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/S/shomer-abraham.htm)
+<div style = "font-size:13px;">
+
 - Abraham Goldfaden
   - [Wikipedia](href="https://en.wikipedia.org/wiki/Abraham_Goldfaden)
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/G/goldfaden-abraham.htm)
-- Joseph Lateiner
-  - [Wikipedia](https://en.wikipedia.org/wiki/Joseph_Lateiner)
 - Jacob Gordin
   - [Wikipedia](https://en.wikipedia.org/wiki/Jacob_Gordin)
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/G/gordin-jacob.htm) 
-- David Edelstadt
-  - [Wikipedia](https://en.wikipedia.org/wiki/David_Edelstadt)
-- Yitzhak Yoel Linetsky
-  - [Wikipedia](https://en.wikipedia.org/wiki/Yitzkhok_Yoel_Linetzky)
+- Joseph Lateiner
+  - [Wikipedia](https://en.wikipedia.org/wiki/Joseph_Lateiner)
+- Nahum Meïr Schaikewitz^[Also a novelist more generally] (_Shomer_)
+  - [Wikipedia](https://en.wikipedia.org/wiki/Nahum_Meir_Schaikewitz)
+  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/S/shomer-abraham.htm)
 
+</div>
 
-## People related to the non-Yiddish theater
+### People related to the non-Yiddish theater
+
+<div style = "font-size:14px;">
 
 > Predominantly American theater, but some international folks as well
+
+</div>
+
+<div style = "font-size:13px;">
 
 - David Belasco
     - [Wikipedia](https://en.wikipedia.org/wiki/David_Belasco)
@@ -126,11 +130,21 @@ _Lekiskon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
     - [Wikipedia](https://en.wikipedia.org/wiki/Morris_Gest)
 - Max Reinhardt
     - [Wikipedia](https://en.wikipedia.org/wiki/Max_Reinhardt)
+</div>
 
 
+### Other
 
-## Other
+<div style = "font-size:13px;">
 
+- David Edelstadt
+  - [Wikipedia](https://en.wikipedia.org/wiki/David_Edelstadt)
+- Yitzhak Yoel Linetsky
+  - [Wikipedia](https://en.wikipedia.org/wiki/Yitzkhok_Yoel_Linetzky)
 - Max Staller^[He was the manager of Sam's acting troupe in Philadelphia, the "Star Specialty Club," in the late 1880s-early 1890s.]
     - [Find a Grave](https://www.findagrave.com/memorial/33506807/max-staller)
     - Article in \_The Jewish Exponent: ["History's Lessons: Jewish Anarchist Doctors Cared for Philadelphia's Immigrants"](https://www.jewishexponent.com/historys-lessons-jewish-anarchist-doctors-cared-for-philadelphias-immigrants/)
+- Morris Winchevsky
+  - [Wikipedia](https://en.wikipedia.org/wiki/Morris_Winchevsky)
+
+</div>
