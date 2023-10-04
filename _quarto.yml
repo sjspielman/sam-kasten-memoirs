@@ -7,26 +7,37 @@ book:
   translator: "Stephanie Spielman"
   chapters:
     - index.qmd
-    - chapters/01_1946-09-07.qmd
-    - chapters/02_1946-09-19.qmd
-    - chapters/03_1946-09-21.qmd
-    - chapters/04_1946-09-25.qmd
-    - chapters/05_1946-09-28.qmd
-    - chapters/06_1946-10-03.qmd
-    - chapters/07_1946-10-10.qmd
-    - chapters/08_1946-10-12.qmd
-    - chapters/09_1946-10-17.qmd
-    - chapters/10_1946-10-19.qmd
-    - chapters/11_1946-10-24.qmd
-    - chapters/12_1946-10-26.qmd
-    - chapters/13_1946-10-31.qmd
-    - chapters/14_1946-11-02.qmd
-    - chapters/15_1946-11-07.qmd
+    - part: "Part 1: Early life in Ukraine"
+      chapters:
+        - chapters/01_1946-09-07.qmd
+        - chapters/02_1946-09-19.qmd
+        - chapters/03_1946-09-21.qmd
+        - chapters/04_1946-09-25.qmd
+        - chapters/05_1946-09-28.qmd
+    - part: "Part 2: Making a living in America"
+      chapters:
+        - chapters/06_1946-10-03.qmd
+        - chapters/07_1946-10-10.qmd
+        - chapters/08_1946-10-12.qmd
+        - chapters/09_1946-10-17.qmd
+        - chapters/10_1946-10-19.qmd
+        - chapters/11_1946-10-24.qmd
+        - chapters/12_1946-10-26.qmd
+    - part: "Part 3: Traveling the provinces"
+      chapters:
+        - chapters/13_1946-10-31.qmd
+        - chapters/14_1946-11-02.qmd
+        - chapters/15_1946-11-07.qmd
+    - part: "Appendices"
+      chapters:
+        - appendices/people.qmd
 
   page-footer: '<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Except images and newspaper clippings, this work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.'
   google-analytics: "G-WWFS41KSZH"
 
-format: html
+format: 
+  html:
+    sidebar-width: 500px
 
 theme:
   light: flatly
