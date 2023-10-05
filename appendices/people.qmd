@@ -6,8 +6,6 @@ _Lekiskon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
 
 ### Performers in the Yiddish theater
 
-<div style = "font-size:13px;">
-
 :::: {.columns}
 
 ::: {.column width="30%"}
@@ -16,7 +14,7 @@ _Lekiskon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
 
 - Mendele Abramovich
   - [Leskikon](https://www.museumoffamilyhistory.com/yt/lex/A/abramovich-max.htm)
-- Jacob P. Adler (*Nesher Hagadol*)
+- Jacob P. Adler (*Nesher Hagadol*, the Great Eagle)
   - [Wikipedia](https://en.wikipedia.org/wiki/Jacob_Pavlovich_Adler)
   - [Leskikon](https://www.museumoffamilyhistory.com/yt/lex/A/adler-jacob-p.htm)
 - Sara Adler
@@ -60,7 +58,7 @@ _Lekiskon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
   - [Leskikon](https://www.museumoffamilyhistory.com/yt/lex/M/mogulesko-sigmund.htm)
 - Elias Rothstein
   - [Lekiskon](https://www.museumoffamilyhistory.com/yt/lex/R/rothstein-elias.htm)
-- Abba Schoengold (*Yaffa Zahav*)
+- Abba Schoengold (*Yaffa Zahav*, Beautiful Gold)
   - [Wikipedia](https://en.wikipedia.org/wiki/Abba_Schoengold)
 
 :::
@@ -98,12 +96,8 @@ _Lekiskon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
 
 ::::
 
-</div>
 
 ### Yiddish playwrights
-
-
-<div style = "font-size:13px;">
 
 - Abraham Goldfaden
   - [Wikipedia](href="https://en.wikipedia.org/wiki/Abraham_Goldfaden)
@@ -117,17 +111,10 @@ _Lekiskon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
   - [Wikipedia](https://en.wikipedia.org/wiki/Nahum_Meir_Schaikewitz)
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/S/shomer-abraham.htm)
 
-</div>
 
 ### People related to the non-Yiddish theater
 
-<div style = "font-size:14px;">
-
 > Predominantly American theater, but some international folks as well
-
-</div>
-
-<div style = "font-size:13px;">
 
 - David Belasco
   - [Wikipedia](https://en.wikipedia.org/wiki/David_Belasco)
@@ -139,13 +126,11 @@ _Lekiskon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
   - [Wikipedia](https://en.wikipedia.org/wiki/Morris_Gest)
 - Max Reinhardt
   - [Wikipedia](https://en.wikipedia.org/wiki/Max_Reinhardt)
-
-</div>
+- Konstantin Stanislavski
+  - [Wikipedia](https://en.wikipedia.org/wiki/Konstantin_Stanislavski)
 
 
 ### Other
-
-<div style = "font-size:13px;">
 
 - David Edelstadt
   - [Wikipedia](https://en.wikipedia.org/wiki/David_Edelstadt)
@@ -156,5 +141,3 @@ _Lekiskon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
   - Article in _The Jewish Exponent_: ["History's Lessons: Jewish Anarchist Doctors Cared for Philadelphia's Immigrants"](https://www.jewishexponent.com/historys-lessons-jewish-anarchist-doctors-cared-for-philadelphias-immigrants/)
 - Morris Winchevsky
   - [Wikipedia](https://en.wikipedia.org/wiki/Morris_Winchevsky)
-
-</div>
