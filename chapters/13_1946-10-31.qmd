@@ -7,7 +7,6 @@
 > I pair up with Abba Schoengold to play theater in Boston and get a big surprise. - When the famous [Morris Gest](https://en.wikipedia.org/wiki/Morris_Gest) from Broadway was a messenger-boy in the Jewish theater.
 
 
-
 What should not be said about the well-known Yiddish actors of those times^[Something is missing in translation here. Perhaps the previous sentence has a different connotation.] - one thing, however, must be added, and that is that they did not limit themselves to New York as the only city where you could play Yiddish theater. They thought that in America, there are endless cities with Jews and Yiddish theater should be played there not only after the end of the season, but during the season, in New York. Exactly how they did in New York.
 
 
@@ -26,7 +25,7 @@ I remember once, in the middle of winter, just when I was in Brownsville having 
 
 -- What do you mean? We will play theater there and we will earn money.
 
-At that time, he was so involved in the plan he had devised, that he just didn't listen to what I was talking to him, and he told me that they were going to play "The Lost Soul," [Joseph Lateiner](https://en.wikipedia.org/wiki/Joseph_Lateiner)'s "The Lost Soul"^[According to [Joseph Rumshinsky's account of Yiddish theater history](https://www.moyt.org/exhibitions/rumshinsky/series/1952.12.08.htm), this play was based on the German play "The Night Wanderer."] And in the play, he said, you will play Shmuelik'el^[Must be a character in the show, unrelated to the fact that this is Sam's name!] and she, your wife, will play Bobele, and mark my words - it will be good!
+At that time, he was so involved in the plan he had devised, that he just didn't listen to what I was talking to him, and he told me that they were going to play {{< var lostsoul >}}, [Joseph Lateiner](https://en.wikipedia.org/wiki/Joseph_Lateiner)'s {{< var lostsoul >}}^[According to [Joseph Rumshinsky's account of Yiddish theater history](https://www.moyt.org/exhibitions/rumshinsky/series/1952.12.08.htm), this play was based on the German play "The Night Wanderer."] And in the play, he said, you will play Shmuelik'el^[Must be a character in the show, unrelated to the fact that this is Sam's name!] and she, your wife, will play Bobele, and mark my words - it will be good!
 
 He even gave me something on the spot to persuade me that it would be good - five dollars.
 
@@ -61,7 +60,6 @@ At that time, behind the curtains of the Yiddish Theater in Boston, there hung a
 
 And soon you'd see Moishe running towards it and he was ready to obey. Ready to serve.
 
-
 From then on, all the holes were plugged by^[as in, he did all the little things] the young poor boy Moishe. And since he was a good person by nature, no one took advantage of him or asked for anything more than was necessary.
 
 Moishele viewed me and my wife as if we were part of his family. And since we could not afford to keep a maid and we had no one to leave our child with at home, my wife had no other choice but to take our child with her to the rehearsals that were held in the theater and also to the performances. She kept him with her in her dressing room, and every time she had to go on stage to play a scene, she called for Moishe to come take care of the him.
@@ -79,7 +77,7 @@ Soon after I realied what I had done. But it had already happened. I could not t
 
 And looking at him, as he stands so pitiful and dejected, my heart was torn apart... 
 
-Years later, the same Moishe became one of the biggest - if not the biggest - impresario in the American theater world on Broadway. He was no longer called Moishe, but Morris - **Morris Gest**. He was married to the daughter of the famous [**David Belasco**](https://en.wikipedia.org/wiki/David_Belasco), and it's not an exaggeration to say that he, Moishe who wandered about behind the curtains of the Yiddish theater in Boston and later became Morris Gest, played a major role in the English theater in America reaching such a high artistic level; he brought the famous [Moscow Art Theater](https://en.wikipedia.org/wiki/Moscow_Art_Theatre), which the great Stanislavski created, to America. He also brought [Max Reinhardt](https://en.wikipedia.org/wiki/Max_Reinhardt)'s German troupe, which performed the best things in the world's repertoire, and in general Morris Gest accomplished grandiose spectacles which are a special chapter of their own in the history of American theater. 
+Years later, the same Moishe became one of the biggest - if not the biggest - impresario in the American theater world on Broadway. He was no longer called Moishe, but Morris - **Morris Gest**. He was married to the daughter of the famous [**David Belasco**](https://en.wikipedia.org/wiki/David_Belasco), and it's not an exaggeration to say that he, Moishe who wandered about behind the curtains of the Yiddish theater in Boston and later became Morris Gest, played a major role in the English theater in America reaching such a high artistic level; he brought the famous [Moscow Art Theater](https://en.wikipedia.org/wiki/Moscow_Art_Theatre), which the great [Stanislavski](https://en.wikipedia.org/wiki/Konstantin_Stanislavski) created, to America. He also brought [Max Reinhardt](https://en.wikipedia.org/wiki/Max_Reinhardt)'s German troupe, which performed the best things in the world's repertoire, and in general Morris Gest accomplished grandiose spectacles which are a special chapter of their own in the history of American theater. 
 
 It did not occur to anyone at that time that he, Moishele, the errand boy, would rise so high and occupy such a prominent place. This occurred to me less than anyone when I slapped him unjustifiably for nothing...
 

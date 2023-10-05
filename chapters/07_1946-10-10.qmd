@@ -4,8 +4,8 @@
 
 <br>
 
-> Note to readers: Based on dates on which memoir articles were supposed to be published, it is _quite possible_ that we are missing an article that would have come out on Oct 5th. Unfortunately, that edition is not available in either the National Library of Israel archives or in the New York Public Library archives.
-> That said, there is no gap in the story that Sam is telling, so it is possible there simply wasn't a _Forverts_ edition on 10/5/46 and/or there was no memoir article published in that edition.
+> _Note to readers: Based on dates on which memoir articles were supposed to be published, it is quite possible that we are missing an article that would have come out on 1946-10-05. Unfortunately, that edition is not available in either the National Library of Israel archives or in the New York Public Library archives._
+> _That said, there is no gap in the story that Sam is telling, so it is also possible there simply wasn't Forverts edition on 1946-10-05, and/or there was no memoir article published in that edition._
 
 I played an extra in no more than two or three performances with Heine-Chaimovich and Max Karp's troupe. After that, they didn't need me anymore and told me I could go home. As it usually went, they didn't me pay for it. It didn't even occur to me to ask to be paid.
 
@@ -15,7 +15,7 @@ In the shop where I worked as a shirt-maker, the spirit of Yiddish theater perva
 
 -- Nu, Sam, how does that _lidel_ go, which they sing in that one scene? Nu, how?
 
-And I didn't make them beg, and I sang. And more than any other song, I sang [_Rozhinkes mit Mandlen_](https://en.wikipedia.org/wiki/Raisins_and_Almonds)^["Raisins and Almonds", a well known Yiddish lullaby originally from _Shulamith_.] I had to sing it for them several times a day, and everyone used to sing with me. And it started like this^[You can find the full lyrics in English and transliterated Yiddish [here](https://www.hebrewsongs.com/?song=rozinkesmitmandlen).]:
+And I didn't make them beg, and I sang. And more than any other song, I sang ["Rozhinkes mit Mandlen"](https://en.wikipedia.org/wiki/Raisins_and_Almonds)^["Raisins and Almonds", a well known Yiddish lullaby originally from _Shulamith_.] I had to sing it for them several times a day, and everyone used to sing with me. And it started like this^[You can find the full lyrics in English and transliterated Yiddish [here](https://www.hebrewsongs.com/?song=rozinkesmitmandlen).]:
 
 > In the synagogue, in a corner of a room, 
 >
@@ -57,7 +57,7 @@ Like this, all day long, I sang. And after the sung, everyone "licked their fing
 
 ::: {layout-ncol="2"}
 
-The spirit of the Yiddish theater filled the whole shop even more a little later when **Mogulesko**^[This, and other bolded words, were bolded in the original article. Fun fact: In Yiddish, they emphasize words spacing them out, so for example this was actually written: "M o g u l e s k o."], the great and famous [Sigmund Mogulesko](https://en.wikipedia.org/wiki/Sigmund_Mogulesko)^[Nickname "Zelig;" he was _the_ most beloved comedian of the early Yiddish theater, bar none. Read his Leksikon entry [here](https://www.museumoffamilyhistory.com/yt/lex/M/mogulesko-sigmund.htm). He and Sam would later become close friends, and Sam loved and admired him dearly.], came to Philadelphia for a few performances. All of Philadelphia went crazy over this, and it was no wonder - like in many other cities in America, he already had many ardent and passionate fans before he even arrived. His fans were Ukrainian, Moldovan, and Romanian Jews who remembered him from back home. 
+The spirit of the Yiddish theater filled the whole shop even more a little later when **Mogulesko**^[This, and other bolded words, were bolded in the original article. In Yiddish, words are emphasized by spacing letters out; for example this was actually written: "M o g u l e s k o."], the great and famous [Sigmund Mogulesko](https://en.wikipedia.org/wiki/Sigmund_Mogulesko)^[Nickname "Zelig;" he was _the_ most beloved comedian of the early Yiddish theater, bar none. Read his Leksikon entry [here](https://www.museumoffamilyhistory.com/yt/lex/M/mogulesko-sigmund.htm). He and Sam would later become close friends, and Sam loved and admired him dearly.], came to Philadelphia for a few performances. All of Philadelphia went crazy over this, and it was no wonder - like in many other cities in America, he already had many ardent and passionate fans before he even arrived. His fans were Ukrainian, Moldovan, and Romanian Jews who remembered him from back home. 
 
 ![Sigmund Mogulesko. Image from [NYU Libraries](https://archive.nyu.edu/handle/2451/58547?mode=full).](../img/mogulesko.jpg){width="2in"}
 
@@ -69,7 +69,7 @@ They had seen him perform in Odessa, in Bucharest, in Iasi, and in many other ci
 
 His talent spread like a rumor at those times, when Jews would come to see him play Yiddish theater in cities like Odessa and Iasi. It was in those times that the Yiddish theater was starting to pick up speed^[it was the early days of Yiddish theater - it was catching on and becoming popular, bigger, etc.].
 
-Mogulesko came to Philadelphia to play the piece "The Coquettes,"^[Literally translated as "The Coquettish Ladies," this comedy was written by the famous author/playwright [_Shomer_](https://en.wikipedia.org/wiki/Nahum_Meir_Schaikewitz).] where he could show himself in all his glory.^[From cross-referencing with Mogulesko's Leksikon entry, we know this took place in 1887.] He played the role of the libertine who later becomes old and broken and no longer recognizable. And in the same performance, he also appeared in the role of _Bobe Shprintze_^[He made a serious impact playing this combination of roles over the years]. And when he started singing the song "Yankele,"^[You can find the full lyrics in Yiddish [here](https://www.google.com/books/edition/%D7%93%D7%A2%D7%A8_%D7%90%D7%99%D7%93%D7%99%D7%A9%D7%A2%D7%A8_%D7%A4%D7%A8%D7%99%D7%A5/RKcsAAAAMAAJ?hl=en&gbpv=1&pg=RA1-PA48&printsec=frontcover), starting at the number `1.` halfway down the page.] everyone remained seated as if glued to their seats, and they swallowed every word and really _kvelled_ from the song.
+Mogulesko came to Philadelphia to play the piece {{< var coquettes >}},"^[Literally translated as "The Coquettish Ladies," this comedy was written by the famous author/playwright [_Shomer_](https://en.wikipedia.org/wiki/Nahum_Meir_Schaikewitz).] where he could show himself in all his glory.^[From cross-referencing with Mogulesko's Leksikon entry, we know this took place in 1887.] He played the role of the libertine who later becomes old and broken and no longer recognizable. And in the same performance, he also appeared in the role of _Bobe Shprintze_^[He made a serious impact playing this combination of roles over the years]. And when he started singing the song "Yankele,"^[You can find the full lyrics in Yiddish [here](https://www.google.com/books/edition/%D7%93%D7%A2%D7%A8_%D7%90%D7%99%D7%93%D7%99%D7%A9%D7%A2%D7%A8_%D7%A4%D7%A8%D7%99%D7%A5/RKcsAAAAMAAJ?hl=en&gbpv=1&pg=RA1-PA48&printsec=frontcover), starting at the number `1.` halfway down the page.] everyone remained seated as if glued to their seats, and they swallowed every word and really _kvelled_ from the song.
 
 And Mogulesko performed the role of _Bobe Shprintze_ with such grace and such charm, that it was no wonder that he enchanted the whole audience.
 Oh, how beautifully and how sweetly he sang!
@@ -94,7 +94,7 @@ Oh, how beautifully and how sweetly he sang!
 
 What a song Mogulesko sang - even when the words didn't rhyme, it was such a pleasure to listen to his sing it that it didn't matter. You really couldn't believe it, how he charmed the audience with his artistic grace. You'd have to travel the whole world over to find another artist as good as him. 
 
-And I remember that when I saw him for the first time, in Philadelphia in the play "The Coquettes," I remained seated as though I had suddenly been transported to an entirely different world. And when the curtain fell and they turned the lights back on in the theater, I jumped up on stage and went behind the curtain.
+And I remember that when I saw him for the first time, in Philadelphia in the play {{< var coquettes >}}, I remained seated as though I had suddenly been transported to an entirely different world. And when the curtain fell and they turned the lights back on in the theater, I jumped up on stage and went behind the curtain.
 
 I felt that I had to say something to him, the man who performed such wonders on the stage. I had to express my enthusiasm^[or, "how inspired I was"]! I had to touch his hand! I had to thank him for the "spiritual pleasure" that he had given me.
 
@@ -131,7 +131,7 @@ That's how deep of an impression he left on me. And then everyone in the shop st
 
 And I showed them and they told me it was good.
 
-We sang other songs from the play "The Coquettes" too, in the shop in Philadelphia where I worked sewing shirts. And among the popular songs we used to sing, there was also the song "B'shtika,"^[This is Hebrew; means "in silence". You can find the full lyrics in Yiddish [here](https://www.google.com/books/edition/%D7%93%D7%A2%D7%A8_%D7%90%D7%99%D7%93%D7%99%D7%A9%D7%A2%D7%A8_%D7%A4%D7%A8%D7%99%D7%A5/RKcsAAAAMAAJ?hl=en&gbpv=1&pg=RA1-PA21&printsec=frontcover).] and as I recall, it went like this:
+We sang other songs from the play {{< var coquettes >}} too, in the shop in Philadelphia where I worked sewing shirts. And among the popular songs we used to sing, there was also the song "B'shtika,"^[This is Hebrew; means "in silence". You can find the full lyrics in Yiddish [here](https://www.google.com/books/edition/%D7%93%D7%A2%D7%A8_%D7%90%D7%99%D7%93%D7%99%D7%A9%D7%A2%D7%A8_%D7%A4%D7%A8%D7%99%D7%A5/RKcsAAAAMAAJ?hl=en&gbpv=1&pg=RA1-PA21&printsec=frontcover).] and as I recall, it went like this:
 
 
 > Who is that eating in the _sukkah_?

@@ -4,7 +4,7 @@
 
 <br>
 
-> How I appeared for the first time in the ["The Kuni Lemels"](https://web.uwm.edu/yiddish-stage/plotting-yiddish-drama/di-tsvey-kuni-leml)^[The play "The Two Kuni Lemels" is one of Goldfaden's most famous plays. In the 1960s, it was made into an [Israeli film](https://en.wikipedia.org/wiki/The_Flying_Matchmaker).]. - The actor [Jacob Frank](https://www.museumoffamilyhistory.com/yt/lex/F/frank-jacob.htm). - An offer to play in a theater in [Brownsville](https://en.wikipedia.org/wiki/Brownsville,_Brooklyn#)^[Neighborhood in Brooklyn that was _extremely_ Jewish through the 1950s.]. - Ten dollars a week^[$10 in the 1890s equates to roughly $340 today (2023)].
+> How I appeared for the first time in the [{{< var kuni >}}](https://web.uwm.edu/yiddish-stage/plotting-yiddish-drama/di-tsvey-kuni-leml)^[In the 1960s, this was made into an Israeli film called [_The Flying Matchmaker_](https://en.wikipedia.org/wiki/The_Flying_Matchmaker).]. - The actor [Jacob Frank](https://www.museumoffamilyhistory.com/yt/lex/F/frank-jacob.htm). - An offer to play in a theater in [Brownsville](https://en.wikipedia.org/wiki/Brownsville,_Brooklyn#)^[Neighborhood in Brooklyn that was _extremely_ Jewish through the 1950s.]. - Ten dollars a week^[$10 in the 1890s equates to roughly $340 today (2023)].
 
 The whole time that I yearned to be a professional actor, I was drawn to New York. There was the center of Yiddish theater; there the greatest Jewish actors played there, and I really wanted to play with them. But at the same time that my desire to play with them in New York was so great, I was still afraid of them, but in general the city of New York did not scare me much^[Unclear if this is a correct translation - that he _wasn't_ scared of NYC.]. 
 
@@ -31,9 +31,9 @@ Whenever we could and wherever we were allowed, we gave concerts, staged scenes,
 
 ::: {layout-ncol="2"}
 
-By chance, at that time, the anarchists turned to us with a request that we should give a benefit performance for the [_Fraye Arbeter Shtime_](https://en.wikipedia.org/wiki/Fraye_Arbeter_Shtime)^["The Free Voice of Labor"; Anarchist Yiddish newspaper], which was published out of New York. We were assured that [David Edelstadt](https://en.wikipedia.org/wiki/David_Edelstadt) himself, the editor of the _Fraye Arbeter Shtime_, will come to the performance from New York. And needless to say, when Frank and I heard about it, we were enthusiastic about it. And soon we were studying hard with all the members of our club to really learn Goldfaden's play _The Two Kuni Lemels_ well. The fake Kuni Lemel was played by Frank, and I played the real Kuni Lemel.
+By chance, at that time, the anarchists turned to us with a request that we should give a benefit performance for the [_Fraye Arbeter Shtime_](https://en.wikipedia.org/wiki/Fraye_Arbeter_Shtime)^["The Free Voice of Labor"; Anarchist Yiddish newspaper], which was published out of New York. We were assured that [David Edelstadt](https://en.wikipedia.org/wiki/David_Edelstadt) himself, the editor of the _Fraye Arbeter Shtime_, will come to the performance from New York. And needless to say, when Frank and I heard about it, we were enthusiastic about it. And soon we were studying hard with all the members of our club to really learn Goldfaden's play {{< var kuni >}} well. The fake Kuni Lemel was played by Frank, and I played the real Kuni Lemel.
 
-![Advertisement in the _Fraye Arbeter Shtime_ for the performance of _The Two Kuni Lemels_ in Philadelphia by the Star Specialty Company. The show was performed on Wednesday February 11th, 1891 in the Dramatic Hall at 5th and Gaskill. [Source](https://www.nli.org.il/en/newspapers/freiearb/1891/02/06/01/).](../img/newspaper_clippings/1891-02-06_freiearb.png){width="2in"}
+![Advertisement in the _Fraye Arbeter Shtime_ for the performance of {{< var kuni >}} in Philadelphia by the Star Specialty Company. The show was performed on Wednesday February 11th, 1891 in the Dramatic Hall at 5th and Gaskill. [Source](https://www.nli.org.il/en/newspapers/freiearb/1891/02/06/01/).](../img/newspaper_clippings/1891-02-06_freiearb.png){width="2in"}
 
 :::
 
@@ -44,7 +44,6 @@ But Edelstein did enjoy our performance in Philadelphia; he affirmed this in the
 For a long time, we went through such _tumult_ in the "Star Specialty Club" of ours, and it didn't really matter to us that we didn't have much luck. The point was that we had the opportunity to play theater, and we even had our own fans, just like the stars in New York. And that alone is no small thing.
 
 Among our fans, I recall, there was one named Herman. He was working as a cloak-operator, "Columbus' craftsman," as those who took up tailoring in America were called at that time^[a very common profession in the new world!]. And he, Herman, was a strong supporter^[big fan] of Frank's, and since he was a bit of a _dreykop_^[Literally "spinning head," an idiom that refers to a schemer/swindler. They talk so much they spin your head around.] he already had a plan that he would grab Frank, and with him [Frank], leave for Baltimore, because he [Herman] had a lot of relatives and _landslayt_^[aka, _landsmen_ - people from the same region in the old country] there. And he was sure, that there they would accomplish lots of great things, and they will both make golden business with the theater. 
-
 
 I am describing all these details here simply because, I believe, that it is worth getting knowing about, in order to have an sense of those types who hung around the theater, and how such chaos and such mayhem ruled the Yiddish theater in the "provincial cities"^[not New York]. 
 
@@ -63,7 +62,7 @@ He did not have the slightest doubt that this would indeed be the case. And so t
 
 ::: {layout-ncol="2"}
 
-![This article appeared in _The Brookyn Eagle_ on January 8th, 1893, and announced the opening of Parmer's Casino, mentioning "Samuel Caston" as playing in a comedian in their first show, "Honor thy Father and Mother," the lead comedian. This show may have been Joseph Lateiner's piece "Kevod Av," which I know existed but I cannot find much about. [Source](https://www.newspapers.com/image/50378460/)](../img/newspaper_clippings/1893-01-08_brooklyneagle.jpg){width="3in"}
+![This article appeared in _The Brookyn Eagle_ on January 8th, 1893, and announced the opening of Parmer's Casino, mentioning "Samuel Caston" as playing in a comedian in their first show, "Honor thy Father and Mother," the lead comedian. [Source](https://www.newspapers.com/image/50378460/)](../img/newspaper_clippings/1893-01-08_brooklyneagle.jpg){width="3in"}
 
 -- First of all, - he said, - when it comes to a theater, where to play, you don't have to dizzy yourself^[implying, you don't have to go crazy looking for somewhere]. There is a Jew in Brownsville, whose name is Parmer, and he has built a casino, truly something first class. He built his casino on Pitkin Avenue, and that in and of itself is so small thing. Now's here's something to really persuade you - Pitkin Avenue!... That's one down. And now the other: you will get ten dollars a week!<br><br>
 When I heard this, I didn't believe my own ears.<br><br>
@@ -74,7 +73,7 @@ I really didn't expect such good fortune then, and I thought to myself, that thi
 
 
 
-At that time - I must confess - I had already fallen in love with a girl. The girl's name was Susie Schafer^[סוזי שעיפער], and she was so charming, and a quiet/soft and affable girl. She came to America from [Balta](https://en.wikipedia.org/wiki/Balta,_Ukraine), and I got to know her when she became a member of our club and she played Yiddish theater together with us. It was precisely her quietness and shyness^[the word Sam uses translates to "withdrawal"; I think he is referring to her introversion] that attracted me to her, and I fell deeply in love with her. It took me a long time to get up the courage to tell her. And when she, in her own quiet and very modest way, told me her feelings, that she was also in love with me just as I was with her, I was the happiest person in the world.
+At that time - I must confess - I had already fallen in love with a girl. The girl's name was Suzi Schafer^[סוזי שעיפער], and she was so charming, and a quiet/soft and affable girl. She came to America from [Balta](https://en.wikipedia.org/wiki/Balta,_Ukraine), and I got to know her when she became a member of our club and she played Yiddish theater together with us. It was precisely her quietness and shyness^[the word Sam uses translates to "withdrawal"; I think he is referring to her introversion] that attracted me to her, and I fell deeply in love with her. It took me a long time to get up the courage to tell her. And when she, in her own quiet and very modest way, told me her feelings, that she was also in love with me just as I was with her, I was the happiest person in the world.
 
 And so it goes without saying that when they made me the offer to go from Philadelphia to Brownsville to play Yiddish theater, it really did not occur to me to go anywhere without her... 
 
