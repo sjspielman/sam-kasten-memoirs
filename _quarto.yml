@@ -35,9 +35,10 @@ book:
   page-footer: '<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Except images and newspaper clippings, this work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.'
   google-analytics: "G-WWFS41KSZH"
 
-format: 
+format:
   html:
-    sidebar-width: 500px
+    sidebar-width: 600px
+    fontsize: 14px;
 
 theme:
   light: flatly
