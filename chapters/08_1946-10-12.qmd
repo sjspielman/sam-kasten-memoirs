@@ -9,7 +9,7 @@
 Making the acquaintance of Mogulesko bewildered/dazed me so much, that I couldn't take working in the shop at all. Everything I saw of him on stage always floated before my eyes. I remembered every movement he made, every expression that appeared on his face. His unique "stage grace," which really has no equal, was so deeply engraved in my memory that I could never forget it. And because I was always thinking so much about Mogulesko and the show he played in Philadelphia, I started to yearn to act in the theater even more than before.
 I simply wanted to begin my life as an actor. The stage cast a spell on me. But every time, when I started talking about this at home, _mame_ would cut off my wings:
 
--- Get this stupidity out of your head - she said. - Like we don't have enough actors in the family...^[I am not entirely confident in this translation, but I think it is roughly correct at least in terms of the sentiment. She may be referring to _her niece_ [Bessie Thomashefshky](https://en.wikipedia.org/wiki/Bessie_Thomashefsky), who would have already run off with [Boris](https://en.wikipedia.org/wiki/Boris_Thomashefsky).]
+-- Get this stupidity out of your head - she said. - Like we don't have enough actors in the family...^[I am not entirely confident in this translation, but I think it is roughly correct at least in terms of the sentiment. She may be referring to _her niece_ [{{< var bessie >}}](https://en.wikipedia.org/wiki/Bessie_Thomashefsky), who would have already run off with [{{< var boris >}}](https://en.wikipedia.org/wiki/Boris_Thomashefsky).]
 
 It was difficult for me to cause _mame_ such grief; I have always behaved so that she should not suffer any shame from me. In this case, however, I could not obey her, as I had firmly made up my mind that, should there even be thunder and lightning, I must be an actor!
 
@@ -45,7 +45,6 @@ And even now everything seems alive before my eyes and I hear the singing. The b
 And soon they indeed heard:
 
 _Lyrics in Yiddish that are too complicated & poetic for me to translate._
-
 
 
 The faces of the entire audience in the theater lit up with joy. They are so pleased that they hear exactly what they wanted, and the singing continues...
