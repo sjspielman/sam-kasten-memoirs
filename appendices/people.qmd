@@ -19,7 +19,7 @@ _Lekiskon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/A/adler-jacob-p.htm)
 - Sara Adler
   - [Wikipedia](https://en.wikipedia.org/wiki/Sara_Adler)
-  - [Leksikon entry](https://www.museumoffamilyhistory.com/yt/lex/A/adler-sarah.htm)
+  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/A/adler-sarah.htm)
 - Shimon Beckerman
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/B/bekerman-simeon.htm)
 - Charlie Cohan
@@ -42,9 +42,9 @@ _Lekiskon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
 ::: {.column width="30%"}
 
 - Moshe Heine-Chaimovich
-  - [Leksikon entry](https://www.museumoffamilyhistory.com/yt/lex/H/heine-chaimovich-morris.htm)
+  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/H/heine-chaimovich-morris.htm)
 - Max Karp
-  - [Leksikon entry](https://www.museumoffamilyhistory.com/yt/lex/K/karp-max.htm)
+  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/K/karp-max.htm)
 - Keni Lipzin
   - [Wikipedia](https://en.wikipedia.org/wiki/Keni_Liptzin)
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/L/lipzin-keni.htm)
@@ -92,7 +92,7 @@ _Lekiskon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
   - [Wikipedia](https://en.wikipedia.org/wiki/Boaz_Young)
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/Y/young-bernard.htm)
 - Moshe Zilberman
-  - [Leksikon entry](https://www.museumoffamilyhistory.com/yt/lex/Z/zilberman-moshe.htm)
+  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/Z/zilberman-moshe.htm)
 
 :::
 
