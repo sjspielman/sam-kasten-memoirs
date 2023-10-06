@@ -37,4 +37,4 @@ Thanks also to Steve Lasky and other volunteers who have contributed to the *Mus
 
 ------------------------------------------------------------------------
 In memory of Sol Glassman ז׳׳ל, whose untimely death sent me down an ancestry rabbit hole wherein I accidentally ended up at Sam (who is wholly unrelated to Sol), and discovered a treasure trove of Yiddish writings.
-Uniting the two sides of my family through Yiddish Theater is, simply put, *beshert*.
+Uniting the two sides of my family through Yiddish Theater is, simply put, {{< var beshert >}}.
