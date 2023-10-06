@@ -8,9 +8,9 @@
 
 Like many other actors who joined the Jewish stage in those years when you didn't expect any great luck, I also never fell into despair when I went through bad times. I made peace with the fact that this is just how the theater profession is, and this is just what the life of an actor is: suddenly you are distinguished and it goes well and you earn enough money playing, and then all of a sudden it goes badly and you had to "put your teeth on the shelf"^[This is an idiom, meaning to be starving - after all, if you aren't eating, you don't need your teeth anymore so you can put them on the shelf. In Yiddish: פאַרוואַרפען די ציין אויף די בענטאַנעס ], as we used to say in Ukraine^[in his Ukrainian Yiddish dialect], and after a while it will start to go well again.
 
-I never thought about leaving the stage. Not even in the worst times. Such a thought never even occurred to me, and it was difficult for me to understand those Yiddish actors who - for one reason or another - left the stage and went to something else, as was the case with Israel Weinblatt^[Recall, Israel bought Sam's farm in Bridgeton, Cumberland County, NJ], with Rudolf Marx and also with others. 
+I never thought about leaving the stage. Not even in the worst times. Such a thought never even occurred to me, and it was difficult for me to understand those Yiddish actors who - for one reason or another - left the stage and went to something else, as was the case with Israel Weinblatt^[Recall, Israel bought Sam's farm in Bridgeton, Cumberland County, NJ], with {{ var marx-full }} and also with others. 
 
-This kind of thing really annoyed me. And more than others, I resented that Rudolph Marx left the stage, because he was really a very talented actor, an excellent comedian, and in theater circles it was said that even Mogulesko quietly considers him a rival...
+This kind of thing really annoyed me. And more than others, I resented that {{ var marx-full }} left the stage, because he was really a very talented actor, an excellent comedian, and in theater circles it was said that even Mogulesko quietly considers him a rival...
 
 In general, I just couldn't understand, intellectually, how an actor could leave the stage because he couldn't be as big as someone else, or because he had to go through difficult times...
 
@@ -21,25 +21,25 @@ So that's how it was when I came back to Brownsville from Boston. It was very ba
 
 And who was "the company?" The actors of the troupe. And with them there was nothing to say...
 
-And then Abba Schoengold came to my aid again, and things started to go well again.
+And then {{ var abba-full }} came to my aid again, and things started to go well again.
 
 
 ::: {layout-ncol="2"}
 
-He was back again in Boston, the restless Abba Schoengold, and he sent me a telegram to tell me to come there immediately with my wife, because he already has big plans has assembled a really impressive troupe; the manager of the troupe was none other than [Lazar Mitnick](https://www.museumoffamilyhistory.com/yt/lex/M/mitnick-leiser.htm) himself, a Jew who really loved the theater up to his ears, and among the actors were the famous prima donna [Berta Tanzman](https://www.museumoffamilyhistory.com/yt/lex/T/tanzman-berta.htm) and her husband [Avraham Yitzchak Tanzman](https://www.museumoffamilyhistory.com/yt/lex/T/tanzman-avraham-itzhak.htm), who wasn't "just anybody" but someone the public loved very much. Dramas, melodramas and operettas will be staged, and - it will be good...
+He was back again in Boston, the restless {{ var abba-full }}, and he sent me a telegram to tell me to come there immediately with my wife, because he already has big plans has assembled a really impressive troupe; the manager of the troupe was none other than [Lazar Mitnick](https://www.museumoffamilyhistory.com/yt/lex/M/mitnick-leiser.htm) himself, a Jew who really loved the theater up to his ears, and among the actors were the famous prima donna [Berta Tanzman](https://www.museumoffamilyhistory.com/yt/lex/T/tanzman-berta.htm) and her husband [{{< var tanzman-full >}}](https://www.museumoffamilyhistory.com/yt/lex/T/tanzman-avraham-itzhak.htm), who wasn't "just anybody" but someone the public loved very much. Dramas, melodramas and operettas will be staged, and - it will be good...
 
 
 ![Article published in _Der Emes_, a short-lived Boston newspaper, on September 27th, 1895. It announces that, although it was previously thought Boston Jews were not "theater-goers" enough to support a Yiddish theater, now a Yiddish theater is opening under the direction of Mitnick, [Rothstein](https://www.museumoffamilyhistory.com/yt/lex/R/rothstein-elias.htm), and Tanzman. So, for at least one season there will be Yiddish in Boston and the hopefully the actors will be able to make a living - why not? ([Source.](https://www.newspapers.com/image/50378460/))](../img/newspaper_clippings/1895-09-27_deremes.png){width="2in"}
 
 :::
 
-I, of course, drove straight away to Boston again, and there I soon saw that the leading man on the stage was not Schoengold, but Tanzman; and that really wasn't to my liking, because I got along better with Schoengold than with Tanzman. I knew that the main thing on Tanzman's mind was that his wife the prima donna be the main attraction on the stage, and on top of that, he didn't like when another actor performed better in a role than he did...
+I, of course, drove straight away to Boston again, and there I soon saw that the leading man on the stage was not Schoengold, but Tanzman; and that really wasn't to my liking, because I got along better with {{< var schoen >}} than with Tanzman. I knew that the main thing on Tanzman's mind was that his wife the prima donna be the main attraction on the stage, and on top of that, he didn't like when another actor performed better in a role than he did...
 
 Because of his wife the prima donna, Tanzman decided that in Boston we would start with an operetta, with Goldfaden's {{< var meilitz >}}^[Read the whole play, in Yiddish, [in Google Books](https://www.google.com/books/edition/מליץ_יושר/ZUQQAAAAYAAJ).] That's what he wanted, because in this operetta his wife would have a very good role, and most of all she excelled in the song "God's Wonders" which the really audience loved to hear.
 
 In general, the public in those times loved to hear the songs that were sung in plays^[The Jews loved their show tunes!], and more than anything they loved Goldfaden's songs, and possibly this is due to their subject matter. The songs were authentically Jewish^[עכט–יידיש], and people quickly learned them and sang them everywhere.
 
-Today, most of these songs have been forgotten and they are no longer sung. Neither in the theater nor the home. And that's why I think it's necessary to mention them, and that's really what I'm doing in writing about my life at the Jewish theater. It is really worthwhile to remember those Jewish songs of yesteryear - songs that were sung on the Jewish stage and in hundreds of thousands of Jewish homes all over the world. I will also do the same, then, with the song "God’s Wonder" from Goldfaden's operetta {{< var meilitz >}}, which was so beloved by audiences, and so I implore those who still remember the song to read it and sing the song to yourself, and you will certainly enjoy it very much. 
+Today, most of these songs have been forgotten and they are no longer sung. Neither in the theater nor the home. And that's why I think it's necessary to mention them, and that's really what I'm doing in writing about my life at the Jewish theater. It is really worthwhile to remember those Jewish songs of yesteryear - songs that were sung on the Jewish stage and in hundreds of thousands of Jewish homes all over the world. I will also do the same, then, with the song "God’s Wonders" from Goldfaden's operetta {{< var meilitz >}}, which was so beloved by audiences, and so I implore those who still remember the song to read it and sing the song to yourself, and you will certainly enjoy it very much. 
 
 So let's all sing it together^[You can [sing along](https://www.youtube.com/watch?v=ahdVAOBb-20) too with the first two verses, with lyrics in Yiddish and English!]:
 

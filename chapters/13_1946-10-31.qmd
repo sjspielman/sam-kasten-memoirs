@@ -4,20 +4,20 @@
 
 <br>
 
-> I pair up with Abba Schoengold to play theater in Boston and get a big surprise. - When the famous [Morris Gest](https://en.wikipedia.org/wiki/Morris_Gest) from Broadway was a messenger-boy in the Jewish theater.
+> I pair up with {{< var abba-full >}} to play theater in Boston and get a big surprise. - When the famous [Morris Gest](https://en.wikipedia.org/wiki/Morris_Gest) from Broadway was a messenger-boy in the Jewish theater.
 
 
 What should not be said about the well-known Yiddish actors of those times^[Something is missing in translation here. Perhaps the previous sentence has a different connotation.] - one thing, however, must be added, and that is that they did not limit themselves to New York as the only city where you could play Yiddish theater. They thought that in America, there are endless cities with Jews and Yiddish theater should be played there not only after the end of the season, but during the season, in New York. Exactly how they did in New York.
 
 
-It started because conditions were such that they, the well-known Jewish actors of those times, always had to be looking for a livelihood from somewhere. In addition, it was often difficult to empathize with each other because of professional jealousy, and therefore while traveling around the cities, throughout their journey, they were always looking for opportunities to have greater prestige than in New York. And in their travels, they made Yiddish theater popular among the Jewish public in America and, as they say today, to "spread the Jewish word."
+It started because conditions were such that they, the well-known Yiddish actors of those times, always had to be looking for a livelihood from somewhere. In addition, it was often difficult to empathize with each other because of professional jealousy, and therefore while traveling around the cities, throughout their journey, they were always looking for opportunities to have greater prestige than in New York. And in their travels, they made Yiddish theater popular among the Jewish public in America and, as they say today, to "spread the Jewish word."
 
 With all the _chesed_^[mercy, grace, benevolence] that could be found in the how Yiddish theater was once performed across the country, something was accomplished with it, and if among the "long-standing;deeply-rooted"^[perhaps this implies assimilated: אלט–געזעסענע] Jews in America who are estranged from us, find themselves remembering from long ago a beautiful Yiddish tune, an old one, and because of this feel more connected to Judaism/Jewishness^[Not sure this is exactly correct, could be "Jewish community/collective"?; he writes: אידישען כלל], the traveling actors of old certainly had a part in that.
 
 That's how I think of it. And there is no doubt in my mind that many who are familiar with the history of the Yiddish theater in America will agree that I am right.
 
 Among the actors, who traveled a lot across America and played everywhere there was a considerable Jewish population, was also Abba Schoengold, one of the first pioneers who created the Jewish theater. He was by nature one of those who are always looking for something and even though he was lazy in his pursuit, there was something in him that should have reminded me of an artistic pursuit.
-I remember once, in the middle of winter, just when I was in Brownsville having great troubles, Abba Schoengold came to me with something great:
+I remember once, in the middle of winter, just when I was in Brownsville having great troubles, {{< var abba-full >}} came to me with something great:
 
 -- Kestin, you don't have to worry anymore; We are going to Boston!
 
@@ -25,7 +25,7 @@ I remember once, in the middle of winter, just when I was in Brownsville having 
 
 -- What do you mean? We will play theater there and we will earn money.
 
-At that time, he was so involved in the plan he had devised, that he just didn't listen to what I was talking to him, and he told me that they were going to play {{< var lostsoul >}}, [Joseph Lateiner](https://en.wikipedia.org/wiki/Joseph_Lateiner)'s {{< var lostsoul >}}^[According to [Joseph Rumshinsky's account of Yiddish theater history](https://www.moyt.org/exhibitions/rumshinsky/series/1952.12.08.htm), this play was based on the German play "The Night Wanderer."] And in the play, he said, you will play Shmuelik'el^[Must be a character in the show, unrelated to the fact that this is Sam's name!] and she, your wife, will play Bobele, and mark my words - it will be good!
+At that time, he was so involved in the plan he had devised, that he just didn't listen to what I was talking to him, and he told me that they were going to play {{< var lostsoul >}}, [{{< var laiteiner-full >}}](https://en.wikipedia.org/wiki/Joseph_Lateiner)'s {{< var lostsoul >}}^[According to [{{< var rumshinsky-full >}}](https://en.wikipedia.org/wiki/Joseph_Rumshinsky)'s [account of Yiddish theater history](https://www.moyt.org/exhibitions/rumshinsky/series/1952.12.08.htm), this play was based on the German play "The Night Wanderer."] And in the play, he said, you will play Shmuelik'el^[A character in the show, unrelated to the fact that this is Sam's _haimishe_ name!] and she, your wife, will play Bobele, and mark my words - it will be good!
 
 He even gave me something on the spot to persuade me that it would be good - five dollars.
 
@@ -34,11 +34,11 @@ He even gave me something on the spot to persuade me that it would be good - fiv
 
 I didn't talk to him at all about salary. There was nothing to say, because they were playing for "stamps"^[Recall, a system where each actor gets a pre-specified percentage of profits]. It was  just a question of what kind of stamp should be set for me. But I didn't open my mouth to ask anything about it, because given my situation, I should stay silent and not argue with anyone about what stamp was set for me.
 
-After playing the first week in Boston, Abba Schoengold brought me a bag of money, and when I counted it and saw that it was a sum of two hundred and seventy-five dollars, I literally couldn't believe my eyes and I remained sitting in a daze. 
+After playing the first week in Boston, {{< var abba-full >}} brought me a bag of money, and when I counted it and saw that it was a sum of two hundred and seventy-five dollars, I literally couldn't believe my eyes and I remained sitting in a daze. 
 
--- Schoengold, - I started speaking as if I was not sure what I wanted to say - Schoengold, maybe there is a mistake? Maybe...could it be... eh?... It is possible this was miscalculated...?
+-- {{< var schoen >}}, - I started speaking as if I was not sure what I wanted to say - {{< var schoen >}}, maybe there is a mistake? Maybe...could it be... eh?... It is possible this was miscalculated...?
 
-Schoengold clearly thought that I was not satisfied and he got angry with me:
+{{< var schoen >}} clearly thought that I was not satisfied and he got angry with me:
 
 -- Oh, it's already starting! - he grimaced - There is no error in the amount; Everything was calculated correctly, and according to the "stamp," both you and his wife get two hundred and seventy-five dollars for this week. What do you want? Huh?
 
@@ -52,7 +52,7 @@ When I told my wife how much money Schoengold had given me for the first week, t
 
 But after the two hundred and seventy-five dollars in the first week, it was the same as with that poor boy who carries _Purim shalakh-manes_^[שלח–מנות; Basket of gifts/sweets you give to family and friends at Purim. I am assuming there is a Yiddish parable/short story about a poor boy who brings them around and the following happens..]; The second week, we received less than before, and the third week - even less. And so it all went more and more downhill, and during the few weeks that fell before Passover, it was really bad. It was difficult to make ends meet. And as usual when this happens, the actors in the troupe began to quarrel. They fought over roles, they fought over the calculations for the "stamps," and around and around like this until there was no _naches_^[joy, happiness] left to have.
 
-As far as Abba Schehngold could, he did everything in his power to try and keep the peace in the troupe. But it was difficult. He was not always successful.
+As far as {{< var abba-full >}} could, he did everything in his power to try and keep the peace in the troupe. But it was difficult. He was not always successful.
 
 At that time, behind the curtains of the Yiddish Theater in Boston, there hung around a young man whom everyone called Moishe. Nobody knew his last name and nobody ever cared to know, because they saw in him merely some kind of an annoyance, a nuisance, who had ingratiated himself with the theater because he enjoyed waiting on the actors; In his submissiveness, he obeyed everyone, and whenever you had to send something somewhere, or run an errand, he was treated like the messenger boy. It was quite common that, behind the curtain, you'd hear a voice from some other dressing room:
 
