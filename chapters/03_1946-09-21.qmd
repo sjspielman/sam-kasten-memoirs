@@ -79,7 +79,7 @@ And then {{< var shakhnes-full >}} the {{< var badchen >}} released such an ange
 
 -- {{< var berele >}}: Yes, you must!
 
--- Beggar: _Nu_, if I must, you have to show me how. Come on, let's see how a poor Jew like me could be happy!
+-- Beggar: {{< var Nu >}}, if I must, you have to show me how. Come on, let's see how a poor Jew like me could be happy!
 
 -- {{< var berele >}}: I will show you! Indeed, I will show you!
 
