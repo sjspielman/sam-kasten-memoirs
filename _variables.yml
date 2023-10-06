@@ -36,6 +36,13 @@ pinya: Pinya
 radetsky: Radetsky
 radetsky-full: Pinya Radetsky
 
+eliezer-shmuel: Eliezer-Shmuel
+
+itzhik-gedolia: Itzhik-Gedolia
+Katik: _Katik_
+
+shmuel-pekelis: Shmuel Pekelis
+
 shakhnes: Shakhnes
 shakhnes-full: Berele Shakhnes
 berele: Berele
@@ -76,6 +83,7 @@ beshert: _beshert_
 tate: _tate_
 Tate: _Tate_
 mame: _mame_
+Mame: _Mame_
 frum: _frum_
 Batsheva: Bat-Sheyva
 Leybs: Leyb-Sender
@@ -83,6 +91,7 @@ Makarover: Makarover
 Feige: Feige
 panshina: _panshina_
 goyishe: _goyishe_
+goyishe: _goyim_
 shabes: _Shabbes_
 shavues: _Shavu'es_
 pesach: _Pesach_
@@ -95,6 +104,7 @@ chasidim: _chasidim_
 chasidic: _chasidic_
 rebbe: _Rebbe_
 nigunim: _nigunim_
+nigun: _nigun_
 refua-shlema: _refua shlema_
 simcha: _simcha_
 dvar-toireh: _dvar toireh_
@@ -110,3 +120,7 @@ toivm-u-sholem: _toivm u'sholem_
 tekkaf: _tekiyat-kaf_
 m-hashamayim: _m'hashamayim_
 baruch-hashem: _baruch hashem_
+shtetl: _shtetl_
+kvelled: _kvelled_
+naches: _naches_
+badchen: _badchen_
