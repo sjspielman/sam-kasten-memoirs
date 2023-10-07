@@ -36,12 +36,15 @@ pinya: Pinya
 radetsky: Radetsky
 radetsky-full: Pinya Radetsky
 
-eliezer-shmuel: Eliezer-Shmuel
+Batsheva: Bat-Sheyva
+Leybs: Leyb Sender
+Feige: Feige
 
-itzhik-gedolia: Itzhik-Gedolia
+eliezer-shmuel: Eliezer Shmuel
+itzhik-gedolia: Itzhik Gedolia
 Katik: _Katik_
-
 shmuel-pekelis: Shmuel Pekelis
+shmuel-yossel: Shmuel Yossel
 
 shakhnes: Shakhnes
 shakhnes-full: Berele Shakhnes
@@ -75,20 +78,22 @@ rybinka: Rybinka
 rybinker: Rybinker
 kyiv: Kyiv
 Makariv: Makariv
+solovikne: Solovikne
+
 
 ## YIDDISH -------------------------------------------------
 possessor: _possessor_
 possessorka: _possessorka_
+possessieh: _possessieh_
 beshert: _beshert_
+mensh: _mensh_
 tate: _tate_
+heder: _kheder_
 Tate: _Tate_
 mame: _mame_
 Mame: _Mame_
 frum: _frum_
-Batsheva: Bat-Sheyva
-Leybs: Leyb-Sender
 Makarover: Makarover
-Feige: Feige
 panshina: _panshina_
 goyishe: _goyishe_
 goyishe: _goyim_
@@ -108,7 +113,7 @@ nigun: _nigun_
 refua-shlema: _refua shlema_
 simcha: _simcha_
 dvar-toireh: _dvar toireh_
-torah: _toireh_
+torah: _Toireh_
 parsheh: _parsheh_
 tzadik: _tzadik_
 mitzvah: _mitzvah_
@@ -125,3 +130,11 @@ kvelled: _kvelled_
 naches: _naches_
 badchen: _badchen_
 Nu: _Nu_
+toive: _toive_
+
+kalebes: _The Kale Besetzens_
+eshet-chayal: _eyshes-khayil_
+
+shkotsim: _shkotsim_
+beit-midrash: _besmedresh_
+okher-yisrael: _okher yisrael_
