@@ -12,25 +12,25 @@ _Lekiskon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
 
 
 
-- Mendele Abramovich
+- _Mendele Abramovich_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/A/abramovich-max.htm)
-- Jacob P. Adler (*Nesher Hagadol*, the Great Eagle)
+- _{{< var jacob-adler >}} ("Nesher Hagadol", the Great Eagle)_
   - [Wikipedia](https://en.wikipedia.org/wiki/Jacob_Pavlovich_Adler)
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/A/adler-jacob-p.htm)
-- Sara Adler
+- _{{< var sara-adler >}}_
   - [Wikipedia](https://en.wikipedia.org/wiki/Sara_Adler)
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/A/adler-sarah.htm)
-- Shimon Beckerman
+- _Shimon Beckerman_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/B/bekerman-simeon.htm)
-- Charlie Cohan
+- _Charlie Cohan_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/C/cohan-charlie.htm)
-- Jacob ("Jakele") Cone
+- _Jacob ("Jakele") Cone_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/C/cone-jacob.htm)
-- Jacob Frank
+- _Jacob Frank_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/F/frank-jacob.htm)
-- Feyvele Fridman
+- _Feyvele Fridman_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/F/fridman-feyvele.htm)
-- Jacob Gartenstein
+- _Jacob Gartenstein_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/G/gartenstein-jacob.htm)
   - [Contested House of Representatives election case](https://www.amazon.com/Contested-Election-Jacob-Gartenstein-Adolph-Sabath/dp/0265117615)
 
@@ -41,26 +41,26 @@ _Lekiskon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
 
 ::: {.column width="30%"}
 
-- Moshe Heine-Chaimovich
+- _{{< var heine-full >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/H/heine-chaimovich-morris.htm)
-- Max Karp
+- _{{< var karp-full >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/K/karp-max.htm)
-- Keni Lipzin
+- _Keni Lipzin_
   - [Wikipedia](https://en.wikipedia.org/wiki/Keni_Liptzin)
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/L/lipzin-keni.htm)
-- Rudolph Marks
+- _Rudolph Marks_
   - [Wikipedia](https://en.wikipedia.org/wiki/Rudolph_Marks)
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/M/marks-rudolph.htm)
-- Lazar Mitnick
+- _Lazar Mitnick_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/M/mitnick-leiser.htm)
-- Sigmund ("Zelig") Mogulesko
+- _Sigmund ("Zelig") Mogulesko_
   - [Wikipedia](https://en.wikipedia.org/wiki/Sigmund_Mogulesko)
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/M/mogulesko-sigmund.htm)
-- Elias Rothstein
+- _Elias Rothstein_
   - [Lekiskon](https://www.museumoffamilyhistory.com/yt/lex/R/rothstein-elias.htm)
-- Joseph Rumshinsky
+- _Joseph Rumshinsky_
   - [Wikipedia](https://en.wikipedia.org/wiki/Joseph_Rumshinsky)
-- Abba Schoengold (*Yaffa Zahav*, Beautiful Gold)
+- _Abba Schoengold ("Yaffa Zahav", Beautiful Gold)_
   - [Wikipedia](https://en.wikipedia.org/wiki/Abba_Schoengold)
 
 :::
@@ -70,28 +70,28 @@ _Lekiskon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
 
 ::: {.column width="30%"}
 
-- Avraham Yitzchak Tanzman
+- _{{< var tanzman-full >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/T/tanzman-avraham-itzhak.htm)
-- Berta Tanzman
+- _Berta Tanzman_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/T/tanzman-berta.htm)
-- Boris Thomashefsky
+- _{{< var boris >}}_
   - [Wikipedia](https://en.wikipedia.org/wiki/Boris_Thomashefsky)
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/T/thomashefsky-boris.htm)
-- Bessie Thomashefsky
+- _{{< var bessie >}}_
   - [Wikipedia](https://en.wikipedia.org/wiki/Bessie_Thomashefsky)
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/T/thomashefsky-bessie.htm)
-- Mendel Teplitzky
+- _Mendel Teplitzky_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/T/teplitzky-mendel.htm)
-- Yosef Wachtel
+- _{{< var vakhtel-full >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/V/vakhtel-yosef.htm)
-- Israel Weinblatt
+- _Israel Weinblatt_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/W/weinblatt-israel.htm)
-- Sigmund Weintraub
+- _Sigmund Weintraub_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/W/weintraub-sigmund.htm)
-- Boaz (Bernard) Young
+- _Boaz (Bernard) Young_
   - [Wikipedia](https://en.wikipedia.org/wiki/Boaz_Young)
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/Y/young-bernard.htm)
-- Moshe Zilberman
+- _{{< var zilberman-full >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/Z/zilberman-moshe.htm)
 
 :::
@@ -101,15 +101,15 @@ _Lekiskon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
 
 ### Yiddish playwrights
 
-- Abraham Goldfaden
+- _{{< var goldfaden-full >}}_
   - [Wikipedia](href="https://en.wikipedia.org/wiki/Abraham_Goldfaden)
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/G/goldfaden-abraham.htm)
-- Jacob Gordin
+- _Jacob Gordin_
   - [Wikipedia](https://en.wikipedia.org/wiki/Jacob_Gordin)
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/G/gordin-jacob.htm)
-- Joseph Lateiner
+- _Joseph Lateiner_
   - [Wikipedia](https://en.wikipedia.org/wiki/Joseph_Lateiner)
-- Nahum Meïr Schaikewitz^[Also a novelist more generally] (_Shomer_)
+- _Nahum Meïr Schaikewitz^[_Also a novelist more generally_], aka_ Shomer
   - [Wikipedia](https://en.wikipedia.org/wiki/Nahum_Meir_Schaikewitz)
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/S/shomer-abraham.htm)
 
@@ -118,30 +118,30 @@ _Lekiskon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
 
 > Predominantly American theater, but some international folks as well
 
-- David Belasco
+- _David Belasco_
   - [Wikipedia](https://en.wikipedia.org/wiki/David_Belasco)
-- Henry Irving
+- _Henry Irving_
   - [Wikipedia](https://en.wikipedia.org/wiki/Henry_Irving)
-- Morris Gest^[Though his career was predominantly in the American theater, in his teens he was an "errand-boy" for Yiddish actors in Boston.]
+- _Morris Gest_^[Though his career was predominantly in the American theater, in his teens he was an "errand-boy" for Yiddish actors in Boston.]
   - [Wikipedia](https://en.wikipedia.org/wiki/Morris_Gest)
-- Richard Mansfield
+- _Richard Mansfield_
   - [Wikipedia](https://en.wikipedia.org/wiki/Richard_Mansfield)
-- Mikhail Efimovich Medvedev (Meïr Haimovich Bernshtein)
+- _{{< var medvedev-full >}} ({{< var medvedev-yiddish >}})_
   - [Centropa](https://www.centropa.org/en/photo/mikhail-efimovich-medvedev-meer-haimovich-bernshtein-stage)
   - [Encyclopedia](https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/medvedev-mikhail)
-- Max Reinhardt
+- _Max Reinhardt_
   - [Wikipedia](https://en.wikipedia.org/wiki/Max_Reinhardt)
-- Konstantin Stanislavski
+- _Konstantin Stanislavski_
   - [Wikipedia](https://en.wikipedia.org/wiki/Konstantin_Stanislavski)
 
 ### Other
 
-- David Edelstadt
+- _David Edelstadt_
   - [Wikipedia](https://en.wikipedia.org/wiki/David_Edelstadt)
-- Yitzhak Yoel Linetsky
+- _Yitzhak Yoel Linetsky_
   - [Wikipedia](https://en.wikipedia.org/wiki/Yitzkhok_Yoel_Linetzky)
-- Max Staller^[He was the manager of Sam's acting troupe in Philadelphia, the "Star Specialty Club," in the late 1880s-early 1890s.]
+- _Max Staller_^[He was the manager of Sam's acting troupe in Philadelphia, the "Star Specialty Club," in the late 1880s-early 1890s.]
   - [Find a Grave](https://www.findagrave.com/memorial/33506807/max-staller)
   - Article in _The Jewish Exponent_: ["History's Lessons: Jewish Anarchist Doctors Cared for Philadelphia's Immigrants"](https://www.jewishexponent.com/historys-lessons-jewish-anarchist-doctors-cared-for-philadelphias-immigrants/)
-- Morris Winchevsky
+- _Morris Winchevsky_
   - [Wikipedia](https://en.wikipedia.org/wiki/Morris_Winchevsky)
