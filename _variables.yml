@@ -96,7 +96,7 @@ frum: _frum_
 Makarover: Makarover
 panshina: _panshina_
 goyishe: _goyishe_
-goyishe: _goyim_
+goyim: _goyim_
 shabes: _Shabbes_
 shavues: _Shavu'es_
 pesach: _Pesach_
@@ -138,3 +138,7 @@ eshet-chayal: _eyshes-khayil_
 shkotsim: _shkotsim_
 beit-midrash: _besmedresh_
 okher-yisrael: _okher yisrael_
+
+tzaddik: _tzaddik_
+
+meshugas: _meshugas_
