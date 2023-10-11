@@ -110,7 +110,7 @@ solovikne: Solovikne
 ## YIDDISH -------------------------------------------------
 possessor: _possessor_
 possessorka: _possessorka_
-possessieh: _possessieh_
+possessieh: _possessie_
 beshert: _beshert_
 mensh: _mensh_
 tate: _tate_
@@ -129,6 +129,7 @@ pesach: _Pesach_
 yontif: _yontif_
 hashem: _hashem_
 melamed: _melamed_
+kapote: _kapote_
 chiddush: _chiddush_
 chasid: _chasid_
 chasidim: _chasidim_
@@ -138,13 +139,13 @@ nigunim: _nigunim_
 nigun: _nigun_
 refua-shlema: _refua shlema_
 simcha: _simcha_
-dvar-toireh: _dvar toireh_
-torah: _Toireh_
-parsheh: _parsheh_
+dvar-toireh: _dvar toire_
+torah: _Toire_
+parsheh: _parshe_
 tzadik: _tzadik_
 mitzvah: _mitzvah_
 ruakh-hakodesh: _ruakh-hakoidesh_
-chuppah: _chuppeh_
+chuppah: _chuppe_
 lchaim: _l'chaim_
 Lchaim: _L'chaim_
 toivm-u-sholem: _toivm u'sholem_
