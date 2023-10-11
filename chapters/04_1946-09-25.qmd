@@ -26,7 +26,7 @@ The truth was that I was no ordinary boy. On the contrary, I was actually a quie
 
 And all the people who were so watchful over me did not want me behaving this way, and they scolded me: "What is the big deal with you? And what are you doing, dancing out of nowhere like that?" And sometimes they also brought up I am an orphan... An orphan must not sing. An orphan should not be happy. 
 
-Also, my brother {{< var itzhik-gedolia >}}, the silent {{< var katik >}}, used to come from time to time to {{< var bt >}} from the village of {{< var solovikne >}}, where he sold grain. He also reprimanded me and told me how to behave - so that everyone in the home, including his father-in-law and mother-in-law, would be able to say that I was just as quiet as him. And this, in the end, was too much for me, and I couldn't take it anymore. I also longed for my mother very much, and so I begged him, my silent brother:
+Also, my brother {{< var itzhik-gedolia >}}, the silent {{< var katik >}}, used to come from time to time to {{< var bt >}} from the village of {{< var solovinke >}}, where he sold grain. He also reprimanded me and told me how to behave - so that everyone in the home, including his father-in-law and mother-in-law, would be able to say that I was just as quiet as him. And this, in the end, was too much for me, and I couldn't take it anymore. I also longed for my mother very much, and so I begged him, my silent brother:
 
 -- Do me a {{< var toive >}}^[pronounced "toiva" - literally "a good" - means a favor.] and take me back home. I've been here enough. I don't want to be here anymore. I'd rather go to the {{< var heder >}} in {{< var rybinka >}}. 
 
