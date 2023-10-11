@@ -2,18 +2,18 @@
 
 **This website is an active work in progress. Please follow along!**
 
-Like many other well-known names in the American Yiddish theater, Sam Kasten (written in Yiddish as "Kestin"), my great-great grandfather, published his memoirs as serialized articles in *Forverts* ([*The Forward*](https://forward.com), aka *The Jewish Daily Forward*).
+Like many other well-known names in the American Yiddish theater, Sam Kasten (written in Yiddish as "Kestin"), my great-great grandfather, published his memoirs as serialized articles in {{< var forverts >}} ([*The Forward*](https://forward.com), aka *The Jewish Daily Forward*).
 He (generally) wrote two articles per week, from September 1946 - February 1947, for a total of 45 articles (note that I added the "section dividers".)
 
 ::: {layout-ncol="2"}
-![Running advertisement in *Forverts* for Sam's memoir series. Image from [1946-09-01 edition](https://www.nli.org.il/en/newspapers/frw/1946/09/01/01/).](img/newspaper_clippings/1946-09-01_forverts.png){width="4in"}
+![Running advertisement in {{< var forverts >}} for Sam's memoir series. Image from [1946-09-01 edition](https://www.nli.org.il/en/newspapers/frw/1946/09/01/01/).](img/newspaper_clippings/1946-09-01_forverts.png){width="4in"}
 
 > **Sam Kestin describes of 50 years of Yiddish Theater**
 >
-> The famous comedian, who for 50 years has been dancing and singing on the Yiddish stage, tells his memories the "Forverts."
+> The famous comedian, who for 50 years has been dancing and singing on the Yiddish stage, tells his memories for the {{< var forverts >}}.
 > Dramatic, romantic, funny, and comical tales that occurred in and around the Yiddish theater in the last half century.
 >
-> Start reading Sam Kestin's articles in the *Forverts* Saturday, September 7th.
+> Start reading Sam Kestin's articles in the{{< var forverts >}} Saturday, September 7th.
 > The articles will appear twice a week, Wednesday and Saturday.^[this schedule turns out to only _mostly_ be true!]
 :::
 
