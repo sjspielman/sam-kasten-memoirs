@@ -17,7 +17,7 @@ Just like {{< var tate >}}, {{< var mame >}} also wanted me to grow up to be a {
 
 -- Look, {{< var shmuelik >}} - she announced to me - put your head down to study, you will be a scholar. A Jewish boy must be able to learn.
 
-When we lived in {{< var bt >}}, I lived with our father-in-law {{< var shmuel-pekelis >}}, the father-in-law of my brother {{< var itzhik-gedolia >}}, who was given the nickname {{< var katik >}} because he was as quiet as a kitten. {{< var shmuel-pekelis >}} himself promised that they would keep me at home like their own child and that nothing would go wrong. And so it was. They kept me at home like their own child and they took good care of me. But the trouble was, that because I was an orphan^[his mother is alive, but this term is still used], I was watched over a little too closely. I just had to do one little thing, and I was immediately reprimanded for it:
+When we lived in {{< var bt >}}, I lived with our father-in-law {{< var shmuel-pekelis >}}, the father-in-law of my brother {{< var itzhik-gedolia >}}, who was given the nickname {{< var katik >}} because he was as quiet as a kitten. {{< var shmuel-pekelis >}} himself promised that they would keep me at home like their own child and that nothing would go wrong. And so it was. They kept me at home like their own child and they took good care of me. But the trouble was, because I was an orphan^[his mother is alive, but this term is still used], I was watched over a little too closely. I just had to do one little thing, and I was immediately reprimanded for it:
 
 -- This is not acceptable, {{< var shmuelik >}}. Not acceptable. Your mother is doing everything so you can be in this {{< var heder >}}, and this is how you repay her.
 

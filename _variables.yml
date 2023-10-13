@@ -103,7 +103,7 @@ thomash: Thomashefsky
 zat: Zatishiye
 bt: Belaya Tserkov
 vasil: Vasilkov
-vasilch: Vasilychshina
+vasilch: Vasilyvshchyne
 rybinka: Rybinka
 rybinker: Rybinker
 kyiv: Kyiv
@@ -139,6 +139,7 @@ chasid: _chasid_
 chasidim: _chasidim_
 chasidic: _chasidic_
 rebbe: _Rebbe_
+gabbai: _gabbai_
 nigunim: _nigunim_
 nigun: _nigun_
 refua-shlema: _refua shlema_
@@ -148,6 +149,7 @@ torah: _Toire_
 parsheh: _parshe_
 tzadik: _tzadik_
 mitzvah: _mitzvah_
+seudat shabbat: _seudoys shabbos_
 ruakh-hakodesh: _ruakh-hakoidesh_
 chuppah: _chuppe_
 lchaim: _l'chaim_
@@ -162,7 +164,7 @@ naches: _naches_
 badchen: _badchen_
 Nu: _Nu_
 toive: _toive_
-
+maysim: _maysim_
 kalebes: _The Kale Besetzens_
 eshet-chayal: _eyshes-khayil_
 
@@ -171,6 +173,7 @@ beit-midrash: _besmedresh_
 okher-yisrael: _okher yisrael_
 
 tzaddik: _tzaddik_
+toivm: _toivm_
 
 meshugas: _meshugas_
 haimlicher: _haimlicher_
@@ -185,3 +188,4 @@ daven: _daven_
 tumult: _tumult_
 tefilot: _t'filos_
 shul: _shul_
+shiduch: _shiduch_
