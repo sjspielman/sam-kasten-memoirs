@@ -11,13 +11,13 @@ I played an extra in no more than two or three performances with {{< var heine >
 
 In general, Yiddish troupes at that time would recruit local men and women to be "the folk" in the play^[If you need a hoard of commoners, get some locals to be extras!]. In every city there were more than a few people who rushed to the stage for this, and were satisfied just to be so close to the great performers who they used to talk about with such enthusiasm. The stage drew them in like a magnet. And some of them actually became actors and actresses - and more than one of them made it to the top ranks and became famous...
 
-In the shop where I worked as a shirt-maker, the spirit of Yiddish theater pervaded more than ever; there was no one who didn't take the opportunity to go see the troupe who came from New York to Philadelphia for only a few performances. And since everyone knew I was on the stage with them, I was greatly exalted. They would request from me, 
+In the shop where I worked as a shirt-maker, the spirit of Yiddish theater pervaded more than ever; there was no one who didn't take the opportunity to go see the troupe who came from New York to Philadelphia for only a few performances. And since everyone knew I was on the stage with them, I was greatly exalted. They would request from me,
 
 -- {{< var Nu >}}, Sam, how does that song go that they sing in that one scene? {{< var Nu >}}, how?
 
 And I didn't make them beg, and I sang. And more than any other song, I sang [{{< var raisins >}}](https://en.wikipedia.org/wiki/Raisins_and_Almonds)^["Raisins and Almonds", a well known Yiddish lullaby originally from {{< var shulamith >}}.] I had to sing it for them several times a day, and everyone used to sing with me. And it started like this^[You can find the full lyrics in English and transliterated Yiddish [here](https://www.hebrewsongs.com/?song=rozinkesmitmandlen).]:
 
-> In the synagogue, in a corner of a room, 
+> In the synagogue, in a corner of a room,
 >
 > Sits the widowed daughter of Zion, alone.
 >
@@ -34,10 +34,10 @@ And so it went, just as if we were, here in the shop, putting on our own perform
 
 > Under Yidele's cradle
 >
-> Stands a small white goat, 
-> 
+> Stands a small white goat,
+>
 > Who went to market to sell his wares.
-> 
+>
 > This will be Yidele's calling, too.
 >
 > Trading in raisins and almonds.
@@ -56,15 +56,14 @@ Like this, all day long, I sang. And after the sung, everyone "licked their fing
 
 ::: {layout-ncol="2"}
 
-The spirit of the Yiddish theater filled the whole shop even more a little later when **Mogulesko**^[This, and other bolded words, were bolded in the original article. In Yiddish, words are emphasized by spacing letters out; for example this was actually written: "M o g u l e s k o."], the great and famous [{{< var mogu-full >}}](https://en.wikipedia.org/wiki/Sigmund_Mogulesko)^[Nickname "{{< var zelig >}};" he was _the_ most beloved comedian of the early Yiddish theater, bar none. Read his Leksikon entry [here](https://www.museumoffamilyhistory.com/yt/lex/M/mogulesko-sigmund.htm). He and Sam would later become close friends, and Sam loved and admired him dearly.], came to Philadelphia for a few performances. All of Philadelphia went crazy over this, and it was no wonder - like in many other cities in America, he already had many ardent and passionate fans before he even arrived. His fans were Ukrainian, Moldovan, and Romanian Jews who remembered him from back home. 
+The spirit of the Yiddish theater filled the whole shop even more a little later when **Mogulesko**^[This, and other bolded words, were bolded in the original article. In Yiddish, words are emphasized by spacing letters out; for example this was actually written: "M o g u l e s k o."], the great and famous [{{< var mogu-full >}}](https://en.wikipedia.org/wiki/Sigmund_Mogulesko)^[Nickname "{{< var zelig >}};" he was _the_ most beloved comedian of the early Yiddish theater, bar none. Read his Leksikon entry [here](https://www.museumoffamilyhistory.com/yt/lex/M/mogulesko-sigmund.htm). He and Sam would later become close friends, and Sam loved and admired him dearly.], came to Philadelphia for a few performances. All of Philadelphia went crazy over this, and it was no wonder - like in many other cities in America, he already had many ardent and passionate fans before he even arrived. His fans were Ukrainian, Moldovan, and Romanian Jews who remembered him from back home.\n\nThey had seen him perform in Odessa, in Bucharest, in Iasi, and in many other cities in Europe. They couldn't forget him, because even back in the old country, his acting inspired them, and when people talked about him, they said in the whole world there is no one better than him. When he performed in a theater, the voices of the crowd filled the air with great joy:
 
 ![{{< var mogu-full >}}. Image from [NYU Libraries](https://archive.nyu.edu/handle/2451/58547?mode=full).](../img/mogulesko.jpg){width="2in"}
 
 :::
 
-They had seen him perform in Odessa, in Bucharest, in Iasi, and in many other cities in Europe. They couldn't forget him, because even back in the old country, his acting inspired them, and when people talked about him, they said in the whole world there is no one better than him. When he performed in a theater, the voices of the crowd filled the air with great joy:
 
--- Brava, {{< var mogu >}}! Brava, {{< var mogu >}}! 
+-- Brava, {{< var mogu >}}! Brava, {{< var mogu >}}!
 
 His talent spread like a rumor at those times, when Jews would come to see him play Yiddish theater in cities like Odessa and Iasi. It was in those times that the Yiddish theater was starting to pick up speed^[it was the early days of Yiddish theater - it was catching on and becoming popular, bigger, etc.].
 
@@ -80,18 +79,18 @@ Oh, how beautifully and how sweetly he sang!
 > Women used to lick their fingers^[idiom; "really enjoyed"] from his singing.
 >
 > My dear Yankele!
-> 
+>
 > After his prayers we would run out of energy.
 >
 > My dear Yankele!
-> 
+>
 > Tell me, tell me, have you ever seen something like this?
 >
-> No, no, no, 
+> No, no, no,
 >
 > I was lucky to live to see it.
 
-What a song {{< var mogu >}} sang - even when the words didn't rhyme, it was such a pleasure to listen to his sing it that it didn't matter. You really couldn't believe it, how he charmed the audience with his artistic grace. You'd have to travel the whole world over to find another artist as good as him. 
+What a song {{< var mogu >}} sang - even when the words didn't rhyme, it was such a pleasure to listen to his sing it that it didn't matter. You really couldn't believe it, how he charmed the audience with his artistic grace. You'd have to travel the whole world over to find another artist as good as him.
 
 And I remember that when I saw him for the first time, in Philadelphia in the play {{< var coquettes >}}, I remained seated as though I had suddenly been transported to an entirely different world. And when the curtain fell and they turned the lights back on in the theater, I jumped up on stage and went behind the curtain.
 
@@ -103,7 +102,7 @@ This feeling gripped me so tightly that there was nothing I could do to escape i
 
 And I still remember how strange it was to me, that this man used a nickname - for {{< var mogu >}} himself! - as though they were equals... He called him {{< var zeligel >}}...
 
-When I was introduced to {{< var mogu >}} in his dressing room and I suddenly realized how near I was to him, I was left standing in a daze and I suddenly forgot everything that I had planned to say to him^[Sam literally wrote: "suddenly everything I was going to say before went out of my head"]. Only when {{< var mogu >}} stretched out his hand to me and I saw a good face, a kind face, I mustered the courage and I started to say, 
+When I was introduced to {{< var mogu >}} in his dressing room and I suddenly realized how near I was to him, I was left standing in a daze and I suddenly forgot everything that I had planned to say to him^[Sam literally wrote: "suddenly everything I was going to say before went out of my head"]. Only when {{< var mogu >}} stretched out his hand to me and I saw a good face, a kind face, I mustered the courage and I started to say,
 
 -- It is an honor for me, a great honor, to shake your head... I thank you...
 
@@ -124,7 +123,7 @@ This was my first encounter with {{< var mogu >}}, the great and God-blessed art
 
 And after he left Philadelphia, back in the stop here I worked, everyone already knew that I had the privilege to introduce myself to **him** and speak to **him** himself, so I was exalted and "crowned." Everyone wanted to know what he said to me and what I said to him - not just the workers in the shop, but the boss himself was curious about this too. And I told them all about it. But the way I told it, I made it seem like I didn't talk to {{< var mogu >}} for only a few minutes, but instead for hours and hours...
 
-That's how deep of an impression he left on me. And then everyone in the shop started singing {{< var yankele >}} which they sung more than any other song, and some of them wanted to sing it exactly as {{< var mogu >}} did. And when someone thought they wouldn't be able to sing it like {{< var mogu >}}, they would turn to me and say, 
+That's how deep of an impression he left on me. And then everyone in the shop started singing {{< var yankele >}} which they sung more than any other song, and some of them wanted to sing it exactly as {{< var mogu >}} did. And when someone thought they wouldn't be able to sing it like {{< var mogu >}}, they would turn to me and say,
 
 -- {{< var Nu >}}, Sam, you show us how to sing it like {{< var mogu >}} does...
 
@@ -136,7 +135,7 @@ We sang other songs from the play {{< var coquettes >}} too, in the shop in Phil
 > Who is that eating in the {{< var sukkah >}}?
 >
 > And who is that fine man?
-> 
+>
 > Thieves, swindlers, dreadful men,
 >
 > What could be worse than them.
@@ -146,19 +145,19 @@ We sang other songs from the play {{< var coquettes >}} too, in the shop in Phil
 > And they steal in silence,
 >
 > But you, my child, will be a {{< var mensch >}},
-> 
+>
 > You will eat in the {{< var sukkah >}}.
 
 
 The song is composed of several people^[As in, the song sings about several different people (in the subsequent verses)]. The song also makes fun of the of the "ultra-religious hypocrites" who pretend to be {{< var frum >}}, but in reality they are not. The song also made fun of wealthy women, who cannot make good housewives. And it ended with a bang:
 
-> In silence, in silence, 
+> In silence, in silence,
 >
 > will you eat in the {{< var sukkah >}}!
 
 And indeed one more time:
 
-> In silence, in silence, 
+> In silence, in silence,
 >
 > will you eat in the {{< var sukkah >}}!
 
