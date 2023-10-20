@@ -29,6 +29,9 @@ honor: _Honor thy Father_
 ## SONGS ------------------------------------------
 
 minha: \"Min Hameiztar\"
+raisins: \"Rozhinkes mit Mandlen\"
+yankele: \"Yankele\"
+bshtika: \"B'shtika\"
 
 ## ROLES --------------------------------------------
 
@@ -37,7 +40,7 @@ manoyekh: Manoyekh
 tsing: Tsingetang
 natank: Natan Khananye
 shulamith-role: Shulamith
-
+bobe-schp: Bobe Shprintze
 
 ## PEOPLE  -------------------------------------------
 
@@ -69,6 +72,13 @@ sara-adler: Sara Adler
 jacob-adler: Jacob P. Adler
 nesher: _Nesher Hagadol_
 
+mogu-full: Sigmond Mogulesko
+mogu: Mogulesko
+zeligel: Zeligel
+zelig: Zelig
+zelig-full: Zelig Mogulesko
+
+
 tanzman-full: Avrom Itzhik Tanzman
 
 abba-full: Abba Schoengold
@@ -76,6 +86,7 @@ schoen: Schoengold
 
 laiteiner-full: Joseph Lateiner
 rumshinsky-full: Joseph Rumshinsky
+shomer: Shomer
 
 goldfaden-full: Abraham Goldfaden
 medvedev-full: Mikhail Efimovich Medvedev
@@ -193,3 +204,7 @@ tumult: _tumult_
 tefilot: _t'filos_
 shul: _shul_
 shiduch: _shiduch_
+
+chutzpah: _chutzpe_
+sukkah: _sukke_
+sechel: _sechel_
