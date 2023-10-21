@@ -76,7 +76,7 @@ _Lyrics_.
 
 Together with the audience, I was so moved by the performance, both on stage and behind the curtain, that I felt like I was in seventh heaven, and when I danced so unexpectedly in the role of {{< var elyokum >}}, it wasn't because I was supposed to dance like that, but because of what was right in my heart at the time...
 
-At that performance in Philadelphia, all of my family were there, and my _mame_ was among them. They all said that I was very good in the role of the scoundrel {{< var elyokum >}}. But I really wanted to know what my {{< var mame >}} had to say about it. And when I asked her how she liked me in the role, she just waved her hand.
+At that performance in Philadelphia, all of my family were there, and my {{< var mame >}} was among them. They all said that I was very good in the role of the scoundrel {{< var elyokum >}}. But I really wanted to know what my {{< var mame >}} had to say about it. And when I asked her how she liked me in the role, she just waved her hand.
 
 -- Know what I think!... You are {{< var meshuga >}}^, that's all...
 
