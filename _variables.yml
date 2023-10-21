@@ -16,7 +16,7 @@ alilesdam: _Blood Libel_
 velvel: _The Female Pioneer, or Velvele eats compote_
 esther_eingedi: _Esther of Ein-Gedi_
 haim: _Home in America_
-lostsoul: _The Lost Soul_
+lostsoul: _The Wandering Soul_
 meilitz: _Meilitz Yosher_
 meilitz-long: _Meilitz Yosher, or Rabbi Yosselman_
 bowery: _The Bowery Tramp_
@@ -32,6 +32,9 @@ minha: \"Min Hameiztar\"
 raisins: \"Rozhinkes mit Mandlen\"
 yankele: \"Yankele\"
 bshtika: \"B'shtika\"
+wiseson: \"The Wise Son from the Four Questions\"
+purim-nes: \"The Miracle of Purim\"
+
 
 ## ROLES --------------------------------------------
 
@@ -41,6 +44,7 @@ tsing: Tsingetang
 natank: Natan Khananye
 shulamith-role: Shulamith
 bobe-schp: Bobe Shprintze
+shabtai-golem: Shabtai golem
 
 ## PEOPLE  -------------------------------------------
 
@@ -85,7 +89,9 @@ berta: Berta Tanzman
 abba-full: Abba Schoengold
 schoen: Schoengold
 
+
 laiteiner-full: Joseph Lateiner
+laiteiner: Lateiner
 rumshinsky-full: Joseph Rumshinsky
 shomer: Shomer
 
