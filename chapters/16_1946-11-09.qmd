@@ -2,6 +2,8 @@
 
 ##### _Link to [Forverts edition](https://www.nli.org.il/en/newspapers/frw/1946/11/09/01/)_ {.unnumbered}
 
+## CHAPTER IN PROGRESS
+
 <br>
 
 > The frequent quarrels among Yiddish actors of old. - They used to fight over their source of income, over roles, and even more over love^[as in, love affairs]. - A quarrel between the actors {{< var schoen >}} and Tanzman, because of Mrs. Tanzman's role.
@@ -14,7 +16,7 @@ In general, there was terrible and fearful confusion; People tripped over each o
 
 In many cities, {{< var jakele-full >}} displayed his resourcefulness to get us out of an unpleasant situation, and on a regular basis, an ingenious idea would strike him, and it was really something astonishing. The main thing was - as bad as it got, he didn't give up and he always encouraged us. Even when he himself had "no {{< var yontif >}}_'dige_ in his heart"^[no sense of joy or festivity], he nonetheless was still able to pass the time reading Shakespeare's _Halmet_ for the umpteenth time, always exclaiming with enthusiasm:
 
--- I say, {{< var chevreh >}}^[Here, this means "dear friends"], this is a _play_ - a rare thing in this world! 
+-- I say, {{< var chevreh >}}^[Here, this means "dear friends"], this is a _play_ - a rare thing in this world!
 
 He was always reading plays. Printed and also hand-written. And he had a such good memory, that it was enough for him to just see a play on the stage once or twice, and he already had memorized it...
 
@@ -27,7 +29,7 @@ I mention this, because from what I am going to tell you, you will be able to ge
 
 It was necessary for one of us to meet with Tanzman and talk with him about what could be done so that we could also make something out of being in Cleveland, and so that we could at least continue to cover our expenses. And it was decided that {{< var frank >}} should to go to Tanzman. I could not go to Tanzman because we had fought.
 
-So {{< var frank >}} went to him and he didn't come back... 
+So {{< var frank >}} went to him and he didn't come back...
 
 He stayed with Tanzman's troupe and and played with them there, and where were left neither here nor there^[with nowhere to turn, stuck], so {{< var jakele-full >}} also left and I was left alone and exposed and there was nothing I could do.
 
