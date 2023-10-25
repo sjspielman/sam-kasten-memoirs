@@ -1,6 +1,6 @@
 # Preface {.unnumbered}
 
-**This website is an active work in progress. Please follow along!**
+**This website is an active work in progress. Please follow along, and please also excuse any typos!**
 
 Like many other well-known names in the American Yiddish theater, Sam Kasten (written in Yiddish as "Kestin"), my great-great grandfather, published his memoirs as serialized articles in {{< var forverts >}} ([*The Forward*](https://forward.com), aka *The Jewish Daily Forward*).
 He (generally) wrote two articles per week, from September 1946 - February 1947, for a total of 45 articles (note that I added the "section dividers".)
