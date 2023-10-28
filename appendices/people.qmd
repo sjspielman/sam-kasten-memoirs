@@ -84,9 +84,9 @@ _Lekiskon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/T/teplitzky-mendel.htm)
 - _{{< var vakhtel-full >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/V/vakhtel-yosef.htm)
-- _Israel Weinblatt_
+- _{{< var weinb-full >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/W/weinblatt-israel.htm)
-- _Sigmund Weintraub_
+- _{{< var s-weintraub >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/W/weintraub-sigmund.htm)
 - _Boaz (Bernard) Young_
   - [Wikipedia](https://en.wikipedia.org/wiki/Boaz_Young)
@@ -109,7 +109,7 @@ _Lekiskon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/G/gordin-jacob.htm)
 - _Joseph Lateiner_
   - [Wikipedia](https://en.wikipedia.org/wiki/Joseph_Lateiner)
-- _Nahum Meïr Schaikewitz^[_Also a novelist more generally_], aka_ Shomer
+- _Nahum Meïr Schaikewitz^[_Also a novelist more generally_], aka_ {{< var shomer >}}
   - [Wikipedia](https://en.wikipedia.org/wiki/Nahum_Meir_Schaikewitz)
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/S/shomer-abraham.htm)
 

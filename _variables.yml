@@ -2,6 +2,7 @@
 
 forverts: _Forverts_
 freiarb: _Fraye Arbeter Shtime_
+brookeagle: _The Brookyn Eagle_
 
 ## PLAYS -----------------------------------------
 shulamith: _Shulamith_
@@ -12,7 +13,7 @@ bobeyachne: _Bobe Yachne_ # sam uses both so I will too
 sailor: _Sailor in Peril_
 kuni: _The Two Kuni Lemels_
 yingl: _The Polish Boy_
-alilesdam: _Blood Libel_
+alilesdam: _Blood Libel, or Menachem Ben-Israel_
 velvel: _The Female Pioneer, or Velvele eats compote_
 esther_eingedi: _Esther of Ein-Gedi_
 haim: _Home in America_
@@ -45,6 +46,7 @@ bobe-schp: Bobe Shprintze
 elyokum: Elyokum
 hostmach: Hotsmakh
 kuni-lemel: Kuni Lemel
+kalman-kroch: Kalman Kroch
 
 ## PEOPLE  -------------------------------------------
 
@@ -85,6 +87,9 @@ zeligel: Zeligel
 zelig: Zelig
 zelig-full: Zelig Mogulesko
 
+s-weintraub: Sigmund Weintraub
+weinb-full: Israel Weinblatt
+weinb: Weinblatt
 
 tanzman-full: Avrom Itzhik Tanzman
 berta: Berta Tanzman
@@ -158,6 +163,7 @@ panshina: _panshina_
 goyishe: _goyishe_
 goyim: _goyim_
 shabes: _Shabbes_
+gut-shabes: _gut Shabbes_
 shavues: _Shavu'es_
 pesach: _Pesach_
 yontif: _yontif_
@@ -230,9 +236,13 @@ sechel: _sechel_
 
 replik: _replik_
 samorodne: _samorodne_
-loshn-k: _loshn-koydesh
+loshn-k: _loshn-koydesh_
 shames: _shames_
 
 khalilah: _khalilah_
 dreykop: _dreykop_
 mensch: _mensch_
+yiddishkeit: _yiddishkayt_
+mishpucha: _mishpucha_
+apikoros: _apikoros_
+goles: _goles_

@@ -2,7 +2,7 @@
 
 ##### _Link to [Forverts edition](https://www.nli.org.il/en/newspapers/frw/1946/10/17/01/)_ {.unnumbered}
 
-<br>
+<br>loshn-k
 
 > My {{< var mame >}} wanted me to make me a farmer. -- Her last words to me before she died.^[These are two _separate_ taglines. These were not her last words to him.]
 
@@ -26,7 +26,7 @@ Because {{< var marx-full >}} realized that, just as Mogulesko had shown, he als
 Let Philadelphia see what he can do, and let them say he doesn't show the same skills as Mogulesko!...
 
 And then something happened that is very characteristic of how things were. You could get away with things like this I could afford to do it in the meantime, and it is therefore worth telling here:
-Together with a _landsman_^[someone from same region in the old country] of mine, who fell in with what I am going to tell here, I went to the theater where {{< var marx-full >}} played the {{< var sailor >}}. We sat there at every performance, and listening to every word, we transcribed the whole play, and afterwards we pieced it together in our own way, and indeed right away we put together our own troupe, rented the [Dramatic Hall](https://www.museumoffamilyhistory.com/jqp-wheatley.htm)^[Located at the northeast corner of 5th and Gaskill, right above South Street.], and there we performed the same play, indeed our own {{< var sailor >}} that {{< var marx-full >}} had played. And just like him, I played all three roles in the play, and it was said to be good.
+Together with a _landsman_^[someone from same region in the old country] of mine, who fell in with what I am going to tell here, I went to the theater where {{< var marx-full >}} played the {{< var sailor >}}. We sat there at every performance, and listening to every word, we transcribed the whole play, and afterwards we pieced it together in our own way, and indeed right away we put together our own troupe, rented the [Dramatic Hall](https://www.museumoffamilyhistory.com/jqp-wheatley.htm)^[Located at the northeast corner of 5th and Gaskill, right above South Street.], and there we performed the same play, indeed our own {{< var sailor >}} that {{< var marx-full >}} had played. And just like him, I played all three roles in the play, and people said it was good.
 
 ::: {layout-ncol=2}
 
