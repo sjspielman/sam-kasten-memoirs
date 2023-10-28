@@ -141,7 +141,7 @@ And here comes the song again in the form of a question and answer:
 >
 > מן המצר א. אז. וו.
 
-The story about the miracle of Purim is not left out in that song, and this part was sung so that Jews would remember that they outlived all their bitter enemies:
+The story about the miracle of {{< var purim >}} is not left out in that song, and this part was sung so that Jews would remember that they outlived all their bitter enemies:
 
 > אונז אמאָל האט געוואַלט דערשטיקען
 >

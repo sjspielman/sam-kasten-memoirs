@@ -109,6 +109,10 @@ medvedev-yiddish: Meïr Yefimovich Bernshtein
 marx-full: Rudolph Marks
 marx: Marks
 
+gest-full: Morris Gest
+moishe: Moishe
+moishele: Moishele
+
 karp: Karp
 karp-full: Max Karp
 zilberman: Zilberman
@@ -162,18 +166,16 @@ Makarover: Makarover
 panshina: _panshina_
 goyishe: _goyishe_
 goyim: _goyim_
-shabes: _Shabbes_
-gut-shabes: _gut Shabbes_
-shavues: _Shavu'es_
-pesach: _Pesach_
+purim: Purim
 yontif: _yontif_
 hashem: _hashem_
 melamed: _melamed_
 kapote: _kapote_
-chiddush: _chiddush_
-chasid: _chasid_
-chasidim: _chasidim_
-chasidic: _chasidic_
+chiddush: _khiddush_
+chasid: _khasid_
+chasidim: _khasidim_
+chasidic: _khasidic_
+chesed: _khosed_
 rebbe: _Rebbe_
 gabbai: _gabbai_
 nigunim: _nigunim_
@@ -246,3 +248,10 @@ yiddishkeit: _yiddishkayt_
 mishpucha: _mishpucha_
 apikoros: _apikores_
 goles: _goles_
+
+purim-sm: _Purim shalakh-manes_
+purim: _Purim_
+shabes: _Shabbes_
+gut-shabes: _gut Shabbes_
+shavues: _Shavu'es_
+pesach: _Pesach_

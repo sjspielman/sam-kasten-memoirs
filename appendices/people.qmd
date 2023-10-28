@@ -116,13 +116,11 @@ _Lekiskon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
 
 ### People related to the non-Yiddish theater
 
-> Predominantly American theater, but some international folks as well
-
 - _David Belasco_
   - [Wikipedia](https://en.wikipedia.org/wiki/David_Belasco)
 - _Henry Irving_
   - [Wikipedia](https://en.wikipedia.org/wiki/Henry_Irving)
-- _Morris Gest_^[Though his career was predominantly in the American theater, in his teens he was an "errand-boy" for Yiddish actors in Boston.]
+- _{{< var gest-full >}}_^[Though his career was predominantly in the American theater, in his teens he was an "errand-boy" for Yiddish actors in Boston.]
   - [Wikipedia](https://en.wikipedia.org/wiki/Morris_Gest)
 - _Richard Mansfield_
   - [Wikipedia](https://en.wikipedia.org/wiki/Richard_Mansfield)
