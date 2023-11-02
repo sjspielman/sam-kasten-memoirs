@@ -84,9 +84,9 @@ _Lekiskon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/T/teplitzky-mendel.htm)
 - _{{< var vakhtel-full >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/V/vakhtel-yosef.htm)
-- _Israel Weinblatt_
+- _{{< var weinb-full >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/W/weinblatt-israel.htm)
-- _Sigmund Weintraub_
+- _{{< var s-weintraub >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/W/weintraub-sigmund.htm)
 - _Boaz (Bernard) Young_
   - [Wikipedia](https://en.wikipedia.org/wiki/Boaz_Young)
@@ -109,20 +109,18 @@ _Lekiskon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/G/gordin-jacob.htm)
 - _Joseph Lateiner_
   - [Wikipedia](https://en.wikipedia.org/wiki/Joseph_Lateiner)
-- _Nahum Meïr Schaikewitz^[_Also a novelist more generally_], aka_ Shomer
+- _Nahum Meïr Schaikewitz^[_Also a novelist more generally_], aka_ {{< var shomer >}}
   - [Wikipedia](https://en.wikipedia.org/wiki/Nahum_Meir_Schaikewitz)
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/S/shomer-abraham.htm)
 
 
 ### People related to the non-Yiddish theater
 
-> Predominantly American theater, but some international folks as well
-
 - _David Belasco_
   - [Wikipedia](https://en.wikipedia.org/wiki/David_Belasco)
 - _Henry Irving_
   - [Wikipedia](https://en.wikipedia.org/wiki/Henry_Irving)
-- _Morris Gest_^[Though his career was predominantly in the American theater, in his teens he was an "errand-boy" for Yiddish actors in Boston.]
+- _{{< var gest-full >}}_^[Though his career was predominantly in the American theater, in his teens he was an "errand-boy" for Yiddish actors in Boston.]
   - [Wikipedia](https://en.wikipedia.org/wiki/Morris_Gest)
 - _Richard Mansfield_
   - [Wikipedia](https://en.wikipedia.org/wiki/Richard_Mansfield)

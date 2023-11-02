@@ -2,6 +2,7 @@
 
 forverts: _Forverts_
 freiarb: _Fraye Arbeter Shtime_
+brookeagle: _The Brookyn Eagle_
 
 ## PLAYS -----------------------------------------
 shulamith: _Shulamith_
@@ -12,7 +13,7 @@ bobeyachne: _Bobe Yachne_ # sam uses both so I will too
 sailor: _Sailor in Peril_
 kuni: _The Two Kuni Lemels_
 yingl: _The Polish Boy_
-alilesdam: _Blood Libel_
+alilesdam-full: _Blood Libel, or Menachem Ben-Israel_
 velvel: _The Female Pioneer, or Velvele eats compote_
 esther_eingedi: _Esther of Ein-Gedi_
 haim: _Home in America_
@@ -48,6 +49,7 @@ shabtai-golem: Shabtai golem
 elyokum: Elyokum
 hostmach: Hotsmakh
 kuni-lemel: Kuni Lemel
+kalman-kroch: Kalman Kroch
 
 ## PEOPLE  -------------------------------------------
 
@@ -60,7 +62,7 @@ pinya: Pinya
 radetsky: Radetsky
 radetsky-full: Pinya Radetsky
 
-Batsheva: Bat-Sheyva
+Batsheva: Bas-Sheyva
 Leybs: Leyb Sender
 Feige: Feige
 
@@ -88,6 +90,9 @@ zeligel: Zeligel
 zelig: Zelig
 zelig-full: Zelig Mogulesko
 
+s-weintraub: Sigmund Weintraub
+weinb-full: Israel Weinblatt
+weinb: Weinblatt
 
 tanzman-full: Avrom Itzhik Tanzman
 berta: Berta Tanzman
@@ -108,6 +113,10 @@ medvedev-yiddish: Meïr Yefimovich Bernshtein
 
 marx-full: Rudolph Marks
 marx: Marks
+
+gest-full: Morris Gest
+moishe: Moishe
+moishele: Moishele
 
 karp: Karp
 karp-full: Max Karp
@@ -162,17 +171,16 @@ Makarover: Makarover
 panshina: _panshina_
 goyishe: _goyishe_
 goyim: _goyim_
-shabes: _Shabbes_
-shavues: _Shavu'es_
-pesach: _Pesach_
+purim: Purim
 yontif: _yontif_
 hashem: _hashem_
 melamed: _melamed_
 kapote: _kapote_
-chiddush: _chiddush_
-chasid: _chasid_
-chasidim: _chasidim_
-chasidic: _chasidic_
+chiddush: _khiddush_
+chasid: _khasid_
+chasidim: _khasidim_
+chasidic: _khasidic_
+chesed: _khosed_
 rebbe: _Rebbe_
 gabbai: _gabbai_
 nigunim: _nigunim_
@@ -235,9 +243,20 @@ sechel: _sechel_
 
 replik: _replik_
 samorodne: _samorodne_
-loshn-k: _loshn-koydesh
+loshn-k: _loshn-koydesh_
 shames: _shames_
 
 khalilah: _khalilah_
 dreykop: _dreykop_
 mensch: _mensch_
+yiddishkeit: _yiddishkayt_
+mishpucha: _mishpucha_
+apikoros: _apikores_
+goles: _goles_
+
+purim-sm: _Purim shalakh-manes_
+purim: _Purim_
+shabes: _Shabbes_
+gut-shabes: _gut Shabbes_
+shavues: _Shavu'es_
+pesach: _Pesach_
