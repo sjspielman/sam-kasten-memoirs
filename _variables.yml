@@ -45,7 +45,8 @@ tsing: Tsingetang
 natank: Natan Khananye
 shulamith-role: Shulamith
 bobe-schp: Bobe Shprintze
-shabtai-golem: Shabtai golem
+shabtai-golem: Shabsai Goylem
+shabtai: Shabsai
 elyokum: Elyokum
 hostmach: Hotsmakh
 kuni-lemel: Kuni Lemel
@@ -226,6 +227,7 @@ landsmen: _landsmen_
 landslayt: _landslayt_
 brokhe: _brokhe_
 haimishe: _haimishe_
+haimishkeit: _haimishkeit_
 
 chazan: _khozn_
 chazanishe: _khozenishe_
@@ -253,6 +255,7 @@ yiddishkeit: _yiddishkayt_
 mishpucha: _mishpucha_
 apikoros: _apikores_
 goles: _goles_
+golem: _goylem_
 
 purim-sm: _Purim shalakh-manes_
 purim: _Purim_
