@@ -36,7 +36,7 @@ At the time, we didn't have anything to eat besides bread and herring, and all t
 
 It was simply our mission in life to show them this. It was as though it fell upon the three of us - {{< var frank >}}, {{< var jakele-full >}}, and me - to rescue the honor of the Yiddish theater profession in the eyes of the Cincinnati Jews...
 
-The three of us made up our minds to play like this - as though the whole audience consisted of the greatest theater connoiseurs. And we therefore worked diligently during our rehearsals. And all-in-all, it was very difficult, because the "troupe" we had quickly assembled consisted of beginners, as it usually went when traveling the provinces. And the three of us, {{< var frank >}}, {{< var jakele-full >}}, and I, took it upon ourselves to play two roles each, and we generally divided things up so that we wouldn't be short of anything.
+The three of us made up our minds to play like this - as though the whole audience consisted of the greatest theater connoisseurs. And we therefore worked diligently during our rehearsals. And all-in-all, it was very difficult, because the "troupe" we had quickly assembled consisted of beginners, as it usually went when traveling the provinces. And the three of us, {{< var frank >}}, {{< var jakele-full >}}, and I, took it upon ourselves to play two roles each, and we generally divided things up so that we wouldn't be short of anything.
 
 In no other city did we prepare for a performance the way we prepared for that performance in Cincinnati. And something really just happened by chance, that on the day of the performance, in the early morning hours, snow began to fall - a snow that really chilled you to the bone. And when they opened the box office that evening, our eyes grew darker and darker because the number of the Jews who came to the box office to buy tickets was so small that only God could take pity on us...
 
@@ -79,5 +79,14 @@ He asked us if we could play {{< var gordin-full >}}'s piece {{< var kinglear >}
 
 And we relied on him, because we really saw that you could rely on such a {{< var mensch >}} as Mr. {{< var himmelfarb >}}...
 
+And {{< var jakele-full >}}
 
+
+And Jakel Cohen was triumphant:
+
+-- {{< var Nu >}}, {{< var chevreh >}}, - he said, - you see now that I was right, eh?
+
+He was very pleased about it all, because he knew right from the beginning how to deal with Mr. {{< var himmelfarb >}}, who wanted to drive us out at the first meeting with him. He was really pleased to not have been mistaken about it. And then, in a calm mood, he read Shakespeare's "Hamlet" for the umpteenth time. He read it lying stretched out on the sofa, and while reading it he sometimes gave a shout:
+
+-- Oi, I'm telling you {{< var chevreh >}}, this is a play! There aren't a lot of plays like this in the world...
 

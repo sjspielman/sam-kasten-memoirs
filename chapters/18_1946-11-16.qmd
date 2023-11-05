@@ -61,11 +61,11 @@ It is needless to say that Mr. {{< var himmelfarb >}} was not taken aback by our
 
 -- We are actors!...
 
-And when Mr. Himelfarb heard that we were actors, his expression became very severe and pinching his little beard with his fingers, he began to speak to us with restrained anger:
+And when Mr. {{< var himmelfarb >}} heard that we were actors, his expression became very severe and pinching his little beard with his fingers, he began to speak to us with restrained anger:
 
 -- What does this have to do with me and what do you want from me?
 
-This was a big surprise for us and really not a very pleasant one; From him, from this man, about whom we have heard so many good things regarding his attitude toward traveling Yiddish actors, we did not expect anything like this; It was like he had poured cold water on all three of us at once; His behavior really disconcerted us, even moreso when we took the great trouble to tell him that we would like him to sell tickets for our performance. He 
+This was a big surprise for us and really not a very pleasant one; From him, from this man, about whom we have heard so many good things regarding his attitude toward traveling Yiddish actors, we did not expect anything like this; It was like he had poured cold water on all three of us at once; His behavior really disconcerted us, even more so when we took the great trouble to tell him that we would like him to sell tickets for our performance. He 
 
 As soon as he heard this, he went to open the door and said angrily:
 
@@ -79,11 +79,11 @@ And suddenly he started shouting at the top of his voice:
 
 -- I won't be duped!... Enough! More than once I've paid the price, and it won't happen again!
 
-It was only then that we realized that others of us had tricked him before and he was still very upset about it. And when we started questioning him about who duped him and how, we saw that he had no qualms about getting into a long dispute with us, {{< var jakele-full >}} Jakel Cohen had an idea and suddenly started speaking in English to Mr. {{< var himmelfarb >}}. He said, that Mr. {{< var himmelfarb >}} should give us six cigars - the best ones in the store...
+It was only then that we realized that others of us had tricked him before and he was still very upset about it. And when we started questioning him about who duped him and how, we saw that he had no qualms about getting into a long dispute with us, {{< var jakele-full >}} had an idea and suddenly started speaking in English to Mr. {{< var himmelfarb >}}. He said, that Mr. {{< var himmelfarb >}} should give us six cigars - the best ones in the store...
 
 -- _Only di best._ - He firmly emphasized the words. - _Vee are not uzed to cheap cigars_...
 
-And when the cigars were presented, he - with great pretense - paid for them so generously, as if money was no object. And after that he gave me a cigar and {{< var frank >}} a cigar. And when all three of us lit our cigars and smelled the smoke like the great connoiseurs of good cigars, Mr. Himelfarb suddenly started looking at us as though he was no longer completely sure whether he really needed to drive us away and insult us like that.
+And when the cigars were presented, he - with great pretense - paid for them so generously, as if money was no object. And after that he gave me a cigar and {{< var frank >}} a cigar. And when all three of us lit our cigars and smelled the smoke like the great connoiseurs of good cigars, Mr. {{< var himmelfarb >}} suddenly started looking at us as though he was no longer completely sure whether he really needed to drive us away and insult us like that.
 
 -- Can you maybe prove to me somehow that you are indeed actors?
 
