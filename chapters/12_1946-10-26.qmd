@@ -4,7 +4,7 @@
 
 <br>
 
-> {{< var thomash >}} and Karp come to my aid in Brownsville. - **{{< var mogu >}}'s** renowned song {{< var minha >}}^[מן המצר; This song title is derived from [Pslam 118](https://www.myjewishlearning.com/article/min-ha-meitzar-calling-to-god-from-the-depths/).]
+> {{< var thomash >}} and Karp come to my aid in Brownsville. -- **{{< var mogu >}}'s** renowned song {{< var minha >}}^[מן המצר; This song title is derived from [Pslam 118](https://www.myjewishlearning.com/article/min-ha-meitzar-calling-to-god-from-the-depths/).]
 
 The whole Pesach {{< var yontif >}} came and went, and not a single Jew came to our theater. And after the {{< var yontif >}} was over, we came up with a new idea for how to attract the Jewish community of Brownsville to come to our performances in Parmer's Casino: we let it be known that we would play theater for free...
 

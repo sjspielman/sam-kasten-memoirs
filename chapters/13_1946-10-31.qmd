@@ -4,7 +4,7 @@
 
 <br>
 
-> I pair up with {{< var abba-full >}} to play theater in Boston and get a big surprise. - When the famous [{{< var gest-full >}}](https://en.wikipedia.org/wiki/Morris_Gest) from Broadway was a messenger-boy in the Yiddish theater.
+> I pair up with {{< var abba-full >}} to play theater in Boston and get a big surprise. -- When the famous [{{< var gest-full >}}](https://en.wikipedia.org/wiki/Morris_Gest) from Broadway was a messenger-boy in the Yiddish theater.
 
 
 What should not be said about the well-known Yiddish actors of those times^[Something is missing in translation here. Perhaps the previous sentence has a different connotation.] - one thing, however, must be added, and that is that they did not limit themselves to New York as the only city where you could play Yiddish theater. They thought that in America, there are endless cities with Jews and Yiddish theater should be played there not only after the end of the season, but during the season, in New York. Exactly how they did in New York.
