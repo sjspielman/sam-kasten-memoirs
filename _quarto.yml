@@ -31,6 +31,7 @@ book:
         - chapters/16_1946-11-09.qmd
         - chapters/17_1946-11-14.qmd
         - chapters/18_1946-11-16.qmd
+        - chapters/19_1946-11-21.qmd
     - part: "Appendices"
       chapters:
         - appendices/people.qmd
