@@ -104,10 +104,10 @@ _Lekiskon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
 - _{{< var goldfaden-full >}}_
   - [Wikipedia](href="https://en.wikipedia.org/wiki/Abraham_Goldfaden)
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/G/goldfaden-abraham.htm)
-- _Jacob Gordin_
+- _{{< var gordin-full >}}_
   - [Wikipedia](https://en.wikipedia.org/wiki/Jacob_Gordin)
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/G/gordin-jacob.htm)
-- _Joseph Lateiner_
+- _{{< var lateiner-full >}}_
   - [Wikipedia](https://en.wikipedia.org/wiki/Joseph_Lateiner)
 - _Nahum Meïr Schaikewitz^[_Also a novelist more generally_], aka_ {{< var shomer >}}
   - [Wikipedia](https://en.wikipedia.org/wiki/Nahum_Meir_Schaikewitz)
