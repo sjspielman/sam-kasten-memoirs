@@ -24,13 +24,13 @@ _Lekiskon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/B/bekerman-simeon.htm)
 - _Charlie Cohan_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/C/cohan-charlie.htm)
-- _Jacob ("Jakele") Cone_
+- _Jacob ("Jakele") {{< var jakele-last >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/C/cone-jacob.htm)
-- _Jacob Frank_
+- _{{< var frank-full >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/F/frank-jacob.htm)
 - _Feyvele Fridman_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/F/fridman-feyvele.htm)
-- _Jacob Gartenstein_
+- _{{< var garten-full >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/G/gartenstein-jacob.htm)
   - [Contested House of Representatives election case](https://www.amazon.com/Contested-Election-Jacob-Gartenstein-Adolph-Sabath/dp/0265117615)
 
@@ -45,22 +45,24 @@ _Lekiskon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/H/heine-chaimovich-morris.htm)
 - _{{< var karp-full >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/K/karp-max.htm)
-- _Keni Lipzin_
+- _{{< var keni-full >}}_
   - [Wikipedia](https://en.wikipedia.org/wiki/Keni_Liptzin)
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/L/lipzin-keni.htm)
-- _Rudolph Marks_
+- _{{< var marx-full >}}_
   - [Wikipedia](https://en.wikipedia.org/wiki/Rudolph_Marks)
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/M/marks-rudolph.htm)
 - _Lazar Mitnick_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/M/mitnick-leiser.htm)
-- _Sigmund ("Zelig") Mogulesko_
+- _Sigmund ("Zelig") {{< var mogu >}}_
   - [Wikipedia](https://en.wikipedia.org/wiki/Sigmund_Mogulesko)
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/M/mogulesko-sigmund.htm)
+- _{{< var clara-rafalo >}}_
+  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/R/rafalo-clara.htm)
 - _Elias Rothstein_
   - [Lekiskon](https://www.museumoffamilyhistory.com/yt/lex/R/rothstein-elias.htm)
-- _Joseph Rumshinsky_
+- _{{< var rumshinsky-full >}}_
   - [Wikipedia](https://en.wikipedia.org/wiki/Joseph_Rumshinsky)
-- _Abba Schoengold ("Yaffa Zahav", Beautiful Gold)_
+- _{{< var abba-full >}} ("Yaffa Zahav", Beautiful Gold)_
   - [Wikipedia](https://en.wikipedia.org/wiki/Abba_Schoengold)
 
 :::
@@ -141,5 +143,5 @@ _Lekiskon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
 - _Max Staller_^[He was the manager of Sam's acting troupe in Philadelphia, the "Star Specialty Club," in the late 1880s-early 1890s.]
   - [Find a Grave](https://www.findagrave.com/memorial/33506807/max-staller)
   - Article in _The Jewish Exponent_: ["History's Lessons: Jewish Anarchist Doctors Cared for Philadelphia's Immigrants"](https://www.jewishexponent.com/historys-lessons-jewish-anarchist-doctors-cared-for-philadelphias-immigrants/)
-- _Morris Winchevsky_
+- _{{< var winch-full >}}_
   - [Wikipedia](https://en.wikipedia.org/wiki/Morris_Winchevsky)
