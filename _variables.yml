@@ -102,9 +102,11 @@ berta: Berta Tanzman
 abba-full: Abba Schoengold
 schoen: Schoengold
 
+himmelfarb: Himmelfarb
+#himmelfarb-full: qqch Himmelfarb # is this used?
 
-laiteiner-full: Joseph Lateiner
-laiteiner: Lateiner
+lateiner-full: Joseph Lateiner
+lateiner: Lateiner
 rumshinsky-full: Joseph Rumshinsky
 shomer: Shomer
 
@@ -130,6 +132,7 @@ heine-full: Moishe Heine-Chaimovich
 winch: Winchevsky
 
 jakele-full: Jakele Cone
+jakele-last: Cone
 frank-full: Jacob Frank
 frank: Frank
 suzi: Suzi
