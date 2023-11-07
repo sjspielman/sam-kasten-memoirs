@@ -38,6 +38,7 @@ bshtika: \"B'shtika\"
 wiseson: \"The Wise Son from the Four Questions\"
 purim-nes: \"The Miracle of Purim\"
 bobkelach: \"Bobkelach\"
+zions-daughters: \"Lament of Zion's daughters\"
 
 ## ROLES --------------------------------------------
 
@@ -54,6 +55,7 @@ hostmach: Hotsmakh
 kuni-lemel: Kuni Lemel
 kalman-kroch: Kalman Kroch
 bobele: Bobele
+bar-kochba-person: Bar Kokhba # role and person...
 
 ## PEOPLE  -------------------------------------------
 
@@ -283,3 +285,4 @@ yimakh-shemo: _yimokh sh'mo_
 kapara: _kappore_
 
 rebbeinu-shel-olam: _rebbeinu shel olem_
+khurbn: _khurbn_
