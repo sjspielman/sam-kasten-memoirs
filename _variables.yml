@@ -28,6 +28,8 @@ crownprince: _The Crown Price of Jerusalem_
 alexander-long: _Alexander, or the Crown Price of Jerusalem_
 honor: _Honor thy Father_
 jewish-priest: _The Jewish Priest_
+blimele: _Blimele_
+blimele-other: _The Pearl of Warsaw, or the Count and the Jew_
 
 ## SONGS ------------------------------------------
 
@@ -38,6 +40,8 @@ bshtika: \"B'shtika\"
 wiseson: \"The Wise Son from the Four Questions\"
 purim-nes: \"The Miracle of Purim\"
 bobkelach: \"Bobkelach\"
+zions-daughters: \"Lament of Zion's daughters\"
+shepherd: \"The Little Shepherd\"
 
 ## ROLES --------------------------------------------
 
@@ -54,6 +58,7 @@ hostmach: Hotsmakh
 kuni-lemel: Kuni Lemel
 kalman-kroch: Kalman Kroch
 bobele: Bobele
+bar-kochba-person: Bar Kokhba # role and person...
 
 ## PEOPLE  -------------------------------------------
 
@@ -283,3 +288,4 @@ yimakh-shemo: _yimokh sh'mo_
 kapara: _kappore_
 
 rebbeinu-shel-olam: _rebbeinu shel olem_
+khurbn: _khurbn_
