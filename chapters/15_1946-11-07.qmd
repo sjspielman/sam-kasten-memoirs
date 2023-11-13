@@ -6,9 +6,9 @@
 
 > The fire in the Yiddish theater in Baltimore in which 22 people were killed. -- The comedian Tanzman who could not dance^[This is a pun - Tanzman means "dance man."].
 
-In the operetta {{< var meilitz >}} that we were playing in Boston, the character I played was sent to prison and put in shackles, and from there I sang the song ["The Moral."](https://www.loc.gov/resource/ihas.200185539.0)^[I suspect there is a particular Yiddish connotation to the world "moral"]
+In the operetta {{< var meilitz >}} that we were playing in Boston, the character I played was sent to prison and put in shackles, and from there I sang the song [{{< var moral >}}](https://www.loc.gov/resource/ihas.200185539.0)^[I suspect there is a particular Yiddish connotation to the world "morality"].
 
-> ^[Translation by me, with (?) indicating lines I'm very unsure of.] The moral remembers for a long time
+> ^[Translation by me, with (?) indicating lines I'm very unsure of.] Morality remembers for a long time
 >
 > It leaves trace upon trace,
 >
@@ -30,9 +30,9 @@ In the operetta {{< var meilitz >}} that we were playing in Boston, the characte
 >
 > Oh, it will lie in your memory,
 >
-> the iron moral.
+> the iron morality.
 >
-> Yes, the moral, the moral,
+> Yes, morality, morality,
 >
 > Does good everywhere.
 

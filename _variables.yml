@@ -32,9 +32,11 @@ blimele: _Blimele_
 blimele-other: _The Pearl of Warsaw, or the Count and the Jew_
 mirele-efros: _Mirele Efros_
 kiddush-hashem: _Kiddush Hashem, or the Jewish minister_
+medea: _Medea_
 
 ## SONGS ------------------------------------------
 
+moral: \"Morality\"
 minha: \"Min Hameiztar\"
 raisins: \"Rozhinkes mit Mandlen\"
 yankele: \"Yankele\"
@@ -149,7 +151,8 @@ heine-full: Moishe Heine-Chaimovich
 winch: Winchevsky
 winch-full: Morris Winchevsky
 
-keni-full: Keni Lipzin
+keni-full: Keni Liptzin
+keni: Liptzin
 
 jakele-full: Jakele Cone
 jakele-last: Cone
