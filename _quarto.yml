@@ -46,5 +46,6 @@ format:
     sidebar-width: 600px
     fontsize: 14px;
 
-website:
-  search: false
+theme:
+  light: flatly
+  dark: darkly
