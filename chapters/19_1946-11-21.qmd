@@ -16,7 +16,7 @@ But where could we get a little money for the necessary expenses?
 
 -- And we'll also need to sell our coats. - {{< var frank >}} replied.
 
-This made us laugh because he, the "red," as we called Frank^[He was a redhead], wore such a shabby coat that no one would given him even three bucks for it^[Not 100% confident in the exact wording of this translation, but the concept is correct.]...
+This made us laugh because he, {{< var der-roiter >}}^["the red one"; he was a redhead] as we called Frank, wore such a shabby coat that no one would given him even three bucks for it^[Not 100% confident in the exact wording of this translation, but the concept is correct.]...
 
 Then we sold the watches and some other things that had a value, and this gave us the opportunity to put matters into our own hands. And after when we put a down payment on the hall and already had printed tickets, we went back to Mr. {{< var himmelfarb >}} with a request - indeed, the same request that we had had for him before:
 

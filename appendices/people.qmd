@@ -88,6 +88,8 @@ _Lekiskon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/V/vakhtel-yosef.htm)
 - _{{< var weinb-full >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/W/weinblatt-israel.htm)
+- _{{< var r-weintraub >}}_
+  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/W/weintraub-rebecca.htm)
 - _{{< var s-weintraub >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/W/weintraub-sigmund.htm)
 - _Boaz (Bernard) Young_
