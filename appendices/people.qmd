@@ -71,7 +71,7 @@ _Lekiskon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
   - [Wikipedia](https://en.wikipedia.org/wiki/Joseph_Rumshinsky)
 - _{{< var abba-full >}} ("Yaffa Zahav", Beautiful Gold)_
   - [Wikipedia](https://en.wikipedia.org/wiki/Abba_Schoengold)
-- _{{< var simonoff-full >}}
+- _{{< var simonoff-full >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/S/simonoff-moshe.htm)
 
 :::
