@@ -33,6 +33,7 @@ blimele-other: _The Pearl of Warsaw, or the Count and the Jew_
 mirele-efros: _Mirele Efros_
 kiddush-hashem: _Kiddush Hashem, or the Jewish minister_
 medea: _Medea_
+zhydovka: _Zhydovka_
 
 ## SONGS ------------------------------------------
 
@@ -46,6 +47,7 @@ purim-nes: \"The Miracle of Purim\"
 bobkelach: \"Bobkelach\"
 zions-daughters: \"Lament of Zion's daughters\"
 shepherd: \"The Little Shepherd\"
+rachel: \"Rakhil, ti Dotsch Moya\"
 
 ## ROLES --------------------------------------------
 
@@ -84,6 +86,8 @@ itzhik-gedolia: Itzhik Gedolia
 katik: _Katik_
 shmuel-pekelis: Shmuel Pekelis
 shmuel-yossel: Shmuel Yossel
+
+Yehiel: Yehiel
 
 vakhtel-full: Yosef Vakhtel
 abramovich-m-full: Mendele Abramovich
@@ -180,10 +184,14 @@ vasil: Vasilkov
 vasilch: Vasilyvshchyne
 rybinka: Rybinka
 rybinker: Rybinker
+rokitna: Rokinta
+rokitner: Rokinter
 kyiv: Kyiv
 Makariv: Makariv
 solovinke: Solovinke
 zhitomir: Zhitomir
+talne: Talne
+arkitna: Arkitna
 
 
 ## YIDDISH -------------------------------------------------
@@ -305,3 +313,4 @@ kapara: _kappore_
 rebbeinu-shel-olam: _rebbeinu shel olem_
 khurbn: _khurbn_
 der-roiter: _\"der royter\"_
+chetzi-goyishe: _khozti-goyishe_
