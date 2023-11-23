@@ -14,6 +14,8 @@ _Lekiskon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
 
 - _Mendele Abramovich_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/A/abramovich-max.htm)
+- _{{< var ivan-abramsom >}}_
+  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/A/abramson-ivan.htm)
 - _{{< var jacob-adler >}} ("Nesher Hagadol", the Great Eagle)_
   - [Wikipedia](https://en.wikipedia.org/wiki/Jacob_Pavlovich_Adler)
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/A/adler-jacob-p.htm)
@@ -22,6 +24,8 @@ _Lekiskon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/A/adler-sarah.htm)
 - _Shimon Beckerman_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/B/bekerman-simeon.htm)
+- _{{< var berl-b >}}_
+  - [Leksison](https://www.museumoffamilyhistory.com/yt/lex/B/bernstein-berl.htm)
 - _Charlie Cohan_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/C/cohan-charlie.htm)
 - _Jacob ("Jakele") {{< var jakele-last >}}_
@@ -67,6 +71,8 @@ _Lekiskon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
   - [Wikipedia](https://en.wikipedia.org/wiki/Joseph_Rumshinsky)
 - _{{< var abba-full >}} ("Yaffa Zahav", Beautiful Gold)_
   - [Wikipedia](https://en.wikipedia.org/wiki/Abba_Schoengold)
+- _{{< var simonoff-full >}}
+  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/S/simonoff-moshe.htm)
 
 :::
 
