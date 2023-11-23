@@ -33,6 +33,9 @@ _Lekiskon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
 - _{{< var garten-full >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/G/gartenstein-jacob.htm)
   - [Contested House of Representatives election case](https://www.amazon.com/Contested-Election-Jacob-Gartenstein-Adolph-Sabath/dp/0265117615)
+- _{{< var glickman-full >}}_
+  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/G/glickman-elias.htm)
+
 
 :::
 

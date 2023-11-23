@@ -110,6 +110,9 @@ r-weintraub: Rivke Weintraub
 weinb-full: Israel Weinblatt
 weinb: Weinblatt
 
+glickman: Glickman
+glickman-full: Elias Glickman
+
 tanzman-full: Avrom Itzhik Tanzman
 berta: Berta Tanzman
 
@@ -132,6 +135,7 @@ shomer: Shomer
 goldfaden-full: Abraham Goldfaden
 goldfaden: Goldfaden
 medvedev: Medvedev
+max: Max Medvedev
 medvedev-full: Mikhail Efimovich Medvedev
 medvedev-yiddish: Meïr Yefimovich Bernshtein
 
@@ -179,11 +183,13 @@ rybinker: Rybinker
 kyiv: Kyiv
 Makariv: Makariv
 solovinke: Solovinke
+zhitomir: Zhitomir
 
 
 ## YIDDISH -------------------------------------------------
 chevreh: _khevreh_
 Chevreh: _Khevreh_
+schlep: schlep
 schlepped: _schlepped_
 schlepping: _schlepping_
 possessor: _possessor_
