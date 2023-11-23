@@ -33,6 +33,7 @@ blimele-other: _The Pearl of Warsaw, or the Count and the Jew_
 mirele-efros: _Mirele Efros_
 kiddush-hashem: _Kiddush Hashem, or the Jewish minister_
 medea: _Medea_
+zhydovka: _Zhydovka_
 
 ## SONGS ------------------------------------------
 
@@ -46,6 +47,7 @@ purim-nes: \"The Miracle of Purim\"
 bobkelach: \"Bobkelach\"
 zions-daughters: \"Lament of Zion's daughters\"
 shepherd: \"The Little Shepherd\"
+rachel: \"Rakhil, ti Dotsch Moya\"
 
 ## ROLES --------------------------------------------
 
@@ -85,6 +87,8 @@ katik: _Katik_
 shmuel-pekelis: Shmuel Pekelis
 shmuel-yossel: Shmuel Yossel
 
+Yehiel: Yehiel
+
 vakhtel-full: Yosef Vakhtel
 abramovich-m-full: Mendele Abramovich
 fridman-full: Feyvele Fridman
@@ -110,6 +114,9 @@ r-weintraub: Rivke Weintraub
 weinb-full: Israel Weinblatt
 weinb: Weinblatt
 
+glickman: Glickman
+glickman-full: Elias Glickman
+
 tanzman-full: Avrom Itzhik Tanzman
 berta: Berta Tanzman
 
@@ -131,6 +138,8 @@ shomer: Shomer
 
 goldfaden-full: Abraham Goldfaden
 goldfaden: Goldfaden
+medvedev: Medvedev
+max: Max Medvedev
 medvedev-full: Mikhail Efimovich Medvedev
 medvedev-yiddish: Meïr Yefimovich Bernshtein
 
@@ -175,14 +184,20 @@ vasil: Vasilkov
 vasilch: Vasilyvshchyne
 rybinka: Rybinka
 rybinker: Rybinker
+rokitna: Rokinta
+rokitner: Rokinter
 kyiv: Kyiv
 Makariv: Makariv
 solovinke: Solovinke
+zhitomir: Zhitomir
+talne: Talne
+arkitna: Arkitna
 
 
 ## YIDDISH -------------------------------------------------
 chevreh: _khevreh_
 Chevreh: _Khevreh_
+schlep: schlep
 schlepped: _schlepped_
 schlepping: _schlepping_
 possessor: _possessor_
@@ -298,3 +313,4 @@ kapara: _kappore_
 rebbeinu-shel-olam: _rebbeinu shel olem_
 khurbn: _khurbn_
 der-roiter: _\"der royter\"_
+chetzi-goyishe: _khozti-goyishe_

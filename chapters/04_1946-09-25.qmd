@@ -39,13 +39,13 @@ And from that time I remember something, which was strongly imprinted in my memo
 
 In a hurry, he grabbed his {{< var kapote >}} and went out quickly, and we all ran after him, wondering where he was taking us - we were afraid. We followed him and none of us said a word the whole time. And so we went until he led us all into the {{< var beit-midrash >}}^["Beit Midrash" meaning "house of study;" place where Torah is studied] and there we saw something I will never forget. 
 
-In the middle of a group of inflamed and very upset Jews stood a frightened man, Meir the poet, who at that time used to go to a nearby town to pray on {{< var shabes >}} in front of the pulpit. We knew that he was the son of the {{< var rybinker >}}^[adjective, of {{< var rybinka >}}] rabbi, and that the {{< var rybinker >}} butcher, Yehial, was his brother. He was a very young man, Meir, and he always behaved as if he had no fear of anyone in the world. This time, however, he stood trembling in fear, and the enraged Jews shouted at him, called him the worst names, and one of them, an angry Jew, slapped him across the face.
+In the middle of a group of inflamed and very upset Jews stood a frightened man, Meir the synagogue choirboy, who at that time used to go to a nearby town to pray on {{< var shabes >}} in front of the pulpit. We knew that he was the son of the {{< var rokitner >}}^[adjective, of [{{< var rokinta >}}](https://en.wikipedia.org/wiki/Rokytne,_Rivne_Oblast)] rabbi, and that the {{< var rybinker >}} butcher, {{< var Yehiel >}}, was his brother. He was a very young man, Meir, and he always behaved as if he had no fear of anyone in the world. This time, however, he stood trembling in fear, and the enraged Jews shouted at him, called him the worst names, and one of them, an angry Jew, slapped him across the face.
 
 -- You scoundrel! You {{< var okher-yisrael >}}^[derogatory term for someone who has greatly sinned. The phrase is of Talmudic origin and literally means "one who sullies Israel"]!
 
 But this was not enough for them, so they also forced him down and lashed him. And it didn't help to wrestle with them; Meir could not stand alone against so many people and he had to accept the punishment that was given to him.
 
-I did not know why the poet received such punishment. The other students in {{< var shmuel-yossel >}}'s {{< var heder >}} did not know either. Only when they released him and handed him over to the hands of his brother Yehiel, the butcher of {{< var rybinka >}}, did we find out that he was accused of some very big crime, a sin against God. That's what they said in the {{< var shtetl >}}. They also said that his friend Leibish was also involved in the crime. The {{< var rybinker >}} rabbi's son had "modernized" and was out for "bad culture"^[specifically implies he has heavily assimilated, left the orthodoxy]. Leibish should have been given the same punishment as befell the poet, but he ran away and nobody knew where he went. 
+I did not know why the choirboy received such punishment. The other students in {{< var shmuel-yossel >}}'s {{< var heder >}} did not know either. Only when they released him and handed him over to the hands of his brother {{< var Yehiel >}}, the butcher of {{< var rybinka >}}, did we find out that he was accused of some very big crime, a sin against God. That's what they said in the {{< var shtetl >}}. They also said that his friend Leibish was also involved in the crime. The {{< var rybinker >}} rabbi's son had "modernized" and was out for "bad culture"^[specifically implies he has heavily assimilated, left the orthodoxy]. Leibish should have been given the same punishment as befell the choirboy, but he ran away and nobody knew where he went. 
 
 And meanwhile, the whole town went "upside-down"^["topsy-turvy"]. Everywhere people talked about this. And my Rabbi {{< var shmuel-yossel >}} was in "seventh heaven"^[This is in fact a Jewish phrase/concept. In Judaism, there are seven levels of heaven.] and he did not miss any opportunity to remind the students in the classroom of what they had seen.
 
@@ -53,13 +53,13 @@ And meanwhile, the whole town went "upside-down"^["topsy-turvy"]. Everywhere peo
 
 This is why he had led all of us to the {{< var beit-midrash >}}: He wanted us to see it with our own eyes and to remember it...
 
-After that, Meir the poet was too ashamed to show his face in the street; he left {{< var rybinka >}}, and he never came back there again...
+After that, Meir the choirboy was too ashamed to show his face in the street; he left {{< var rybinka >}}, and he never came back there again...
 But heard of him again? Yes, indeed we heard a lot.
 
 
 ::: {layout-ncol="2"}
 
-People must have liked him a lot, because he, Meir the poet, the son of the {{< var rybinka >}} rabbi, later became a famous opera singer on the Russian stage. And he called himself [_Medvedev_](https://www.centropa.org/en/photo/mikhail-efimovich-medvedev-meer-haimovich-bernshtein-stage)^[Mikhail Efimovich Medvedev, né Meir Haimovich/Yefimiovich(?) Bernshtein.] even then...
+People must have liked him a lot, because he, Meir the choirboy, the son of the {{< var rybinka >}} rabbi, later became a famous opera singer on the Russian stage. And he called himself [_Medvedev_](https://www.centropa.org/en/photo/mikhail-efimovich-medvedev-meer-haimovich-bernshtein-stage)^[Mikhail Efimovich Medvedev, né Meir Haimovich/Yefimiovich(?) Bernshtein.] even then...
 However, he did not forget when they beat him in the synagogue when he was caught for that offense. And when I met him, many years later, in America, we both laughed a lot when we talked about it. But I will tell you about this when I reach that point...
 
 ![Photo of Medvedev, early 1900s. [Image source.](https://www.centropa.org/en/photo/portrait-mikhail-efimovich-medvedev-meer-haimovich-bernshtein)](../img/medvedev.jpg){width=2.5in}
