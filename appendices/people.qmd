@@ -11,7 +11,6 @@ _Lekiskon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
 ::: {.column width="30%"}
 
 
-
 - _Mendele Abramovich_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/A/abramovich-max.htm)
 - _{{< var ivan-abramsom >}}_
@@ -30,16 +29,12 @@ _Lekiskon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/C/cohan-charlie.htm)
 - _Jacob ("Jakele") {{< var jakele-last >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/C/cone-jacob.htm)
+- _Lisa Einhorn_
+  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/E/einhorn-lisa.htm)
 - _{{< var frank-full >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/F/frank-jacob.htm)
 - _Feyvele Fridman_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/F/fridman-feyvele.htm)
-- _{{< var garten-full >}}_
-  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/G/gartenstein-jacob.htm)
-  - [Contested House of Representatives election case](https://www.amazon.com/Contested-Election-Jacob-Gartenstein-Adolph-Sabath/dp/0265117615)
-- _{{< var glickman-full >}}_
-  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/G/glickman-elias.htm)
-
 
 :::
 
@@ -48,6 +43,11 @@ _Lekiskon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
 
 ::: {.column width="30%"}
 
+- _{{< var garten-full >}}_
+  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/G/gartenstein-jacob.htm)
+  - [Contested House of Representatives election case](https://www.amazon.com/Contested-Election-Jacob-Gartenstein-Adolph-Sabath/dp/0265117615)
+- _{{< var glickman-full >}}_
+  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/G/glickman-elias.htm)
 - _{{< var heine-full >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/H/heine-chaimovich-morris.htm)
 - _{{< var karp-full >}}_
@@ -55,6 +55,8 @@ _Lekiskon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
 - _{{< var keni-full >}}_
   - [Wikipedia](https://en.wikipedia.org/wiki/Keni_Liptzin)
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/L/lipzin-keni.htm)
+- Joe Kessler
+  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/K/kessler-joseph.htm)
 - _{{< var marx-full >}}_
   - [Wikipedia](https://en.wikipedia.org/wiki/Rudolph_Marks)
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/M/marks-rudolph.htm)
@@ -65,15 +67,10 @@ _Lekiskon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/M/mogulesko-sigmund.htm)
 - _{{< var clara-rafalo >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/R/rafalo-clara.htm)
-- _Elias Rothstein_
+- _Elias {{< var rothstein >}}_
   - [Lekiskon](https://www.museumoffamilyhistory.com/yt/lex/R/rothstein-elias.htm)
 - _{{< var rumshinsky-full >}}_
   - [Wikipedia](https://en.wikipedia.org/wiki/Joseph_Rumshinsky)
-- _{{< var abba-full >}} ("Yaffa Zahav", Beautiful Gold)_
-  - [Wikipedia](https://en.wikipedia.org/wiki/Abba_Schoengold)
-- _{{< var simonoff-full >}}_
-  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/S/simonoff-moshe.htm)
-
 :::
 
 ::: {.column width="5%"}
@@ -81,6 +78,12 @@ _Lekiskon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
 
 ::: {.column width="30%"}
 
+- _Rae Shneyer_
+  - [Lekiskon](https://www.museumoffamilyhistory.com/yt/lex/S/shneyer-rae.htm)
+- _{{< var abba-full >}} ("Yaffa Zahav", Beautiful Gold)_
+  - [Wikipedia](https://en.wikipedia.org/wiki/Abba_Schoengold)
+- _{{< var simonoff-full >}}_
+  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/S/simonoff-moshe.htm)
 - _{{< var tanzman-full >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/T/tanzman-avraham-itzhak.htm)
 - _Berta Tanzman_
