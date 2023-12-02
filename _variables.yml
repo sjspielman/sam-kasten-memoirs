@@ -128,7 +128,6 @@ abba-full: Abba Schoengold
 schoen: Schoengold
 
 himmelfarb: Himmelfarb
-#himmelfarb-full: qqch Himmelfarb # is this used?
 
 gordin-full: Jacob Gordin
 gordin: Gordin
@@ -189,6 +188,10 @@ bern: Bernstein
 berl-b: Berl Bernstein
 berele: Berele
 b-hope: \"Berele Hope\"
+
+yosele: Yosele
+edelstein: Edelstein
+edelstein-full: Yosele Edelstein
 
 ## PLACES --------------------------------------------
 zat: Zatishiye

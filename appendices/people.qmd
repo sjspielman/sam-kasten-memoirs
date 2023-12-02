@@ -29,6 +29,8 @@ _Lekiskon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/C/cohan-charlie.htm)
 - _Jacob ("Jakele") {{< var jakele-last >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/C/cone-jacob.htm)
+- _Joseph ({{< var yosele >}}) {{< var edelstein >}}_
+  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/E/edelstein-joseph.htm)
 - _Lisa Einhorn_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/E/einhorn-lisa.htm)
 - _{{< var frank-full >}}_
