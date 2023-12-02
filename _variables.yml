@@ -4,7 +4,7 @@ forverts: _Forverts_
 freiarb: _Fraye Arbeter Shtime_
 brookeagle: _The Brookyn Eagle_
 der-emes: _Der Emes_
-pok: _Der Yudisher Pok_
+pok: _Der Yidisher Pok_
 
 ## PLAYS -----------------------------------------
 shulamith: _Shulamith_
@@ -66,6 +66,7 @@ kuni-lemel: Kuni Lemel
 kalman-kroch: Kalman Kroch
 bobele: Bobele
 bar-kochba-person: Bar Kokhba # role and person...
+zirele: Zirele
 
 ## PEOPLE  -------------------------------------------
 
@@ -107,7 +108,7 @@ nesher: _Nesher Hagadol_
 
 mogu-full: Sigmond Mogulesko
 mogu: Mogulesko
-zeligel: Zeligel
+zeligel: Zeligel # also a role in Blimele
 zelig: Zelig
 zelig-full: Zelig Mogulesko
 
@@ -182,9 +183,12 @@ garten: Gartenstein
 
 simonoff: Simonoff
 simonoff-full: Moishe Simonoff
-ivan-abramsom: Ivan Abramson
+ivan-abramson: Ivan Abramson
+abramson: Abramson
+bern: Bernstein
 berl-b: Berl Bernstein
 berele: Berele
+b-hope: \"Berele Hope\"
 
 ## PLACES --------------------------------------------
 zat: Zatishiye

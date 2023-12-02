@@ -13,7 +13,7 @@ _Lekiskon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
 
 - _Mendele Abramovich_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/A/abramovich-max.htm)
-- _{{< var ivan-abramsom >}}_
+- _{{< var ivan-abramson >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/A/abramson-ivan.htm)
 - _{{< var jacob-adler >}} ("Nesher Hagadol", the Great Eagle)_
   - [Wikipedia](https://en.wikipedia.org/wiki/Jacob_Pavlovich_Adler)
