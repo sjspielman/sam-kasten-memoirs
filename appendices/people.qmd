@@ -33,6 +33,8 @@ _Lekiskon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/E/edelstein-joseph.htm)
 - _Lisa Einhorn_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/E/einhorn-lisa.htm)
+- _{{< var feinman-full >}}_ 
+  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/F/feinman-sigmund.htm)
 - _{{< var frank-full >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/F/frank-jacob.htm)
 - _Feyvele Fridman_

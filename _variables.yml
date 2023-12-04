@@ -35,6 +35,8 @@ mirele-efros: _Mirele Efros_
 kiddush-hashem: _Kiddush Hashem, or the Jewish minister_
 medea: _Medea_
 zhydovka: _Zhydovka_
+kol-nidre: _Kol Nidre_
+devil: _God, Man, and Devil_
 
 ## SONGS ------------------------------------------
 
@@ -115,7 +117,7 @@ zelig-full: Zelig Mogulesko
 weintraub: Weintraub
 s-weintraub: Sigmund Weintraub
 r-weintraub: Rivke Weintraub
-weinb-full: Israel Weinblatt
+weinb-full: Isroel Weinblatt
 weinb: Weinblatt
 
 glickman: Glickman
@@ -176,6 +178,7 @@ suzi-full: Suzi Schafer
 bessie: Bessie Thomashefsky
 boris: Boris Thomashefsky
 thomash: Thomashefsky
+mike: Mike Thomashefsky
 
 garten-full: Gartenstein
 garten: Gartenstein
@@ -186,12 +189,14 @@ ivan-abramson: Ivan Abramson
 abramson: Abramson
 bern: Bernstein
 berl-b: Berl Bernstein
-berele: Berele
 b-hope: \"Berele Hope\"
 
 yosele: Yosele
 edelstein: Edelstein
-edelstein-full: Yosele Edelstein
+edelstein-full: Yosl Edelstein
+
+feinman-full: Sigmund Feinman
+feinman: Feinman
 
 ## PLACES --------------------------------------------
 zat: Zatishiye
