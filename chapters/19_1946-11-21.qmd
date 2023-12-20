@@ -12,7 +12,7 @@ With the few pennies we still had, we went to look for a suitable hall where we 
 
 But where could we get a little money for the necessary expenses?
 
--- Here's a thought! - I said. - Let's sell out wristwatches...
+-- Here's a thought! - I said. - Let's sell our wristwatches...
 
 -- And we'll also need to sell our coats. - {{< var frank >}} replied.
 
@@ -79,10 +79,7 @@ He asked us if we could play {{< var gordin-full >}}'s piece {{< var kinglear >}
 
 And we relied on him, because we really saw that you could rely on such a {{< var mensch >}} as Mr. {{< var himmelfarb >}}...
 
-And {{< var jakele-full >}}
-
-
-And Jakel Cohen was triumphant:
+And {{< var jakele-full >}} was triumphant:
 
 -- {{< var Nu >}}, {{< var chevreh >}}, - he said, - you see now that I was right, eh?
 
