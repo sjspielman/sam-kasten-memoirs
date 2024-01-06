@@ -62,7 +62,7 @@ He did not have the slightest doubt that this would indeed be the case. And so t
 
 ::: {layout-ncol="2"}
 
-![This article appeared in {{< var brookeagle >}} on January 8th, 1893, and announced the opening of Parmer's Casino, mentioning "Samuel Caston" as playing the lead comedian in their first show, _Honor thy Father and Mother_. [Source](https://www.newspapers.com/image/50378460/)](../img/newspaper_clippings/1893-01-08_brooklyneagle.jpg){width="3in"}
+![This article appeared in {{< var brookeagle >}} on January 8th, 1893, and announced the opening of Parmer's Casino, mentioning "Samuel Caston" as playing the lead comedian in their first show, _Honor thy Father and Mother_. [Source](https://www.newspapers.com/image/50378460/)](../img/newspaper_clippings/1893-01-08_brooklyneagle.jpg){width="3.5in"}
 
 -- First of all, - he said, - when it comes to a theater, where to play, you don't have to dizzy yourself^[implying, you don't have to go crazy looking for somewhere]. There is a Jew in Brownsville, whose name is Parmer, and he has built a casino, truly something first class. He built his casino on Pitkin Avenue, and that in and of itself is so small thing. Now's here's something to really persuade you - Pitkin Avenue!... That's one down. And now the other: you will get ten dollars a week!<br><br>
 When I heard this, I didn't believe my own ears.<br><br>
