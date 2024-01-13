@@ -21,6 +21,8 @@ _Lekiskon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
 - _{{< var sara-adler >}}_
   - [Wikipedia](https://en.wikipedia.org/wiki/Sara_Adler)
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/A/adler-sarah.htm)
+- _David Baratz_
+  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/B/baratz-david.htm)
 - _Shimon Beckerman_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/B/bekerman-simeon.htm)
 - _{{< var berl-b >}}_
@@ -50,10 +52,18 @@ _Lekiskon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
 - _{{< var garten-full >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/G/gartenstein-jacob.htm)
   - [Contested House of Representatives election case](https://www.amazon.com/Contested-Election-Jacob-Gartenstein-Adolph-Sabath/dp/0265117615)
+- _{{< var gilrod-full >}}_
+  - [Wikipedia](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Louis_Gilrod)
+  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/G/gilrod-louie.htm)
 - _{{< var glickman-full >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/G/glickman-elias.htm)
 - _{{< var heine-full >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/H/heine-chaimovich-morris.htm)
+- _Jacob Katzman_
+  -[Leksikon](https://www.museumoffamilyhistory.com/yt/lex/K/katzman-jacob.htm)
+- _{{< var lillian-full >}}_
+  - [Wikipedia](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Isidore_Lillian)
+  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/L/lillian-isidore.htm)
 - _{{< var karp-full >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/K/karp-max.htm)
 - _{{< var keni-full >}}_
@@ -64,6 +74,10 @@ _Lekiskon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
 - _{{< var marx-full >}}_
   - [Wikipedia](https://en.wikipedia.org/wiki/Rudolph_Marks)
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/M/marks-rudolph.htm)
+- _David_ _{{< var meyero >}}
+  - [Wikipedia](https://en.wikipedia.org/wiki/David_Meyerowitz)
+  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/M/meyerowitz-david.htm)
+  - [Milken Archive](https://www.milkenarchive.org/artists/view/david-meyerowitz)
 - _Lazar Mitnick_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/M/mitnick-leiser.htm)
 - _Sigmund ("Zelig") {{< var mogu >}}_
@@ -71,6 +85,8 @@ _Lekiskon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/M/mogulesko-sigmund.htm)
 - _{{< var clara-rafalo >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/R/rafalo-clara.htm)
+- _{{< var reingold-full >}}_^[Interestingly, he does not appear to be featured in _any_ volume of the Leksikon.]
+  - [Wikipedia](https://en.wikipedia.org/wiki/Isaac_Reingold)
 - _Elias {{< var rothstein >}}_
   - [Lekiskon](https://www.museumoffamilyhistory.com/yt/lex/R/rothstein-elias.htm)
 - _{{< var rumshinsky-full >}}_
@@ -88,6 +104,9 @@ _Lekiskon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
   - [Wikipedia](https://en.wikipedia.org/wiki/Abba_Schoengold)
 - _{{< var simonoff-full >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/S/simonoff-moshe.htm)
+- _Solomon_ _{{< var smulo >}}
+  - [Wikipedia](https://en.wikipedia.org/wiki/Solomon_Smulewitz)
+  - [Milken Archive](https://www.milkenarchive.org/artists/view/solomon-smulevitz)
 - _{{< var tanzman-full >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/T/tanzman-avraham-itzhak.htm)
 - _Berta Tanzman_
@@ -108,9 +127,14 @@ _Lekiskon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/W/weintraub-rebecca.htm)
 - _{{< var s-weintraub >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/W/weintraub-sigmund.htm)
+- _Jacob Wexler_
+  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/W/wexler-jacob.htm)
 - _Boaz (Bernard) Young_
   - [Wikipedia](https://en.wikipedia.org/wiki/Boaz_Young)
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/Y/young-bernard.htm)
+- _{{< var clara-full >}}_
+  - [Wikipedia](https://en.wikipedia.org/wiki/Clara_Young_(Yiddish_theater))
+  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/Y/young-clara.htm)
 - _{{< var zilberman-full >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/Z/zilberman-moshe.htm)
 

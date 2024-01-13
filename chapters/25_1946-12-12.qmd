@@ -7,6 +7,44 @@ _This article is not available from the National Library of Israel. The article 
 
 Before I tell you further about the new turn of events that my life on took on the Yiddish stage after I settled in New York, it's necessary to talk a little bit about the Yiddish music halls, which were then very much in vogue. This is a separate chapter all on its own, so it's worth mentioning a few things that have long been forgotten.
 
-In the year that {{< var edelstein >}} and {{< var thomash >}} brought me down to New York to play in the People's Music Hall, there were no more than four Yiddish theaters where plays were performed. But there was an abudance of music halls, or "Yiddish varieties" as they were called then. In that one year, ten or twelve music clubs opened. In them, sitting at a litle table and drinking a glass of beer, you could listen to Yiddish songs couplets, or you could watch dramatic one-act plays or sketches, which caught out of nowhere andw were quickly played in such a way that every time they played they had a different face, because it was very unexpected to approach, he added and what a phrase it is It occurred to him to see, he said...
-This music halls was very popular with the general public, and this was no wonder, because they played and sang in such a way as to suit the taste of the crowd, and quite a few songs were from that group. ..., which have certain hints; The tickets were cheap, you could get in there whenever you wanted, you could drink as much beer as you wanted, and when you weren't sober enough, you could afford the pleasure of singing with your voice together with the actors on stage and it was lively and cheerful.
-All around, there was such an atmosphere in that music hall that it was a kind of combination of a pub and a theater play, and the Yiddish theater had to compete with them and the competition had to be taken very seriously, because the crowd was very happy and they had fun and enjoyed themselves.
+::: {layout-ncol="2"}
+
+![Image of a performance in the theater at 104-106 Bowery that, at one point, was the People's Music Hall. From the late 1800s through early 1900s, it operated as a tavern/theater under many different managers. Read a history of the building in this [NYT article](https://www.nytimes.com/2010/03/14/nyregion/14bowery.html). [Image source](https://cinematreasures.org/theaters/60205)](../img/peoples-music-hall.jpg){width="2in"}
+
+
+In the year that {{< var edelstein >}} and {{< var thomash >}} brought me down to New York to play in the People's Music Hall, there were no more than four Yiddish theaters where plays were performed. But there was an abudance of music halls, or "Yiddish varieties" as they were called then. In just one year's time, ten or twelve music clubs opened. In them, sitting at a litle table and drinking a glass of beer, you could listen to Yiddish songs couplets, or you could watch dramatic one-act plays or sketches that the actors pulled out nowhere and hastily threw together, and each one they played was a little different because each actor played to his own strengths and ideas, adding whatever lines occurred to him...
+
+:::
+
+
+These music hall were very popular with the general public, and it was no wonder, because they played and sang to appeal to the crowd's^[Sam's diction here implies a rowdy crowd] tastes, and quite a few songs were of the style with a lot of well-known insinuations^[My guess is this means they were inappropriate or bawdy songs, etc.]. The tickets were cheap, you could get in there whenever you wanted, you could drink as much beer as you could, and when you weren't totally sober, you enjoy singing at the top of your lungs together with the actors on stage, and it was lively and cheerful.
+
+All in all, the music hall atmosphere was a blend of a pub and a theater, and the Yiddish theater had to compete with them. The theaters had to take this competition very seriously, because the audiences really enjoyed the music halls.
+
+And there were already a few writers who specialized in writing songs for all the music halls. For a few dollars, you could buy a lttle ditty from them. And the most skilled among them were none other than the excellent three men - [{{< var gilrod-full >}}](https://www.museumoffamilyhistory.com/yt/lex/G/gilrod-louie.htm), [{{< var reingold-full >}}](https://en.wikipedia.org/wiki/Isaac_Reingold) and [{{< var lillian-full >}}](https://www.museumoffamilyhistory.com/yt/lex/L/lillian-isidore.htm). They could have written a song about anything in the world, and a lot of their songs were very sentimental, and the people who loved their songs thoroughly enjoyed them. In general, a lot of their songs were about illicit love affairs. These songs were always a big hit with audiences, who had a grand time drinking beer at their little tables. So that you can have an idea of what these kind of songs were like, I'll give you an example of one of {{< var reingold-full >}}'s songs, which was called "My dear Yukel^[nickname for Yoakhim], you." It's not worth giving the whole song, only just part of it, which told of an illicit affair:
+
+> _Lyrics are too blurry to clearly make out; need an updated scan from NYPL.
+
+There were also songs that lamented that these days were not like the days of old, and you could no longer get a ["schooger beer"](https://en.wikipedia.org/wiki/Schooner_(glass)) for a nickel. And one little ditty I remember went like this:
+
+> These aren't the days of old!
+> 
+> Where you could get a schooner for a nickel,
+>
+> And a "free lunch"^[פֿרי–לאַנטש] was a _____^[too blurry].
+>
+> Now a glass of beer now tastes of castor oil,
+>
+> and schnapps^[This term more generally refers to whiskey, liquor, anything] tastes like apple [kvass](https://en.wikipedia.org/wiki/Kvass).
+>
+> Ech, these aren't the days of old.
+
+People really enjoyed these kinds of songs. They licked their fingers^[idiom meaning to really enjoy] with these songs, and in these odd sort of combinations of pub and theaters performed Yiddish actors who later earned a name for themselves on the Yiddish stage and some became very famous.
+
+Among those actors who played and sang in the People's Music Hall, which was located on the Bowery, was the actress [{{< var clara-full >}}](https://www.museumoffamilyhistory.com/yt/lex/Y/young-clara.htm) who later became a star in the Yiddish theater world. When she, together with her husband {{< var boaz-full}}, traveled all around Europe playing in operettas that were specially written for her, she made a big splash everywhere she went, and the greatest theater connoisseurs really loved her. Even in Moscow and in Saint Petersburg her performances were a big hit, and famous people who were never previously interested in Yiddish theater came to see her sang her praises.
+
+Also, {{< var charlie-full >}}, [Katzman](https://www.museumoffamilyhistory.com/yt/lex/K/katzman-jacob.htm), [Baratz](https://www.museumoffamilyhistory.com/yt/lex/B/baratz-david.htm), [Wexler](https://www.museumoffamilyhistory.com/yt/lex/W/wexler-jacob.htm) and more who later held quite honorable places on the Yiddish stage and excelled in fine roles, played together with me on the stage of the People's Music Hall, one of the "Yiddish varieties" as they were so-called. 
+
+Later two other lyric writers came on the scene - [{{< var meyero >}}](https://www.museumoffamilyhistory.com/yt/lex/M/meyerowitz-david.htm)^[Sam's pronunciation/spelling is "Meyerovich"] and [{{< var smulo >}}](https://en.wikipedia.org/wiki/Solomon_Smulewitz)^[Sam's pronunciation/spelling is "Shmulovich"]. {{< var meyero >}} made a name for himself with his song [_"Israel, Come Home"_](https://search.library.wisc.edu/digital/AZNLXJ7QL7YZKA8E/AKWPAQSV4SXZ7Y8L)^[Sam calls this song "קום, ישראליקעל, אהיים"], and {{< var smulo >}} became famous with his song [_"A brivele der mamen"_](https://www.milkenarchive.org/music/volumes/view/great-songs-of-the-american-yiddish-stage/work/a-brivele-der-mamen/)^[_"A little letter to mama"_]. Both songs were sung not only in America, but everywhere where there were Jews.
+
+

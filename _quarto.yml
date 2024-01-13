@@ -38,6 +38,7 @@ book:
         - chapters/23_1946-12-05.qmd
         - chapters/24_1946-12-07.qmd
     - part: "Part 4: Performing in New York City"
+      chapters:
         - chapters/25_1946-12-12.qmd
     - part: "Appendices"
       chapters:

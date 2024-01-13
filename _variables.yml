@@ -18,7 +18,7 @@ sailor: _Sailor in Peril_
 kuni: _The Two Kuni Lemels_
 yingl: _The Polish Boy_
 alilesdam-full: _Blood Libel, or Menachem Ben-Israel_
-velvel: _The Female Pioneer, or Velvele eats compote_
+velvel: _The Female Pioneer, or Velvele Eats Compote_
 esther_eingedi: _Esther of Ein-Gedi_
 haim: _Home in America_
 lostsoul: _The Wandering Soul_
@@ -185,6 +185,7 @@ mike: Mike Thomashefsky
 garten-full: Gartenstein
 garten: Gartenstein
 
+charlie-full: Charlie Cohan
 simonoff: Simonoff
 simonoff-full: Moishe Simonoff
 ivan-abramson: Ivan Abramson
@@ -199,6 +200,17 @@ edelstein-full: Yosl Edelstein
 
 feinman-full: Sigmund Feinman
 feinman: Feinman
+
+gilrod-full: Louis Gilrod
+lillian-full: Isidore Lillian
+reingold-full: Itzhik Reingold
+
+clara-full: Clara Young
+boaz-full: Boaz Young
+
+meyero: Meyerowitz
+smulo: Smulewitz
+
 
 ## PLACES --------------------------------------------
 zat: Zatishiye
