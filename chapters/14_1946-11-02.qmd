@@ -133,7 +133,7 @@ And you had to see how the audience gaped when the prima donna sang it. It was a
 >
 > faithful children of mine.
 
-And then the chorus sang along in the refrain again, and the prima donna sang on. And what she sang was, just like before, a chapter of Jewish history which has been remembered since the times when the {{< var chumash >}}^[Torah, in book (not scroll) form] was studied in {{< var cheder >}} with [Rashi](https://en.wikipedia.org/wiki/Rashi) - a chapter of Jewish history in song:
+And then the chorus sang along in the refrain again, and the prima donna sang on. And what she sang was, just like before, a chapter of Jewish history which has been remembered since the times when the {{< var chumash >}}^[Torah, in book (not scroll) form] was studied in {{< var heder >}} with [Rashi](https://en.wikipedia.org/wiki/Rashi) - a chapter of Jewish history in song:
 
 > They wandered forty years 
 >
