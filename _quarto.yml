@@ -40,6 +40,7 @@ book:
     - part: "Part 4: Playing in New York City"
       chapters:
         - chapters/25_1946-12-12.qmd
+        - chapters/26_1946-12-14.qmd 
     - part: "Appendices"
       chapters:
         - appendices/people.qmd
