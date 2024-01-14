@@ -73,6 +73,7 @@ kalman-kroch: Kalman Kroch
 bobele: Bobele
 bar-kochba-person: Bar Kokhba # role and person...
 zirele: Zirele
+naftali: Naftali the _Mishuganer_
 
 ## PEOPLE  -------------------------------------------
 
@@ -216,6 +217,8 @@ smulo: Smulewitz
 
 belzer-full: Yudele Belzer
 
+kessler: Kessler
+kessler-full: David Kessler
 
 ## PLACES --------------------------------------------
 zat: Zatishiye
@@ -358,3 +361,5 @@ chetzi-goyishe: _khozti-goyishe_
 minhag: _mineg_
 chumash: _khumash_
 moses: Moishe Rabbeinu
+
+behalah: _behole_

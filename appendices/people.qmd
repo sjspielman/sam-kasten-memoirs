@@ -72,7 +72,9 @@ _Lekiskon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
 - _{{< var keni-full >}}_
   - [Wikipedia](https://en.wikipedia.org/wiki/Keni_Liptzin)
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/L/lipzin-keni.htm)
-- Joe Kessler
+- _{{< var kessler-full >}}_
+  - [Wikipedia](https://en.wikipedia.org/wiki/David_Kessler_(actor))
+  - Joe Kessler
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/K/kessler-joseph.htm)
 - _{{< var marx-full >}}_
   - [Wikipedia](https://en.wikipedia.org/wiki/Rudolph_Marks)
