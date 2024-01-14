@@ -2,7 +2,7 @@
 
 _This article is not available from the National Library of Israel. The article was obtained from the New York Public Library's microfiche archives._
 
-> The music halls of yesteryear - The atmosphere of pub and theater plays. - "Yes" and "No" in the {{< var hau >}}.
+> The music halls of yesteryear - The atmosphere of pub and theater. - "Yes" and "No" in the {{< var hau >}}.
 
 
 Before I tell you further about the new turn of events that my life on took on the Yiddish stage after I settled in New York, it's necessary to talk a little bit about the Yiddish music halls, which were then very much in vogue. This is a separate chapter all on its own, so it's worth mentioning a few things that have long been forgotten.
@@ -23,7 +23,7 @@ All in all, the music hall atmosphere was a blend of a pub and a theater, and th
 
 And there were already a few writers who specialized in writing songs for all the music halls. For a few dollars, you could buy a lttle ditty from them. And the most skilled among them were none other than the excellent three men - [{{< var gilrod-full >}}](https://www.museumoffamilyhistory.com/yt/lex/G/gilrod-louie.htm), [{{< var reingold-full >}}](https://en.wikipedia.org/wiki/Isaac_Reingold) and [{{< var lillian-full >}}](https://www.museumoffamilyhistory.com/yt/lex/L/lillian-isidore.htm). They could have written a song about anything in the world, and a lot of their songs were very sentimental, and the people who loved their songs thoroughly enjoyed them. In general, a lot of their songs were about illicit love affairs. These songs were always a big hit with audiences, who had a grand time drinking beer at their little tables. So that you can have an idea of what these kind of songs were like, I'll give you an example of one of {{< var reingold-full >}}'s songs, which was called "My dear Yukel^[nickname for Yoakhim], you." It's not worth giving the whole song, only just part of it, which told of an illicit affair:
 
-> _Lyrics are too blurry to clearly make out; need an updated scan from NYPL.
+> _Lyrics are too blurry to clearly make out; need an updated scan from NYPL._
 
 There were also songs that lamented that these days were not like the days of old, and you could no longer get a ["schooger beer"](https://en.wikipedia.org/wiki/Schooner_(glass)) for a nickel. And one little ditty I remember went like this:
 
@@ -33,7 +33,7 @@ There were also songs that lamented that these days were not like the days of ol
 >
 > And a "free lunch"^[פֿרי–לאַנטש] was a _____^[too blurry].
 >
-> Now a glass of beer now tastes of castor oil,
+> Now a glass of beer tastes of castor oil,
 >
 > and schnapps^[This term more generally refers to whiskey, liquor, anything] tastes like apple [kvass](https://en.wikipedia.org/wiki/Kvass).
 >
@@ -56,6 +56,28 @@ The entire atmosphere in the music halls where they performed sketches and sang 
 
 After the season in People's Music Hall, where I became a darling of the audience with my playing and singing and also my dancing, I wanted to go to Philadelphia to be with my family {{< var pesach >}}. But just then the leading actor {{< var feinman-full >}} had written play called {{< var no587 >}}^["Sure" is pronounced "sureh"; It is the Yiddish pronunciation of Sara, here referring to the matriarch]. The piece was being put on in the "Hennen (Hengen?) Theater," which at the time stood where Wanamaker's greatest star stands now^[aka, it's at the site of the Wanamaker Building, which is [at 770 Broadway and was built in 1903-1907](https://en.wikipedia.org/wiki/770_Broadway). This theater was actually called the [Germania Theater](https://www.villagepreservation.org/2013/03/13/germania-theatre-then-now/); it's not clear what the name Sam uses is.].<br><br>
 The leading role in the play, whose contents I have completely forgotten just like a lot of other plays of this sort, was performed by the famous Yiddish actress Madame {{< var keni-full >}}, and she had requested that I be given a certain role because she remembered that I would be able to play it just as she wanted it played.<br><br>
-So, I played the entire {{< var pesach >}}
+So, I played this role, the entirety of which I have forgotten, in {{< var feinman >}}'s play for the entire {{< var pesach >}} holiday. And afterwards {{< var edelstein-full >}} gave me money that I could live on while spending the summer in Philadelphia, and then I was finally able to rest and relax after working so hard during the months I had played in the People's Music Hall.
 
 :::
+
+And at the beginning of the next season I came back to New York to play in the People's Theater, as per our agreement. 
+
+But before I could begin playing in the People's Theater, which {{< var edelstein-full >}}, {{< var jacob-adler >}}, and {{< var boris >}} managed, I had to be admitted into the {{< var hau >}}, which would mean I would be a "regular actor." And in the process of getting into the union, a funny thing happened which I can not forget, and it happened like this:
+
+In the time when I played in the People's Music Hall, where I was already considered a star, I became friends with all the actors who were already members in the union and played in the biggest theaters. I was brought into their circle by the musician [{{< var belzer-full >}}](https://www.museumoffamilyhistory.com/yt/lex/B/belzer-yudl.htm), the son of the famous [Barditshever](https://en.wikipedia.org/wiki/Berdychiv) {{< var chazan >}} [Nissi Belzer](https://en.wikipedia.org/wiki/Nissan_Spivak). He, {{< var belzer-full >}}, used to write the music for the songs that were sung on the Yiddish stage, and all the actors loved him very much. He was not only a good musician, but also a good brother^[friend], a {{< var mensh >}} with a warm heart. And because he thought very highly of me, he worked hard so that I wouldn't have a difficult time being accepted into the union.
+
+A whole campaign was then launched for me to be admitted into the union, and by all accounts, it looked like it would all be good: Quietly, everyone promised that in the exam^[a short performance] that I had to do for the actors in the union, they would vote "Yes" and everything would be alright. 
+
+There was only one actor who could not be convinced to vote "Yes," and that actor was - {{< var simonoff >}}...
+
+He said quite openly that he would not vote "Yes," but instead "No," and it wasn't because he had a problem with me, and of course it wasn't because I wasn't a good actor. On the contrary, his opinion was that I was actually a good actor and on top of that a good brother too, an honest man, a dear man. But...
+
+But what?
+
+It was just that - he was not able to say "Yes" when someone needed to be admitted into the union...! He could not...! He must say "No"... That's what he's always done throughout the union's existence, and that's what he will always do...
+
+But his heart would not allow him to vote against me. He felt that, in this case, that it would be an injustice to do this, but at the same time he was not able to vote "Yes," because in general it wasn't in his nature to ever vote "Yes" and it was indeed a {{< var minhag >}}^[As in ["minhag"](https://en.wikipedia.org/wiki/Minhag), a Jewish custom/tradition.] that he could not break. So he did not attend the meeting with the other actors...
+
+That was the only way for him. There was no other way, because otherwise he would vote "No." In other words, his heart would not allow him to vote "Yes"... He could not do anything else!
+
+And so that's what he did. He didn't come to the meeting where I passed the exam for the actors. And they admitted me to the union...

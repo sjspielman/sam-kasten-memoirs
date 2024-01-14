@@ -25,6 +25,9 @@ _Lekiskon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/B/baratz-david.htm)
 - _Shimon Beckerman_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/B/bekerman-simeon.htm)
+- _{{< var belzer-full >}}_
+  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/B/belzer-yudl.htm)
+  - [Wikipedia entry for his father, Nissi Belzer](https://en.wikipedia.org/wiki/Nissan_Spivak)
 - _{{< var berl-b >}}_
   - [Leksison](https://www.museumoffamilyhistory.com/yt/lex/B/bernstein-berl.htm)
 - _Charlie Cohan_
@@ -60,7 +63,7 @@ _Lekiskon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
 - _{{< var heine-full >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/H/heine-chaimovich-morris.htm)
 - _Jacob Katzman_
-  -[Leksikon](https://www.museumoffamilyhistory.com/yt/lex/K/katzman-jacob.htm)
+  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/K/katzman-jacob.htm)
 - _{{< var lillian-full >}}_
   - [Wikipedia](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Isidore_Lillian)
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/L/lillian-isidore.htm)
