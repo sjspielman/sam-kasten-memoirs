@@ -19,3 +19,5 @@ I do NOT own copyright of these materials. Where known, sources are provided all
 - `1893-01-08_brooklyneagle.png`: <https://www.newspapers.com/>
 - `1895-09-27_deremes.png`: <https://www.nli.org.il/en/newspapers/emet>
 - `1895-12-30_The_Baltimore_Sun.jpg`: <https://www.newspapers.com/image/374494611>
+- `1902-04-17_forverts.png`: <https://www.nli.org.il/en/newspapers/frw>
+- `1902-08-30_forverts.png`: <https://www.nli.org.il/en/newspapers/frw> 

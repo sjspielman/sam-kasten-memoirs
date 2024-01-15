@@ -181,6 +181,7 @@ frank: Frank
 suzi: Suzi
 suzi-full: Suzi Schafer
 
+bessie-first: Bessie
 bessie: Bessie Thomashefsky
 boris: Boris Thomashefsky
 thomash: Thomashefsky
@@ -219,6 +220,8 @@ belzer-full: Yudele Belzer
 
 kessler: Kessler
 kessler-full: David Kessler
+
+birnbaum-full: Louis Birnbaum
 
 ## PLACES --------------------------------------------
 zat: Zatishiye
@@ -363,3 +366,6 @@ chumash: _khumash_
 moses: Moishe Rabbeinu
 
 behalah: _behole_
+mumzer: _mumzer_
+
+shalom-bait: _sholem bais_

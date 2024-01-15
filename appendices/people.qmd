@@ -30,7 +30,9 @@ _Lekiskon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
   - [Wikipedia entry for his father, Nissi Belzer](https://en.wikipedia.org/wiki/Nissan_Spivak)
 - _{{< var berl-b >}}_
   - [Leksison](https://www.museumoffamilyhistory.com/yt/lex/B/bernstein-berl.htm)
-- _Charlie Cohan_
+- _{{< var birnbaum-full >}}_
+  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/B/birnbaum-louis.htm)
+- {{< var charlie-full >}}
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/C/cohan-charlie.htm)
 - _Jacob ("Jakele") {{< var jakele-last >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/C/cone-jacob.htm)
