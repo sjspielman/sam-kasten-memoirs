@@ -37,9 +37,9 @@ book:
         - chapters/22_1946-11-30.qmd
         - chapters/23_1946-12-05.qmd
         - chapters/24_1946-12-07.qmd
-    - part: "Part 4: Playing in New York City"
-      chapters:
         - chapters/25_1946-12-12.qmd
+    - part: "Part 4: A regular actor in New York"
+      chapters:
         - chapters/26_1946-12-14.qmd 
     - part: "Appendices"
       chapters:
