@@ -1,0 +1,39 @@
+# December 14th, 1946
+
+_This article is not available from the National Library of Israel. The article was obtained from the New York Public Library's microfi che archives._
+
+> The great news that {{< var mogu >}} has regained his speech. -- The joy when he again appeared in his role "{{< var feitl >}}".
+
+
+::: {layout-ncol="2"}
+
+![[This article entitled "{{< var mogu >}} speaks!"](https://www.nli.org.il/en/newspapers/dywt/1903/09/03/01/article/13/?e=-------en-20--1--img-txIN%7ctxTI--------------1) appeared on the front page of the September 3rd, 1903 edition of {{< var velt >}}. It is translated as follows:<br>**{{< var mogu >}} speaks**<br>He came to the {{< var velt >}} to deny the false rumors.<br>Malicious gossip has been circulating that the famous comedian {{< var mogu-full >}}, the _liebling_ of the Yiddish stage, is still as ill as he was and still cannot speak. We find it necessary to thoroughly and categorically disavow these rumors. {{< var mogu >}} is healthy and lively, and his voice sounds just as good as it was in the old days. Last night he came to the office of {{< var velt >}} and asked us to tell the Jewish community of New York that he is alright. "I live," he said, "and I speak as I used to. The community of New York can be assured of this."](../img/newspaper_clippings/1903-09-03_di-yidishe-velt.png){width="2.75in"}
+
+
+We waited for so long until, at long last, it finally happened. On one beautiful morning, as they say in the stories, the news suddenly broke - that {{< var mogu >}} had regained his voice, and he was already speaking and can again perform.<br><br>
+It was such a wonderful miracle! While sitting in the park, pensive and preoccupied, {{< var mogu >}} tried to get a word out of his mouth, as he often did since losing since voice. He would always do this when he was alone, but usually he wasn't ever able to get the words of his mouth and past his lips. He didn't strain to hear the words, or even an echo of the word he tried say; there was nothing for him to hear. No voice came from his lips. But this time, to his great joy, he did hear a voice - his own voice, which he hadn't heard before when he had tried to speak. And when he heard it he didn't believe it at first, so he started to test it out again and again. And when he was finally sure that he was really speaking on his own and his words came out freely, no longer suppressed, he jumped up and ran home to share the news. And when, along his way home, he saw his oldest daughter across the street, he ran up to greet her with great joy:<br><br>
+-- Liza! Liziku! I can talk!... Do you hear? I can talk!<br><br>
+He really loved her, his older daughter - "Liziku," as he used to call her^[Her name, as written above, was "Liza."] - and he was so pleased with her because she didn't want to be an actress but preferred to get an education. During the times when he had lost his voice, he would spend hours and hours with her, and she knew how to speak to him to stave off his depression. And it's not hard to imagine how his good daughter, his loyal daughter, rejoiced when she heard her father speak.
+
+
+:::
+
+Everyone in the {{< var mogu >}} family was overjoyed. The whole family was elated. And {{< var mogu >}} himself went on and on, gaping,
+
+-- Do you hear? Do you hear? I can talk!
+
+This story was later told to me many times. {{< var mogu >}} himself used to tell it over and over. And his family as well, whenever they had the chance, would tell the story as I have told it here. And I believe, that if someone writes {{< var mogu >}}'s biography, they'll have to dwell on and give a detailed account of this, and maybe even recount a lot of details that I haven't mentioned here.
+
+As soon as {{< var edelstein-full >}} heard that {{< var mogu >}} had regained his voice and could talk again, he immediately went over to his home. And when he came back, his scowling face shone and he was in high spirits:
+
+-- Oh yes, it's good, it's good! Long live {{< var zeligel >}} {{< var mogu >}}! He can talk again!
+
+::: {layout-ncol="2"}
+
+And indeed, soon the great news made its way around the whole Jewish community of New York. Posters were printed and posted far and wide to announce that {{< var mogu >}} will take the stage in the People's Theater. He would appear in {{< var shomer >}}'s piece {{< var immigrant >}} playing his well-known role "{{< var feitl >}}".
+
+
+![[This advertisement on September 3rd, 1903 in the {{< var forverts >}}](https://www.nli.org.il/en/newspapers/frw/1903/09/03/01/article/16.1/?e=-------en-20--1--img-txIN%7ctxTI--------------1) reads:<br>**People's Theater**<br>{{< var mogu >}} is healthy, lively, and in good spirits to play in the People's Theater. Friday evening September 4th, Mr. {{< var mogu >}} will appear as Feitl in {{< var immigrant >}}.](../img/newspaper_clippings/1903-09-03_forverts.png){width="2in"}
+
+:::
+

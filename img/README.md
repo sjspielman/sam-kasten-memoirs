@@ -21,3 +21,5 @@ I do NOT own copyright of these materials. Where known, sources are provided all
 - `1895-12-30_The_Baltimore_Sun.jpg`: <https://www.newspapers.com/image/374494611>
 - `1902-04-17_forverts.png`: <https://www.nli.org.il/en/newspapers/frw>
 - `1902-08-30_forverts.png`: <https://www.nli.org.il/en/newspapers/frw> 
+- `1903-09-03_di-yidishe-velt.png`: <https://www.nli.org.il/en/newspapers/dywt> 
+- `1903-09-03_forverts.png`: <https://www.nli.org.il/en/newspapers/frw> 
