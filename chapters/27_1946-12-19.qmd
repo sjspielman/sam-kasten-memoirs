@@ -1,13 +1,15 @@
-# December 14th, 1946
+# December 19th, 1946
 
-_This article is not available from the National Library of Israel. The article was obtained from the New York Public Library's microfi che archives._
+_This article is not available from the National Library of Israel. The article was obtained from the New York Public Library's microfiche archives._
+
 
 > The great news that {{< var mogu >}} has regained his speech. -- The joy when he again appeared in his role "{{< var feitl >}}".
 
+<br>
 
 ::: {layout-ncol="2"}
 
-![[This article entitled "{{< var mogu >}} speaks!"](https://www.nli.org.il/en/newspapers/dywt/1903/09/03/01/article/13/?e=-------en-20--1--img-txIN%7ctxTI--------------1) appeared on the front page of the September 3rd, 1903 edition of {{< var velt >}}. It is translated as follows:<br>**{{< var mogu >}} speaks**<br>He came to the {{< var velt >}} to deny the false rumors.<br>Malicious gossip has been circulating that the famous comedian {{< var mogu-full >}}, the _liebling_ of the Yiddish stage, is still as ill as he was and still cannot speak. We find it necessary to thoroughly and categorically disavow these rumors. {{< var mogu >}} is healthy and lively, and his voice sounds just as good as it was in the old days. Last night he came to the office of {{< var velt >}} and asked us to tell the Jewish community of New York that he is alright. "I live," he said, "and I speak as I used to. The community of New York can be assured of this."](../img/newspaper_clippings/1903-09-03_di-yidishe-velt.png){width="2.75in"}
+![[This article entitled "{{< var mogu >}} speaks!"](https://www.nli.org.il/en/newspapers/dywt/1903/09/03/01/article/13/?e=-------en-20--1--img-txIN%7ctxTI--------------1) appeared on the front page of the September 3rd, 1903 edition of {{< var velt >}}. It reads:<br><br>**{{< var mogu >}} speaks**<br>_He came to the {{< var velt >}} to deny the false rumors._<br>Malicious gossip has been circulating that the famous comedian {{< var mogu-full >}}, the _liebling_ of the Yiddish stage, is still as ill as he was and still cannot speak. We find it necessary to thoroughly and categorically disavow these rumors. {{< var mogu >}} is healthy and lively, and his voice sounds just as good as it was in the old days. Last night he came to the office of {{< var velt >}} and asked us to tell the Jewish community of New York that he is alright. "I live," he said, "and I speak as I used to. The community of New York can be assured of this."](../img/newspaper_clippings/1903-09-03_di-yidishe-velt.png){width="2.75in"}
 
 
 We waited for so long until, at long last, it finally happened. On one beautiful morning, as they say in the stories, the news suddenly broke - that {{< var mogu >}} had regained his voice, and he was already speaking and can again perform.<br><br>
@@ -30,10 +32,25 @@ As soon as {{< var edelstein-full >}} heard that {{< var mogu >}} had regained h
 
 ::: {layout-ncol="2"}
 
-And indeed, soon the great news made its way around the whole Jewish community of New York. Posters were printed and posted far and wide to announce that {{< var mogu >}} will take the stage in the People's Theater. He would appear in {{< var shomer >}}'s piece {{< var immigrant >}} playing his well-known role "{{< var feitl >}}".
+And indeed, soon the great news made its way around the whole Jewish community of New York. Posters were printed and posted far and wide to announce that {{< var mogu >}} will take the stage in the People's Theater. He would appear in {{< var shomer >}}'s piece {{< var immigrant >}} playing his well-known role "{{< var feitl >}}".<br><br>
+And people didn't need to hear anything more. They immediately rushed to buy tickets, and on the evening of the performance^[September 3rd, 1903] the theater was so full that people were packed in like sardines, and people were crammed into the aisles^[Sam uses a phrase that must be an idiom, "hung from the walls;" this is my phrasing]. And when {{< var mogu >}} came onto the stage, they gave him such an ovation; the whole audience stood up to applaud. And this moved {{< var mogu >}} so much that he remained standing on the stage, like someone reborn, and his eyes filled with tears. 
 
 
-![[This advertisement on September 3rd, 1903 in the {{< var forverts >}}](https://www.nli.org.il/en/newspapers/frw/1903/09/03/01/article/16.1/?e=-------en-20--1--img-txIN%7ctxTI--------------1) reads:<br>**People's Theater**<br>{{< var mogu >}} is healthy, lively, and in good spirits to play in the People's Theater. Friday evening September 4th, Mr. {{< var mogu >}} will appear as Feitl in {{< var immigrant >}}.](../img/newspaper_clippings/1903-09-03_forverts.png){width="2in"}
+![[This advertisement on September 3rd, 1903 in the {{< var forverts >}}](https://www.nli.org.il/en/newspapers/frw/1903/09/03/01/article/16.1/?e=-------en-20--1--img-txIN%7ctxTI--------------1) reads:<br><br>**People's Theater**<br>{{< var mogu >}} is healthy, lively, and in good spirits to play in the People's Theater. Friday evening September 4th, Mr. {{< var mogu >}} will appear as Feitl in **{{< var immigrant >}}**.](../img/newspaper_clippings/1903-09-03_forverts.png){width="3in"}
 
 :::
 
+
+People didn't come to the theater that night to see {{< var immigrant >}} - they only came to see {{< var mogu >}} in the role of "{{< var feitl >}}". Indeed, that's what they mostly said when they came to buy tickets for {{< var shomer >}}'s {{< var immigrant >}} - they said they were buying the tickets just to see {{< var mogu >}} play "{{< var feitl >}}".
+
+It was usually like that in those days - whenever {{< var mogu >}} performed, his acting caused such commotion stirred up such enthusiasm in the audiences, that nobody cared what play was being put on when it was announced that {{< var mogu >}} would appear in it - they only cared that he was appearing in it. The specific play being put on wasn't the point, only what role {{< var mogu >}} was playing. He would often add his own artistic flair to the role. In everything he did on the stage, he was so full of charm and exuded such warmth and love, that people wanted to see him play over and over again, and when they saw him again, they were still just as enthusiastic. 
+
+{{< var mogu >}} brought such mastery to his roles with his own unique kind of intonation^[{{< var mogu >}} did not have much of a singing voice after he went through puberty; His voice was ala Rex Harrison in _My Fair Lady_ - a sing-songy sort of stress on words rather than outright singing.], that the audiences picked it up and "sang" it everywhere they went just as you would pick up a beautiful {{< var nigun >}} that you loved to sing along to. 
+
+Every little word that he said in a role, or that he snuck in on his own, usually became very popular with the audiences. After a show, you'd hear people reciting them everywhere - in the street, at home, in the shop; It was etched in your memory and you couldn't forget it, and when someone would merely say a word of it, you saw before you the essense of {{< var mogu >}}, and that alone was enough to make your face shine with joy...
+
+No other actor could ever make lines in a play as popular with the audience as {{< var mogu >}} used to be able to. No one ever did it and no one ever could do it, because there was only **one** {{< var mogu >}}.
+
+{{< var mogu >}} didn't perform more than once a week. This is what his doctor ordered, and he obeyed his doctor. He only performed twice a week when there was no other option, but never more than that. And the actors in the troupe worried over him and were always ready to do anything for him to give him a little bit of joy. 
+
+The few performances he played that season in People's Theater were usually those from the old repertoire. He appeared in several roles which, in years past, he had made famous and beloved by the whole Jewish world^[Indeed, {{< var mogu >}} originated the role of [Schmendrik](https://en.wikipedia.org/wiki/Shmendrik), which in turn became a word/trope in Yiddish and now even English - all because of his acting.]. Once, when the decision was made to put on {{< var goldfaden >}}'s {{< var kuni >}}, he requested that I play the second {{< var kuni-lemel >}} - the fake one^[There is no record of this performance I can find in the papers in the 1903-1904 season. It may indeed have been put on that season, or Sam could be misremembering it. However, I did find a performance that season where _{{< var bessie >}}_ and {{< var mogu >}} played the two {{< var kuni-lemel >}}s.].
