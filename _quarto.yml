@@ -40,7 +40,8 @@ book:
         - chapters/25_1946-12-12.qmd
     - part: "Part 4: A regular actor in New York"
       chapters:
-        - chapters/26_1946-12-14.qmd 
+        - chapters/26_1946-12-14.qmd
+        - chapters/27_1946-12-19.qmd
     - part: "Appendices"
       chapters:
         - appendices/people.qmd
