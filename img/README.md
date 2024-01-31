@@ -10,6 +10,7 @@ I do NOT own copyright of these materials. Where known, sources are provided all
 - [`mogulesko.jpg`](https://en.wikipedia.org/wiki/Sigmund_Mogulesko)
 - [`front-street-theater-baltimore.jpg`](https://www.reddit.com/r/Lost_Architecture/comments/vgznrj/front_street_theater_baltimore_md_18291904/)
 - [`peoples-music-hall.jpg`](https://cinematreasures.org/theaters/60205)
+- [`BoweryWindsorTheatre.jpg`](https://www.boweryalliance.org/did-you-know-this-about-the-bowery/)
 
 
 ## Newspaper clippings folder
