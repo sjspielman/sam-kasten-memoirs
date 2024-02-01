@@ -3,7 +3,7 @@
 _This article is not available from the National Library of Israel. The article was obtained from the New York Public Library's microfiche archives._
 
 
-> A character portrait of the famous "Professor" {{< var horvitz >}}, the "king" of {{< var shund >}}^[low-brow, often translated as "trash," art. The kind of cultural output loved by the masses but devoid of sophistication.] on the stage.
+> A character portrait of the famous "Professor" {{< var horowitz >}}, the "king" of {{< var shund >}}^[low-brow, often translated as "trash," art. The kind of cultural output loved by the masses but devoid of sophistication.] on the stage.
 
 I couldn't get much joy playing in the People's Theater, because in those days, {{< var bessie >}} didn't play women's roles - only young and nimble young men who dominated the whole stage and were usually of the mischevious and wanton sort...
 
@@ -17,13 +17,24 @@ What I would do, I myself didn't know. I thought, if I only could, I would go to
 
 But just then when I was feeling so aggrieved in the People's Theater, having to endure the misfortune of {{< var bessie >}} acting in pants, something happened which I did not expect at all.
 
-In those days, a Yiddish troupe played in the Windsor Theater on the Bowery, where the Manhatten Bridge now stands, and the managers of the troupe were {{< var heine-full >}} and the "Professor" [{{< var m-horvitz >}}](https://www.museumoffamilyhistory.com/yt/lex/H/horowitz-halevy-moshe-ish.htm)^[Note that the Lexicon link here gives his name as "Horowitz," but it does _not_ actually have the second "o." It is "Horvitz," or "Horvitch."], the "king" of all sorts of historical and non-historical operettas on the Yiddish stage. 
+In those days, a Yiddish troupe played in the Windsor Theater on the Bowery, where the Manhatten Bridge now stands, and the managers of the troupe were {{< var heine-full >}} and the "Professor" [{{< var m-horowitz >}}](https://www.museumoffamilyhistory.com/yt/lex/H/horowitz-halevy-moshe-ish.htm), the "king" of all sorts of historical and non-historical operettas on the Yiddish stage. 
 
-Legends circulated all around New York about the "Professor" {{< var m-horvitz >}}, who loved to sign his name as {{< var halevy >}}, and there was nothing he could do about all these legends being written about him. 
+Legends circulated all around New York about the "Professor" {{< var m-horowitz >}}, who loved to sign his name as {{< var halevy >}}, and there was nothing he could do about all these legends being written about him. 
 
 Where he got the title "Professor" from, nobody really knew. And even though he himself assured everyone that, back in a university in Bucharest, he had once been a professor of geography, nobody believed really him. It was usually the custom in the theater circles that, when you called him "Professor," you said it in a way that it sounded like a joke. 
 
-He was also called "the {{< var meshumed >}}"^[refers to a converted/baptized Jew, and is often used as a derogatory term for scoundrel], and it was said that indeed years ago, when he was considered a great expert and learned {{< var shkhite >}}^[Jewish ritual slaughter] to become a {{< var shokhet >}}^[Jewish butcher], he suddenly joined the [{{< var haskalah >}}](https://en.wikipedia.org/wiki/Haskalah)^[European Jewish enlightenment movement] and learned German wrote in a German newspaper. And just as he wrote in German, he also wrote in Romanian and Hebrew and he was sure that, in his newfound refinement, he would of course climb high on the social ladder.
+He was also called "the {{< var meshumed >}}"^[refers to a converted/baptized Jew, and is often used as a derogatory term], and it was said that indeed years ago, when he was considered a great expert and learned {{< var shkhite >}}^[Jewish ritual slaughter] to become a {{< var shokhet >}}^[Jewish butcher], he suddenly joined the [{{< var haskalah >}}](https://en.wikipedia.org/wiki/Haskalah)^[European Jewish enlightenment movement] and learned German wrote in a German newspaper. And just as he wrote in German, he also wrote in Romanian and Hebrew and he was sure that, in his newfound refinement, he would of course climb high on the social ladder.
+
+He came from Galicia. He was born in [Stanislav](https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/stanislav), and he loved to boast that his family traced its lineage to [_Shelah HaKaddosh_](https://en.wikipedia.org/wiki/Isaiah_Horowitz). And it was known that when he was a young 20-something, or 30, one fine morning he suddenly converted and become a missionary, all to be able to pay off some debts. But after a little time had passed and he had put away a little money, he returned to Judaism, and he caused such a spectacle when he did it and began to call himself "{{< var horowitz-full >}}".
+
+People also used to say, that when he became a Jew again in Bucharest, he convened a group of coachmen, and he went with them to a pub and got them a couple liters of wine and "made their hearts merry with wine"^[This is a very specific phrase that Sam uses from the [Talmud Megilla 12b](https://www.sefaria.org/Megillah.12b.2?lang=bi): כטוב לב המלך ביין] and gave a sermon, quoting verses from the {{< var torah >}} and the {{< var gamara >}}^[Yiddish pronunciation of the [Gemara](https://en.wikipedia.org/wiki/Gemara)], and he wove in some story about [{{< var terah >}}](https://en.wikipedia.org/wiki/Terah)^[Biblical Abraham's father] and {{< var abraham-avinu >}}^["Our father Abraham," as he is often referred to in Judaism], how someone who used to worshiped idols became a Jew who now worships {{< var rebbeinu-shel-olam >}}, and so therefore they should welcome him with opens arms back into the people of Israel. 
+
+Afterwards in Romania, this "Professor" suddenly took an interest in Yiddish theater. This was around the same time that {{< var goldfaden-full >}} laid the foundations of the Yiddish stage. He competed with {{< var goldfaden >}}, this "Professor {{< var horowitz-full >}}". He churned out new plays as quickly as you bake {{< var matzos >}}. Overnight, he could whip up a whole new play. He would quickly grab up new plays - a {{< var goyishe >}} play from somewhere or another - as soon as he saw it, and before you even expected it, he would "Yiddish-ify" it so that even the original author didn't recognize it...
+
+And if he didn't have a {{< var goyishe >}} play on hand when he needed it, he would just take a chapter of Jewish history and quickly turn it into a play - and it worked just as well. He was really an interesting character, the "Professor."
+
+When he came to America and became a Yiddish theater director, he behaved like a magnate. He spent money like water and lived very comfortably, as a magnate does. He always dressed so that all eyes were on him when he went down the street, always wearing the finest clock with the most beautiful top hat. His clothes were fresh off the needle and made of the best fabric, and in order to make an impression, he rode around in his own carriage with two, fine, plump horses, and his coachman who drove the carriage was always dressed in a uniform with golden buttons. 
+
 
 
 PROBABLY FOR THE NEXT CHAPTER:

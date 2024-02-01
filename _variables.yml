@@ -226,9 +226,9 @@ kessler-full: David Kessler
 
 birnbaum-full: Louis Birnbaum
 
-horvitz: Horvitz
-m-horvitz: Moishe Horvitz
-horvitz-full: Moishe Ish Halevy Horvitz
+horowitz: Horowitz
+m-horowitz: Moishe Horowitz
+horowitz-full: Moishe Ish Horowitz Halevy
 helevy: Moishe Ish Halevy
 
 ## PLACES --------------------------------------------
@@ -287,6 +287,7 @@ refua-shlema: _refue shlema_
 simcha: _simche_
 dvar-toireh: _dvar toire_
 torah: _Toire_
+gamara: _Gemore_
 parsheh: _parshe_
 tzadik: _tzadik_
 mitzvah: _mitzvah_
@@ -364,7 +365,7 @@ veyismir: _vey iz mir_
 yimakh-shemo: _yimokh sh'mo_
 kapara: _kappore_
 
-rebbeinu-shel-olam: _rebbeinu shel olem_
+rebbeinu-shel-olam: _rebbeinu shel oylem_
 khurbn: _khurbn_
 der-roiter: _\"der royter\"_
 chetzi-goyishe: _khozti-goyishe_
@@ -385,3 +386,6 @@ meshumed: _meshumed_
 shkhite: _shkhite_
 shokhet: _shoykhet_
 haskalah: _Haskalah_
+abraham-avinu: _Avrohom Avinu_
+terah: _Terakh_
+matzos: _matzos_
