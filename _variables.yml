@@ -157,6 +157,7 @@ max: Max Medvedev
 medvedev-full: Mikhail Efimovich Medvedev
 medvedev-yiddish: Meïr Yefimovich Bernshtein
 
+shelah: _Shelah HaKoydesh_
 marx-full: Rudolph Marks
 marx: Marks
 
@@ -226,6 +227,11 @@ kessler-full: David Kessler
 
 birnbaum-full: Louis Birnbaum
 
+horowitz: Horowitz
+m-horowitz: Moishe Horowitz
+horowitz-full: Moishe Ish Horowitz Halevy
+halevy: Moishe Ish Halevy
+
 ## PLACES --------------------------------------------
 zat: Zatishiye
 bt: Belaya Tserkov
@@ -264,6 +270,7 @@ Makarover: Makarover
 panshina: _panshina_
 goyishe: _goyishe_
 goyim: _goyim_
+goy: _goy_
 purim: Purim
 yontif: _yontif_
 hashem: _hashem_
@@ -282,6 +289,7 @@ refua-shlema: _refue shlema_
 simcha: _simche_
 dvar-toireh: _dvar toire_
 torah: _Toire_
+gamara: _Gemore_
 parsheh: _parshe_
 tzadik: _tzadik_
 mitzvah: _mitzvah_
@@ -359,7 +367,7 @@ veyismir: _vey iz mir_
 yimakh-shemo: _yimokh sh'mo_
 kapara: _kappore_
 
-rebbeinu-shel-olam: _rebbeinu shel olem_
+rebbeinu-shel-olam: _rebbeinu shel oylem_
 khurbn: _khurbn_
 der-roiter: _\"der royter\"_
 chetzi-goyishe: _khozti-goyishe_
@@ -375,3 +383,11 @@ shalom-bait: _sholem bais_
 
 boyele: _boyele_
 tsures: _tsures_
+shund: _shund_
+meshumed: _meshumed_
+shkhite: _shkhite_
+shokhet: _shoykhet_
+haskalah: _Haskalah_
+abraham-avinu: _Avrohom Avinu_
+terah: _Terakh_
+matzos: _matzos_
