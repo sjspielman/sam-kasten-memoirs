@@ -1,0 +1,28 @@
+# December 26th, 1946
+
+_This article is not available from the National Library of Israel. The article was obtained from the New York Public Library's microfiche archives._
+
+
+> How the "Professor" {{< var horowitz >}} wrote a play. -- His operetta **{{< var yiziat >}}**^[יציאת מצרים]. --  An interesting story with a song about [{{< var moses >}}'s^[Moses] staff](https://en.wikipedia.org/wiki/Staff_of_Moses). 
+
+
+
+
+
+
+
+
+
+
+
+
+
+::: {layout-ncol="2"}
+
+In those days, a Yiddish troupe played in the Windsor Theater on the Bowery, where the Manhatten Bridge now stands, and the managers of the troupe were {{< var heine-full >}} and the "Professor" [{{< var m-horowitz >}}](https://www.museumoffamilyhistory.com/yt/lex/H/horowitz-halevy-moshe-ish.htm), the "king" of all sorts of historical and non-historical operettas on the Yiddish stage. <br><br>
+Legends circulated all around New York about the "Professor" {{< var m-horowitz >}}, who loved to sign his name as {{< var halevy >}}, and there was nothing he could do about all these legends being written about him. 
+
+![1880s poster for the Windsor Theater, situated at 43-47 Bowery. [Image source.](https://www.boweryalliance.org/did-you-know-this-about-the-bowery/)](../img/BoweryWindsorTheatre.jpg){width="4in"}
+
+:::
+
