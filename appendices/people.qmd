@@ -107,6 +107,9 @@ _Lekiskon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
 
 ::: {.column width="30%"}
 
+- {{< var shor-full >}}
+  - [Lekiskon](https://www.museumoffamilyhistory.com/yt/lex/S/schorr-anshel.htm)
+  - [Wikipedia](https://en.wikipedia.org/wiki/Anshel_Schorr)
 - _Rae Shneyer_
   - [Lekiskon](https://www.museumoffamilyhistory.com/yt/lex/S/shneyer-rae.htm)
 - _{{< var abba-full >}} ("Yaffa Zahav", Beautiful Gold)_

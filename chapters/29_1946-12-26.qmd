@@ -3,13 +3,13 @@
 _This article is not available from the National Library of Israel. The article was obtained from the New York Public Library's microfiche archives._
 
 
-> How the "Professor" {{< var horowitz >}} wrote a play. -- His operetta **{{< var yiziat >}}**^[יציאת מצרים]. --  An interesting story with a song about [{{< var moses >}}'s^[Moses] staff](https://en.wikipedia.org/wiki/Staff_of_Moses). 
+> How the "Professor" {{< var m-horowitz >}} wrote a play. -- His operetta **{{< var yiziat >}}**^[יציאת מצרים]. --  An interesting story with a song about [{{< var moses >}}'s^[Moses] staff](https://en.wikipedia.org/wiki/Staff_of_Moses). 
 
+The messenger who came to tell me that {{< var horowitz-full >}}, the "Professor" himself as he was called, wanted to see me was [{{< var shor >}}](https://www.museumoffamilyhistory.com/yt/lex/S/schorr-anshel.htm). And as usual, he behaved as though this whole matter was a secret that should be kept from the whole world.
 
+He was still a {{< var griner >}}^[A greenhorn; naive new immigrant], {{< var shor-full >}}, very energetic and very skilled. But he quickly caught on and adapted to the American ways, so they called him "the yellow {{< var griner >}}." {{< var heine >}} gave him the name, and it stuck.
 
-
-
-
+In the Windsor Theater, {{< var shor-full >}} was the "Professor"'s right hand man, and he attended to everything the "Professor" needed. When a song needed to be written, he wrote a song, and when a scene needed to be staged, he staged a scene. And on top of this, he understood the audience well and knew what they wanted.  
 
 
 
