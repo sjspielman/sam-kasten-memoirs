@@ -32,6 +32,8 @@ _Lekiskon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
   - [Leksison](https://www.museumoffamilyhistory.com/yt/lex/B/bernstein-berl.htm)
 - _{{< var birnbaum-full >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/B/birnbaum-louis.htm)
+- _{{< var blank-full >}}_
+  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/B/blank-leon.htm)
 - {{< var charlie-full >}}
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/C/cohan-charlie.htm)
 - _Jacob ("Jakele") {{< var jakele-last >}}_
@@ -66,6 +68,9 @@ _Lekiskon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/H/heine-chaimovich-morris.htm)
 - _{{< var horowitz-full >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/H/horowitz-halevy-moshe-ish.htm)
+- _{{< var juvelier-full >}}_
+  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/J/juvelier-kalmen.htm)
+  - [Wikipedia](https://en.wikipedia.org/wiki/Kalman_Juvelier)
 - _Jacob Katzman_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/K/katzman-jacob.htm)
 - _{{< var lillian-full >}}_
@@ -107,13 +112,15 @@ _Lekiskon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
 
 ::: {.column width="30%"}
 
+- _{{< var abba-full >}} ("Yaffa Zahav", Beautiful Gold)_
+  - [Wikipedia](https://en.wikipedia.org/wiki/Abba_Schoengold)
 - {{< var shor-full >}}
   - [Lekiskon](https://www.museumoffamilyhistory.com/yt/lex/S/schorr-anshel.htm)
   - [Wikipedia](https://en.wikipedia.org/wiki/Anshel_Schorr)
 - _Rae Shneyer_
   - [Lekiskon](https://www.museumoffamilyhistory.com/yt/lex/S/shneyer-rae.htm)
-- _{{< var abba-full >}} ("Yaffa Zahav", Beautiful Gold)_
-  - [Wikipedia](https://en.wikipedia.org/wiki/Abba_Schoengold)
+- _{{< var shrage >}}_
+  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/S/shrage-adolph.htm)
 - _{{< var simonoff-full >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/S/simonoff-moshe.htm)
 - _Solomon_ _{{< var smulo >}}
@@ -135,6 +142,8 @@ _Lekiskon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/V/vakhtel-yosef.htm)
 - _{{< var weinb-full >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/W/weinblatt-israel.htm)
+- _{{< var dora-full >}}_
+  - [Leksikon]](https://www.museumoffamilyhistory.com/yt/lex/W/weissman-dora.htm)
 - _{{< var r-weintraub >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/W/weintraub-rebecca.htm)
 - _{{< var s-weintraub >}}_
@@ -168,6 +177,8 @@ _Lekiskon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
 - _Nahum Meïr Schaikewitz^[_Also a novelist more generally_], aka_ {{< var shomer >}}
   - [Wikipedia](https://en.wikipedia.org/wiki/Nahum_Meir_Schaikewitz)
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/S/shomer-abraham.htm)
+- _{{< var reuben-weissman >}}_
+  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/W/weissman-reuben.htm)
 
 
 ### People related to the non-Yiddish theater

@@ -3,26 +3,40 @@
 _This article is not available from the National Library of Israel. The article was obtained from the New York Public Library's microfiche archives._
 
 
-> How the "Professor" {{< var m-horowitz >}} wrote a play. -- His operetta **{{< var yiziat >}}**^[יציאת מצרים]. --  An interesting story with a song about [{{< var moses >}}'s^[Moses] staff](https://en.wikipedia.org/wiki/Staff_of_Moses). 
+> How the "Professor" {{< var m-horowitz >}} wrote a play. -- His operetta **{{< var yiziat >}}**^[יציאת מצרים]. --  An interesting story about a song about [{{< var moses >}}'s^[Moses] staff](https://en.wikipedia.org/wiki/Staff_of_Moses). 
 
-The messenger who came to tell me that {{< var horowitz-full >}}, the "Professor" himself as he was called, wanted to see me was [{{< var shor >}}](https://www.museumoffamilyhistory.com/yt/lex/S/schorr-anshel.htm). And as usual, he behaved as though this whole matter was a secret that should be kept from the whole world.
+The messenger who came to tell me that {{< var horowitz-full >}}, the "Professor" himself as he was called, wanted to see me was [{{< var shor-full >}}](https://www.museumoffamilyhistory.com/yt/lex/S/schorr-anshel.htm). And as usual, he behaved as though this whole matter was a secret that should be kept from the whole world.
 
 He was still a {{< var griner >}}^[A greenhorn; naive new immigrant], {{< var shor-full >}}, very energetic and very skilled. But he quickly caught on and adapted to the American ways, so they called him "the yellow {{< var griner >}}." {{< var heine >}} gave him the name, and it stuck.
 
 In the Windsor Theater, {{< var shor-full >}} was the "Professor"'s right hand man, and he attended to everything the "Professor" needed. When a song needed to be written, he wrote a song, and when a scene needed to be staged, he staged a scene. And on top of this, he understood the audience well and knew what they wanted.  
 
+All in all, {{< var shor-full >}} already had the makings of a "Theatrical Bismarck," as he was later called, and everything he did made it seem like he really had a firm grasp on all the politics one needed to know. 
+
+It goes without saying that I didn't play hard to get, and I went to the Windsor Theater to see the "Professor" {{< var horowitz-full >}} at the requested time. And when he saw me, he immediately got to the point:
+
+-- Hear me out - he said like it was an order - I've heard, as they tell me, that in People's Theater they pay you thirty dollars a week. {{< var Nu >}}, I will pay you forty dollars a week if you sign with me to play here with us in Windsor Theater next season.
+
+And I immediately signed right there on the spot, and it was settled that I would play with Windsor Theater for the whole next year. 
+
+I didn't need to make a secret out of it. I let the managers of the People's Theater know right away that next season I had decided to join the "Professor"'s troupe in the Windsor Theater. They were happy for me, or at least that's how it seemed to me. But {{< var edelstein >}} was upset that I didn't tell him earlier I was thinking of leaving. And let me say, this was not unreasonable; I should have told him about it earlier, because he had always really stood up for me and treated me very well. But the deal had been made, and there was no going back. And I was really looking forward to it too. I had to get out of the situation I was stuck in in the People's Theater where I never got the opportunities I wanted because {{< var bessie >}} was always playing in pants and getting all the roles that, in my opinion, I was better suited for...
+
+The truth was, in those days the "Professor" {{< var horowitz-full >}}'s career was heading downhill, and his plays which he quickly threw together like he was baking fresh buns were not as well-received as they used to be. New winds had started to blow in the Yiddish theater.Audiences were developing more sophisticated tastes, and the leading actors had a strong interest in playing better roles. The historical and non-historical operettas that the "Professor" churned out looked more and more ridiculous. But the "Professor", he was still very impressed with himself and still acted like a wealthy prince, a great magnate, throwing money around left and right.
+
+Indeed, while signing the deal with me, he felt generous and gave me several hundred dollars on the spot for me to live on over the summer, because I wasn't able to put much away from the thirty dollars a week I was getting from the People's Theater^[Recall he was also supporting three children: Freddie, Lillie (my great-grandmother), and Louie]. 
+
+And when I showed up to rehearsals at the Windsor Theater at the end of the summer, we were told that the new play the "Professor" had written was something like no one in America had ever seen before. There was no doubt that it would be a great success - so successful that the other theater managers would eat themselves alive with jealousy...
+
+The new play was a historical operetta called {{< var yiziat >}}, and actors cast in the play included [{{< var blank-full >}}](https://www.museumoffamilyhistory.com/yt/lex/B/blank-leon.htm), [{{< var juvelier-full >}}](https://www.museumoffamilyhistory.com/yt/lex/J/juvelier-kalmen.htm), [{{< var shrage >}}](https://www.museumoffamilyhistory.com/yt/lex/S/shrage-adolph.htm), and many more other famous actors. And [{{< var dora-full >}}](https://www.museumoffamilyhistory.com/yt/lex/W/weissman-dora.htm)^[She would later marry {{< var shor-full >}}], the daughter of the well-known [{{< var reuben-weissman >}}](https://www.museumoffamilyhistory.com/yt/lex/W/weissman-reuben.htm) who was considered the most intelligent man in the theater world, was cast in the female roles.
 
 
-
-
-
+<!--
 
 ::: {layout-ncol="2"}
 
-In those days, a Yiddish troupe played in the Windsor Theater on the Bowery, where the Manhatten Bridge now stands, and the managers of the troupe were {{< var heine-full >}} and the "Professor" [{{< var m-horowitz >}}](https://www.museumoffamilyhistory.com/yt/lex/H/horowitz-halevy-moshe-ish.htm), the "king" of all sorts of historical and non-historical operettas on the Yiddish stage. <br><br>
-Legends circulated all around New York about the "Professor" {{< var m-horowitz >}}, who loved to sign his name as {{< var halevy >}}, and there was nothing he could do about all these legends being written about him. 
 
-![1880s poster for the Windsor Theater, situated at 43-47 Bowery. [Image source.](https://www.boweryalliance.org/did-you-know-this-about-the-bowery/)](../img/BoweryWindsorTheatre.jpg){width="4in"}
+![](){width="4in"}
 
 :::
 
+--> 
