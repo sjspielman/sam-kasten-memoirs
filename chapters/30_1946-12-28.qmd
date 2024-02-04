@@ -1,0 +1,68 @@
+# December 28th, 1946
+
+_This article is not available from the National Library of Israel. The article was obtained from the New York Public Library's microfiche archives._
+
+
+> The curtain goes up on opening night, and the "Professor" still hasn't written the last act. -- Curiosities of the Yiddish theater of 
+
+
+::: {layout-ncol="2"}
+
+Opening night arrived, and it was time to raise the curtains in the Windsor Theater to begin the performance of the historical operetta {{< var yiziat >}}, and the "Professor," the genius who wrote plays like a baker makes rolls, had not finished writing the last act, and none of the actors knew what would happen in the last act or what we were supposed to do...<br><br>
+{{< var heine >}}, one of the managers of the Windsor Theater, was running all around in a panic and he was angry with the "Professor": <br><br>
+-- You wretch, what are we doing to do? What will the actors do for the last act? How will we end the performance?!<br><br>
+The actors were also really nervous. {{< var blank-full >}} was so beside himself that he was unable to articulate a clear word that anyone else could understand, so he just grumbled and groaned and threw his hands up in the air. {{< var juvelier-full >}} tensed up his shoulders and like a lost wanderer went from one person to another with such a look on his face like he was pleading for something. Nobody could blame him, because God knows, it wasn't his fault.<br><br>
+{{< var shrage >}} spun around and around like a shadow, looming larger and larger at each turn, and he would whispered something in your ear and then leave as though he were giving up all responsibility.<br><br>
+And I tried to muster the strength to tell jokes, but my heart was heavy and dark.
+
+![[Running advertisement in the {{< var forverts >}}](https://www.nli.org.il/en/newspapers/frw/1903/09/30/01/article/18) announcing the play {{< var yiziat >}} at the Windsor Theater. This advertisement announces only the first several shows, including the premiere on October 1st, 1903, but the play continued to run throughout the month of October 1903.](../img/newspaper_clippings/1903-09-30_forverts.png){width="3in"}
+
+:::
+
+The only one who was calm and didn't take the whole situation to heart was the "Professor" himself. All for all the grief we gave him, he had one response:
+
+-- You don't have to worry. There will be a last act...
+
+We, of course, thought he would have the last act written by now and given us direction on how to perform it, even though we won't have time to learn or rehearse it. The actors grew more and more nervous, and between acts they kept grabbing at pages from the "Professor" - 
+
+-- Give us our roles! Let us learn our lines for the last act!
+
+It went like this the whole time, until the curtain had to go up for the last act. And when the chaos among the actors reached its peak, since none of us knew what was going to happen or how the play was going to end, the "Professor", all calm and collected, said:
+
+-- Now, everyone go up onto the stage and line up in order!
+
+We were shocked when we heard this. What would we do up there on the stage without a last act? What will we say when none of us has been given any lines...?
+
+But when the "Professor" says to go up onto the stage, you have to do it. We all went up onto the stage and lined up in order. Standing there, we all exchanged glances meaning, "What's it going to be? What's going to happen?"
+
+And this is what happened...Yes, it happened just like this, something none of us expected:
+
+As soon as the curtain went up, the "Professor" himself came onto the stage wearing a long white coat and a white beard he had attached to himself. He stood tall like a prophet or some kind of God-like figure, and raising one hand in the air he began to speak to {{< var moses >}}:
+
+-- _Moishe_, _Moishe_, take the Jews and lead them to the land where milk and honey flow, to the land of the cedars!  
+
+And he went on and on like this in his {{< var daytshmerish >}}, and while speaking, he interspersed verses from the {{< var torah >}}, and then switched back to {{< var daytshmerish >}}. He performed the whole last act by himself like a sort of epilogue to {{< var yiziat >}} itself. It was an endlessly long^[Sam uses an interesting Yiddish idiom here: "long as the [Jewish] exile [from the land of Israel]"; לאַנג ווי דער גלות] monologue, but he played it in a way that immediately won over the audience, and he also brought us actors standing on stage into it, because he kept asking questions that had to be answered with a resounding "yes!" And he ended with a bang that the audience loved, and the curtains lowered and the play was finally over. 
+
+This is how the "Professor" {{< var horowitz-full >}} ended his operetta {{< var yiziat >}}, since he didn't feel like or didn't have time to actally write the last act. And we continued to perform the play exactly like this; even though it wasn't entirely clear who the man in white was meant to portray, he gave {{< var moses >}} the order to lead the Jews to the land that flows with milk and honey, where the cedars grow... Was it a spirit? Or was it God himself? No real indication was given, and the "Professor" didn't even really know. And when you asked the "Professor" about it, he usually gave the answer - "Who can really say? We'll never know..."^[Here, Sam uses the idiom: ...אויף א מעשה, פרעגט מען קיין קשיא]ֿֿ
+
+The same role - the role of the man in white - was later played by {{< var blank-full >}}. And when he asked the "Professor" to give him the lines of the monologue, the "Professor" laughed:
+
+-- There aren't any. - he said. - The monologue wasn't written out. I just said whatever came out of my mouth...
+
+And this was the God's honest truth. He just said whatever came to his mind. This was nothing new for him; he would often just go onto the stage to play a role in his own play, and when he did he didn't say lines from a script - he just said whatever came to mind. This is what he did in play {{< var tisa >}}^[A play (the first of two that {{< var horowitz >}} wrote about it) about the [Tiszaeszlár affair](https://en.wikipedia.org/wiki/Tiszaeszlár_affair), a blood libel trial in 1882 in Hungary], where he played the role of the lawyer who defends the Jew accused of blood libel. He spoke entirely different lines at each performance, just as he did in his operetta {{< var yiziat >}}, for which he didn't ever write the last act...
+
+And when {{< var blank >}} asked if he could write out the same monologue that went over so well, he laughed again:
+
+-- Do you really think I remember what I said in the monologue?! I don't remember a single word that I said...
+
+But he wrote a monologue for {{< var Blank >}} anyways, but it was a whole other monologue entirely. Not at all the same words...
+
+The operetta {{< var yiziat >}} was not a great success because, as I said earlier, in those times new winds were beginning to blow in the Yiddish theater, and the sort of plays the "Professor" wrote were quickly going out of style, and nobody knew this better than he did. That's why he tried to hard to make such a huge spectacle with this operetta, using actual frogs when portraying the ten plagues and other special effects. But it didn't help. The play was not a big hit. 
+
+But I was happy that we put on the play, as was {{< var dora-full >}}, because we danced together as a pair, which was not normally done in the Yiddish theater. We were both really pleased. The theater critics also gave us good reviews in the papers. If my memory serves me well, [{{< var cahan >}}](https://en.wikipedia.org/wiki/Abraham_Cahan), the editor of the {{< var forverts >}}, wrote that the "Professor"'s historical operetta seemed like a... _Several sentences here are too blurry to read, but he is talking about Cahan's review. I can vaguely make out that Cahan did not praise the show, but did praise Sam and {{< var dora-full >}}. Translation forthcoming with an improved scan._
+
+<!-- 
+...^[Still Cahan] This was also true of the dance that Sam Kestin and {{< var dora-full >}} did together as a pair. This was the finest hanger/rack that you could hang a coat on but it wasn't even part of the real story. 
+
+... And if I remember correctly, {{< var cahan >}}...something about how Sam is going to take his place as great stay maybe, and this made him very happy. 
+--> 
