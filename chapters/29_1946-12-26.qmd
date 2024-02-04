@@ -47,21 +47,14 @@ We impatiently looked forward to our first performance. During rehearsals for {{
 
 What stick, who stick?...he didn't say. Only later did we catch on to what he meant - he meant that he needed, right there on the spot, to write a song about the staff that {{< var moses >}} used to perform miracles when he confronted the Pharaoh and later used to part the Red Sea... The song about the staff will take the place of the scene that he should have written, but of course did not write, and I would sing the song... Me - in the role of an Egyptian prince who began as an enemy of the Jewish people but later became their friend and leaves Egypt with them guided by {{< var moses >}} to the land of Canaan, the land where milk and honey flows and goats graze on carobs as much as grass...
 
-And indeed right there on the spot, the "Professor" {{< var horowitz-full >}} called over the theater's two musical directors - {{< var wohl-full >}} and {{< var perlmutter-full >}}, as well as {{< var shor-full >}} - and he gave them an order:
+And indeed right there on the spot, the "Professor" {{< var horowitz-full >}} called over the theater's two musical directors - [{{< var wohl-full >}}](https://www.museumoffamilyhistory.com/yt/lex/W/wohl-herman.htm) and [{{< var perlmutter-full >}}](https://www.museumoffamilyhistory.com/yt/lex/P/perlmutter-arnold.htm)^[It's worth nothing that Sam gives his name here as _Ephrim_ {{< var perlmutter >}}, not Arnold. Notably, in {{< var wohl >}}'s Leksikon entry, he is _also_ referred to as Efrim. So, it very possible like this was indeed his {{< var haimishe >}} name and his good friends did not call him Arnold, his American-adopted name.], as well as {{< var shor-full >}} - and he gave them an order:
 
 -- You, {{< var anshel >}}, write this song right away, the song about the stick. You write the words, and you two - he pointed to {{< var wohl >}} and {{< var perlmutter >}} - go write the music...
 
-And so they did...
+And so they did...^[The song was called _Der Shteken_. You can find the [sheet music here](https://www.loc.gov/resource/ihas.200154899.0/?sp=8&st=image) and the [full lyrics (which indicate "as given by Mr. Kestin") here](https://www.loc.gov/resource/ihas.200185574.0/?sp=9)].
 
+{{< var shor-full >}} wrote and erased, erased and wrote, added a rhyme, removed a rhyme. {{< var wohl >}} and {{< var perlmutter >}} also, in their own way, wrote and erased, erased and wrote, trying out different notes on the piano. The sweat was pouring out of all three of them, all working hurriedly to write a song they hadn't ever thought about before. And when the finished writing the song about {{< var moses >}}'s staff, the "Professor," with a pleased smile on his face, said:
 
+-- This will work and it will go well...
 
-<!--
-
-::: {layout-ncol="2"}
-
-
-![](){width="4in"}
-
-:::
-
---> 
+The whole way of rehearsing in the Windsor Theater, where we had to wait for the "Professor" to hand out pages here and there from operetta {{< var yiziat >}} was something entirely unusual. Everyone was really exasperated but at the same time cracked jokes about it and laughed about it. But the main part only came later, and I'll tell you about it in the next chapter...

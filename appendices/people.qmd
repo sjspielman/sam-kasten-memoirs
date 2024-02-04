@@ -25,16 +25,13 @@ _Lekiskon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/B/baratz-david.htm)
 - _Shimon Beckerman_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/B/bekerman-simeon.htm)
-- _{{< var belzer-full >}}_
-  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/B/belzer-yudl.htm)
-  - [Wikipedia entry for his father, Nissi Belzer](https://en.wikipedia.org/wiki/Nissan_Spivak)
 - _{{< var berl-b >}}_
   - [Leksison](https://www.museumoffamilyhistory.com/yt/lex/B/bernstein-berl.htm)
 - _{{< var birnbaum-full >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/B/birnbaum-louis.htm)
 - _{{< var blank-full >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/B/blank-leon.htm)
-- {{< var charlie-full >}}
+- _{{< var charlie-full >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/C/cohan-charlie.htm)
 - _Jacob ("Jakele") {{< var jakele-last >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/C/cone-jacob.htm)
@@ -59,23 +56,15 @@ _Lekiskon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
 - _{{< var garten-full >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/G/gartenstein-jacob.htm)
   - [Contested House of Representatives election case](https://www.amazon.com/Contested-Election-Jacob-Gartenstein-Adolph-Sabath/dp/0265117615)
-- _{{< var gilrod-full >}}_
-  - [Wikipedia](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Louis_Gilrod)
-  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/G/gilrod-louie.htm)
 - _{{< var glickman-full >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/G/glickman-elias.htm)
 - _{{< var heine-full >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/H/heine-chaimovich-morris.htm)
-- _{{< var horowitz-full >}}_
-  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/H/horowitz-halevy-moshe-ish.htm)
 - _{{< var juvelier-full >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/J/juvelier-kalmen.htm)
   - [Wikipedia](https://en.wikipedia.org/wiki/Kalman_Juvelier)
 - _Jacob Katzman_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/K/katzman-jacob.htm)
-- _{{< var lillian-full >}}_
-  - [Wikipedia](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Isidore_Lillian)
-  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/L/lillian-isidore.htm)
 - _{{< var karp-full >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/K/karp-max.htm)
 - _{{< var keni-full >}}_
@@ -83,15 +72,11 @@ _Lekiskon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/L/lipzin-keni.htm)
 - _{{< var kessler-full >}}_
   - [Wikipedia](https://en.wikipedia.org/wiki/David_Kessler_(actor))
-  - Joe Kessler
+- _Joseph Kessler_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/K/kessler-joseph.htm)
 - _{{< var marx-full >}}_
   - [Wikipedia](https://en.wikipedia.org/wiki/Rudolph_Marks)
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/M/marks-rudolph.htm)
-- _David_ _{{< var meyero >}}
-  - [Wikipedia](https://en.wikipedia.org/wiki/David_Meyerowitz)
-  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/M/meyerowitz-david.htm)
-  - [Milken Archive](https://www.milkenarchive.org/artists/view/david-meyerowitz)
 - _Lazar Mitnick_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/M/mitnick-leiser.htm)
 - _Sigmund ("Zelig") {{< var mogu >}}_
@@ -99,12 +84,8 @@ _Lekiskon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/M/mogulesko-sigmund.htm)
 - _{{< var clara-rafalo >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/R/rafalo-clara.htm)
-- _{{< var reingold-full >}}_^[Interestingly, he does not appear to be featured in _any_ volume of the Leksikon.]
-  - [Wikipedia](https://en.wikipedia.org/wiki/Isaac_Reingold)
 - _Elias {{< var rothstein >}}_
   - [Lekiskon](https://www.museumoffamilyhistory.com/yt/lex/R/rothstein-elias.htm)
-- _{{< var rumshinsky-full >}}_
-  - [Wikipedia](https://en.wikipedia.org/wiki/Joseph_Rumshinsky)
 :::
 
 ::: {.column width="5%"}
@@ -114,18 +95,15 @@ _Lekiskon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
 
 - _{{< var abba-full >}} ("Yaffa Zahav", Beautiful Gold)_
   - [Wikipedia](https://en.wikipedia.org/wiki/Abba_Schoengold)
-- {{< var shor-full >}}
+- _{{< var shor-full >}}_
   - [Lekiskon](https://www.museumoffamilyhistory.com/yt/lex/S/schorr-anshel.htm)
   - [Wikipedia](https://en.wikipedia.org/wiki/Anshel_Schorr)
 - _Rae Shneyer_
   - [Lekiskon](https://www.museumoffamilyhistory.com/yt/lex/S/shneyer-rae.htm)
-- _{{< var shrage >}}_
+- _Adolph {{< var shrage >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/S/shrage-adolph.htm)
 - _{{< var simonoff-full >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/S/simonoff-moshe.htm)
-- _Solomon_ _{{< var smulo >}}
-  - [Wikipedia](https://en.wikipedia.org/wiki/Solomon_Smulewitz)
-  - [Milken Archive](https://www.milkenarchive.org/artists/view/solomon-smulevitz)
 - _{{< var tanzman-full >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/T/tanzman-avraham-itzhak.htm)
 - _Berta Tanzman_
@@ -142,12 +120,12 @@ _Lekiskon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/V/vakhtel-yosef.htm)
 - _{{< var weinb-full >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/W/weinblatt-israel.htm)
-- _{{< var dora-full >}}_
-  - [Leksikon]](https://www.museumoffamilyhistory.com/yt/lex/W/weissman-dora.htm)
 - _{{< var r-weintraub >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/W/weintraub-rebecca.htm)
 - _{{< var s-weintraub >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/W/weintraub-sigmund.htm)
+- _{{< var dora-full >}}_
+  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/W/weissman-dora.htm)
 - _Jacob Wexler_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/W/wexler-jacob.htm)
 - _Boaz (Bernard) Young_
@@ -164,21 +142,53 @@ _Lekiskon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
 ::::
 
 
-### Yiddish playwrights
+### Yiddish playwrights, lyricists, and composers
 
+- _{{< var belzer-full >}}_
+  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/B/belzer-yudl.htm)
+  - [Wikipedia entry for his father, Nissi Belzer](https://en.wikipedia.org/wiki/Nissan_Spivak)
+- _{{< var gilrod-full >}}_
+  - [Wikipedia](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Louis_Gilrod)
+  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/G/gilrod-louie.htm)
+  - [Milken Archive](https://www.milkenarchive.org/artists/view/louis-gilrod)
 - _{{< var goldfaden-full >}}_
   - [Wikipedia](href="https://en.wikipedia.org/wiki/Abraham_Goldfaden)
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/G/goldfaden-abraham.htm)
 - _{{< var gordin-full >}}_
   - [Wikipedia](https://en.wikipedia.org/wiki/Jacob_Gordin)
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/G/gordin-jacob.htm)
+- _{{< var horowitz-full >}}_
+  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/H/horowitz-halevy-moshe-ish.htm)
 - _{{< var lateiner-full >}}_
   - [Wikipedia](https://en.wikipedia.org/wiki/Joseph_Lateiner)
+- _{{< var lillian-full >}}_
+  - [Wikipedia](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Isidore_Lillian)
+  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/L/lillian-isidore.htm)
+- _David {{< var meyero >}}_
+  - [Wikipedia](https://en.wikipedia.org/wiki/David_Meyerowitz)
+  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/M/meyerowitz-david.htm)
+  - [Milken Archive](https://www.milkenarchive.org/artists/view/david-meyerowitz)
+- _{{< var perlmutter-full >}}_
+  - [Wikipedia](https://en.wikipedia.org/wiki/Arnold_Perlmutter)
+  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/P/perlmutter-arnold.htm)
+  - [Milken Archive](https://www.milkenarchive.org/artists/view/arnold-perlmutter)
+- _{{< var reingold-full >}}_^[Interestingly, he does not appear to be featured in _any_ volume of the Leksikon.]
+  - [Wikipedia](https://en.wikipedia.org/wiki/Isaac_Reingold)
+- _{{< var rumshinsky-full >}}_
+  - [Wikipedia](https://en.wikipedia.org/wiki/Joseph_Rumshinsky)
+  - [Milken Archive](https://www.milkenarchive.org/artists/view/joseph-rumshinsky)
 - _Nahum Meïr Schaikewitz^[_Also a novelist more generally_], aka_ {{< var shomer >}}
   - [Wikipedia](https://en.wikipedia.org/wiki/Nahum_Meir_Schaikewitz)
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/S/shomer-abraham.htm)
+- _Solomon {{< var smulo >}}_
+  - [Wikipedia](https://en.wikipedia.org/wiki/Solomon_Smulewitz)
+  - [Milken Archive](https://www.milkenarchive.org/artists/view/solomon-smulevitz)
 - _{{< var reuben-weissman >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/W/weissman-reuben.htm)
+- _{{< var wohl-full >}}_
+  - [Wikipedia](https://en.wikipedia.org/wiki/Herman_Wohl)
+  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/W/wohl-herman.htm)
+  - [Milken Archive](https://www.milkenarchive.org/artists/view/herman-wohl)
 
 
 ### People related to the non-Yiddish theater
