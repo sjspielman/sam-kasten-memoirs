@@ -17,4 +17,24 @@ When we put on his historical operetta {{< var white-black >}}^[Also called, {{<
 
 :::
 
+We, the actors in the troupe, joked around a lot, and all in all the atmosphere was one where no one really immersed themselves in their role and everything was done haphazardly, like it was all a farce.
 
+In those days, {{< var jacob-adler >}} parted ways with {{< var thomash >}} and {{< var edelstein >}} and he began to perform in the [Grand Theater](https://en.wikipedia.org/wiki/Grand_Theatre_(Manhattan)) on Grand Street^[at the corner of Grand and Chrystie Sts], and {{< var kessler-full >}} played with him. They engaged Madame {{< var kalich-full >}} to play the lead female roles. This was really a winning combination to put on serious dramas of a better sort, although the two great actors {{< var adler >}} and {{< var kessler >}} very often could not get along and they could not share the glory. {{< var kessler >}} loved to say that {{< var adler >}} was not the kind of actor who could play in a natural way, but rather he always had to do all kinds of tricks and put on airs like he wanted to go around a cloud...
+
+Every time when the two of them performed together in a play, they would both try to "out-act" the other, and one time {{< var kessler >}} got up to some mischief and pulled some trick in the middle of it that made him fall out of character, and it was very hard to get back into it.^[The antecdents of this paragraph are very ambiguous to me, but the essence is that {{< var kessler >}} is mischevious and causing trouble on stage just to mess with {{< var adler >}}.]
+
+For the new season^[1904/1905], {{< var dora-full >}} and I were hired to play at the Grand Theater, and I was really happy to have the opportunity to perform in better plays together with great actors like {{< var kessler-full >}} and {{< var jacob-adler >}}. I performed in plays there like {{< var kobrin >}}'s {{< var ghetto >}}^[[See an advertisement](https://www.nli.org.il/en/newspapers/freiearb/1904/12/04/01/article/27/) to a performance of this show on December 2nd-4th 1904] and {{< var z-libin >}}'s {{< var helena >}}^[[See an advertisement](https://www.nli.org.il/en/newspapers/haleom/1904/12/15/01/article/8.1/) to a matinee performance of this show on December 18th, 1904].
+
+
+
+In {{< var libin >}}'s play, Madame {{< var kalich-full >}} played the leading role and the audiences really loved her performance. She created an interesting character of a Jewish woman because she worked really hard on the role and took everything that she had to do very seriously. Generally speaking, people in the Yiddish theater circles took {{< var libin >}}'s plays very seriously. He was still a young dramatist, and people had very high hopes for him.
+
+In this play, {{< var helena >}}, I played a {{< var griner >}} Jew who carried newspapers to his regular customers and was always tired because he never got enough sleep. There was one scene where I was woken from my sleep, and I awoke with a start in such a {{< var tumult >}} that I had no idea where I was at all. The audiences laughed a lot at how I played this scene, as I leapt up and got dressed in such a hurry that I fell all over myself, putting my left shoe on my right foot and the right shoe on my left foot. 
+
+When I played this scene, it all came very naturally to me.^[Or, he might mean here that he played it in a very natural way; Either way, his point is it wasn't absurd slapstick.] This character in {{< var libin >}}'s play was very dear to my heart because, all in all, he was a very sympathetic {{< var menshl >}}^[diminutive {{< var mensh >}}], a {{< var nebech >}}^[a pitiful, helpless person] who toiled away and worked very hard to earn himself a piece of bread in America. And I remembered how every time I played the scene where I was startled awake, Madame {{< var kalich-full >}} looked at me like I was a poor, sympathetic {{< var menshl >}} also touched her heart. You could tell that she was really pleased with how my performance showed how very flustered and lost he was. 
+
+Once, after a performance of {{< var libin >}}'s play, Madame {{< var kalich >}} ran up to my dressing room and told me that the next evening, I should come to her house.
+
+-- {{< var dora-full >}} will also be there, - she said. - My husband, {{< var shpachner-full >}}^[He also managed the Grand Theater with {{< var adler >}} and {{< var kessler >}}], will see you both. He has to discuss something very important with you...
+
+Madame {{< var kalich >}} didn't tell us what {{< var shpachner >}} wanted to speak with us about, but we understood that it would certainly be something new. And indeed it was. 

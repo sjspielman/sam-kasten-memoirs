@@ -163,6 +163,9 @@ _Lekiskon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/G/gordin-jacob.htm)
 - _{{< var horowitz-full >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/H/horowitz-halevy-moshe-ish.htm)
+- _{{< var kobrin-full >}}_
+  - [Wikipedia](https://en.wikipedia.org/wiki/Leon_Kobrin)
+  - [Biography, adapted from his Leksikon entry](https://congressforjewishculture.org/people/1471/Kobrin,%20Leon%20(March%2015,%201872–March%2031,%201946))
 - _{{< var lateiner-full >}}_
   - [Wikipedia](https://en.wikipedia.org/wiki/Joseph_Lateiner)
 - _{{< var lillian-full >}}_
