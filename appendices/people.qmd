@@ -63,6 +63,10 @@ _Lekiskon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
 - _{{< var juvelier-full >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/J/juvelier-kalmen.htm)
   - [Wikipedia](https://en.wikipedia.org/wiki/Kalman_Juvelier)
+- _{{< var kalich-full >}}_
+  - [Lekiskon](https://www.museumoffamilyhistory.com/yt/lex/K/kalich-bertha.htm)
+  - [Wikipedia](https://en.wikipedia.org/wiki/Bertha_Kalich)
+  - [Jewish Women's Archive](https://jwa.org/encyclopedia/article/kalich-bertha)
 - _Jacob Katzman_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/K/katzman-jacob.htm)
 - _{{< var karp-full >}}_
@@ -164,6 +168,9 @@ _Lekiskon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
 - _{{< var lillian-full >}}_
   - [Wikipedia](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Isidore_Lillian)
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/L/lillian-isidore.htm)
+- _{{< var libin-full >}}_
+  - [Lekiskon](https://www.museumoffamilyhistory.com/yt/lex/L/libin-z.htm)
+  - [Wikipedia](https://en.wikipedia.org/wiki/Zalmon_Libin)
 - _David {{< var meyero >}}_
   - [Wikipedia](https://en.wikipedia.org/wiki/David_Meyerowitz)
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/M/meyerowitz-david.htm)
