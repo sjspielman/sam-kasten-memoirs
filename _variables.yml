@@ -46,6 +46,8 @@ tisa: _Tisa Esler_
 yiziat: _Exodus from Egypt_
 white-black: _The White and Black Jews_
 sons-israel: _The Sons of Yisroel_
+ghetto: _The East Side Ghetto_
+helena: _Helena, or the Jewish Medea_ 
 
 ## SONGS ------------------------------------------
 
@@ -260,6 +262,12 @@ z-libin: Z. Libin
 libin: Libin
 libin-full: Zalmon Libin
 
+kobrin: Kobrin
+kobrin-full: Leon Kobrin
+
+shpachner-full: Leopold Shpachner
+shpachner: Shpachner
+
 ## PLACES --------------------------------------------
 zat: Zatishiye
 bt: Belaya Tserkov
@@ -288,6 +296,7 @@ possessorka: _possessorka_
 possessieh: _possessie_
 beshert: _beshert_
 mensh: _mensh_
+menshl: _menshl_
 tate: _tate_
 heder: _kheder_
 Tate: _Tate_
@@ -421,3 +430,4 @@ terah: _Terakh_
 matzos: _matzos_
 griner: griner
 daytshmerish: _daytshmerish_
+nebech: _nebech_

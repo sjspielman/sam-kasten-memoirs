@@ -45,6 +45,7 @@ book:
         - chapters/28_1946-12-21.qmd
         - chapters/29_1946-12-26.qmd
         - chapters/30_1946-12-28.qmd 
+        - chapters/31_1947-01-02.qmd
     - part: "Appendices"
       chapters:
         - appendices/people.qmd
