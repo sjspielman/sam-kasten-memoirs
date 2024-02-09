@@ -14,7 +14,7 @@ He wanted to ensure that {{< var kessler >}} would listen to the whole play, bec
 The great artist, who was hardly educated, nevertheless had the good sense to know when someone was trying to pull a fast one. He immediately saw that Gorky could not have written this. And when {{< var feinman >}} was admitted that he was the real author, {{< var kessler >}} said:<br><br>
 -- {{< var Nu >}}, of course it was you!... I knew it...Only someone who thinks with their knees and writes with their elbows could have written such a thing...
 
-![Advertisement for the debut of the play from [from December 30th, 1905 in {{< var arb >}}](https://www.nli.org.il/en/newspapers/derarbeiter/1905/12/30/01/article/12); see translation in footnote[^advert] below. Amusingly, the play was _not_ originally advertised as being written by {{< var feinman >}}. Instead, the playwright advertised was "Professor Yakoby of London," who was not a real person. This was a pseudonym sometimes used in the early Yiddish theater by playwrights who either did not want to be associated with a {{< var shund >}} play, or when the theater putting on the play did not want to pay royalties to the actual playwright because the play was illegally obtained (Source: Volume 2 pg 295 of the _Lekiskon fun der Yidishe Teater_). After this play became a hit (albeit relatively short-lived), it seems that {{< var feinman >}} _did_ later put his name to the play.](../img/newspaper_clippings/1905-12-30_arb.png){width="2.75in"}
+![Advertisement for the debut of the play from [from December 30th, 1905 in {{< var arb >}}](https://www.nli.org.il/en/newspapers/derarbeiter/1905/12/30/01/article/12); see translation in footnote[^advert] below. Amusingly, the play was _not_ originally advertised as being written by {{< var feinman >}}. Instead, the playwright advertised was "Professor Yakoby of London," who was not a real person. This was a pseudonym sometimes used in the early Yiddish theater by playwrights who either did not want to be associated with a {{< var shund >}} play, or when the theater putting on the play did not want to pay royalties to the actual playwright because the play was illegally obtained (Source: Volume 2 pg 295 of the {{< var leks >}}). After this play became a hit (albeit relatively short-lived), it seems that {{< var feinman >}} _did_ later put his name to the play.](../img/newspaper_clippings/1905-12-30_arb.png){width="2.75in"}
 
 :::
 
@@ -28,7 +28,7 @@ In the play, {{< var dora-full >}} and I again played as a pair, and it was just
 
 It was enough to just mention those two names to make everyone laugh.
 
-In the middle of the week in the {{< var kalich >}} Theater, we put on other plays. One of them, I remember, was called {{< var yerusha >}}^[די ירושה], but I no longer remember the name of the playwright^[The playwright's name was George Zeikin]
+In the middle of the week in the {{< var kalich >}} Theater, we put on other plays. One of them, I remember, was called {{< var yerusha >}}^[די ירושה], but I no longer remember the name of the playwright^[The playwright's name was George (Gershon) Zeikin; Biography available from Volume 1 page 774 of the {{< var leks >}}.]
 
 
 here is the song Sam is going to recall, and indeed his name is given in the sheet music https://www.loc.gov/item/ihas.200185829/
