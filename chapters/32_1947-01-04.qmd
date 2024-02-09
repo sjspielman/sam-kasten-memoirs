@@ -1,0 +1,46 @@
+# January 24th, 1947
+
+##### _Link to [Forverts edition](https://www.nli.org.il/en/newspapers/frw/1947/01/04/01/)_ {.unnumbered}
+
+> {{< var dora-full >}} and I in the roles of {{< var piye >}} and {{< var shmiye >}}. -- {{< var kessler-full >}}'s expert opinion about a play. -- How {{< var mogu >}} taught me to perform a role.
+
+
+
+::: {layout-ncol="2"}
+
+{{< var shpachner >}} opened the season^[1905/1906] in the {{< var kalich >}} Theater^[formerly known as the Windsor Theater] with a piece written by the actor {{< var feinman-full >}} called {{< var sobi >}}^[Sobietsky was a [John III Sobieski, the King of Poland from 1629-1696](https://en.wikipedia.org/wiki/John_III_Sobieski). Sam is not correct about the debut: This play did not open the season, but rather premiered in December 1905, as shown in the advertisement to the right. It is possible to further speculate on why he was mistaken about the premiere date. The first reason, of course, is that this occurred over 40 years ago in Sam's life relative to when he wrote his memoirs. The second reason is that Sam was likely ill at the time suffering from severe stomach cramping (cause unknown to us), and his debilitating pain may have influenced his recollection of this time of his life. We know he was suffering because of this [article/advertisement from March 9th, 1907](https://www.nli.org.il/en/newspapers/dwt/1907/03/09/01/article/50.4) where he describes his chronic illness - and how the doctors in the Vienna Medical Office on 106 E 11th St cured him when no one else was able to. Indeed, it seems Sam became somewhat of a celebrity spokesperson for the Viennese doctors, with the same article/advertisement reprinted in future newspapers (both in {{< var vahr >}} and other newspapers) to further promote the medical institute.]. The old Yiddish actor {{< var feinman-full >}} really loved to write plays. It wasn't enough for him to be an actor; he really wanted to be a playwright too. But in Yiddish theater circles, it was said that, once when he wrote a play, he wanted {{< var kessler-full >}} to play the lead role. But he knew that {{< var kessler >}} didn't think highly of his writing so of course he wouldn't want to hear about his play. So, {{< var feinman >}} made up a story that he had actually translated the play from Russian, and it was it was originally written by Gorky. [Maxim Gorky](https://en.wikipedia.org/wiki/Maxim_Gorky)^[This anecdote provides some context for why {{< var feinman >}} did not originally ascribe his name to {{< var sobi >}}.]...<br><br>
+He wanted to ensure that {{< var kessler >}} would listen to the whole play, because he knew that the great artist {{< var kessler-full >}} really held Gorky in high esteem... But as soon as he read the first few pages, {{< var kessler >}} began to frown. Shrugging his shoulders, he grimaced, and you could tell that he was puzzled and something did not sit right with him. And when he finished reading the first act, he grabbed {{< var feinman >}} by the shoulders with both hands and stared sharply at him with his two big eyes, and he roared:<br><br>
+-- _{{< var feinman >}}-oiniye_^[a nickname], you wrote this masterpiece, not Gorky! You did - not Gorky! To the devil with you!...<br><br>
+The great artist, who was hardly educated, nevertheless had the good sense to know when someone was trying to pull a fast one. He immediately saw that Gorky could not have written this. And when {{< var feinman >}} was admitted that he was the real author, {{< var kessler >}} said:<br><br>
+-- {{< var Nu >}}, of course it was you!... I knew it...Only someone who thinks with their knees and writes with their elbows could have written such a thing...
+
+![Advertisement for the debut of the play from [from December 30th, 1905 in {{< var arb >}}](https://www.nli.org.il/en/newspapers/derarbeiter/1905/12/30/01/article/12); see translation in footnote[^advert] below. Amusingly, the play was _not_ originally advertised as being written by {{< var feinman >}}. Instead, the playwright advertised was "Professor Yakoby of London," who was not a real person. This was a pseudonym sometimes used in the early Yiddish theater by playwrights who either did not want to be associated with a {{< var shund >}} play, or when the theater putting on the play did not want to pay royalties to the actual playwright because the play was illegally obtained (Source: Volume 2 pg 295 of the _Lekiskon fun der Yidishe Teater_). After this play became a hit (albeit relatively short-lived), it seems that {{< var feinman >}} _did_ later put his name to the play.](../img/newspaper_clippings/1905-12-30_arb.png){width="2.75in"}
+
+:::
+
+This is how he usually spoke about a play that he didn't like, and this time he was even more biting...
+
+But {{< var feinman >}} was not deterred by the fact that {{< var kessler-full >}} did not care for his writing, and he kept writing plays. And when someone put on one of his plays, he was in the seventh heaven. He didn't care about what "royalties" he would get, just that he wasn't only an actor - but also a playwright...
+
+{{< var feinman >}} did well with his play {{< var sobi >}}. This play was a great success in the {{< var kalich >}} Theater and it was played for two more seasons. It goes without saying that the lead role of the great Rabbi who stands up for the Jews was played by {{< var feinman >}} himself, since he loved the role very much and he was sure that no other actor would play it as well as him. 
+
+In the play, {{< var dora-full >}} and I again played as a pair, and it was just as {{< var shpachner >}} promised - we had enough to sing and say and dance in our roles. {{< var dora >}}'s character was named {{< var piye >}}, and mine was named {{< var shmiye >}}, and the audience greatly enjoyed the scene we played together. Everyone was lively and joyous, and the crowd went wild for {{< var piye >}} and {{< var shmiye >}}.
+
+It was enough to just mention those two names to make everyone laugh.
+
+In the middle of the week in the {{< var kalich >}} Theater, we put on other plays. One of them, I remember, was called {{< var yerusha >}}^[די ירושה], but I no longer remember the name of the playwright^[The playwright's name was George Zeikin]
+
+
+here is the song Sam is going to recall, and indeed his name is given in the sheet music https://www.loc.gov/item/ihas.200185829/
+
+
+
+
+
+
+[^advert]: Translation of advertisement for {{< var sobi >}}:
+
+    
+    > **{{< var kalich >}} Theater**
+    >
+    > Friday Dec. 29th evening, {{< var shabes >}} Dec. 30th matinee and evening, Sunday Dec. 31st matinee and evening, and Jan. 1st (New Years) 1906, for the first time the long-awaited historical opera in four acts _{{< var rls >}}_ or {{< var sobi >}}. Historical opera about the Jews in Poland, written by Professor Yakoby of London, staged by Herr Z. {{< var feinman >}}, music by {{< var perlmutter >}} and {{< var wohl >}}, extraordinary scenery painted by T.S. (?) Godfellow, ballet, dances, and marches by [Professor Baraban](https://jenikirbyhistory.getarchive.net/topics/baraban+prof+choreographer/theater+yiddish), electric effects by the electrician Pete. Lyrics for all songs and couplets by the poet {{< var smulo >}}. Herr {{< var feinman >}} as {{< var rls >}}, Herr {{< var juvelier >}} as Yosef Roland. In Act 3 {{< var juvelier >}} will sing the well-known song "Der Lis" (דער לית).

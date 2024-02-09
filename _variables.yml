@@ -6,6 +6,8 @@ brookeagle: _The Brookyn Eagle_
 der-emes: _Der Emes_
 pok: _Der Yidisher Pok_
 velt: _Di Yidishe Velt_
+arb: _Der Arbeter_
+vahr: _Di Vahrhayt_
 
 hau: Hebrew Actors\' Union
 
@@ -47,7 +49,9 @@ yiziat: _Exodus from Egypt_
 white-black: _The White and Black Jews_
 sons-israel: _The Sons of Yisroel_
 ghetto: _The East Side Ghetto_
-helena: _Helena, or the Jewish Medea_ 
+helena: _Helena, or the Jewish Medea_
+sobi: _The Jew in the Age of Sobietsky_
+yerusha: _The Inheritance_
 
 ## SONGS ------------------------------------------
 
@@ -84,6 +88,9 @@ bar-kochba-person: Bar Kokhba # role and person...
 zirele: Zirele
 naftali: Naftali the _Mishuganer_
 feitl: Feitl-Pavolye
+piye: Paye
+shmiye: Shmiye
+rls: Rabbi Leyb Sephardi
 
 ## PEOPLE  -------------------------------------------
 
@@ -246,8 +253,10 @@ anshel: Anshel
 blank-full: Leon Blank
 blank: Blank
 juvelier-full: Kalmen Juvelier
+juvelier: Juvelier
 shrage: Shrage
 dora-full: Dora Weissman
+dora: Dora
 reuben-weissman: Reuben Weissman
 wohl: Wohl
 perlmutter: Perlmutter
