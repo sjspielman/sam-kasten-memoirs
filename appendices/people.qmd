@@ -161,6 +161,8 @@ _Lekiskon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
 - _{{< var gordin-full >}}_
   - [Wikipedia](https://en.wikipedia.org/wiki/Jacob_Gordin)
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/G/gordin-jacob.htm)
+- _{{< var gottlieb-full >}}_
+  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/G/gottlieb-leon.htm)
 - _{{< var horowitz-full >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/H/horowitz-halevy-moshe-ish.htm)
 - _{{< var kobrin-full >}}_
