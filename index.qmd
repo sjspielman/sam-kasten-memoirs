@@ -10,10 +10,10 @@ He (generally) wrote two articles per week, from September 1946 - February 1947,
 
 > **Sam Kestin describes of 50 years of Yiddish Theater**
 >
-> The famous comedian, who for 50 years has been dancing and singing on the Yiddish stage, tells his memories for the {{< var forverts >}}.
+> The famous comedian, who for 50 years has been dancing and singing on the Yiddish stage, tells his memories for {{< var forverts >}}.
 > Dramatic, romantic, funny, and comical tales that occurred in and around the Yiddish theater in the last half century.
 >
-> Start reading Sam Kestin's articles in the{{< var forverts >}} Saturday, September 7th.
+> Start reading Sam Kestin's articles in {{< var forverts >}} Saturday, September 7th.
 > The articles will appear twice a week, Thursday and Saturday.
 :::
 
