@@ -1,0 +1,30 @@
+# January 4th, 1947
+
+##### _Link to [Forverts edition](https://www.nli.org.il/en/newspapers/frw/1947/01/09/01/)_ {.unnumbered}
+
+> Again in Philadelphia, and then back to New York. -- With {{< var kessler >}} in rehearsals and the stories/parables/examples he gave with <
+scattered, dispersed; distracted, absent-minded; extravagant, wasteful> and <cut off, chop off; snap, break off; interrupt> works.
+
+At the end of the second season in the {{< var kalich >}} Theater, we were told that in a year there would be no more performances there because the building was being torn down to make way for the great bridge which would connect New York with Brooklyn - now the well-known "Manhattan Bridge."
+
+I were very really sorry that the Windsor Theater^[Recall, although the theater had been renamed to the {{< var kalich >}} theater, it was known before - and for a much longer time - as the Windsor] was being demolished, and it was natural for me to feel this way because, after all, I had made a name for myself there in the first few years I played in New York. And even to this day, I usually stop there when I walk past the Manhattan Bridge. Somehow instinctively I pause there, and I think to myself - once upon a time, the Windsor Theater stood there.
+
+After the season^[1906/1907] ended, {{< var shor-full >}} came to me with an offer to play in Philadelphia in {{< var mike >}}'s Columbia Theater, and we agreed I would be paid $100/week, and on top of that, they'd hire my wife as well and pay her $25/week. The troupe that {{< var mike >}} put together to play in Philadelphia consisted of actors with big names, and among them was [{{< var schwartz >}}](https://www.museumoffamilyhistory.com/yt/lex/S/schwartz-maurice.htm), the same {{< var schwartz-full >}} who later created the [Yiddish Art Theater](https://en.wikipedia.org/wiki/Yiddish_Art_Theatre). But at that time, no one imagined that one day he would create so many great things for the Yiddish stage and that he would launch a new chapter in the history of Yiddish theater in America.
+
+Generally speaking, the Yiddish theater in Philadelphia was nowhere near the level of New York and simply could not compete with it. In Philadelphia, they would put on the same plays that were popular in New York, and they played them like there really wasn't anything to be ashamed of. It was nothing new that a play which audiences loved would have a longer run than in New York, and I remember how once, in {{< var mike >}}'s Columbia Theater^[At 3rd and Green Sts], we put on {{< var be-a-mensh >}}^[Sheet music for [the title song](https://www.loc.gov/item/ihas.200182066/) of the play, א מענש זאָל מען זײַן], which Moishe {{< var shor >}}^[{{< var shor-full >}}'s brother. An actor and playwright, his {{< var leks >}} entry has not yet been translated, but it is available from Volume 4, page 2650.] and {{< var shor-full >}} wrote together, for a record 25 weeks in a row. And we played it so well that the theater bigwigs even came down from New York to see us play it.
+
+I played in Philadelphia for three seasons[^philly], and I achieved such renown that even those who remembered me well from the early days and called me "Samke" when I was still struggling to make a name for myself, started to call me "Mr. Kestin," and I had many great fans among them.
+
+
+
+
+
+
+[^philly]: 
+    ::: {layout-ncol="2"}
+
+    He played at the Columbia Theater during the 1907/1908 season, after which the troupe moved to the [Arch Street Theater](https://en.wikipedia.org/wiki/Arch_Street_Theatre) where he played during the 1908/1909 and 1909/1910 seasons. Below is pictured the Arch Street Theater troupe of 1909/1910, featuring Sam in the top left corner and {{< var suzi >}} (his wife) in the bottom left corner. There are several notable names here, including (but not limited to!) Sam's old friend {{< var frank-full >}} (second from the top on the right side), {{< var schwartz-full >}} (second from the right on the bottom row), and {{< var clara-rafalo >}} whose career Sam helped launch in Cincinnati ([Chapter 19](./19_1946-11-21.qmd); second from the right on the top row). 
+    
+    ![[Image Source.](https://twitter.com/schmeterpitz/status/1527979480119123969)](../img/1909-1910_arch-st-theater-troupe.png){width="4in"}
+
+    :::

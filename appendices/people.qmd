@@ -102,6 +102,9 @@ _Lekiskon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
 - _{{< var shor-full >}}_
   - [Lekiskon](https://www.museumoffamilyhistory.com/yt/lex/S/schorr-anshel.htm)
   - [Wikipedia](https://en.wikipedia.org/wiki/Anshel_Schorr)
+- _{{< var schwartz-full >}}_
+  - [Lekiskon](https://www.museumoffamilyhistory.com/yt/lex/S/schwartz-maurice.htm)
+  - [Wikipedia](https://en.wikipedia.org/wiki/Maurice_Schwartz)
 - _Rae Shneyer_
   - [Lekiskon](https://www.museumoffamilyhistory.com/yt/lex/S/shneyer-rae.htm)
 - _Adolph {{< var shrage >}}_
