@@ -32,7 +32,7 @@ In the middle of the week in the {{< var kalich >}} Theater, we put on other pla
 
 It goes without saying that the role of the beautiful maiden, who the snub-nosed cavalier courted and was so in love with, was played by {{< var dora-full >}}, and she brought a lot of life and humor into the role. {{< var mogu >}} wrote a little ditty for the cavalier to sing, and even now I remember the {{< var nigun >}}^[A _different_ song that Sam sang in this role was called "It's just my nose that's to blame." You can find the [sheet music here](https://www.loc.gov/item/ihas.200185829/) and a translation and modern-day rendition of it [here](http://www.yiddishpennysongs.com/2016/01/in-dem-iz-shuldik-nor-mayn-noz-its-just.html]]:
 
-> I'm little orphan, I've become a {{< var nebech >}} -- 
+> I'm an orphan, a {{< var nebech >}} -- 
 > 
 > I've lost the tip of my nose.
 >
@@ -42,7 +42,7 @@ It goes without saying that the role of the beautiful maiden, who the snub-nosed
 > 
 > {{< var oyveyzmir >}}, my beloved little nose!
 >
-> gone with it is my beautiful maiden, my love, 
+> Gone with it is my beautiful maiden, my love, 
 >
 > And in misery, snub-nosed, I am here alone.
 
