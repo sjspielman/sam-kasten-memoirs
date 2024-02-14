@@ -55,6 +55,7 @@ helena: _Helena, or The Jewish Medea_
 sobi: _The Jew in the Age of Sobietsky_
 yerusha: _The Inheritance_
 be-a-mensh: _A Person Should Be a Mensch_ # a mensch zol men zeyn
+wedding-day: _The Wedding Day_ # yom hakhupe
 
 ## SONGS ------------------------------------------
 
@@ -147,6 +148,7 @@ s-weintraub: Sigmond Weintraub
 r-weintraub: Rivke Weintraub
 weinb-full: Yisroel Weinblatt
 weinb: Weinblatt
+c-weinb: Charlie Weinblatt
 
 glickman: Glickman
 glickman-full: Elias Glickman
@@ -285,6 +287,14 @@ shpachner: Shpachner
 
 schwartz-full: Maurice Schwartz
 schwartz: Schwartz
+
+wilner: Wilner
+wilner-full: Max Wilner
+
+kasey: Kasey
+
+gorky: Gorky
+gorky-full: Maxim Gorky
 
 ## PLACES --------------------------------------------
 zat: Zatishiye
@@ -452,3 +462,5 @@ nebech: _nebech_
 shadchan: _shadchan_
 oyveyzmir: _Oy vey iz mir_
 hopke: _hopke_
+
+gazlen: _gazlen_

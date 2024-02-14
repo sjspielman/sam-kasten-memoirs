@@ -11,7 +11,10 @@ I do NOT own copyright of these materials. Where known, sources are provided all
 - [`front-street-theater-baltimore.jpg`](https://www.reddit.com/r/Lost_Architecture/comments/vgznrj/front_street_theater_baltimore_md_18291904/)
 - [`peoples-music-hall.jpg`](https://cinematreasures.org/theaters/60205)
 - [`BoweryWindsorTheatre.jpg`](https://www.boweryalliance.org/did-you-know-this-about-the-bowery/)
-- [`img/1909-1910_arch-st-theater-troupe.png`](https://twitter.com/schmeterpitz/status/1527979480119123969)
+- [`1909-1910_arch-st-theater-troupe.png`](https://twitter.com/schmeterpitz/status/1527979480119123969)
+- [`lyric-theater.jpg`](https://www.museumoffamilyhistory.com/brooklyn/yt/theatres.htm)
+- [`liberty-theater.jpg`](https://www.museumoffamilyhistory.com/brooklyn/yt/theatres.htm)
+- [`wedding-day.jpeg`](https://www.loc.gov/resource/ihas.200186076.0/)
 
 
 ## Newspaper clippings folder
