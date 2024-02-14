@@ -33,27 +33,29 @@ bowery: _The Bowery Tramp_
 rachel-leah: _Rachel and Leah_
 kinglear: _The Yiddish King Lear_
 crownprince: _The Crown Price of Jerusalem_
-alexander-long: _Alexander, or the Crown Price of Jerusalem_
+alexander-long: _Alexander, or The Crown Price of Jerusalem_
 honor: _Honor thy Father_
 jewish-priest: _The Jewish Priest_
 blimele: _Blimele_
-blimele-other: _The Pearl of Warsaw, or the Count and the Jew_
+blimele-other: _The Pearl of Warsaw, or The Count and the Jew_
 mirele-efros: _Mirele Efros_
-kiddush-hashem: _Kiddush Hashem, or the Jewish minister_
+kiddush-hashem: _Kiddush Hashem, or The Jewish minister_
 medea: _Medea_
 zhydovka: _Zhydovka_
 kol-nidre: _Kol Nidre_
 devil: _God, Man, and Devil_
-no587: _Number 587, or the Mama Sure_
+no587: _Number 587, or The Mama Sure_
 immigrant: _The Immigrant_
 tisa: _Tisa Esler_
 yiziat: _Exodus from Egypt_
 white-black: _The White and Black Jews_
 sons-israel: _The Sons of Yisroel_
 ghetto: _The East Side Ghetto_
-helena: _Helena, or the Jewish Medea_
+helena: _Helena, or The Jewish Medea_
 sobi: _The Jew in the Age of Sobietsky_
 yerusha: _The Inheritance_
+be-a-mensh: _A Person Should Be a Mensch_ # a mensch zol men zeyn
+wedding-day: _The Wedding Day_ # yom hakhupe
 
 ## SONGS ------------------------------------------
 
@@ -146,6 +148,7 @@ s-weintraub: Sigmond Weintraub
 r-weintraub: Rivke Weintraub
 weinb-full: Yisroel Weinblatt
 weinb: Weinblatt
+c-weinb: Charlie Weinblatt
 
 glickman: Glickman
 glickman-full: Elias Glickman
@@ -281,6 +284,17 @@ kobrin-full: Leon Kobrin
 
 shpachner-full: Leopold Shpachner
 shpachner: Shpachner
+
+schwartz-full: Maurice Schwartz
+schwartz: Schwartz
+
+wilner: Wilner
+wilner-full: Max Wilner
+
+kasey: Kasey
+
+gorky: Gorky
+gorky-full: Maxim Gorky
 
 ## PLACES --------------------------------------------
 zat: Zatishiye
@@ -429,6 +443,7 @@ moses: Moishe Rabbeinu
 
 behalah: _behole_
 mumzer: _mumzer_
+Mumzer: _Mumzer_
 
 shalom-bait: _sholem bais_
 
@@ -448,3 +463,6 @@ nebech: _nebech_
 shadchan: _shadchan_
 oyveyzmir: _Oy vey iz mir_
 hopke: _hopke_
+
+gazlen: _gazlen_
+Gazlen: _Gazlen_
