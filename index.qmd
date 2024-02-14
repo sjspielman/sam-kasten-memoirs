@@ -10,10 +10,10 @@ He (generally) wrote two articles per week, from September 1946 - February 1947,
 
 > **Sam Kestin describes of 50 years of Yiddish Theater**
 >
-> The famous comedian, who for 50 years has been dancing and singing on the Yiddish stage, tells his memories for the {{< var forverts >}}.
+> The famous comedian, who for 50 years has been dancing and singing on the Yiddish stage, tells his memories for {{< var forverts >}}.
 > Dramatic, romantic, funny, and comical tales that occurred in and around the Yiddish theater in the last half century.
 >
-> Start reading Sam Kestin's articles in the{{< var forverts >}} Saturday, September 7th.
+> Start reading Sam Kestin's articles in {{< var forverts >}} Saturday, September 7th.
 > The articles will appear twice a week, Thursday and Saturday.
 :::
 
@@ -34,7 +34,7 @@ Where possible, I have cross-referenced items Sam discusses, as detailed in foot
 I obtained all memoirs articles from [The National Library of Israel](https://www.nli.org.il/en/newspapers/frw) and, for those newspaper editions that were not available online, from the [New York Public Library's](https://www.nypl.org/) microfiche archives.
 
 Many thanks to librarians at [NYPL's Dorot Division](https://www.nypl.org/locations/schwarzman/jewish-division) for support finding the "missing" articles!
-Thanks also to Steve Lasky and other volunteers who have contributed to the *Museum of the Yiddish Theatre* for making many translations from [Zalmen Zylbercweig's *"Leksikon fun Yidishn Teater"*](https://www.museumoffamilyhistory.com/yt/lex-biography.htm) available! They have been invaluable for cross-referencing.
+Thanks also to Steve Lasky and other volunteers who have contributed to the *Museum of the Family History* for making many translations from [Zalmen Zylbercweig's {{< var leks >}}](https://www.museumoffamilyhistory.com/yt/lex-biography.htm) available! They have been invaluable for cross-referencing.
 
 ------------------------------------------------------------------------
 In memory of Sol Glassman ז׳׳ל, whose untimely death sent me down an ancestry rabbit hole wherein I accidentally ended up at Sam (who is wholly unrelated to Sol), and discovered a treasure trove of Yiddish writings.
