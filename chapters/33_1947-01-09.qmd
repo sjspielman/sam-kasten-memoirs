@@ -44,7 +44,7 @@ The plan that {{< var wilner >}} made for kicking off the new season in the Thia
 
 ![Lyric Theater located at 16-18 Seigel Avenue in Williamsburg, Brooklyn. [Image source](https://www.museumoffamilyhistory.com/brooklyn/yt/theatres.htm).](../img/lyric-theater.jpg){width="2.5in"}
 
-![Liberty Theater located at 61 Liberty Avenue in Brownsville, Brooklyn. [Image source](https://www.museumoffamilyhistory.com/brooklyn/yt/theatres.htm).](../img/liberty-theater.jpg){width="2.5in"}
+![Liberty Theater located at 61 Liberty Avenue in Brownsville, Brooklyn. [Image source](https://www.museumoffamilyhistory.com/brooklyn/yt/theatres.htm).](../img/liberty-theater.jpg){width="2in"}
 
 :::
 
@@ -52,12 +52,13 @@ The plan that {{< var wilner >}} made for kicking off the new season in the Thia
 
 ::: {layout-ncol="2"}
 
-![Sheet music cover for {{< var wedding-day >}} performed in Lyric Theater, picturing from left to right, {{< var clara-full >}}, {{< var kessler-full >}}, and Sam "Kesten." [Image source and associated sheet music](https://www.loc.gov/resource/ihas.200186076.0/).](../img/wedding-day.jpeg){width="3in"}
+![Sheet music cover for {{< var wedding-day >}} performed in Lyric Theater, picturing from left to right, {{< var clara-full >}}, {{< var kessler-full >}}, and Sam "Kesten." [Image source and associated sheet music](https://www.loc.gov/resource/ihas.200186076.0/).](../img/wedding-day.jpeg){width="4in"}
 
 
-All at once we were playing in both theaters - in Lyric Theater {{< var kessler-full >}} played the lead role in the play, and in Liberty Theater {{< var juvelier-full >}} played the same lead role, and when needed, half of the troupe would go tour the provinces with {{< var kessler >}}. This was in the 1910^[1909/1910] season, and I will never forget those times because in playing with {{< var kessler >}}, I had a lot of good times and also a lot of bad times. But I have forgotten the bad times and rememebered only the good times...
-
+All at once we were playing in both theaters - in Lyric Theater {{< var kessler-full >}} played the lead role in the play, and in Liberty Theater {{< var juvelier-full >}} played the same lead role, and when needed, half of the troupe would go tour the provinces with {{< var kessler >}}. This was in the 1910^[1909/1910] season, and I will never forget those times because in playing with {{< var kessler >}}, I had a lot of good times and also a lot of bad times. But I have forgotten the bad times and remembered only the good times...<br><br>
 No matter how hard it was to put up with {{< var kessler >}}'s caprices, it was worth it because he was one of the greatest actors who has ever appeared on our Yiddish stage. With his keen artistic sense, he was able to grasp things that no one else could. He had a world of imagination, but he lacked the right words to express it when speaking. But through his acting, even without words, he could show how a role should be played, and it was a pleasure to watch him demonstrate in rehearsals how to play one role or another because in his imagination he was able to see it all so clearly. And even if he didn't exactly understand his own role, he found a way through the unknown to create such a full character that you'd never forget. 
+
+:::
 
 It was perhaps {{< var kessler >}}'s great misfortune that his heyday on the Yiddish stage was in those days just when long monologues were the main thing. He wasn't so good at those, because he was much more of a physical actor. His acting was more powerful without words than with, and on top of that he was far too impatient to memorize the sea of words in long monologues.
 
@@ -73,7 +74,7 @@ And he would show the actor how to peck at the seed...
 
 Also, when he himself would be in the middle of a performance on the stage, he would sometimes stand there saying nothing, because he really didn't know the role, and between his teeth he would growl at the prompter:
 
--- {{< var gazlen >}}^[Slang effectively meaning "jerk." Literally means thief/bandit], {{< var mumzer >}}^[bastard], give me a seed...
+-- {{< var Gazlen >}}^[Slang effectively meaning "jerk." Literally means thief/bandit]! {{< var Mumzer >}}^[bastard]! Give me a seed...
 
 It was often difficult to perform with him. Difficult and yet - pleasant, because he was such a great artist that he could get away with his caprices... 
 
