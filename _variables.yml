@@ -16,28 +16,28 @@ leks: _Leksikon fun Yidishn Teater_
 ## PLAYS -----------------------------------------
 shulamith: _Shulamith_
 barkochba: _Bar Kokhba_
-coquettes: _The Coquettes_
-sorceress: _The Sorceress_
-bobeyachne: _Bobe Yachne_ # sam uses both, so I will too
-sailor: _Sailor in Peril_
-kuni: _The Two Kuni Lemels_
-yingl: _The Polish Boy_
-alilesdam-full: _Blood Libel, or Menachem Ben-Israel_
-velvel: _The Female Pioneer, or Velvele Eats Compote_
-esther_eingedi: _Esther of Ein-Gedi_
-haim: _Home in America_
+coquettes: _Di Kokete Damen_
+sorceress: _Di Kishefmacherin_
+bobeyachne: _Bobe Yakhne_ # sam uses both, so I will too
+sailor: _Saylor in Gefar_
+kuni: _Di tsvey Kuni-Leml_
+yingl: _Dos Poylishe Yingl_
+alilesdam-full: _Aliles Dam, oder Menachem Ben-Yisroel_
+velvel: _Di Khalitse, oder Velvele Est Kompot_
+esther_eingedi: _Ester fun Eyn-Gedi_
+haim: _Khayim in Amerike_
 lostsoul: _The Wandering Soul_
 meilitz: _Meilitz Yosher_
-meilitz-long: _Meilitz Yosher, or Rabbi Yosselman_
-bowery: _The Bowery Tramp_
-rachel-leah: _Rachel and Leah_
-kinglear: _The Yiddish King Lear_
+meilitz-long: _Meilitz Yosher, oder Rabbi Yoselman_
+bowery: _The Bowery Tremp_
+rachel-leah: _Rukhl un Leah_
+kinglear: _Der Yidisher Kenig Lir_
 crownprince: _The Crown Price of Jerusalem_
-alexander-long: _Alexander, or The Crown Price of Jerusalem_
-honor: _Honor thy Father_
-jewish-priest: _The Jewish Priest_
+alexander-long: Aleksander, oder der Kroynprints fun Yerusholayim_
+honor: _Kibed Ov_
+jewish-priest: _Der Yidishe Galekh_
 blimele: _Blimele_
-blimele-other: _The Pearl of Warsaw, or The Count and the Jew_
+blimele-other: _Blimele, di Perle fun Varshe, oder Graff un Yude_
 mirele-efros: _Mirele Efros_
 kiddush-hashem: _Kiddush Hashem, or The Jewish minister_
 medea: _Medea_
@@ -85,7 +85,7 @@ shabtai-golem: Shabsai Goylem
 shabtai: Shabsai
 elyokum: Elyokum
 hostmach: Hotsmakh
-kuni-lemel: Kuni Lemel
+kuni-lemel: Kuni Leml
 kalman-kroch: Kalman Kroch
 bobele: Bobele
 bar-kochba-person: Bar Kokhba # role and person...
