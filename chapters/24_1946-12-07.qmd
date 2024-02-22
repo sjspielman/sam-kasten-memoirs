@@ -7,7 +7,7 @@ _This article is not available from the National Library of Israel. The article 
 
 My suspicion that it was no mere coincidence that my name was not announced for performance where I played {{< var mogu >}}'s role was not unfounded.
 
-You could tell from how later, when the piece [{{< var kol-nidre >}}](https://digitalcollections.nypl.org/items/510d47da-db4b-a3d9-e040-e00a18064a99) was staged, my name was again not announced, even though I played a major role. And it was clear to me that this was all because {{< var berl-b >}} was a _jealousnik_, and he simply did not want my name to stand out.
+You could tell from how later, when the piece [{{< var kol-nidre >}}](https://digitalcollections.nypl.org/items/510d47da-db4b-a3d9-e040-e00a18064a99)^[[Article about the historical context](https://ingeveb.org/articles/kol-nidre-and-the-making-of-the-jewish-theatre-audience) of this play in the history of Yiddish Theater] was staged, my name was again not announced, even though I played a major role. And it was clear to me that this was all because {{< var berl-b >}} was a _jealousnik_, and he simply did not want my name to stand out.
 
 I couldn't blame him that he wasn't able to treat me fairly, because as I've already told you, it's possible that he did not enjoy that he got so jealous of the other comedians on the Yiddish stage. Perhaps he just couldn't help himself because that was his nature, and he just couldn't change it...
 
@@ -56,7 +56,7 @@ I really did not expect such a thing. Who could have imagined that {{< var boris
 
 It goes without saying that I immediately sent the bell boy back to them with an answer, that I will come to see them. And when I went to their hotel after the show, {{< var boris >}} didn't started talking to me directly about it, but danced around it a bit. But {{< var edelstein >}} soon interrupted got straight to the point:
 
--- Listen to what I will tell you - right away, as was his way, he started talking to me informally^[Yiddish has two pronouns for "you" - an informal and formal (which is used for plural) version. Here, Sam means that {{< var edelstein >}} immediately used the informal "you" pronoun with Sam, not the formal one.] - We want to hire you to play in "People's Music Hall." How much do you want? 
+-- Listen to what I will tell you - right away, as was his way, he started talking to me informally^[Yiddish has two pronouns for "you" - an informal and formal (which is used for plural) version. Here, Sam means that {{< var edelstein >}} immediately used the informal "you" pronoun with Sam, not the formal one.] - We want to hire you to play in "People's Music Hall." How much do you want?
 
 He gave no further introduction.
 
