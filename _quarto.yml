@@ -44,7 +44,7 @@ book:
         - chapters/27_1946-12-19.qmd
         - chapters/28_1946-12-21.qmd
         - chapters/29_1946-12-26.qmd
-        - chapters/30_1946-12-28.qmd 
+        - chapters/30_1946-12-28.qmd
         - chapters/31_1947-01-02.qmd
         - chapters/32_1947-01-04.qmd
         - chapters/33_1947-01-09.qmd
@@ -61,6 +61,9 @@ format:
   html:
     sidebar-width: 600px
     fontsize: 14px;
+    citations-hover: true
+    footnotes-hover: true
+    crossrefs-hover: true
 
 theme:
   light: flatly

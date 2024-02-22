@@ -25,7 +25,7 @@ I remember once, in the middle of winter, just when I was in Brownsville having 
 
 -- What do you mean? We will play theater there and we will earn money.
 
-At that time, he was so involved in the plan he had devised, that he just didn't listen to what I was talking to him, and he told me that they were going to play [{{< var lateiner-full >}}](https://en.wikipedia.org/wiki/Joseph_Lateiner)'s {{< var lostsoul >}}^[According to [{{< var rumshinsky-full >}}](https://en.wikipedia.org/wiki/Joseph_Rumshinsky)'s [account of Yiddish theater history](https://www.moyt.org/exhibitions/rumshinsky/series/1952.12.08.htm), this play was based on the German play _The Night Wanderer_.]. And in the play, he said, you will play {{< var shmuelikel >}}^[A character in the show, unrelated to the fact that this is Sam's {{< var haimishe >}} name.] and she, your wife, will play {{< var bobele >}}, and mark my words - it will be good!
+At that time, he was so involved in the plan he had devised, that he just didn't listen to what I was talking to him, and he told me that they were going to play [{{< var lateiner-full >}}](https://en.wikipedia.org/wiki/Joseph_Lateiner)'s {{< var lostsoul >}}^["The Lost/Wandering Soul". According to [{{< var rumshinsky-full >}}](https://en.wikipedia.org/wiki/Joseph_Rumshinsky)'s [account of Yiddish theater history](https://www.moyt.org/exhibitions/rumshinsky/series/1952.12.08.htm), this play was based on the German play _The Night Wanderer_.]. And in the play, he said, you will play {{< var shmuelikel >}}^[A character in the show, unrelated to the fact that this is Sam's {{< var haimishe >}} name.] and she, your wife, will play {{< var bobele >}}, and mark my words - it will be good!
 
 He even gave me something on the spot to persuade me that it would be good - five dollars.
 
@@ -34,7 +34,7 @@ He even gave me something on the spot to persuade me that it would be good - fiv
 
 I didn't talk to him at all about salary. There was nothing to say, because they were playing for "stamps"^[Recall, a system where each actor gets a pre-specified percentage of profits]. It was just a question of what kind of stamp should be set for me. But I didn't open my mouth to ask anything about it, because given my situation, I should stay silent and not argue with anyone about what stamp was set for me.
 
-After playing the first week in Boston, {{< var abba-full >}} brought me a bag of money, and when I counted it and saw that it was a sum of two hundred and seventy-five dollars, I literally couldn't believe my eyes and I remained sitting in a daze. 
+After playing the first week in Boston, {{< var abba-full >}} brought me a bag of money, and when I counted it and saw that it was a sum of two hundred and seventy-five dollars, I literally couldn't believe my eyes and I remained sitting in a daze.
 
 -- {{< var schoen >}}, - I started speaking as if I was not sure what I wanted to say - {{< var schoen >}}, maybe there is a mistake? Maybe...could it be... eh?... It is possible this was miscalculated...?
 
@@ -75,9 +75,9 @@ Soon after I realied what I had done. But it had already happened. I could not t
 
 -- You don't need to strike me, Mr. Kestin... Why should you hit me?... I'm not guilty of this...
 
-And looking at him, as he stands so pitiful and dejected, my heart was torn apart... 
+And looking at him, as he stands so pitiful and dejected, my heart was torn apart...
 
-Years later, the same {{< var moishe >}} became one of the biggest - if not the biggest - impresario in the American theater world on Broadway. He was no longer called {{< var moishe >}}, but Morris - **{{< var gest-full >}}**. He was married to the daughter of the famous [**David Belasco**](https://en.wikipedia.org/wiki/David_Belasco), and it's not an exaggeration to say that he, {{< var moishe >}} who wandered about behind the curtains of the Yiddish theater in Boston and later became {{< var gest-full >}}, played a major role in the English theater in America reaching such a high artistic level; he brought the famous [Moscow Art Theater](https://en.wikipedia.org/wiki/Moscow_Art_Theatre), which the great [Stanislavski](https://en.wikipedia.org/wiki/Konstantin_Stanislavski) created, to America. He also brought [Max Reinhardt](https://en.wikipedia.org/wiki/Max_Reinhardt)'s German troupe, which performed the best things in the world's repertoire, and in general {{< var gest-full >}} accomplished grandiose spectacles which are a special chapter of their own in the history of American theater. 
+Years later, the same {{< var moishe >}} became one of the biggest - if not the biggest - impresario in the American theater world on Broadway. He was no longer called {{< var moishe >}}, but Morris - **{{< var gest-full >}}**. He was married to the daughter of the famous [**David Belasco**](https://en.wikipedia.org/wiki/David_Belasco), and it's not an exaggeration to say that he, {{< var moishe >}} who wandered about behind the curtains of the Yiddish theater in Boston and later became {{< var gest-full >}}, played a major role in the English theater in America reaching such a high artistic level; he brought the famous [Moscow Art Theater](https://en.wikipedia.org/wiki/Moscow_Art_Theatre), which the great [Stanislavski](https://en.wikipedia.org/wiki/Konstantin_Stanislavski) created, to America. He also brought [Max Reinhardt](https://en.wikipedia.org/wiki/Max_Reinhardt)'s German troupe, which performed the best things in the world's repertoire, and in general {{< var gest-full >}} accomplished grandiose spectacles which are a special chapter of their own in the history of American theater.
 
 It did not occur to anyone at that time that he, {{< var moishele >}}, the errand boy, would rise so high and occupy such a prominent place. This occurred to me less than anyone when I slapped him unjustifiably for nothing...
 

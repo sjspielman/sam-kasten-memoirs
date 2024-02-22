@@ -151,7 +151,7 @@ _Leksikon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
 ::::
 
 
-### Yiddish playwrights, lyricists, and composers
+### Yiddish authors, playwrights, lyricists, and composers
 
 :::: {.columns}
 
@@ -187,9 +187,7 @@ _Leksikon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
   - [Biography, adapted from his Leksikon entry](https://congressforjewishculture.org/people/1471/Kobrin,%20Leon%20(March%2015,%201872–March%2031,%201946))
 - _{{< var lateiner-full >}}_
   - [Wikipedia](https://en.wikipedia.org/wiki/Joseph_Lateiner)
-- _{{< var lillian-full >}}_
-  - [Wikipedia](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Isidore_Lillian)
-  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/L/lillian-isidore.htm)
+
 
 
 :::
@@ -203,6 +201,12 @@ _Leksikon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
 - _{{< var libin-full >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/L/libin-z.htm)
   - [Wikipedia](https://en.wikipedia.org/wiki/Zalmon_Libin)
+- _{{< var lillian-full >}}_
+  - [Wikipedia](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Isidore_Lillian)
+  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/L/lillian-isidore.htm)
+- _{{< var linetzky >}}_
+  - [Wikipedia](https://en.wikipedia.org/wiki/Yitzkhok_Yoel_Linetzky)
+  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/L/linetzky-isaac-joel.htm)
 - _David {{< var meyero >}}_
   - [Wikipedia](https://en.wikipedia.org/wiki/David_Meyerowitz)
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/M/meyerowitz-david.htm)

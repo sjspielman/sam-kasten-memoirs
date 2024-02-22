@@ -71,8 +71,8 @@ Hearing such a thing, {{< var boris >}} began to equivocate. He said that this i
 
 -- ^[This text is very blurry and hard to make out, so this translation is partial and probably not very correct. But from the context, it is clear that {{< var edelstein >}} smooths it over and convinces Sam the union membership will not be a big deal.]{{< var Nu >}}, we will soon see that you will join the union...
 
-We then got around to talking about my price for a season in the "People's Music Hall." We agreed that I would receive 35 dollars a week, and my wife would receive 15 dollars a week. And when they asked how much I would like to receive a week in People's Theater.
-^[Rest of the paragraph may have mistranslations since text is again blurry and barely legible.]Together with {{< var thomash >}} and {{< var adler >}}, I didn't know how to answer. I knew that to play in People's Theater, I couldn't ask for more than I was getting in People's Music Hall. I knew I wasn't in a position to ask for as much now as I could ask for later. So I decided to ask for half the amount that I wanted:
+We then got around to talking about my price for a season in the "People's Music Hall." We agreed that I would receive 35 dollars a week, and my wife would receive 15 dollars a week. And when they asked how much I would like to receive a week in People's Theater
+^[Rest of the paragraph may have mistranslations since text is again blurry and barely legible.]. Together with {{< var thomash >}} and {{< var adler >}}, I didn't know how to answer. I knew that to play in People's Theater, I couldn't ask for more than I was getting in People's Music Hall. I knew I wasn't in a position to ask for as much now as I could ask for later. So I decided to ask for half the amount that I wanted:
 
 -- Well,...How about 20 dollars a week?
 
