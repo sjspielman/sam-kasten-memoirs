@@ -12,7 +12,7 @@ Yes, for free. No one will have to pay any money for a ticket. You won't even ne
 
 This, the public in Brownsville was interested in, and they started coming to drink beer and actually see a Yiddish show along with it, and then the casino was able to pay my salary and I started to earn a little bit of money. But really only a little. We didn't have much luck.
 
-That's how Yiddish theater was in Brownsville in those days. And when a Jew wanted to see a proper performance, he usually would go to New York^[Lower East Side] where "the bears," the famous actors of the Yiddish stage, played. 
+That's how Yiddish theater was in Brownsville in those days. And when a Jew wanted to see a proper performance, he usually would go to New York^[Lower East Side] where "the bears," the famous actors of the Yiddish stage, played.
 
 Around that time my wife gave birth to our first child^[Their first son Freddie was born in 1894. He would later go on to fight in WWI, during which he was exposed to mustard gas and was chronically ill with severe lung problems for the rest of his life, until he passed away in 1935 from associated complications. He worked in the theater box offices and similar before he passed.], and I my situation was such that only God alone could take pity on me. If it weren't for the few fans I had in Brownsville, my situation would certainly have been much worse. My fans, simple but good and kind people, helped me out with whatever they could. But they couldn't do much for me, because they themselves were also very poor and they also toiled hard for a piece of bread.
 
@@ -24,9 +24,9 @@ It was difficult for me to speak like that, because that was not at all my natur
 
 And {{< var thomash >}} promised me that he would come to Brownsville to play a show at Parmer's Casino, especially for me, and all the proceeds would go to me.
 
-{{< var Nu >}}, I was certainly very pleased with this. And I was even more pleased that he chose to play the piece [{{< var esther_eingedi >}}](https://jewishmuseummd.pastperfectonline.com/Archive/B9E9D9B4-EFFD-45A8-A2A7-069980106953) for the evening performance. This was one of the most popular plays among Jews at that time, and I was sure that the casino would be packed, people would stand head-to-head^[an idiom meaning crowded] and there would be a lot of proceeds.
+{{< var Nu >}}, I was certainly very pleased with this. And I was even more pleased that he chose to play the piece [{{< var esther_eingedi >}}](https://jewishmuseummd.pastperfectonline.com/Archive/B9E9D9B4-EFFD-45A8-A2A7-069980106953)^[[Eid-Gedi](https://en.wikipedia.org/wiki/Ein_Gedi) is an ancient spring in Israel] for the evening performance. This was one of the most popular plays among Jews at that time, and I was sure that the casino would be packed, people would stand head-to-head^[an idiom meaning crowded] and there would be a lot of proceeds.
 
-As he always did^[Sam writes, "as was always his manner"], {{< var thomash >}} also brought his bravado and his "actor’s caprices"; he ordered everything to be prepared so that nothing would go wrong, and he also said that all the decorations for the production of the play {{< var esther_eingedi >}} must be brought in from New York.
+As he was wont to do, {{< var thomash >}} also brought his bravado and his "actor’s caprices"; he ordered everything to be prepared so that nothing would go wrong, and he also said that all the decorations for the production of the play {{< var esther_eingedi >}} must be brought in from New York.
 
 And if {{< var thomash >}} wants it, you must obey...
 
@@ -37,11 +37,11 @@ In desperation, I then turned to the actor {{< var karp-full >}}, who then, just
 
 This saved me from all my troubles; When the people in Brownsville heard that Max Karp was going to sing, they gladly came to Parmer's Casino to hear him, and the most interesting thing about it was that they wanted to hear exactly the songs that they had already heard him sing before...
 
-Apparently, it's not the same with singing versus with a play; when it comes to singing, you can listen to something you enjoy many times, and the closer a song is to your heart, the more you want to hear it still...
+Apparently, it's not the same with singing as it is with a play; when it comes to singing, you can listen to something you enjoy many times, and the closer a song is to your heart, the more you want to hear it still...
 
 Even to this day, I can't forget the enthusiasm he was met with when he went out on stage to sing and what an ovation he received after he sang the first song:
 
-> Oh, how much longer, great Lord, 
+> Oh, how much longer, great Lord,
 >
 > Will your people be in {{< var goles >}}^[diaspora/exile; this is a hebrew word: גלות]?
 
@@ -88,7 +88,7 @@ And then the singing went in the form of a question and an answer:
 > וואס איהם פארשאפט
 >
 > האס אזא קראפט.
-> 
+>
 > ווייל שטענדיג איין ליד
 >
 > זינגט דער איד:
@@ -134,7 +134,7 @@ And here comes the song again in the form of a question and answer:
 > וואס איהם פארשאפט
 >
 > האס אזא קראפט.
-> 
+>
 > ווייל שטענדיג איין ליד
 >
 > זינגט דער איד:

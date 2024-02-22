@@ -16,46 +16,49 @@ leks: _Leksikon fun Yidishn Teater_
 ## PLAYS -----------------------------------------
 shulamith: _Shulamith_
 barkochba: _Bar Kokhba_
-coquettes: _The Coquettes_
-sorceress: _The Sorceress_
-bobeyachne: _Bobe Yachne_ # sam uses both, so I will too
-sailor: _Sailor in Peril_
-kuni: _The Two Kuni Lemels_
-yingl: _The Polish Boy_
-alilesdam-full: _Blood Libel, or Menachem Ben-Israel_
-velvel: _The Female Pioneer, or Velvele Eats Compote_
-esther_eingedi: _Esther of Ein-Gedi_
-haim: _Home in America_
-lostsoul: _The Wandering Soul_
+coquettes: _Di Kokete Damen_
+sorceress: _Di Kishefmacherin_
+bobeyachne: _Bobe Yakhne_ # sam uses both, so I will too
+sailor: _Saylor in Gefar_
+kuni: _Di tsvey Kuni-Leml_
+yingl: _Dos Poylishe Yingl_
+alilesdam-full: _Aliles Dam, oder Menachem Ben-Yisroel_
+velvel: _Di Khalitse, oder Velvele Est Kompot_
+esther_eingedi: _Ester fun Eyn-Gedi_
+haim: _Khayim in Amerike_
+lostsoul: _Di Farblondzhete Neshome_
 meilitz: _Meilitz Yosher_
-meilitz-long: _Meilitz Yosher, or Rabbi Yosselman_
-bowery: _The Bowery Tramp_
-rachel-leah: _Rachel and Leah_
-kinglear: _The Yiddish King Lear_
-crownprince: _The Crown Price of Jerusalem_
-alexander-long: _Alexander, or The Crown Price of Jerusalem_
-honor: _Honor thy Father_
-jewish-priest: _The Jewish Priest_
+meilitz-long: _Meilitz Yosher, oder Rabbi Yoselman_
+bowery: _Der Boyeri Tremp_
+rachel-leah: _Rukhl un Leah_
+kinglear: _Der Yidisher Kenig Lir_
+crownprince: _Der Kroynprints fun Yerusholayim_
+alexander-long: _Aleksander, oder der Kroynprints fun Yerusholayim_
+honor: _Kibed Ov_
+jewish-priest: _Der Yidishe Galekh_
 blimele: _Blimele_
-blimele-other: _The Pearl of Warsaw, or The Count and the Jew_
+blimele-full: _Blimele, di Perle fun Varshe, oder Graff un Yude_
 mirele-efros: _Mirele Efros_
-kiddush-hashem: _Kiddush Hashem, or The Jewish minister_
+kiddush-hashem: _Kiddush Hashem, oder Der Yidisher Minister_
 medea: _Medea_
 zhydovka: _Zhydovka_
 kol-nidre: _Kol Nidre_
-devil: _God, Man, and Devil_
-no587: _Number 587, or The Mama Sure_
-immigrant: _The Immigrant_
+kol-nidre-full: _Kol Nidre, oder Di Geheyme Yuden in Madrid_
+devil: _Gott, Mentsh, un Tayvl_
+no587: _Nomer 587, or Di Mame Sure_
+immigrant: _Di Imigranten_
 tisa: _Tisa Esler_
-yiziat: _Exodus from Egypt_
+yiziat: _Yesties Mitsraïm_
 white-black: _The White and Black Jews_
-sons-israel: _The Sons of Yisroel_
-ghetto: _The East Side Ghetto_
-helena: _Helena, or The Jewish Medea_
-sobi: _The Jew in the Age of Sobietsky_
-yerusha: _The Inheritance_
-be-a-mensh: _A Person Should Be a Mensch_ # a mensch zol men zeyn
-wedding-day: _The Wedding Day_ # yom hakhupe
+sons-israel: _The Children of Yisroel_
+sons-full: _Di Bnei Yisroel, oder Di Vayse un di Schwartse Yuden_
+ghetto: _East Side Ghetto_
+helena: _Helene, oder Di Yidishe Medea_
+sobi: _Der Yud in Sobietski's Zayten_
+sobi-full:  _Reb Leyb Sephardi, oder Der Yud in Sobietski's Zayten_
+yerusha: _Di Yerushe_
+be-a-mensh: _A Mensch Zol Men Zeyn_
+wedding-day: _Yom Hakhupe_
 
 ## SONGS ------------------------------------------
 
@@ -71,6 +74,7 @@ zions-daughters: \"Lament of Zion's daughters\"
 shepherd: \"The Little Shepherd\"
 rachel: \"Rakhil, ti Dotsch Moya\"
 wonders: \"God's Wonders\"
+yisrolik: _\"Yisrolik, Kum Aheym\"_
 
 
 ## ROLES --------------------------------------------
@@ -85,7 +89,7 @@ shabtai-golem: Shabsai Goylem
 shabtai: Shabsai
 elyokum: Elyokum
 hostmach: Hotsmakh
-kuni-lemel: Kuni Lemel
+kuni-lemel: Kuni Leml
 kalman-kroch: Kalman Kroch
 bobele: Bobele
 bar-kochba-person: Bar Kokhba # role and person...
@@ -120,7 +124,10 @@ shmuel-yossel: Shmuel Yossel
 
 rothstein: Rothstein
 
+friedsell-full: Louis Friedsell
 Yehiel: Yehiel
+
+linetzky: Yitzhak Yoel Linetzky
 
 gottlieb-full: Leon Gottlieb
 gottlieb: Gottlieb
@@ -149,6 +156,8 @@ r-weintraub: Rivke Weintraub
 weinb-full: Yisroel Weinblatt
 weinb: Weinblatt
 c-weinb: Charlie Weinblatt
+
+brody-full: Joseph Brody
 
 glickman: Glickman
 glickman-full: Elias Glickman
@@ -360,7 +369,7 @@ tzadik: _tzadik_
 mitzvah: _mitzvah_
 seudat-shabbat: _seudoys shabbos_
 ruakh-hakodesh: _ruakh-hakoidesh_
-chuppah: _chuppe_
+chuppah: _khupe_
 lchaim: _l'chaim_
 Lchaim: _L'chaim_
 toivm-u-sholem: _toivm u'sholem_
@@ -415,7 +424,7 @@ shames: _shames_
 
 khalilah: _khalilah_
 dreykop: _dreykop_
-mensch: _mensch_
+mensch: _mentsh_
 yiddishkeit: _yiddishkayt_
 mishpucha: _mishpucha_
 apikoros: _apikores_

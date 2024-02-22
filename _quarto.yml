@@ -44,13 +44,14 @@ book:
         - chapters/27_1946-12-19.qmd
         - chapters/28_1946-12-21.qmd
         - chapters/29_1946-12-26.qmd
-        - chapters/30_1946-12-28.qmd 
+        - chapters/30_1946-12-28.qmd
         - chapters/31_1947-01-02.qmd
         - chapters/32_1947-01-04.qmd
         - chapters/33_1947-01-09.qmd
     - part: "Appendices"
       chapters:
         - appendices/people.qmd
+        - appendices/plays.qmd
         - appendices/timeline.qmd
 
   page-footer: '<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Except images and newspaper clippings, this work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.'
@@ -60,6 +61,9 @@ format:
   html:
     sidebar-width: 600px
     fontsize: 14px;
+    citations-hover: true
+    footnotes-hover: true
+    crossrefs-hover: true
 
 theme:
   light: flatly

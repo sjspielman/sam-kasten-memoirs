@@ -2,7 +2,7 @@
 
 This appendix contains links to more information about people Sam meets and/or describes in his memoirs.
 People are listed below in alphabetical order.
-_Lekiskon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Teater_](https://en.wikipedia.org/wiki/Leksikon_fun_yidishn_teater), many of which have been [translated](https://www.museumoffamilyhistory.com/yt/lex-biography.htm).
+_Leksikon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Teater_](https://en.wikipedia.org/wiki/Leksikon_fun_yidishn_teater), many of which have been [translated](https://www.museumoffamilyhistory.com/yt/lex-biography.htm).
 
 ### Performers in the Yiddish theater
 
@@ -39,7 +39,7 @@ _Lekiskon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/E/edelstein-joseph.htm)
 - _Lisa Einhorn_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/E/einhorn-lisa.htm)
-- _{{< var feinman-full >}}_ 
+- _{{< var feinman-full >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/F/feinman-sigmund.htm)
 - _{{< var frank-full >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/F/frank-jacob.htm)
@@ -63,7 +63,7 @@ _Lekiskon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/J/juvelier-kalmen.htm)
   - [Wikipedia](https://en.wikipedia.org/wiki/Kalman_Juvelier)
 - _{{< var kalich-full >}}_
-  - [Lekiskon](https://www.museumoffamilyhistory.com/yt/lex/K/kalich-bertha.htm)
+  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/K/kalich-bertha.htm)
   - [Wikipedia](https://en.wikipedia.org/wiki/Bertha_Kalich)
   - [Jewish Women's Archive](https://jwa.org/encyclopedia/article/kalich-bertha)
 - _Jacob Katzman_
@@ -88,11 +88,11 @@ _Lekiskon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
 - _{{< var clara-rafalo >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/R/rafalo-clara.htm)
 - _Elias {{< var rothstein >}}_
-  - [Lekiskon](https://www.museumoffamilyhistory.com/yt/lex/R/rothstein-elias.htm)
+  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/R/rothstein-elias.htm)
 - _{{< var abba-full >}} ("Yaffa Zahav", Beautiful Gold)_
   - [Wikipedia](https://en.wikipedia.org/wiki/Abba_Schoengold)
 - _{{< var shor-full >}}_
-  - [Lekiskon](https://www.museumoffamilyhistory.com/yt/lex/S/schorr-anshel.htm)
+  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/S/schorr-anshel.htm)
   - [Wikipedia](https://en.wikipedia.org/wiki/Anshel_Schorr)
 
 :::
@@ -103,10 +103,10 @@ _Lekiskon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
 ::: {.column width="30%"}
 
 - _{{< var schwartz-full >}}_
-  - [Lekiskon](https://www.museumoffamilyhistory.com/yt/lex/S/schwartz-maurice.htm)
+  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/S/schwartz-maurice.htm)
   - [Wikipedia](https://en.wikipedia.org/wiki/Maurice_Schwartz)
 - _Rae Shneyer_
-  - [Lekiskon](https://www.museumoffamilyhistory.com/yt/lex/S/shneyer-rae.htm)
+  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/S/shneyer-rae.htm)
 - _Adolph {{< var shrage >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/S/shrage-adolph.htm)
 - _{{< var simonoff-full >}}_
@@ -151,7 +151,7 @@ _Lekiskon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
 ::::
 
 
-### Yiddish playwrights, lyricists, and composers
+### Yiddish authors, playwrights, lyricists, and composers
 
 :::: {.columns}
 
@@ -161,6 +161,13 @@ _Lekiskon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
 - _{{< var belzer-full >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/B/belzer-yudl.htm)
   - [Wikipedia entry for his father, Nissi Belzer](https://en.wikipedia.org/wiki/Nissan_Spivak)
+- {{< var brody-full >}}_
+  - [Wikipedia](https://en.wikipedia.org/wiki/Joseph_Brody)
+  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/B/brody-joseph.htm)
+  - [Milken Archive](https://www.milkenarchive.org/artists/view/joseph-brody)
+- _{{< var friedsell-full >}}_
+  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/F/friedsell-louis.htm)
+  - [Wikipedia](https://en.wikipedia.org/wiki/Louis_Friedsell)
 - _{{< var gilrod-full >}}_
   - [Wikipedia](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Louis_Gilrod)
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/G/gilrod-louie.htm)
@@ -180,9 +187,7 @@ _Lekiskon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
   - [Biography, adapted from his Leksikon entry](https://congressforjewishculture.org/people/1471/Kobrin,%20Leon%20(March%2015,%201872–March%2031,%201946))
 - _{{< var lateiner-full >}}_
   - [Wikipedia](https://en.wikipedia.org/wiki/Joseph_Lateiner)
-- _{{< var lillian-full >}}_
-  - [Wikipedia](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Isidore_Lillian)
-  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/L/lillian-isidore.htm)
+
 
 
 :::
@@ -194,8 +199,14 @@ _Lekiskon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
 ::: {.column width="40%"}
 
 - _{{< var libin-full >}}_
-  - [Lekiskon](https://www.museumoffamilyhistory.com/yt/lex/L/libin-z.htm)
+  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/L/libin-z.htm)
   - [Wikipedia](https://en.wikipedia.org/wiki/Zalmon_Libin)
+- _{{< var lillian-full >}}_
+  - [Wikipedia](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Isidore_Lillian)
+  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/L/lillian-isidore.htm)
+- _{{< var linetzky >}}_
+  - [Wikipedia](https://en.wikipedia.org/wiki/Yitzkhok_Yoel_Linetzky)
+  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/L/linetzky-isaac-joel.htm)
 - _David {{< var meyero >}}_
   - [Wikipedia](https://en.wikipedia.org/wiki/David_Meyerowitz)
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/M/meyerowitz-david.htm)
@@ -212,7 +223,7 @@ _Lekiskon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
 - _Nahum Meïr Schaikewitz^[_Also a novelist more generally_], aka_ {{< var shomer >}}
   - [Wikipedia](https://en.wikipedia.org/wiki/Nahum_Meir_Schaikewitz)
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/S/shomer-abraham.htm)
-- _Solomon {{< var smulo >}}_
+- _Solomon {{< var smulo >}}_ (aka _Solomon Small_)
   - [Wikipedia](https://en.wikipedia.org/wiki/Solomon_Smulewitz)
   - [Milken Archive](https://www.milkenarchive.org/artists/view/solomon-smulevitz)
 - _{{< var reuben-weissman >}}_

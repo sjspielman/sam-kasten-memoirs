@@ -10,7 +10,7 @@ I were very really sorry that the Windsor Theater^[Recall, although the theater 
 
 After the season^[1906/1907] ended, {{< var shor-full >}} came to me with an offer to play in Philadelphia in {{< var mike >}}'s Columbia Theater, and we agreed I would be paid $100/week, and on top of that, they'd hire my wife as well and pay her $25/week. The troupe that {{< var mike >}} put together to play in Philadelphia consisted of actors with big names, and among them was [{{< var schwartz >}}](https://www.museumoffamilyhistory.com/yt/lex/S/schwartz-maurice.htm), the same {{< var schwartz-full >}} who later created the [Yiddish Art Theater](https://en.wikipedia.org/wiki/Yiddish_Art_Theatre). But at that time, no one imagined that one day he would create so many great things for the Yiddish stage and that he would launch a new chapter in the history of Yiddish theater in America.
 
-Generally speaking, the Yiddish theater in Philadelphia was nowhere near the level of New York and simply could not compete with it. In Philadelphia, they would put on the same plays that were popular in New York, and they played them like there really wasn't anything to be ashamed of. It was nothing new that a play which audiences loved would have a longer run than in New York, and I remember how once, in {{< var mike >}}'s Columbia Theater^[At 3rd and Green Sts], we put on {{< var be-a-mensh >}}^[Sheet music for [the title song](https://www.loc.gov/item/ihas.200182066/) of the play, א מענש זאָל מען זײַן], which Moishe {{< var shor >}}^[{{< var shor-full >}}'s brother. An actor and playwright, his {{< var leks >}} entry has not yet been translated, but it is available from Volume 4, page 2650.] and {{< var shor-full >}} wrote together, for a record 25 weeks in a row. And we played it so well that the theater bigwigs even came down from New York to see us play it.
+Generally speaking, the Yiddish theater in Philadelphia was nowhere near the level of New York and simply could not compete with it. In Philadelphia, they would put on the same plays that were popular in New York, and they played them like there really wasn't anything to be ashamed of. It was nothing new that a play which audiences loved would have a longer run than in New York, and I remember how once, in {{< var mike >}}'s Columbia Theater^[At 3rd and Green Sts], we put on {{< var be-a-mensh >}}^[Sheet music for [the title song](https://www.loc.gov/item/ihas.200182066/) of the play], which Moishe {{< var shor >}}^[{{< var shor-full >}}'s brother. An actor and playwright, his {{< var leks >}} entry has not yet been translated, but it is available from Volume 4, page 2650.] and {{< var shor-full >}} wrote together, for a record 25 weeks in a row. And we played it so well that the theater bigwigs even came down from New York to see us play it.
 
 I played in Philadelphia for three seasons[^philly], and I achieved such renown that even those who remembered me well from the early days and called me "Samke" when I was still struggling to make a name for myself, started to call me "Mr. Kestin," and I had many great fans among them.
 
@@ -38,7 +38,7 @@ And suddenly {{< var c-weinb >}}, with a wide smile on his face, said to both me
 
 We all laughed at this, and afterwards {{< var c-weinb >}} himself told everyone in the theater circles about it, and they were all in stitches laughing about it.
 
-The plan that {{< var wilner >}} made for kicking off the new season in the Thialia Theater was totally shot, because {{< var adler >}} head us off - he bought out the Thalia Theater and became the new manager. Because of this, {{< var kessler >}} was suddenly left without a theater in New York, and apparently, this is just what {{< var adler >}} wanted. But {{< var wilner >}} found a solution for what to do with the whole troupe he had hired. He split the troupe in two and rented out the Lyric Theater in Brooklyn and the Liberty Theater in Brownsville, and we started the season with {{< var lateiner-full >}}'s piece {{< var wedding-day >}}^[_Yom Hakhupe_; יום החופּה]. 
+The plan that {{< var wilner >}} made for kicking off the new season in the Thialia Theater was totally shot, because {{< var adler >}} head us off - he bought out the Thalia Theater and became the new manager. Because of this, {{< var kessler >}} was suddenly left without a theater in New York, and apparently, this is just what {{< var adler >}} wanted. But {{< var wilner >}} found a solution for what to do with the whole troupe he had hired. He split the troupe in two and rented out the Lyric Theater in Brooklyn and the Liberty Theater in Brownsville, and we started the season with {{< var lateiner-full >}}'s piece {{< var wedding-day >}}^[Listen to [a song from the play](https://search.library.wisc.edu/digital/AX3TMJFTUV72UX8Y)].
 
 ::: {layout-ncol="2"}
 
@@ -56,7 +56,7 @@ The plan that {{< var wilner >}} made for kicking off the new season in the Thia
 
 
 All at once we were playing in both theaters - in Lyric Theater {{< var kessler-full >}} played the lead role in the play, and in Liberty Theater {{< var juvelier-full >}} played the same lead role, and when needed, half of the troupe would go tour the provinces with {{< var kessler >}}. This was in the 1910^[1910/1911] season, and I will never forget those times because in playing with {{< var kessler >}}, I had a lot of good times and also a lot of bad times. But I have forgotten the bad times and remembered only the good times...<br><br>
-No matter how hard it was to put up with {{< var kessler >}}'s caprices, it was worth it because he was one of the greatest actors who has ever appeared on our Yiddish stage. With his keen artistic sense, he was able to grasp things that no one else could. He had a world of imagination, but he lacked the right words to express it when speaking. But through his acting, even without words, he could show how a role should be played, and it was a pleasure to watch him demonstrate in rehearsals how to play one role or another because in his imagination he was able to see it all so clearly. And even if he didn't exactly understand his own role, he found a way through the unknown to create such a full character that you'd never forget. 
+No matter how hard it was to put up with {{< var kessler >}}'s caprices, it was worth it because he was one of the greatest actors who has ever appeared on our Yiddish stage. With his keen artistic sense, he was able to grasp things that no one else could. He had a world of imagination, but he lacked the right words to express it when speaking. But through his acting, even without words, he could show how a role should be played, and it was a pleasure to watch him demonstrate in rehearsals how to play one role or another because in his imagination he was able to see it all so clearly. And even if he didn't exactly understand his own role, he found a way through the unknown to create such a full character that you'd never forget.
 
 :::
 
@@ -76,15 +76,15 @@ Also, when he himself would be in the middle of a performance on the stage, he w
 
 -- {{< var Gazlen >}}^[Slang effectively meaning "jerk." Literally means thief/bandit]! {{< var Mumzer >}}^[bastard]! Give me a seed...
 
-It was often difficult to perform with him. Difficult and yet - pleasant, because he was such a great artist that he could get away with his caprices... 
+It was often difficult to perform with him. Difficult and yet - pleasant, because he was such a great artist that he could get away with his caprices...
 
 
 
-[^philly]: 
+[^philly]:
     ::: {layout-ncol="2"}
 
-    He played at the Columbia Theater during the 1907/1908 season, after which the troupe moved to the [Arch Street Theater](https://en.wikipedia.org/wiki/Arch_Street_Theatre) where he played during the 1908/1909 and 1909/1910 seasons. Below is pictured the Arch Street Theater troupe of 1909/1910, featuring Sam in the top left corner and {{< var suzi >}} (his wife) in the bottom left corner. There are several notable names here, including (but not limited to!) Sam's old friend {{< var frank-full >}} (second from the top on the right side), {{< var schwartz-full >}} (second from the right on the bottom row), and {{< var clara-rafalo >}} whose career Sam helped launch in Cincinnati ([Chapter 19](./19_1946-11-21.qmd); second from the right on the top row). 
-    
+    He played at the Columbia Theater during the 1907/1908 season, after which the troupe moved to the [Arch Street Theater](https://en.wikipedia.org/wiki/Arch_Street_Theatre) where he played during the 1908/1909 and 1909/1910 seasons. Below is pictured the Arch Street Theater troupe of 1909/1910, featuring Sam in the top left corner and {{< var suzi >}} (his wife) in the bottom left corner. There are several notable names here, including (but not limited to!) Sam's old friend {{< var frank-full >}} (second from the top on the right side), {{< var schwartz-full >}} (second from the right on the bottom row), and {{< var clara-rafalo >}} whose career Sam helped launch in Cincinnati ([Chapter 19](./19_1946-11-21.qmd); second from the right on the top row).
+
     ![[Image Source.](https://twitter.com/schmeterpitz/status/1527979480119123969)](../img/1909-1910_arch-st-theater-troupe.png){width="4in"}
 
     :::

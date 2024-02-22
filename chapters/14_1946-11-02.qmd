@@ -8,7 +8,7 @@
 
 Like many other actors who joined the Yiddish stage in those years when you didn't expect any great luck, I also never fell into despair when I went through bad times. I made peace with the fact that this is just how the theater profession is, and this is just what the life of an actor is: suddenly you are distinguished and it goes well and you earn enough money playing, and then all of a sudden it goes badly and you had to "put your teeth on the shelf"^[This is an idiom, meaning to be starving - after all, if you aren't eating, you don't need your teeth anymore so you can put them on the shelf. In Yiddish: פאַרוואַרפן די ציין אויף די בענטאַנעס ], as we used to say in Ukraine^[in his Ukrainian Yiddish dialect], and after a while it will start to go well again.
 
-I never thought about leaving the stage. Not even in the worst times. Such a thought never even occurred to me, and it was difficult for me to understand those Yiddish actors who - for one reason or another - left the stage and went to something else, as was the case with {{< var weinb-full >}}^[Recall, Ihesrael bought Sam's farm in Bridgeton, Cumberland County, NJ], with {{< var marx-full >}} and also with others. 
+I never thought about leaving the stage. Not even in the worst times. Such a thought never even occurred to me, and it was difficult for me to understand those Yiddish actors who - for one reason or another - left the stage and went to something else, as was the case with {{< var weinb-full >}}^[Recall, Ihesrael bought Sam's farm in Bridgeton, Cumberland County, NJ], with {{< var marx-full >}} and also with others.
 
 This kind of thing really annoyed me. And more than others, I resented that {{< var marx-full >}} left the stage, because he was really a very talented actor, an excellent comedian, and in theater circles it was said that even {{< var mogu >}} quietly considers him a rival...
 
@@ -39,45 +39,45 @@ Because of his wife the prima donna, {{< var tanzman >}} decided that in Boston 
 
 In general, the public in those times loved to hear the songs that were sung in plays^[The Jews loved their show tunes!], and more than anything they loved {{< var goldfaden >}}'s songs, and possibly this is due to their subject matter. The songs were authentically Jewish^[עכט–יידיש], and people quickly learned them and sang them everywhere.
 
-Today, most of these songs have been forgotten and they are no longer sung. Neither in the theater nor the home. And that's why I think it's necessary to mention them, and that's really what I'm doing in writing about my life at the Yiddish theater. It is really worthwhile to remember those Yiddish songs of yesteryear - songs that were sung on the Yiddish stage and in hundreds of thousands of Jewish homes all over the world. I will also do the same, then, with the song "God’s Wonders" from {{< var goldfaden >}}'s operetta {{< var meilitz >}}, which was so beloved by audiences, and so I implore those who still remember the song to read it and sing the song to yourself, and you will certainly enjoy it very much. 
+Today, most of these songs have been forgotten and they are no longer sung. Neither in the theater nor the home. And that's why I think it's necessary to mention them, and that's really what I'm doing in writing about my life at the Yiddish theater. It is really worthwhile to remember those Yiddish songs of yesteryear - songs that were sung on the Yiddish stage and in hundreds of thousands of Jewish homes all over the world. I will also do the same, then, with the song {{< var wonders >}} from {{< var goldfaden >}}'s operetta {{< var meilitz >}}, which was so beloved by audiences, and so I implore those who still remember the song to read it and sing the song to yourself, and you will certainly enjoy it very much.
 
 So let's all sing it together^[You can [sing along](https://www.youtube.com/watch?v=ahdVAOBb-20) too with the first two verses, with lyrics in Yiddish and English!]:
 
-> ^[This translation is from [Yiddish Penny Songs](http://www.yiddishpennysongs.com/2016/04/gots-vunder-gottes-wunder-yiddish.html), but rearranged to better match the order of words in Yiddish. The lyrics at the link are somewhat rearranged for English speakers.]Once, the nation concerned itself 
+> ^[This translation is from [Yiddish Penny Songs](http://www.yiddishpennysongs.com/2016/04/gots-vunder-gottes-wunder-yiddish.html), but rearranged to better match the order of words in Yiddish. The lyrics at the link are somewhat rearranged for English speakers.]Once, the nation concerned itself
 >
 > With listening to an influential man,
 >
-> who declared that there is one God, 
-> 
+> who declared that there is one God,
+>
 > He was a Hebrew.
 >
-> And God spoke to him: 
+> And God spoke to him:
 >
 > Listen to Me, Ovraim'el^[Abraham]
 >
-> Look upon heaven and earth, 
+> Look upon heaven and earth,
 >
 > this will be my store.
 >
-> I'll make you great, 
+> I'll make you great,
 >
-> from you will come 
-> 
+> from you will come
+>
 > a people who will be Godly;
 >
-> Nature, I myself, 
+> Nature, I myself,
 >
 > I will take care of it.
 >
 > And you will turn the pages of the book.
-> 
+>
 > And in every generation
 >
 > I will yet
 >
 > show great wonders
 >
-> if you'll just be 
+> if you'll just be
 >
 > happy and good and fine,
 >
@@ -85,7 +85,7 @@ So let's all sing it together^[You can [sing along](https://www.youtube.com/watc
 
 That is what the prima donna sang, and soon the whole chorus sang along with the last line:
 
-> If you'll just be 
+> If you'll just be
 >
 > happy and good and fine,
 >
@@ -93,29 +93,29 @@ That is what the prima donna sang, and soon the whole chorus sang along with the
 
 And you had to see how the audience gaped when the prima donna sang it. It was a joy. The song warmed the soul. And the prima donna then sang:
 
-> Before He brought his children 
+> Before He brought his children
 >
 > to him, in Jerusalem,
 >
-> they spent four hundred years 
+> they spent four hundred years
 >
 > in the land of Egypt.
 >
-> They were very stronglytrongly oppressed there 
+> They were very stronglytrongly oppressed there
 >
 > Until God heard their lamentations,
 >
 > And he sent unto the land
 >
-> wonderous plagues - 
+> wonderous plagues -
 >
-> A beast, that devoured, 
+> A beast, that devoured,
 >
 > Hail, a pestilence,
 >
 > A dark Angel of Death,
 >
-> until Pharoah himself 
+> until Pharoah himself
 >
 > told them to go.
 >
@@ -127,7 +127,7 @@ And you had to see how the audience gaped when the prima donna sang it. It was a
 >
 > great and powerful wonders
 >
-> If you'll just be 
+> If you'll just be
 >
 > happy and good and fine,
 >
@@ -135,11 +135,11 @@ And you had to see how the audience gaped when the prima donna sang it. It was a
 
 And then the chorus sang along in the refrain again, and the prima donna sang on. And what she sang was, just like before, a chapter of Jewish history which has been remembered since the times when the {{< var chumash >}}^[Torah, in book (not scroll) form] was studied in {{< var heder >}} with [Rashi](https://en.wikipedia.org/wiki/Rashi) - a chapter of Jewish history in song:
 
-> They wandered forty years 
+> They wandered forty years
 >
 > in the hot wasteland
-> 
-> Of water there was no trace, 
+>
+> Of water there was no trace,
 >
 > Only sand and stones;
 >
@@ -147,17 +147,17 @@ And then the chorus sang along in the refrain again, and the prima donna sang on
 >
 > Moses the illustrious.
 >
-> And from heaven they grabbed 
+> And from heaven they grabbed
 >
 > bread-like manna;
 >
-> Many birds 
+> Many birds
 >
 > Suddenly came down
 >
-> flying right to them - 
+> flying right to them -
 >
-> "Cut off our heads 
+> "Cut off our heads
 >
 > and cook us in the pot,
 >
@@ -171,7 +171,7 @@ In this way, the story of the manna in the desert, where {{< var moses >}}^[Mose
 >
 > great and powerful wonders
 >
-> if you'll just be 
+> if you'll just be
 >
 > happy and good and fine,
 >
@@ -198,16 +198,16 @@ Everyone knew what was coming next, and they were very, very anxious to hear it.
 >
 > the ocean congealed/hardened.
 >
-> And Pharoah's soldiers 
+> And Pharoah's soldiers
 >
 > in the sea
 >
 > found their burial place.
 >
-> And our people 
+> And our people
 >
 > from the other side
-> 
+>
 > happily sang songs.
 
 Here, not only the chorus, but also the crowd joined in to sing refrain, and the entire theater was brightened by the joyful song. And after that came the moral of the song:
