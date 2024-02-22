@@ -161,6 +161,10 @@ _Leksikon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
 - _{{< var belzer-full >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/B/belzer-yudl.htm)
   - [Wikipedia entry for his father, Nissi Belzer](https://en.wikipedia.org/wiki/Nissan_Spivak)
+- {{< var brody-full >}}_
+  - [Wikipedia](https://en.wikipedia.org/wiki/Joseph_Brody)
+  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/B/brody-joseph.htm)
+  - [Milken Archive](https://www.milkenarchive.org/artists/view/joseph-brody)
 - _{{< var friedsell-full >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/F/friedsell-louis.htm)
   - [Wikipedia](https://en.wikipedia.org/wiki/Louis_Friedsell)
@@ -215,7 +219,7 @@ _Leksikon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
 - _Nahum Meïr Schaikewitz^[_Also a novelist more generally_], aka_ {{< var shomer >}}
   - [Wikipedia](https://en.wikipedia.org/wiki/Nahum_Meir_Schaikewitz)
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/S/shomer-abraham.htm)
-- _Solomon {{< var smulo >}}_
+- _Solomon {{< var smulo >}}_ (aka _Solomon Small_)
   - [Wikipedia](https://en.wikipedia.org/wiki/Solomon_Smulewitz)
   - [Milken Archive](https://www.milkenarchive.org/artists/view/solomon-smulevitz)
 - _{{< var reuben-weissman >}}_

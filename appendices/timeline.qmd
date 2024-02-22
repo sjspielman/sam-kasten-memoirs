@@ -1,12 +1,12 @@
 ---
-format: 
+format:
   html:
     page-layout: full
 ---
 
-# Appendix B: Timeline {.unnumbered}
+# Appendix C: Timeline {.unnumbered}
 
-This appendix contains a rough timeline (some dates are necessarily approximate, indicated with `~`) for Sam's whereabouts over time. 
+This appendix contains a rough timeline (some dates are necessarily approximate, indicated with `~`) for Sam's whereabouts over time.
 
 | Dates           | Location                                                                | Activity                                                                                                                                                                                                                                                                                                              | Chapter(s) |
 | --------------- | ----------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |

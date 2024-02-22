@@ -33,11 +33,11 @@ bowery: _Der Boyeri Tremp_
 rachel-leah: _Rukhl un Leah_
 kinglear: _Der Yidisher Kenig Lir_
 crownprince: _Der Kroynprints fun Yerusholayim_
-alexander-long: Aleksander, oder der Kroynprints fun Yerusholayim_
+alexander-long: _Aleksander, oder der Kroynprints fun Yerusholayim_
 honor: _Kibed Ov_
 jewish-priest: _Der Yidishe Galekh_
 blimele: _Blimele_
-blimele-other: _Blimele, di Perle fun Varshe, oder Graff un Yude_
+blimele-full: _Blimele, di Perle fun Varshe, oder Graff un Yude_
 mirele-efros: _Mirele Efros_
 kiddush-hashem: _Kiddush Hashem, oder Der Yidisher Minister_
 medea: _Medea_
@@ -45,18 +45,20 @@ zhydovka: _Zhydovka_
 kol-nidre: _Kol Nidre_
 kol-nidre-full: _Kol Nidre, oder Di Geheyme Yuden in Madrid_
 devil: _Gott, Mentsh, un Tayvl_
-no587: _Number 587, or The Mama Sure_
-immigrant: _The Immigrant_
+no587: _Nomer 587, or Di Mame Sure_
+immigrant: _Di Imigranten_
 tisa: _Tisa Esler_
-yiziat: _Exodus from Egypt_
+yiziat: _Yesties Mitsraïm_
 white-black: _The White and Black Jews_
-sons-israel: _The Sons of Yisroel_
-ghetto: _The East Side Ghetto_
-helena: _Helena, or The Jewish Medea_
-sobi: _The Jew in the Age of Sobietsky_
-yerusha: _The Inheritance_
-be-a-mensh: _A Person Should Be a Mensch_ # a mensch zol men zeyn
-wedding-day: _The Wedding Day_ # yom hakhupe
+sons-israel: _The Children of Yisroel_
+sons-full: _Di Bnei Yisroel, oder Di Vayse un di Schwartse Yuden_
+ghetto: _East Side Ghetto_
+helena: _Helene, oder Di Yidishe Medea_
+sobi: _Der Yud in Sobietski's Zayten_
+sobi-full:  _Reb Leyb Sephardi, oder Der Yud in Sobietski's Zayten_
+yerusha: _Di Yerushe_
+be-a-mensh: _A Mensch Zol Men Zeyn_
+wedding-day: _Yom Hakhupe_
 
 ## SONGS ------------------------------------------
 
@@ -72,6 +74,7 @@ zions-daughters: \"Lament of Zion's daughters\"
 shepherd: \"The Little Shepherd\"
 rachel: \"Rakhil, ti Dotsch Moya\"
 wonders: \"God's Wonders\"
+yisrolik: _\"Yisrolik, Kum Aheym\"_
 
 
 ## ROLES --------------------------------------------
@@ -151,6 +154,8 @@ r-weintraub: Rivke Weintraub
 weinb-full: Yisroel Weinblatt
 weinb: Weinblatt
 c-weinb: Charlie Weinblatt
+
+brody-full: Joseph Brody
 
 glickman: Glickman
 glickman-full: Elias Glickman
@@ -362,7 +367,7 @@ tzadik: _tzadik_
 mitzvah: _mitzvah_
 seudat-shabbat: _seudoys shabbos_
 ruakh-hakodesh: _ruakh-hakoidesh_
-chuppah: _chuppe_
+chuppah: _khupe_
 lchaim: _l'chaim_
 Lchaim: _L'chaim_
 toivm-u-sholem: _toivm u'sholem_
