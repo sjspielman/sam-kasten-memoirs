@@ -80,6 +80,8 @@ _Leksikon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
 - _{{< var marx-full >}}_
   - [Wikipedia](https://en.wikipedia.org/wiki/Rudolph_Marks)
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/M/marks-rudolph.htm)
+- _{{< var meisel-full >}}_
+  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/M/meisel-hyman.htm)
 - _Lazar Mitnick_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/M/mitnick-leiser.htm)
 - _Sigmund ("Zelig") {{< var mogu >}}_
