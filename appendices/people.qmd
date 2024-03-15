@@ -59,6 +59,8 @@ _Leksikon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
 
 - _{{< var heine-full >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/H/heine-chaimovich-morris.htm)
+- _{{< var heyman-full >}}_
+  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/H/heyman-louis.htm)
 - _{{< var juvelier-full >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/J/juvelier-kalmen.htm)
   - [Wikipedia](https://en.wikipedia.org/wiki/Kalman_Juvelier)

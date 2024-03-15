@@ -37,6 +37,7 @@ alexander-long: _Aleksander, oder der Kroynprints fun Yerusholayim_
 honor: _Kibed Ov_
 jewish-priest: _Der Yidishe Galekh_
 blimele: _Blimele_
+blimele-other: _Graff un Yude_
 blimele-full: _Blimele, di Perle fun Varshe, oder Graff un Yude_
 mirele-efros: _Mirele Efros_
 kiddush-hashem: _Kiddush Hashem, oder Der Yidisher Minister_
@@ -163,6 +164,8 @@ c-weinb: Charlie Weinblatt
 brody-full: Joseph Brody
 
 meisel-full: Hyman Meisel
+heyman-full: Louis Heyman
+heyman: Heyman
 
 glickman: Glickman
 glickman-full: Elias Glickman
@@ -341,7 +344,7 @@ beshert: _beshert_
 mensh: _mensh_
 menshl: _menshl_
 tate: _tate_
-heder: _kheder_
+header: _kheder_
 Tate: _Tate_
 mame: _mame_
 Mame: _Mame_
