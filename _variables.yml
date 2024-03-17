@@ -8,6 +8,8 @@ pok: _Der Yidisher Pok_
 velt: _Di Yidishe Velt_
 arb: _Der Arbeter_
 vahr: _Di Vahrhayt_
+morgen: _Der Morgen Zshurnal_
+yidtog: _Yidishes Togblat_
 
 hau: Hebrew Actors\' Union
 
@@ -62,7 +64,7 @@ be-a-mensh: _A Mensch Zol Men Zeyn_
 wedding-day: _Yom Hakhupe_
 mayn-vaybs-man-full: _Mayn Vayb's Man, oder Di Bigamistn_
 mayn-vaybs-man: _Mayn Vayb's Man_
-
+two-cantors: _Tsvey Khazonim_
 
 ## SONGS ------------------------------------------
 
@@ -78,7 +80,8 @@ zions-daughters: \"Lament of Zion's daughters\"
 shepherd: \"The Little Shepherd\"
 rachel: \"Rakhil, ti Dotsch Moya\"
 wonders: \"God's Wonders\"
-yisrolik: _\"Yisrolik, Kum Aheym\"_
+yisrolik: \"Yisrolik, Kum Aheym\"
+strike: \"Yeder Einer Streikt Atzind\"
 
 
 ## ROLES --------------------------------------------
@@ -224,6 +227,8 @@ frank: Frank
 suzi: Suzi
 suzi-full: Suzi Schafer
 
+william-full: William Schwartz
+
 bessie-first: Bessie
 bessie: Bessie Thomashefsky
 boris: Boris Thomashefsky
@@ -309,6 +314,9 @@ schwartz: Schwartz
 wilner: Wilner
 wilner-full: Max Wilner
 
+kalmano: Kalmanowitz
+kalmano-full: Harry Kalmanowitz
+
 kasey: Kasey
 
 gorky: Gorky
@@ -365,7 +373,8 @@ chasidim: _khasidim_
 chasidic: _khasidic_
 chesed: _khosed_
 rebbe: _Rebbe_
-gabbai: _gabbai_
+gabbai: _gabe_
+gabbaim: _gaboim_
 nigunim: _nigunim_
 nigun: _nigun_
 refua-shlema: _refue shlema_
@@ -412,8 +421,9 @@ brokhe: _brokhe_
 haimishe: _haimishe_
 haimishkeit: _haimishkeit_
 
-chazan: _khozn_
-chazanishe: _khozenishe_
+chazan: _khazn_
+chazanishe: _khazenishe_
+chazanim: _khazonim_
 shtiklakh: _shtiklakh_
 daven: _daven_
 tumult: _tumult_
@@ -486,3 +496,7 @@ gazlen: _gazlen_
 Gazlen: _Gazlen_
 
 yukel: _yukel_
+
+
+yomim-neroim: _yomim-nero'im_
+umipnei: _Umipnei Khataeinu_

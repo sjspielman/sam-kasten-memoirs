@@ -68,17 +68,19 @@ _Leksikon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/K/kalich-bertha.htm)
   - [Wikipedia](https://en.wikipedia.org/wiki/Bertha_Kalich)
   - [Jewish Women's Archive](https://jwa.org/encyclopedia/article/kalich-bertha)
-- _Jacob Katzman_
-  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/K/katzman-jacob.htm)
+- _{{< var kalmano-full >}}_
+  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/K/kalmanowitz-harry.htm)
 - _{{< var karp-full >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/K/karp-max.htm)
-- _{{< var keni-full >}}_
-  - [Wikipedia](https://en.wikipedia.org/wiki/Keni_Liptzin)
-  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/L/lipzin-keni.htm)
+- _Jacob Katzman_
+  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/K/katzman-jacob.htm)
 - _{{< var kessler-full >}}_
   - [Wikipedia](https://en.wikipedia.org/wiki/David_Kessler_(actor))
 - _Joseph Kessler_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/K/kessler-joseph.htm)
+- _{{< var keni-full >}}_
+  - [Wikipedia](https://en.wikipedia.org/wiki/Keni_Liptzin)
+  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/L/lipzin-keni.htm)
 - _{{< var marx-full >}}_
   - [Wikipedia](https://en.wikipedia.org/wiki/Rudolph_Marks)
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/M/marks-rudolph.htm)
@@ -109,6 +111,9 @@ _Leksikon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
 - _{{< var schwartz-full >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/S/schwartz-maurice.htm)
   - [Wikipedia](https://en.wikipedia.org/wiki/Maurice_Schwartz)
+- _{{< var william-full >}}_
+  - _His Leksikon entry has not yet been translated, but it is part of Volume 6, page 4990._
+  - [Obituary](https://www.newspapers.com/article/the-tampa-tribune-obituary-for-william-s/45664678/)
 - _Rae Shneyer_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/S/shneyer-rae.htm)
 - _Adolph {{< var shrage >}}_

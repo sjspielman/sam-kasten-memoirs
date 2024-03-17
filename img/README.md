@@ -32,3 +32,6 @@ I do NOT own copyright of these materials. Where known, sources are provided all
 - `1904-03-04_forverts.png`: <https://www.nli.org.il/en/newspapers/frw> 
 - `1905-12-30_arb.png`: <https://www.nli.org.il/en/newspapers/derarbeiter> 
 - `1911-02-25_freiearb.png`: <https://www.nli.org.il/en/newspapers/freiearb>
+- `1919-09-06_forverts.png`: <https://www.nli.org.il/en/newspapers/frw> 
+- `1919-09-08_morgen.png`: <https://www.nli.org.il/en/newspapers/tjm> 
+- `1919-09-10_yidtog.png`: <https://www.nli.org.il/en/newspapers/ytb>
