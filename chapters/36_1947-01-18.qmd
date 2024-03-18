@@ -1,0 +1,23 @@
+# January 18th, 1947
+
+##### _Link to [Forverts edition](https://www.nli.org.il/en/newspapers/frw/1947/01/18/01/)_ {.unnumbered}
+
+> A dance in the middle of the street. -- 
+
+
+
+
+
+
+
+::: {#fig-cantors layout-ncol=3}
+
+![Advertisement in {{< var forverts >}} from September 6th, 1919 ([Source](https://www.nli.org.il/en/newspapers/frw/1919/09/06/01/article/64.2)).](../img/newspaper_clippings/1919-09-06_forverts.png){width="1.8in"}
+
+![Advertisement in {{< var morgen >}} from September 8th, 1919 ([Source](https://www.nli.org.il/en/newspapers/tjm/1919/09/08/01/article/59.2/)).](../img/newspaper_clippings/1919-09-08_morgen.png){width="1.8in"}
+
+![Advertisement in {{< var yidtog >}} from September 10th, 1919 ([Source](https://www.nli.org.il/en/newspapers/ytb/1919/09/10/01/article/86.2)).](../img/newspaper_clippings/1919-09-10_yidtog.png){width="1.8in"}
+
+
+Three different advertisement styles for how {{< var two-cantors >}} was advertised in the papers. In all advertisements, I have marked {{< var kessler-full >}} with green boxes, {{< var thomash >}} with green boxes, and Sam with orange boxes.
+:::

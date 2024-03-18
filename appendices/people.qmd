@@ -97,6 +97,8 @@ _Leksikon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/R/rothstein-elias.htm)
 - _{{< var abba-full >}} ("Yaffa Zahav", Beautiful Gold)_
   - [Wikipedia](https://en.wikipedia.org/wiki/Abba_Schoengold)
+- _{{< var shild-full >}}_
+  - [Wikipedia](https://en.wikipedia.org/wiki/Rudolph_Schildkraut)
 - _{{< var shor-full >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/S/schorr-anshel.htm)
   - [Wikipedia](https://en.wikipedia.org/wiki/Anshel_Schorr)
