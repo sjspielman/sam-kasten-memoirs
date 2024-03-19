@@ -66,6 +66,7 @@ mayn-vaybs-man-full: _Mayn Vayb's Man, oder Di Bigamistn_
 mayn-vaybs-man: _Mayn Vayb's Man_
 two-cantors: _Tsvey Khazonim_
 maziq: _Eykele Mazik_
+vengeance: _Got fun Nekome_
 
 ## SONGS ------------------------------------------
 
@@ -193,6 +194,8 @@ lateiner: Lateiner
 rumshinsky-full: Joseph Rumshinsky
 shomer: Shomer
 
+a-shomer: Abraham Shomer
+
 goldfaden-full: Abraham Goldfaden
 goldfaden: Goldfaden
 medvedev: Medvedev
@@ -284,6 +287,8 @@ shor: Schorr
 shor-full: Anshel Schorr
 anshel: Anshel
 
+asch-full: Sholem Asch
+
 blank-full: Leon Blank
 blank: Blank
 juvelier-full: Kalmen Juvelier
@@ -325,8 +330,8 @@ kasey: Kasey
 gorky: Gorky
 gorky-full: Maxim Gorky
 
-shild: Scildkraut
-shild-fiell: Rudolph Schildkraut
+shild: Schildkraut
+shild-full: Rudolph Schildkraut
 
 ## PLACES --------------------------------------------
 zat: Zatishiye
@@ -506,3 +511,5 @@ yukel: _yukel_
 
 yomim-neroim: _yomim-nero'im_
 umipnei: _Umipnei Khatoeinu_
+
+kibitz: _kibitz_

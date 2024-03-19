@@ -2,22 +2,60 @@
 
 ##### _Link to [Forverts edition](https://www.nli.org.il/en/newspapers/frw/1947/01/18/01/)_ {.unnumbered}
 
-> A dance in the middle of the street. -- 
+> A dance in the middle of the street. -- The first encounter between the two famous artists {{< var shild-full >}} and {{< var kessler-full >}}.
+
+The closer I got to {{< var kessler >}}, the more I realized that while that he really loved to be flattered, he did not respect flatterers... He needed to have them around him. He enjoyed that they "ate fish"^[idiom] over him, as we used to say in the theater dialect. But he did not think highly of them, and on many occasions he showed contempt for them. Many times, he told them off so sharply that they'd never forget it... I never flattered him. 
+
+I loved what a great artist he was, and I maintained our friendship as a collegial one. Whenever I ran into him I was always happy to see him, and I could tell that from the way he behaved around me that he was also happy to see me. Once, on a beautiful summer day, I ran into him on 2nd avenue, not far from his theater. Since he was in a good mood, he stopped me to chat about how the actors of the old times compared to the actors of today^[today being mid-1910s]. He offered some fitting remarks, sharing this and that in his own characteristic way...
+
+^[Plenty of idioms here; I have given a direct translation, since I do not know the precise connotation of the idioms]According to {{< var kessler >}}, one had a yellow voice, and one had the voice of a folding bed... One spoke and lived like a man, but when he took the stage, he spoke unnaturally, and his voice came out like he had put an odd sort of pipe in his throat. The other behaved on stage as though he could swallow an umbrella...
+
+He had something particular to say about everyone, both the old and young actors. He explained that the real virtue of the older actors was how they could do anything needed while performing on the stage.
+
+-- Take me, for example. - he said. - I can do everything...
+
+Just then it occurred to me to {{< var kibitz >}}^[In this context, {{< var kibitz >}} essentially means to tease/mess with him] a little with him, so I replied:
+
+-- ^[{{< var rumshinsky-full >}} also relays a version of this story [in this article](https://www.nli.org.il/en/newspapers/frw/1936/04/17/01/article/28) he wrote about Sam in {{< var forverts >}} on April 17th, 1936.]
+
+ No, Mr. {{< var kessler >}}, you^[It is worth noting that Sam uses the _formal_ "you" when speaking to {{< var kessler >}}] can't do everything. There are some things on the stage that you can't do...
+
+-- I can't do everything? - he retorted. - Ok then, tell me exactly what I can't do.
+
+-- You can not dance, - I teased him in jest. - You can't dance, but I can.
+
+You had to hear it, how he argued back at me:
+
+-- I can't dance?!... I, you say, can't dance?!
+
+I spared no effort and straight away, right there on the spot, I did a little dance just like they did on the American stage. 
+
+-- {{< var Nu >}}, Mr. {{< var kessler >}}, can you do that too?
+
+-- Of course I can do that! - he answered with a shriek, which was so characteristic of him. - I will show you, that I can do it...
+
+And without thinking about it at all, he started to dance in the middle of the street. But you could tell it was hard for him. And just then a Jew stopped to watch, and when he saw how {{< var kessler >}} danced, he waved his hand and said:
+
+-- Listen here, Mr. {{< var kessler >}}, and leave the dancing to Kestin. You're better off sticking to playing Hershele Dubrovner^[Lead character in {{< var gordin-full >}}'s play {{< var devil >}}]... No one knows this as well as you...
+
+{{< var kessler >}} laughed heartily, and while laughing he said to me:
+
+-- {{< var kasey >}}, you win...
+
+He sometimes gave little nicknames to people, and he never called me anything other than - "{{< var kasey >}}".
+
+We remained good friends even after I no longer played with him in the same theater. The truth was, despite the fact that he was often hard to put up with his caprices during performances or in rehearsals, I had no great desire to leave him. When he started to put together a new troupe for his theater, including {{< var schwartz-full >}}, {{< var bern >}}, and other famous actors, I was also included. But things turned out differently, and I ended up going back to {{< var edelstein >}} and {{< var thomash >}} in People's Theater. {{< var edelstein >}} wanted me to come back, and I always had a bit of weakness for him because he had always treated me very well, and I couldn't forget how he had stood up for me on many occasions.
 
 
 
+::: {layout-ncol=2}
 
+At that time, {{< var edelstein >}} had hired the famous German-Jewish actor {{< var shild-full >}} to play in People's Theater, and that in and of itself was quite a sensation because {{< var shild >}} had come to America with a German troupe. {{< var shild >}} had made a worldwide name for himself playing Shakespeare's Shylock as well as acting in other plays from the world repertoire. He spoke a rich, delicious Yiddish, and everyone wanted to snatch him up to play on the Yiddish stage. Everyone was anxious to see him perform.<br><br>
+In People's Theater, {{< var shild-full >}} appeared in his repertoire; he played Shakespeare's Shylock and King Lear, and also {{< var asch-full >}}'s {{< var vengeance >}}. In that same season, he appeared in {{< var a-shomer >}}'s new play {{< var maziq >}}, and his acting made a big splash^[There are two interesting articles about this play. [First](https://www.nli.org.il/en/newspapers/dwt/1911/08/26/01/article/60) is a review of {{< var shild >}} in the play published in {{< var vahr >}}. [Second](https://www.nli.org.il/en/newspapers/tjm/1911/08/24/01/article/53) is an article from before the premiere when the theater opened the dress rehearsals for audiences to attend. According to the article, this was the first time a Yiddish theater had a public dress rehearsal.].
 
+![Advertisement in {{< var yidtog >}} from August 8th, 1911 for {{< var maziq >}}. ([Source](1911-08-24_yidtog.png).)](../img/newspaper_clippings/1911-08-24_yidtog.png){width="1.8in"}
 
-
-::: {#fig-cantors layout-ncol=3}
-
-![Advertisement in {{< var forverts >}} from September 6th, 1919 ([Source](https://www.nli.org.il/en/newspapers/frw/1919/09/06/01/article/64.2)).](../img/newspaper_clippings/1919-09-06_forverts.png){width="1.8in"}
-
-![Advertisement in {{< var morgen >}} from September 8th, 1919 ([Source](https://www.nli.org.il/en/newspapers/tjm/1919/09/08/01/article/59.2/)).](../img/newspaper_clippings/1919-09-08_morgen.png){width="1.8in"}
-
-![Advertisement in {{< var yidtog >}} from September 10th, 1919 ([Source](https://www.nli.org.il/en/newspapers/ytb/1919/09/10/01/article/86.2)).](../img/newspaper_clippings/1919-09-10_yidtog.png){width="1.8in"}
-
-
-Three different advertisement styles for how {{< var two-cantors >}} was advertised in the papers. In all advertisements, I have marked {{< var kessler-full >}} with green boxes, {{< var thomash >}} with green boxes, and Sam with orange boxes.
 :::
+
+
+This was in 1911^[Correct!], and it's also worth mentioning that this was the first time in his life {{< var shild-full >}} saw {{< var kessler >}} perform. In fact, he saw him perform in {{< var vengeance >}} in the same role he himself had also played. {{< var shild >}} was so enthusiastic about {{< var kessler >}}'s acting that whenever {{< var kessler >}} performed, {{< var shild >}} came to the theater to see him play. And as for {{< var kessler >}}, he was also very enthusiastic about {{< var shild >}}'s acting that he never missed seeing him perform either. 
