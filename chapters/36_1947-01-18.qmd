@@ -14,11 +14,9 @@ He had something particular to say about everyone, both the old and young actors
 
 -- Take me, for example. - he said. - I can do everything...
 
-Just then it occurred to me to {{< var kibitz >}}^[In this context, {{< var kibitz >}} essentially means to tease/mess with him] a little with him, so I replied:
+Just then it occurred to me to {{< var kibitz >}}^[In this context, {{< var kibitz >}} essentially means to tease/mess with him] a little with him, so I replied^[{{< var rumshinsky-full >}} also relays a version of this story [in this article](https://www.nli.org.il/en/newspapers/frw/1936/04/17/01/article/28) he wrote about Sam in {{< var forverts >}} on April 17th, 1936.]:
 
--- ^[{{< var rumshinsky-full >}} also relays a version of this story [in this article](https://www.nli.org.il/en/newspapers/frw/1936/04/17/01/article/28) he wrote about Sam in {{< var forverts >}} on April 17th, 1936.]
-
- No, Mr. {{< var kessler >}}, you^[It is worth noting that Sam uses the _formal_ "you" when speaking to {{< var kessler >}}] can't do everything. There are some things on the stage that you can't do...
+-- No, Mr. {{< var kessler >}}, you^[It is worth noting that Sam uses the _formal_ "you" when speaking to {{< var kessler >}}] can't do everything. There are some things on the stage that you can't do...
 
 -- I can't do everything? - he retorted. - Ok then, tell me exactly what I can't do.
 
@@ -32,7 +30,7 @@ I spared no effort and straight away, right there on the spot, I did a little da
 
 -- {{< var Nu >}}, Mr. {{< var kessler >}}, can you do that too?
 
--- Of course I can do that! - he answered with a shriek, which was so characteristic of him. - I will show you, that I can do it...
+-- Of course I can do that! - he answered with a shriek, which was so characteristic of him. - I will show you... I can do it...
 
 And without thinking about it at all, he started to dance in the middle of the street. But you could tell it was hard for him. And just then a Jew stopped to watch, and when he saw how {{< var kessler >}} danced, he waved his hand and said:
 
@@ -59,3 +57,28 @@ In People's Theater, {{< var shild-full >}} appeared in his repertoire; he playe
 
 
 This was in 1911^[Correct!], and it's also worth mentioning that this was the first time in his life {{< var shild-full >}} saw {{< var kessler >}} perform. In fact, he saw him perform in {{< var vengeance >}} in the same role he himself had also played. {{< var shild >}} was so enthusiastic about {{< var kessler >}}'s acting that whenever {{< var kessler >}} performed, {{< var shild >}} came to the theater to see him play. And as for {{< var kessler >}}, he was also very enthusiastic about {{< var shild >}}'s acting that he never missed seeing him perform either. 
+
+Both great artists thought very highly of each other. In the show {{< var maziq >}}, {{< var shild >}} played the role of good youth, a thief, and he was really excellent in the role. I was given the role of the second thief, and when {{< var shild >}} himself told me that he enjoyed how I played the role, I was really over the moon thrilled.
+
+Like many great artists, {{< var shild-full >}} also had his caprices. But he was good man who did not behave arrogantly when in the company of the other Yiddish actors. He was always so approachable with us, so much so that you could entirely forget that he was such a famous actor with worldwide renown.
+
+Other actors, and indeed others from the theater world, knew this and took advantage of him, and sometimes treated him a little too familiarly. But he knew how to deal with these types of people who didn't know when to put a pin in it^[I have attempted an idiom translation here: וואו מ׳דאַרף אוועקשטעלן א פּינטעלע], and he would adopt a tone that said - "Don't forget and remember who I am  - I am {{< var shild-full >}}!"
+
+During the season when {{< var shild >}} played in People's Theater, he had some trouble because he often became hoarse and couldn't perform. This always happened to him when he performed in any theater. His hoarseness not only tormented him, but also for those who had hired him. And when it became clear in People's Theater that, because of his frequent hoarseness, you could never really know how well he was doing, {{< var thomash >}} started to put on operettas. For me, this was not good because it was the same old story - my acting fate was in the hands of how well {{< var thomash >}} was getting along with his wife {{< var bessie-first >}}: When things were good between them and the {{< var shalom-bait >}} between them was not hanging like a thread, I usually was given only a tiny little role - or no role at all. 
+
+But when he got really angry with her and rumors started circulating that it might end in divorce, I was given a good role - because I was given the roles that {{< var bessie-first >}} would have otherwise played...
+
+This is what it was like in People's Theater, and it was like this later too when we moved to the new National Theater.
+
+In the end, as everyone knows, their marriage did end in divorce. {{< var bessie >}} left her husband, and for a little while she went off to Europe. And when she came back, she was already starring in other theaters like a self-made star. 
+
+I also left {{< var thomash >}}'s troupe after the season^[1911/1912] ended. Over the summer, I went with my family to the mountains^[Presumably the Catskills]. I had enough money saved that my wife and my three children could afford to do anything they wanted, and it seemed to me that God and man alike were jealous both of how well I had done and my three wonderful children - two sons and a daughter[^sams-children].
+
+I still didn't know where I would work next season, but I didn't worry about it at all. My name was now so well-known in the theater world that I didn't have to worry. I was sure that there was a theater somewhere that would of course want to engage me, and I'd end up with a good salary. 
+
+And indeed, I did get just one offer, but two - one from {{< var mike >}} who wanted me to come back to Philadelphia and play in his theater, and the other from the new Novelty Theater which the famous actress {{< var sara-adler >}} had decided to open in Brooklyn, not far from the Williamsburg Bridge^[The Novelty Theater was located at S 4th and Driggs]. Just like {{< var bessie >}}, {{< var sara-adler >}} had also become a self-made star. When she rented the Novelty Theater for the 1912/1913 season, she was to play together with {{< var shild-full >}}, and they had already decided to open the season with Tolstoy's famous drama {{< var kreuzer >}}^[Adapted by {{< var gordin-full >}} into Yiddish, this play very commonly put on in the Yiddish Theater].
+
+To have the chance to perform again with the great {{< var shild-full >}} and on top of that with talented actress {{< var sara-adler >}}, was of course a great pleasure, and I accepted their offer right away. And so it turned out that I would not go back to Philadelphia - better to play in the Novelty Theater...
+
+
+[^sams-children]: Sam's three children were Fred (Freddie; born 1894), Lillian (Lillie; born 1898), and Louis (Louie; born 1902), and all sadly died relatively young. Freddie's lungs were severely injured after World War I, and he spent his remaining years chronically ill. He died in 1936 at the age of 40 of associated complications. Lillie (my great-grandmother) died in 1946 at age 48 of ovarian cancer. Louie died in 1956 at age 52. All three worked in the theater at some point; Freddie worked in box offices, Louie was a theater manager, and Lillie acted for a short time in her youth, until she [married a businessman from Philadelphia at the age of 21/22](https://www.nli.org.il/en/newspapers/frw/1920/07/02/01/article/41). Of all his children, only Lillie married and had children. She had two daughters: Connie (Constance; One can speculate that she was named based on Sam's original last name, {{< var konstan >}}) and Meta (my grandmother, who went by her middle name; Her first name was Ziporah. She was named for her father's mother, but one can also speculate that she was also named for her maternal grandmother {{< var Feige >}}; Ziporah means "bird" in Hebrew, and {{< var Feige >}} means "bird" in Yiddish). Meta was 15 years old when Lillie passed away. It is also worth noting that {{< var suzi >}}, Sam's wife, passed away in 1946 after a long illness, during which Sam temporarily retired to take care of her. She convalesced in her daughter Lillie's home. This sad legacy is a large part of why Sam's legacy was unknown to my family for so many years.
