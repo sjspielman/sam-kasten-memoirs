@@ -109,7 +109,7 @@ And then the singing went in the form of a question and an answer:
 >
 > ווען גאָט איז מיט מיר
 
-Nowadays, no one remembers the song {{< var minha >}}, but in those times I'm telling about here, this song was famous to and beloved by Jews, and this was not for no reason; the sang was not only about the troubles that the Jews endured, but also about their Jewish, and the subject was also reminiscent of what you learned in {{< var heder >}}. Next, the song next went like this:
+Nowadays, no one remembers the song {{< var minha >}}, but in those times I'm telling about here, this song was famous to and beloved by Jews, and this was not for no reason; the sang was not only about the {{< var tsures >}} the Jews endured, but also about Jewish hopes, and it reminded you of what you were once taught in {{< var heder >}}. Next, the song next went like this:
 
 > פרעה האט פיר הונדערט יאָר
 >
@@ -117,7 +117,7 @@ Nowadays, no one remembers the song {{< var minha >}}, but in those times I'm te
 >
 > איינגעשפאַרט האט ער זיך נאָר
 >
-> אונז הויילאזען וויל ער גיט!
+> אונז חויילאזען וויל ער גיט!
 >
 > נו, וואס האט ער געהאט? מכות בכורות
 >
@@ -125,7 +125,7 @@ Nowadays, no one remembers the song {{< var minha >}}, but in those times I'm te
 >
 > און ישראל דערציילט דאס היינט לדור דורות
 >
-> פּסח אויף דעם היסב–בעט.
+> פּסח אויף דעם הסב–בעט.
 
 
 And here comes the song again in the form of a question and answer:
