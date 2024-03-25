@@ -3,6 +3,7 @@
       rev: v1.18.2
       hooks:
         - id: typos
+          args: []
           exclude: |
                   (?x)^(
                     .*\.yml
