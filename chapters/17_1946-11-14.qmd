@@ -71,7 +71,7 @@ This song, which was called {{< var purim-nes >}}, is also worth sharing. It wen
 >
 > Haman, {{< var yimakh-shemo >}}^["may his name be erased"; a [classic Jewish curse](https://en.wikipedia.org/wiki/Yimakh_shemo)], nearly completed wiped the Jews off the face of the earth.
 >
-> The {{< var tzadik >}} Mordechai, of blessed memory^[This might be "thanks be to him"? זכר לטוב], rescued us from this great calamity.
+> The {{< var tzaddik >}} Mordechai, of blessed memory^[This might be "thanks be to him"? זכר לטוב], rescued us from this great calamity.
 >
 > Haman became the {{< var kapara >}}^[From [kapparot](https://en.wikipedia.org/wiki/Kapparot), implies Haman's death was a redemption for the Jews] for us, 
 >

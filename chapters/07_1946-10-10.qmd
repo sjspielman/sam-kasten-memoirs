@@ -144,7 +144,7 @@ We sang other songs from the play {{< var coquettes >}} too, in the shop in Phil
 >
 > And they steal in silence,
 >
-> But you, my child, will be a {{< var mensch >}},
+> But you, my child, will be a {{< var mentsh >}},
 >
 > You will eat in the {{< var sukkah >}}.
 
