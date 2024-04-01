@@ -1,0 +1,30 @@
+# January 25th, 1947
+
+##### _Link to [Forverts edition](https://www.nli.org.il/en/newspapers/frw/1947/01/25/01/)_ {.unnumbered}
+
+>  Hard times in a theater that was established because {{< var jacob-adler >}} and {{< var boris >}} fought with their wives.
+
+Respectable audiences^[As in, those who appreciate a higher quality] really enjoyed Tolstoy's drama {{< var kreuzer >}} and the fine acting. Critics wrote that if you wanted to see a truly good performance with good acting, you should go to the Novelty Theater in Williamsburg. But it didn't matter what they wrote...
+
+For the first few weeks, business wasn't bad. But then it started to get worse and worse. The Jewish audiences from New York didn't feel like going all the way out to Williamsburg to see Tolstoy's play, and it was a real pity. This really frustrated {{< var shild-full >}} because he was sure that if we were performing in a theater in New York, the show would have been a great success and it would certainly run for the entire season.
+
+Having no other choice, we took down Tolstoy's play, and we instead put on some melodrama called {{< var troubador >}}^[See an [advertisement in {{< var forverts >}} for this play from November 10th, 1912](https://www.nli.org.il/en/newspapers/frw/1912/11/10/01/article/36.1)]. It was an older play, a German one, which {{< var shild >}} had brought with him from Berlin. We quickly adapted the play into Yiddish and put it on, but we had no luck with this play either.
+
+In general, we weren't very lucky in the Novelty Theater because our expenses were very high, and the local audiences who usually came to the theater themselves did not make a very good living. A troupe like the one we had really shouldm have been playing in a bigger theater in New York, not in some small theater in the wasteland of Willamsburg.
+
+Even our performance of the melodrama {{< var troubador >}} was very well-done. {{< var shild >}} played the role of a gambler who became so addicted to playing cards that it was like an illness without a cure. I played the guy who lends him money. Even in this melodrama it was a pleasure to watch him perform because he portrayed the role as no other actor could.
+
+Even in a foolish melodrama that was as far as you could get from high literature, {{< var shild-full >}} was still able to unearth the real life essence of the character and bring out its authenticity. Indeed, he felt that theater didn't always have to be literature, and he openly said that he used to love performing in melodramas. He could smooth out the ridiculous parts of a melodrama so that you couldn't even tell they were there. Because he felt less constrained in this type of play, he could ham it up a lot more - on this, you could rely.
+
+But what good was it to stage such good acting when the Jewish audiences in New York wouldn't come all the way out to Williamsburg to see {{< var shild-full >}} perform in the Novelty Theater?
+
+So in the end, they picked up the whole Novelty Theater, put it on their shoulders, carried it over to New York, and plopped it down on Second Avenue.^[This sentence is not clear to me - they indeed continued to play at the Novelty Theater in Williamsburg for more of the 1912/1913 season and did not move to Second Avenue. Perhaps this sentence is meant to be aspirational?]
+
+::: {layout-ncol=2}
+
+
+![](../img/newspaper_clippings/){width="2in"}
+
+:::
+
+chantshe in jan 1913: https://www.nli.org.il/en/newspapers/frw/1913/01/12/01/article/16.2

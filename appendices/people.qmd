@@ -200,6 +200,10 @@ _Leksikon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
   - [Biography, adapted from his Leksikon entry](https://congressforjewishculture.org/people/1471/Kobrin,%20Leon%20(March%2015,%201872–March%2031,%201946))
 - _{{< var lateiner-full >}}_
   - [Wikipedia](https://en.wikipedia.org/wiki/Joseph_Lateiner)
+- _{{< var zolotkoff >}}_
+  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/Z/zolotkoff-leon.htm)
+  - [Congress for Jewish Culture](https://congressforjewishculture.org/people/4447/Zolotkof,%20Leon%20(May%2015,%201866–July%2031,%201938))
+  - _He was primarily a writer and editor, and he was also a leading Zionist voice._
 
 
 
