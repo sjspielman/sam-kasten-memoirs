@@ -4,13 +4,13 @@
 
 > What {{< var kessler >}} could do/achieve/accomplish/pick a good word here in a role that he really loved. -- How he taught other actors to how to perform.
 
-Playing on the same stage with {{< var kessler >}} have me a great desire to be in better plays which portrayed real life people, and more and more, I began to look at roles differently from how I used to - not only as a chance for to perform a little song and dance, but also as a chance to create a real life person on the stage.  
+Playing on the same stage with {{< var kessler >}} have me a great desire to be in better plays which portrayed real life people, and more and more, I began to look at roles differently from how I used to - not only as a chance for to perform a little song and dance, but also as a chance to create a real life person on the stage.
 
-On this in particular, let me say, that {{< var kessler >}} had the same influence on me as did {{< var mogu >}}. Both of them awakened in my the notion that, above all, I should first consider what type of person I wanted to portray in a given role. For me, this became the central goal. And if I didn't succeed all the time, it was of course not their fault, but mine - or maybe it wasn't my fault either, because our Yiddish stage often required comedians to do some things that don't fully match the character you're playing. 
+On this in particular, let me say, that {{< var kessler >}} had the same influence on me as did {{< var mogu >}}. Both of them awakened in my the notion that, above all, I should first consider what type of person I wanted to portray in a given role. For me, this became the central goal. And if I didn't succeed all the time, it was of course not their fault, but mine - or maybe it wasn't my fault either, because our Yiddish stage often required comedians to do some things that don't fully match the character you're playing.
 
-Whenever {{< var kessler >}} played a role that he loved where he could show off all the greatness of a true artist, I never missed the chance to see him in it. The whole time we knew each other, our personal relationship was a good one. After the fight we had at the Lyric Theater, we became very close friends and he really listened to me when I told him, on certain occasions, that he he needed to control his temper and not give so much grief to the other actors whose acting he didn't like. 
+Whenever {{< var kessler >}} played a role that he loved where he could show off all the greatness of a true artist, I never missed the chance to see him in it. The whole time we knew each other, our personal relationship was a good one. After the fight we had at the Lyric Theater, we became very close friends and he really listened to me when I told him, on certain occasions, that he he needed to control his temper and not give so much grief to the other actors whose acting he didn't like.
 
-And just as much as was sometimes rude to his colleagues, he was also polite and courteous. And it seemed to me that he enjoyed being polite more than being rude. But he hated talentlessness. He couldn't tolerate actors who had no mastery of the craft, and it often made him so angry that he was entirely unable to control himself. 
+And just as much as was sometimes rude to his colleagues, he was also polite and courteous. And it seemed to me that he enjoyed being polite more than being rude. But he hated talentlessness. He couldn't tolerate actors who had no mastery of the craft, and it often made him so angry that he was entirely unable to control himself.
 
 I remember one time when we were rehearsing a play, and I was given a role that {{< var mogu >}} had played. I had previously seen {{< var mogu >}} in this role, so I tried to imitate him in my acting. I didn't try to add anything new to the role because generally when {{< var mogu >}} performed a role, he did it with such liveliness that there was nothing more one could add. But when {{< var kessler >}} asked me if I had ever played the role before, I said no. So, during rehearsals, he started to show me how the role should be played, and I saw straight away that he was following the same model that I was - {{< var mogu >}}...
 
@@ -20,7 +20,7 @@ But the main point is that in showing me how to play he role, he was very polite
 
 -- _You are alright, {{< var kasey >}}. You are alright^..._^[Said in English]
 
-As particular as he was while showing someone how to play a role, he had nothing more to add beyond how {{< var mogu >}} performed it because he knew and felt that nothing more was necessary. There's just nothing more you can add to what {{< var mogu >}} had already perfected. And if you tried to do something differently, it wouldn't be as good. 
+As particular as he was while showing someone how to play a role, he had nothing more to add beyond how {{< var mogu >}} performed it because he knew and felt that nothing more was necessary. There's just nothing more you can add to what {{< var mogu >}} had already perfected. And if you tried to do something differently, it wouldn't be as good.
 
 He had a great appreciation for {{< var mogu >}}'s talent, and he tread very carefully when talking to him. I remember how one time he said something to {{< var mogu >}} that {{< var mogu >}} did not like, and {{< var mogu >}} became very angry and raged back at him:
 
@@ -57,28 +57,45 @@ Three different advertisement styles for how {{< var two-cantors >}} was adverti
 
 
 
-In those times - I believe it must have been 1918^[In fact, this specific story took place in the fall of 1919] - also played in {{< var thomash >}}'s National Theater, and I remember how when we put on [{{< var kalmano >}}[(https://www.museumoffamilyhistory.com/yt/lex/K/kalmanowitz-harry.htm)'s play {{< var two-cantors >}}^[Sam sang the song {{< var strike >}} in this show. You can find [sheet music here](https://www.loc.gov/item/ihas.200182369/) and [a translation of the lyrics along with a recording here](http://www.yiddishpennysongs.com/2018/03/yeder-eyner-straykt-atsind-everybody-is.html)]. {{< var kessler >}} played one {{< var chazan >}}^[cantor] and {{< var thomash >}} played the other. And not only was {{< var thomash >}} the theater manager, he was also necessarily the director who, naturally, during rehearsals showed everyone how to perform their roles. 
+In those times - I believe it must have been 1918^[In fact, this specific story took place in the fall of 1919] - also played in {{< var thomash >}}'s National Theater, and I remember how when we put on [{{< var kalmano >}}[(https://www.museumoffamilyhistory.com/yt/lex/K/kalmanowitz-harry.htm)'s play {{< var two-cantors >}}^[Sam sang the song {{< var strike >}} in this show. You can find [sheet music here](https://www.loc.gov/item/ihas.200182369/) and [a translation of the lyrics along with a recording here](http://www.yiddishpennysongs.com/2018/03/yeder-eyner-straykt-atsind-everybody-is.html)]. {{< var kessler >}} played one {{< var chazan >}}^[cantor] and {{< var thomash >}} played the other. And not only was {{< var thomash >}} the theater manager, he was also necessarily the director who, naturally, during rehearsals showed everyone how to perform their roles.
 
-In this play, there was a scene where one of the two {{< var chazanim >}}^[cantors] comes home dejected and tells his two sons that he has lost his job. The {{< var gabbaim >}}^[plural of [gabbai](https://en.wikipedia.org/wiki/Gabbai)] at the {{< var shul >}} didn't want him anymore - they said that he was too old and could no longer sing. His voice had grown raspy and hoarse and wasn't like it once was... 
+In this play, there was a scene where one of the two {{< var chazanim >}}^[cantors] comes home dejected and tells his two sons that he has lost his job. The {{< var gabbaim >}}^[plural of [gabbai](https://en.wikipedia.org/wiki/Gabbai)] at the {{< var shul >}} didn't want him anymore - they said that he was too old and could no longer sing. His voice had grown raspy and hoarse and wasn't like it once was...
 
-One of the {{< var chazan >}}'s sons was a simple, uneducated man, but a very good-natured man who loved and was very devoted to his father. And the other sons was educated but hardly good-natured - an egotistical man who always put himself first. I played the role of the good son, and if my memory serves, {{< var schwartz-full >}} played the bad son^[In fact, Sam's memory does _not_ serve, but he's close! The bad son was played by _{{< var william-full >}}_.].
+One of the {{< var chazan >}}'s sons was a simple, uneducated man, but a very good-natured man who loved and was very devoted to his father. And the other sons was educated but hardly good-natured - an egotistical man who always put himself first. I played the role of the good son, and if my memory serves, {{< var schwartz-full >}} played the bad son[^william].
 
 The scene where two sons reacts to their father's news that he has been laid off is very dramatic. The good son consoles his father, tells him not to worry and reassures him that just like before, he will see to his father's needs. But the bad son handles it very differently; he becomes angry, and in his rage he loses his temper and hits his brother. Their father intervenes, and such {{< var tumult >}} ensues that the two sons leave even more angry at each other, and the poor {{< var chazan >}} becomes even more depressed than he was before...
 
 In the rehearsals where {{< var thomash >}} showed us how to perform the scene, {{< var kessler >}} sat there with a sullen look on his face. Smoking a cigar which he held the whole time in the corner of his mouth, he, with implacable obstinacy, sat quietly, not saying even one word. But he watched {{< var thomash >}} directing us very closely, and when he heard us fighting in the scene, he started winking at {{< var schwartz >}}^[_William_ Schwartz] to say that the scene wasn't working this way. He made the same sort of grimace that I knew meant that if we played the scene as {{< var thomash >}} had taught us, we'd ruin the whole scene, and our roles too, because...well because it just wasn't good!
 
-When {{< var thomash >}} saw how {{< var kessler >}} was cringing, he was a little confused. He turned to {{< var kessler >}} and asked him how to show us how he thought the scene should be played. 
+When {{< var thomash >}} saw how {{< var kessler >}} was cringing, he was a little confused. He turned to {{< var kessler >}} and asked him how to show us how he thought the scene should be played.
 
 -- _Ah, yes._ - {{< var kessler >}} nodded.
 
-And he showed us an entirely different way to perform the scene... He directed us to play the scene without all the noise and {{< var tumult >}}. Instead, he showed us a quiet, but still intense and dramatic, scene. He brought in small details to show us that how we played the scene was more important than the words we said. In {{< var kessler >}}'s rendition, after the bad son hits the good son, he immediately realizes that he should not have done that because in doing so he not only insulted his brother, but his father too. He regrets what he did and makes such movements and puts on such an expression that you can see his remorse, but there was nothing he could do about it. 
+And he showed us an entirely different way to perform the scene... He directed us to play the scene without all the noise and {{< var tumult >}}. Instead, he showed us a quiet, but still intense and dramatic, scene. He brought in small details to show us that how we played the scene was more important than the words we said. In {{< var kessler >}}'s rendition, after the bad son hits the good son, he immediately realizes that he should not have done that because in doing so he not only insulted his brother, but his father too. He regrets what he did and makes such movements and puts on such an expression that you can see his remorse, but there was nothing he could do about it.
 
-The scene generally worked well this way - without all the yelling and screaming, it became very moving. Without using any words, {{< var kessler >}} taught {{< var schwartz >}} and I what to do and how to behave by playing both of our roles - both the good son and the bad son. He did everything in such a supremely artistic manner. 
+The scene generally worked well this way - without all the yelling and screaming, it became very moving. Without using any words, {{< var kessler >}} taught {{< var schwartz >}} and I what to do and how to behave by playing both of our roles - both the good son and the bad son. He did everything in such a supremely artistic manner.
 
-Even {{< var thomash >}} himself had to admit that the scene was better this way and {{< var kessler >}} was right. And later when we performed the scene for an audience, they confirmed that the scene was very good - every time we played the scene, the audience applauded enthusiastically. 
+Even {{< var thomash >}} himself had to admit that the scene was better this way and {{< var kessler >}} was right. And later when we performed the scene for an audience, they confirmed that the scene was very good - every time we played the scene, the audience applauded enthusiastically.
 
-The audiences were also very impressed with how the {{< var chazan >}} performed in this scene where he comes home dejected and depressed after losing his job because his voice wasn't good enough anymore. In order to show his children at home that he should not have been fired, he began to sing, piously and passionately, a prayer from the {{< var yomim-neroim >}}^[The 10 day period between Rosh Hashanah and Yom Kippur] - {{< var umipnei >}}^[A recording from the Warsaw Synagogue Cantor in 1921](https://search.library.wisc.edu/digital/AX36NV4NR744N79E/A6TSWGVEIMEIJO8W), and a [modern rendition](https://www.youtube.com/watch?v=sjlgHWx7ZW8)].
+The audiences were also very impressed with how the {{< var chazan >}} performed in this scene where he comes home dejected and depressed after losing his job because his voice wasn't good enough anymore. In order to show his children at home that he should not have been fired, he began to sing, piously and passionately, a prayer from the {{< var yomim-neroim >}}^[The 10 day period between Rosh Hashanah and Yom Kippur] - {{< var umipnei >}}^[[A recording from the Warsaw Synagogue Cantor in 1921](https://search.library.wisc.edu/digital/AX36NV4NR744N79E/A6TSWGVEIMEIJO8W), and a [modern rendition](https://www.youtube.com/watch?v=sjlgHWx7ZW8)].
 
 And how beautifully he sang!
 
-All in all, it was the strongest and most dramatic scene in the whole play. Even without all the yelling and the screaming. It was a quiet scene that brought tears to your eyes - a scene where the art of acting was more important than the art of words... {{< var kessler-full >}} was able to do this not only because he was a great artist, but because he also had an extraordinary stage presence and mastery of the craft.  
+All in all, it was the strongest and most dramatic scene in the whole play. Even without all the yelling and the screaming. It was a quiet scene that brought tears to your eyes - a scene where the art of acting was more important than the art of words... {{< var kessler-full >}} was able to do this not only because he was a great artist, but because he also had an extraordinary stage presence and mastery of the craft.
+
+
+
+
+[^william]:
+    Alas, Sam's memory does _not_ serve, but he's close! The bad son was instead played by _{{< var william-full >}}_. In fact, {{< var forverts >}} actually issued a correction was actually issued to this end immediately after the following week's article on January 23rd:
+
+    ::: {layout-ncol="2"}
+    
+    >**Not {{< var schwartz-full >}} but Willy {{< var schwartz >}}** 
+    >
+    > In last Thursday's article, in relaying an episode from when I played with {{< var thomash >}} in National Theater, I made an error: I meant Willy {{< var schwartz>}}, not {{< var schwartz-full >}} which was not right. {{< var schwartz-full >}} never played with {{< var thomash >}}.
+    
+    ![Correction issued on January 23rd, 1947.](../img/newspaper_clippings/1947-01-23_forverts_correction.png){width="3in"}
+    
+    :::
+    
