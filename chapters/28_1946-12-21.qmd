@@ -5,11 +5,11 @@ _This article is not available from the National Library of Israel. The article 
 
 > A character portrait of the famous "Professor" {{< var horowitz >}}, the "king" of {{< var shund >}}^[low-brow, often translated as "trash," art. The kind of cultural output loved by the masses but devoid of sophistication.] on the stage.
 
-I couldn't get much joy playing in the People's Theater, because in those days, {{< var bessie >}} didn't play women's roles - only young and nimble young men who dominated the whole stage and were usually of the mischevious and wanton sort...
+I couldn't get much joy playing in the People's Theater, because in those days, {{< var bessie >}} didn't play women's roles - only young and nimble young men who dominated the whole stage and were usually of the mischievous and wanton sort...
 
-And so it always turned out that, when an opportunity for such a role - which was an exact fit for me - came up, it was only given to me when {{< var boris >}} was fighting with {{< var bessie-first >}} over something and was on bad terms with her. And I really didn't want them to fight. Just the opposite, I was good friends with both of them - indeed I was related to them^[Recall, Sam and Bessie are cousins; likely their mothers are sisters] - and in my heart I always wished that they would live in peace and grow old together in happiness and honor^[אין עושר און אין כווד]. But the fact that {{< var bessie >}}'s acted in pants^[as in, performed male roles] really interfered with my career. {{< var thomash >}} couldn't give me the opportunities that he should have, and even when {{< var edelstein >}} tried to intervene on my behalf, it never helped. 
+And so it always turned out that, when an opportunity for such a role - which was an exact fit for me - came up, it was only given to me when {{< var boris >}} was fighting with {{< var bessie-first >}} over something and was on bad terms with her. And I really didn't want them to fight. Just the opposite, I was good friends with both of them - indeed I was related to them^[Recall, Sam and Bessie are cousins; likely their mothers are sisters] - and in my heart I always wished that they would live in peace and grow old together in happiness and honor^[אין עושר און אין כווד]. But the fact that {{< var bessie >}}'s acted in pants^[as in, performed male roles] really interfered with my career. {{< var thomash >}} couldn't give me the opportunities that he should have, and even when {{< var edelstein >}} tried to intervene on my behalf, it never helped.
 
-Only when {{< var adler >}} appeared in pieces from his repertoire did I get a chance to play a role that I actually wanted. But even though I was pleased that the {{< var nesher >}} took me under his wing and put in a good word for me, it wasn't enough. 
+Only when {{< var adler >}} appeared in pieces from his repertoire did I get a chance to play a role that I actually wanted. But even though I was pleased that the {{< var nesher >}} took me under his wing and put in a good word for me, it wasn't enough.
 
 I then realized that, for all my longing and dreams of being in New York, playing with the "great bears"^[the big-time actors] was not at all what I had imagined, and my heart grew heavy and I started looking for a way to get out of this unpleasant situation.
 
@@ -20,40 +20,40 @@ But just then when I was feeling so aggrieved in the People's Theater, having to
 ::: {layout-ncol="2"}
 
 In those days, a Yiddish troupe played in the Windsor Theater on the Bowery, where the Manhatten Bridge now stands, and the managers of the troupe were {{< var heine-full >}} and the "Professor" [{{< var m-horowitz >}}](https://www.museumoffamilyhistory.com/yt/lex/H/horowitz-halevy-moshe-ish.htm), the "king" of all sorts of historical and non-historical operettas on the Yiddish stage. <br><br>
-Legends circulated all around New York about the "Professor" {{< var m-horowitz >}}, who loved to sign his name as {{< var halevy >}}, and there was nothing he could do about all these legends being written about him. 
+Legends circulated all around New York about the "Professor" {{< var m-horowitz >}}, who loved to sign his name as {{< var halevy >}}, and there was nothing he could do about all these legends being written about him.
 
 ![1880s poster for the Windsor Theater, situated at 43-47 Bowery. [Image source.](https://www.boweryalliance.org/did-you-know-this-about-the-bowery/)](../img/BoweryWindsorTheatre.jpg){width="4in"}
 
 :::
 
 
-Where he got the title "Professor" from, nobody really knew. And even though he himself assured everyone that, back in a university in Bucharest, he had once been a professor of geography, nobody believed really him. It was usually the custom in the theater circles that, when you called him "Professor," you said it in a way that it sounded like a joke. 
+Where he got the title "Professor" from, nobody really knew. And even though he himself assured everyone that, back in a university in Bucharest, he had once been a professor of geography, nobody believed really him. It was usually the custom in the theater circles that, when you called him "Professor," you said it in a way that it sounded like a joke.
 
 He was also called "the {{< var meshumed >}}"^[refers to a converted/baptized Jew, and is often used as a derogatory term], and it was said that indeed years ago, when he was considered a great expert and learned {{< var shkhite >}}^[Jewish ritual slaughter] to become a {{< var shokhet >}}^[Jewish butcher], he suddenly joined the [{{< var haskalah >}}](https://en.wikipedia.org/wiki/Haskalah)^[European Jewish enlightenment movement] and learned German wrote in a German newspaper. And just as he wrote in German, he also wrote in Romanian and Hebrew and he was sure that, in his newfound refinement, he would of course climb high on the social ladder.
 
 He came from Galicia. He was born in [Stanislav](https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/stanislav), and he loved to boast that his family traced its lineage to [{{< var shelah >}}](https://en.wikipedia.org/wiki/Isaiah_Horowitz). And it was known that when he was a young 20-something, or 30, one fine morning he suddenly converted and become a missionary, all to be able to pay off some debts^[His family had fallen on hard times, and becoming a missionary was a way to earn some money]. But after a little time had passed and he had put away a little money, he returned to Judaism, and he caused such a spectacle when he did it and began to call himself "{{< var horowitz-full >}}".
 
-People also used to say, that when he became a Jew again in Bucharest, he convened a group of coachmen, and he went with them to a pub and got them a couple liters of wine and "made their hearts merry with wine"^[This is a very specific phrase that Sam uses from the [Talmud Megilla 12b](https://www.sefaria.org/Megillah.12b.2?lang=bi): כטוב לב המלך ביין] and gave a sermon, quoting verses from the {{< var torah >}} and the {{< var gamara >}}^[Yiddish pronunciation of the [Gemara](https://en.wikipedia.org/wiki/Gemara)], and he wove in some story about [{{< var terah >}}](https://en.wikipedia.org/wiki/Terah)^[Biblical Abraham's father] and {{< var abraham-avinu >}}^["Our father Abraham," as he is often referred to in Judaism], about how someone who used to worship idols became a Jew who now worships {{< var rebbeinu-shel-olam >}}, and so therefore they should welcome him with opens arms back into the people of Israel. 
+People also used to say, that when he became a Jew again in Bucharest, he convened a group of coachmen, and he went with them to a pub and got them a couple liters of wine and "made their hearts merry with wine"^[This is a very specific phrase that Sam uses from the [Talmud Megilla 12b](https://www.sefaria.org/Megillah.12b.2?lang=bi): כטוב לב המלך ביין] and gave a sermon, quoting verses from the {{< var torah >}} and the {{< var gamara >}}^[Yiddish pronunciation of the [Gemara](https://en.wikipedia.org/wiki/Gemara)], and he wove in some story about [{{< var terah >}}](https://en.wikipedia.org/wiki/Terah)^[Biblical Abraham's father] and {{< var abraham-avinu >}}^["Our father Abraham," as he is often referred to in Judaism], about how someone who used to worship idols became a Jew who now worships {{< var rebbeinu-shel-olam >}}, and so therefore they should welcome him with opens arms back into the people of Israel.
 
 Afterwards in Romania, this "Professor" suddenly took an interest in Yiddish theater. This was around the same time that {{< var goldfaden-full >}} laid the foundations of the Yiddish stage. He competed with {{< var goldfaden >}}, this "Professor {{< var horowitz-full >}}". He churned out new plays as quickly as you baked {{< var matzos >}}. Overnight, he could whip up a whole new play. He would quickly grab up new plays - a {{< var goyishe >}} play from somewhere or another - as soon as he saw it, and before you even expected it, he would "Yiddish-ify" it so that even the original author didn't recognize it...
 
 And if he didn't have a {{< var goyishe >}} play on hand when he needed it, he would just take a chapter of Jewish history and quickly turn it into a play - and it worked just as well. He was really an interesting character, the "Professor."
 
-When he came to America and became a Yiddish theater director, he behaved like a magnate. He spent money like water and lived very comfortably, as a magnate does. He always dressed so that all eyes were on him when he went down the street, always wearing the finest clock with the most beautiful top hat. His clothes were fresh off the needle and made of the best fabric, and in order to make an impression, he rode around in his own carriage with two fine, plump horses, and his coachman who drove the carriage was always dressed in a uniform with golden buttons. 
+When he came to America and became a Yiddish theater director, he behaved like a magnate. He spent money like water and lived very comfortably, as a magnate does. He always dressed so that all eyes were on him when he went down the street, always wearing the finest clock with the most beautiful top hat. His clothes were fresh off the needle and made of the best fabric, and in order to make an impression, he rode around in his own carriage with two fine, plump horses, and his coachman who drove the carriage was always dressed in a uniform with golden buttons.
 
 Generally speaking, in those days this business with carriages was very in vogue in the Yiddish theater world. {{< var adler >}} drove around in his carriage with two fine horses. {{< var boris >}} too drove around in a carriage with two plump horses. The only one of the big theater managers who didn't have his own carriage and coachman with golden buttons was {{< var edelstein-full >}}. And if you asked why he too didn't buy himself a carriage, he answered, in his own peculiar way:
 
 -- Eh, who needs it! May they all crash, those fools... No good, I tell you, will come from traveling in a carriage... None at all! You can die from one of those things... May they all crash... I'm fine just being a manager....^[The actual words Sam gives here are full of idioms and Yiddish feeling, which don't translate well into English.]
 
-{{< var edelstein >}} never envied anyone who lived lavishly. He was of the opinion that that was nothing more than an attempt to blow smoke in people's faces. And the worst of them all was the "Professor." 
+{{< var edelstein >}} never envied anyone who lived lavishly. He was of the opinion that that was nothing more than an attempt to blow smoke in people's faces. And the worst of them all was the "Professor."
 
 That was the kind of person he was, {{< var horowitz-full >}}, who was known in those times as the "king" of {{< var shund >}} on the Yiddish stage in America. And just as he was never offended by those who called him "Professor" in a sarcastic tone, he also wasn't offended when people called him "{{< var meshumed >}}."
 
-Many times, I heard {{< var gordin-full >}} say to him - 
+Many times, I heard {{< var gordin-full >}} say to him -
 
 -- Hey, you...{{< var meshumed >}}!...
 
-And the "Professor" took it as quite a normal thing, nothing to make a whole fuss over, and he'd usually say back to {{< var gordin >}} - 
+And the "Professor" took it as quite a normal thing, nothing to make a whole fuss over, and he'd usually say back to {{< var gordin >}} -
 
 -- {{< var Nu >}}, what do you want to ask me, {{< var goy >}}?
 
@@ -65,7 +65,7 @@ Others too in the Yiddish theater world called the "Professor" {{< var meshumed 
 
 It never occurred to me to go to the Windsor Theater and speak to someone, or even the "Professor" himself, to ask if they wanted to hire me for next season. But it turned out that I didn't have to go to him - someone from the Windsor Theater came to me. And it happened by chance, as I later found out.
 
-The "Professor"'s daughter had seen me perform once in the People's Theater, and she loved my acting so much that she immediately when to her father and told him that they needed an actor exactly like me in the Windsor Theater. 
+The "Professor"'s daughter had seen me perform once in the People's Theater, and she loved my acting so much that she immediately when to her father and told him that they needed an actor exactly like me in the Windsor Theater.
 
 He always relied his daughter's expertise; she used to go around to all the other theaters and look for new talent for the Windsor Theater. He asked her what kind of roles I played and how I sang and danced, and after taking it all in, he bit his lower lip, like he always used to do when he wanted to say something. And he said:
 

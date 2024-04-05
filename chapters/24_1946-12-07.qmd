@@ -66,7 +66,7 @@ Hearing that they didn't want to hire me to play in the People's Theater, where 
 
 -- The condition is, - I answered him, - that I will play in the music hall, if you agree that next season I will play in the People's Theater...
 
-Hearing such a thing, {{< var boris >}} began to equivocate. He said that this is impossible becuase I would have to be a member of the Hebrew Actor's Union, but {{< var edelstein >}}, in his own way, scratched his cheeks. And when he heard me say that they could use their influence to get me admitted into the union, he said:
+Hearing such a thing, {{< var boris >}} began to equivocate. He said that this is impossible because I would have to be a member of the Hebrew Actor's Union, but {{< var edelstein >}}, in his own way, scratched his cheeks. And when he heard me say that they could use their influence to get me admitted into the union, he said:
 
 -- You'll see, you'll see, the main thing is to gird yourself and be strong, and know the right thing to say. {{< var Nu >}}, in short, we'll see to it that you will join the union... What then will we do with you in New York? How will we butter you up?
 
