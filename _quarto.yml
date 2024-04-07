@@ -64,11 +64,12 @@ book:
 
 format:
   html:
-    sidebar-width: 600px
     fontsize: 14px;
     citations-hover: true
     footnotes-hover: true
     crossrefs-hover: true
+    grid:
+      sidebar-width: 260px;
 
 theme:
   light: flatly

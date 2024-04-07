@@ -34,17 +34,20 @@ And so it indeed was.
 
 She had her first independent performance without {{< var boris >}} in the Novelty Theater. They took in there so she could get out of her bad situation. And as soon as she began to play her repertoire - young men's roles, of course - audiences began to come to the theater and business actually started going well.
 
-There was nothing at all left for {{< var shild >}} to do in the theater - or for {{< var sara-alder >}} either. They had not a stitch of work. Only during the middle of the week did they, from time to time, put on Tolstoy's {{< var kreuzer >}}, just to refresh themselves a little bit with a "lively word"^[idiom?]. But on Friday through Sunday, {{< var bessie >}} performed and was big hit with audiences. And the most interesting thing about it was that {{< var shild-full >}} himself also would come to see {{< var bessie-full >}} play her men's roles, and he was very amused by it and he applauded her enthusiasitically.
+There was nothing at all left for {{< var shild >}} to do in the theater - or for {{< var sara-adler >}} either. They had not a stitch of work. Only during the middle of the week did they, from time to time, put on Tolstoy's {{< var kreuzer >}}, just to refresh themselves a little bit with a "lively word"^[idiom?]. But on Friday through Sunday, {{< var bessie >}} performed and was big hit with audiences. And the most interesting thing about it was that {{< var shild-full >}} himself also would come to see {{< var bessie >}} play her men's roles, and he was very amused by it and he applauded her enthusiastically.
 
 He was very taken with {{< var bessie >}}'s talent. In his opinion, she was a magnificent actress with a lot of personality and charm. It only bothered him that the same audiences that {{< var kvelled >}} at the foolish plays she put on had no interest in better plays. He believed that anything could be good theater - dramas, tragedies, comedies, operettas, and even farces too. It just depends on how you play it. And he would proudly recount how he began his career on the German stage in slapstick comedy roles where he would sing and dance.
 
-When {{< var bessie >}} was playing her repertoire in the Novelty Theater, she also performed in [{{< var rakov >}}](https://www.museumoffamilyhistory.com/yt/lex/R/rakov-n.htm)'s new comedy, which he had especially written for her. It was called {{< var khantshe >}} and {{< var bessie-full >}} excelled in her role - she was simply in seventh heaven. The success of {{< var khantshe >}} was truly a triumph for her, and she could say with even more confidence that she would conquer the town and succeed without {{< var thomash >}}...
+::: {layout-ncol=2}
 
-{{< var rakov >}}'s {{< var khantshe >}} completely drove Tolstoy's {{< var kreuzer >}} off the stage...
-
-{{< var rakov >}} defeated Tolstoy, and {{< var bessie >}} defeated {{< var shild >}}. It was a running joke in theater circles at the time, that {{< var rakov >}} had defeated Tolstoy.
-
+When {{< var bessie >}} was playing her repertoire in the Novelty Theater, she also performed in [{{< var rakov >}}](https://www.museumoffamilyhistory.com/yt/lex/R/rakov-n.htm)'s new comedy, which he had especially written for her. It was called {{< var khantshe >}}[^khantshe], and {{< var bessie >}} excelled in her role - she was simply in seventh heaven. The success of {{< var khantshe >}} was truly a triumph for her, and she could say with even more confidence that she would conquer the town and succeed without {{< var thomash >}}...<br><br>
+{{< var rakov >}}'s {{< var khantshe >}} completely drove Tolstoy's {{< var kreuzer >}} off the stage...<br><br>
+{{< var rakov >}} defeated Tolstoy, and {{< var bessie >}} defeated {{< var shild >}}. It was a running joke in theater circles at the time, that {{< var rakov >}} had defeated Tolstoy.<br><br>
 {{< var bessie-first >}} herself also joked about it, in her own good-natured way. And because she wanted to prove that she alone, without {{< var thomash >}}, could draw an audience, she was a really high spirits, and her friends were also really happy for her.
+
+![[Advertisement from January 12th, 1913 in {{< var forverts >}}](https://www.nli.org.il/en/newspapers/frw/1913/01/12/01/article/16.2) for {{< var khantshe >}} at "Sarah Adler's Novelty Theater." Notably, the last line of the advertisement states that Sam Kestin arranged the dances and marches. ](../img/newspaper_clippings/1913-01-12_forverts.png){width="3in"}
+
+:::
 
 And that's how the Novelty Theater in Williamsburg became a temple for two famous Yiddish actress who were both angry with their husbands. And at the same time, the stage was itself a battlefield where Tolstoy retreated and {{< var rakov >}} took over...
 
@@ -54,12 +57,15 @@ While sculpting this character, as we used to say in our theater dialect, it goe
 
 I remember how one of the distinguished theater critics wrote in his review that Sam Kestin is the Yiddish [George M. Cohan](https://en.wikipedia.org/wiki/George_M._Cohan). And this was no coincidence - while preparing for the role, I indeed took a leaf out of none other than George M. Cohan's book. I had always admired him, and I never missed a chance to see him in a Broadway play. You could always learn something from him.
 
+For a few weeks, the comedy {{< var khantshe >}} premiered in the Novelty Theater with great success, and we were sure that it could of course play through the end of the season. But suddenly all of our success vanished into thin air. Audiences stopped coming to the theater and we couldn't attract anyone - neither with {{< var shild >}} playing in serious dramas, nor with {{< var bessie >}} playing in lighter comedies.
 
-::: {layout-ncol=2}
+It was bad. Very bad. The managers weren't able to pay the actors in the troupe, and weeks passed without receiving any salary at all. We were so frustrated that there are simply no words to describe it. Here was a troupe, a good Yiddish troupe, with {{< var shild-full >}} in the lead roles - and audiences weren't coming! But's possible that the audiences weren't entirely to blame; it's possible that the audiences did want to come to a good Yiddish play where {{< var shild >}} could show his full glory the audiences would indeed come - it's just that they didn't want to come all the way out to Willamsburg over New York. After all, the life portrayed in Tolstoy's play {{< var kreuzer >}} was foreign to the Jewish community at large. In general, this play was only for a small circle, for a select audience.
+
+But because business was going so poorly, the theater managers started arguing amongst themselves; the {{< var shalom-bait >}} in the troupe was destroyed, and nobody thought anymore that we could try and improve our dark lot by bringing in some new play. And even before the season was over, they let the whole troupe go, and we were left neither here nor there. {{< var shild >}} was terribly disappointed, and he said that he could never have imagined that a bridge that splits up Williamsburg from New York would play such an important role in the fate of a Yiddish Theater.
+
+-- Strange! - he shook is head and slapped his knees with both hands. -- Bizarre! Inconceivable!
 
 
-![](../img/newspaper_clippings/){width="2in"}
 
-:::
-
-chantshe in jan 1913: https://www.nli.org.il/en/newspapers/frw/1913/01/12/01/article/16.2
+[^khantshe]:
+  There are several surviving songs from this play, including [{{< var Khantshe >}}](https://www.museumoffamilyhistory.com/yt/chantshe-in-america.htm) and Sam's song {{< var ich-hob >}} for which we have [sheet music](https://www.loc.gov/item/ihas.200182188/), a [recording](https://www.youtube.com/watch?v=YJfmY-qlwIo), and a [translation](http://www.yiddishpennysongs.com/2017/09/ikh-hob-ales-vos-ikh-darf-bay-andere.html).

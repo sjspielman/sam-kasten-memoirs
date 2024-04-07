@@ -19,22 +19,11 @@ I do NOT own copyright of these materials. Where known, sources are provided all
 
 ## Newspaper clippings folder
 
-- `1946-09-01_forverts.png`: <https://www.nli.org.il/en/newspapers/frw>
-- `1891-02-06_freiearb.png`: <https://www.nli.org.il/en/newspapers/freiearb>
-- `1893-01-08_brooklyneagle.png`: <https://www.newspapers.com/>
-- `1895-09-27_deremes.png`: <https://www.nli.org.il/en/newspapers/emet>
-- `1895-12-30_The_Baltimore_Sun.jpg`: <https://www.newspapers.com/image/374494611>
-- `1902-04-17_forverts.png`: <https://www.nli.org.il/en/newspapers/frw>
-- `1902-08-30_forverts.png`: <https://www.nli.org.il/en/newspapers/frw>
-- `1903-09-03_di-yidishe-velt.png`: <https://www.nli.org.il/en/newspapers/dywt>
-- `1903-09-03_forverts.png`: <https://www.nli.org.il/en/newspapers/frw>
-- `1903-09-30_forverts.png`: <https://www.nli.org.il/en/newspapers/frw>
-- `1904-03-04_forverts.png`: <https://www.nli.org.il/en/newspapers/frw>
-- `1905-12-30_arb.png`: <https://www.nli.org.il/en/newspapers/derarbeiter>
-- `1911-02-25_freiearb.png`: <https://www.nli.org.il/en/newspapers/freiearb>
-- `1919-09-06_forverts.png`: <https://www.nli.org.il/en/newspapers/frw>
-- `1919-09-08_morgen.png`: <https://www.nli.org.il/en/newspapers/tjm>
-- `1919-09-10_yidtog.png`: <https://www.nli.org.il/en/newspapers/ytb>
-- `1911-08-24_yidtog.png`: <https://www.nli.org.il/en/newspapers/ytb>
-- `1911-09-14_forverts.png`: <https://www.nli.org.il/en/newspapers/frw>
-- `1947-01-23_forverts.png`: <https://www.nli.org.il/en/newspapers/frw>
+- `*_forverts.png`:  <https://www.nli.org.il/en/newspapers/frw>
+- `*_freiearb.png`: <https://www.nli.org.il/en/newspapers/freiearb>
+- `*_deremes.png`: <https://www.nli.org.il/en/newspapers/emet>
+- `*_di-yidishe-velt.png`: <https://www.nli.org.il/en/newspapers/dywt>
+- `*_arb.png`: <https://www.nli.org.il/en/newspapers/derarbeiter>
+- `*_morgen.png`: <https://www.nli.org.il/en/newspapers/tjm>
+- `*yidtog.png`: <https://www.nli.org.il/en/newspapers/ytb>
+- All other clippings from <https://www.newspapers.com/>
