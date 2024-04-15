@@ -93,7 +93,7 @@ All in all, it was the strongest and most dramatic scene in the whole play. Even
     
     >**Not {{< var schwartz-full >}} but Willy {{< var schwartz >}}** 
     >
-    > In last Thursday's article, in relaying an episode from when I played with {{< var thomash >}} in National Theater, I made an error: I meant Willy {{< var schwartz>}}, not {{< var schwartz-full >}} which was not right. {{< var schwartz-full >}} never played with {{< var thomash >}}.
+    > In last Thursday's article, in relaying an episode from when I played with {{< var thomash >}} in National Theater, I made an error: I meant Willy {{< var schwartz >}}, not {{< var schwartz-full >}} which was not right. {{< var schwartz-full >}} never played with {{< var thomash >}}.
     
     ![Correction issued on January 23rd, 1947.](../img/newspaper_clippings/1947-01-23_forverts_correction.png){width="3in"}
     

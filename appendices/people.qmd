@@ -88,6 +88,9 @@ _Leksikon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/M/meisel-hyman.htm)
 - _Lazar Mitnick_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/M/mitnick-leiser.htm)
+- _{{< var amalia >}}_
+  - [Wikipedia](https://en.wikipedia.org/wiki/Sigmund_Mogulesko#Marriage)
+  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/M/mogulesko-amalia.htm)
 - _Sigmund ("Zelig") {{< var mogu >}}_
   - [Wikipedia](https://en.wikipedia.org/wiki/Sigmund_Mogulesko)
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/M/mogulesko-sigmund.htm)

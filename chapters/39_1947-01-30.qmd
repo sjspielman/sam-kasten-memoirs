@@ -10,12 +10,21 @@ And I confess, that even now, there are moments where I forget who I am, and I f
 
 Of all the roles which I have played on the Yiddish stage, I was given yet another role still - to play none other than a director^[or, producer]....
 
-But let's circle back to the Novelty Theater, where I performed when {{< var jacob-alder >}} and {{< var boris >}} were on bad terms with their wives. When the Novelty Theater closed before the season was over, I suddenly
+But let's circle back to the Novelty Theater, where I performed when {{< var jacob-adler >}} and {{< var boris >}} were on bad terms with their wives. When the Novelty Theater closed before the season was over, I felt like a spare, and I became uneasy and restless - I was never able to sit still, neither at home nor in the cafe where the actors usually got together in their free time.
+
+You must understand that, not having any work when other actors did is, for an actor, one of the worst things. {{< var Nu >}}, as usual, I went back to Philadelphia where my friend {{< var shor-full >}} saw to it that I would, from time to time, play a performance and get my share of applause which I always longed for so much when I was out of work. And when I had nothing to do in Philadelphia, I came back to New York. And so I ran back and forth from one city to the other, never getting any rest. Which is to say - other actors were playing, but I was not! 
+
+And believe me, the notion of a getting paid to perform interested me less than performing itself.
+
 
 
 ::: {layout-ncol=2}
 
+Around that time, {{< var mogu >}} appeared in {{< var lateiner-full >}}'s famous play called {{< var greenhorns >}}. This performance was a benefit concert for the great artist, who was in such a state^[extremely ill] that benefit concerts were his only source of income. And when he asked me if I would play the role of the "little merry negro"^[לוסטיק נעגערעל], who sings and dances and brings joy to everyone, in the performance, I assured him that he could count on me, and when they called me in for rehearsals, I would be there.<br><br>
+No actor turned down an offer to play in a benefit performance for {{< var mogu >}}. Even {{< var boris >}} didn't turn it down, and it soon enough it was decided that he, {{< var thomash >}}, would play the role of the fellow called {{< var joe >}}^[מאָנקי–דזשאָו]. This is what he promised {{< var mogu >}}, and the great comedian^[{{< var mogu >}}] was very pleased because he thought {{< var thomash >}} was very well suited for the role of {{< var joe >}}.<br><br>
+{{< var mogu >}} did not take any pleasure asking actors to perform in his benefit performance. He was always afraid that they would turn him down, and for him this would of course be a great offense, and he would be completely mortified. Indeed, this is why his wife {{< var molly >}}^[short for [Amalia](https://www.museumoffamilyhistory.com/yt/lex/M/mogulesko-amalia.htm)] took on this task on his behalf and kept his involvement to an absolute minimum.
 
-![](){width="3in"}
+
+![[Advertisement in {{< var morgen >}} on April 13th, 1914](https://www.nli.org.il/en/newspapers/tjm/1913/04/14/01/article/69/) for {{< var mogu >}}'s performance in {{< var greenhorns >}} on Sunday April 15th in National Theater.](../img/newspaper_clippings/1913-04-14_morgen.png){width="3in"}
 
 :::
