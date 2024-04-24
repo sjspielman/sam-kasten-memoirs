@@ -22,7 +22,7 @@ But just then when I was feeling so aggrieved in the People's Theater, having to
 In those days, a Yiddish troupe played in the Windsor Theater on the Bowery, where the Manhatten Bridge now stands, and the managers of the troupe were {{< var heine-full >}} and the "Professor" [{{< var m-horowitz >}}](https://www.museumoffamilyhistory.com/yt/lex/H/horowitz-halevy-moshe-ish.htm), the "king" of all sorts of historical and non-historical operettas on the Yiddish stage. <br><br>
 Legends circulated all around New York about the "Professor" {{< var m-horowitz >}}, who loved to sign his name as {{< var halevy >}}, and there was nothing he could do about all these legends being written about him.
 
-![1880s poster for the Windsor Theater, situated at 43-47 Bowery. [Image source.](https://www.boweryalliance.org/did-you-know-this-about-the-bowery/)](../img/BoweryWindsorTheatre.jpg){width="4in"}
+![1880s poster for the Windsor Theater, situated at 43-47 Bowery. <br>[Source.](https://www.boweryalliance.org/did-you-know-this-about-the-bowery/)](../img/BoweryWindsorTheatre.jpg){#fig-bowery width="4in"}
 
 :::
 

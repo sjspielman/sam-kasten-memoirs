@@ -27,9 +27,9 @@ Together with a _landsman_^[someone from same region in the old country] of mine
 
 ::: {layout-ncol=2}
 
-![Image of Wheatley Dramatic Hall, circa 1890. [Image source](https://archive.nyu.edu/handle/2451/56843).](../img/dramatic-hall-1890.jpg){width="3in"}
+![Image of Wheatley Dramatic Hall, circa 1890. <br>[Source.](https://archive.nyu.edu/handle/2451/56843)](../img/dramatic-hall-1890.jpg){#fig-dramatic-hall width="3in"}
 
-![Image of Wheatley Dramatic Hall, circa 1959. The building was demolished in 1967 and replaced with rowhomes. [Image source](https://www.ocfrealty.com/naked-philly/society-hill/delorean-time-machine-5th-gaskill/).](../img/gaskill-1959.jpg){width="2in"}
+![Image of Wheatley Dramatic Hall, circa 1959. The building was demolished in 1967 and replaced with rowhomes. <br>[Source.](https://www.ocfrealty.com/naked-philly/society-hill/delorean-time-machine-5th-gaskill/)](../img/gaskill-1959.jpg){#fig-gaskill width="2in"}
 :::
 
 It had to be good, because I did the same as him in all three roles. I simply imitated him, and it was successful for me... He then became very angry with me, and threatened he would get even with me for this. But it didn't save him at all.

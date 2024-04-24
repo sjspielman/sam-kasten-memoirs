@@ -18,7 +18,7 @@ In general, at our house, in the small village of {{< var zat >}}, there was suc
 :::
 
 ::: {.column width="20%"}
-![Makarover {{< var rebbe >}} at the time, Yaakov Yitzchok Twersky (1828 – 1892). [Image source.](https://jewua.org/makarov/)](../img/makarover-rebbe.jpg){width=1in}
+![Makarover {{< var rebbe >}} at the time, Yaakov Yitzchok Twersky (1828 – 1892). <br>[Source.](https://jewua.org/makarov/)](../img/makarover-rebbe.jpg){#fig-makarover width=1in}
 :::
 
 ::::

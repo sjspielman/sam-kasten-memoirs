@@ -29,11 +29,12 @@ Together, Frank and I established a little theater company that we called the "S
 
 Whenever we could and wherever we were allowed, we gave concerts, staged scenes, sang, and danced. We were satisfied that we were playing theater, and we looked forward to the opportunity when we would achieve what we wanted.^[It's worth noting that, according to the book [_Jewish Quarter of Philadelphia: A History & Guide 1881-1930_](https://www.goodreads.com/book/show/2214842.Jewish_Quarter_of_Philadelphia), the "Star Specialty Club" troupe would sometimes play at the old fire station at 512 S 3rd St, right above South St.].
 
-::: {layout-ncol="2"}
+::: {layout-ncol=2}
 
-By chance, at that time, the anarchists turned to us with a request that we should give a benefit performance for the [_Fraye Arbeter Shtime_](https://en.wikipedia.org/wiki/Fraye_Arbeter_Shtime)^["The Free Voice of Labor"; Anarchist Yiddish newspaper], which was published out of New York. We were assured that [David Edelstadt](https://en.wikipedia.org/wiki/David_Edelstadt) himself, the editor of the _Fraye Arbeter Shtime_, will come to the performance from New York. And needless to say, when Frank and I heard about it, we were enthusiastic about it. And soon we were studying hard with all the members of our club to really learn Goldfaden's play {{< var kuni >}} well. The fake {{< var kuni-lemel >}} was played by Frank, and I played the real {{< var kuni-lemel >}}.
+By chance, at that time, the anarchists turned to us with a request that we should give a benefit performance for the [{{< var freiarb >}}](https://en.wikipedia.org/wiki/Fraye_Arbeter_Shtime)^["The Free Voice of Labor"; Anarchist Yiddish newspaper], which was published out of New York. We were assured that [David Edelstadt](https://en.wikipedia.org/wiki/David_Edelstadt) himself, the editor of the {{< var freiarb >}}, will come to the performance from New York. And needless to say, when Frank and I heard about it, we were enthusiastic about it. And soon we were studying hard with all the members of our club to really learn Goldfaden's play {{< var kuni >}} well. The fake {{< var kuni-lemel >}} was played by Frank, and I played the real {{< var kuni-lemel >}}.
 
-![Advertisement in the _Fraye Arbeter Shtime_ for the performance of {{< var kuni >}} in Philadelphia by the Star Specialty Company. The show was performed on Wednesday February 11th, 1891 in the Dramatic Hall at 5th and Gaskill. [Source](https://www.nli.org.il/en/newspapers/freiearb/1891/02/06/01/).](../img/newspaper_clippings/1891-02-06_freiearb.png){width="2in"}
+
+![Advertisement from February 6th, 1891 in {{< var freiarb >}} for the performance of {{< var kuni >}} in Philadelphia by the "Star Specialty Company." The show was performed on Wednesday February 11th, 1891 in the Dramatic Hall at 5th and Gaskill. <br>[Source.](https://www.nli.org.il/en/newspapers/freiearb/1891/02/06/01/).](../img/newspaper_clippings/1891-02-06_freiearb.png){#fig-star-specialty width="2in"}
 
 :::
 
@@ -62,7 +63,7 @@ He did not have the slightest doubt that this would indeed be the case. And so t
 
 ::: {layout-ncol="2"}
 
-![This article appeared in {{< var brookeagle >}} on January 8th, 1893, and announced the opening of Parmer's Casino, mentioning "Samuel Caston" as playing the lead comedian in their first show, _Honor thy Father and Mother_. [Source](https://www.newspapers.com/image/50378460/)](../img/newspaper_clippings/1893-01-08_brooklyneagle.jpg){width="3.5in"}
+![Article published on January 8th, 1893 in {{< var brookeagle >}}. It announces the opening of Parmer's Casino, mentioning "Samuel Caston" as playing the lead comedian in their first show, _Honor thy Father and Mother_. <br>[Source.](https://www.newspapers.com/image/50378460/)](../img/newspaper_clippings/1893-01-08_brooklyneagle.jpg){#fig-parmers width="3.5in"}
 
 -- First of all, - he said, - when it comes to a theater, where to play, you don't have to dizzy yourself^[implying, you don't have to go crazy looking for somewhere]. There is a Jew in Brownsville, whose name is Parmer, and he has built a casino, truly something first class. He built his casino on Pitkin Avenue, and that in and of itself is so small thing. Now's here's something to really persuade you - Pitkin Avenue!... That's one down. And now the other: you will get ten dollars a week!<br><br>
 When I heard this, I didn't believe my own ears.<br><br>
