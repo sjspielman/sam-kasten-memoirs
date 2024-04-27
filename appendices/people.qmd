@@ -166,7 +166,9 @@ _Leksikon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
 ::::
 
 
-### Yiddish authors, playwrights, lyricists, and composers
+### Others in the Yiddish theater
+
+> Authors, playwrights, lyricists, composers, and more
 
 :::: {.columns}
 
@@ -189,6 +191,8 @@ _Leksikon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
   - [Wikipedia](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Louis_Gilrod)
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/G/gilrod-louie.htm)
   - [Milken Archive](https://www.milkenarchive.org/artists/view/louis-gilrod)
+- _{{< var goldberg-full >}}_
+  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/G/goldberg-louie.htm)
 - _{{< var goldfaden-full >}}_
   - [Wikipedia](href="https://en.wikipedia.org/wiki/Abraham_Goldfaden)
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/G/goldfaden-abraham.htm)

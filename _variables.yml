@@ -71,6 +71,8 @@ kreuzer: _Kroitzer Sonata_
 troubador: _Zalmen Troubadour_
 khantshe: _Khantshe in Amerike_
 greenhorns: _Di Greenhorns, oder Mishke un Moshke_
+sheep: _Dos Farblondzete Shefele_ 
+gloybn: _Undzer Gloybn_
 
 ## SONGS ------------------------------------------
 
@@ -193,6 +195,9 @@ tanzman: Tanzman
 tanzman-full: Avrom Itzhik Tanzman
 berta: Berta Tanzman
 
+goldberg-full: Louie Goldberg
+
+
 abba-full: Abba Schoengold
 schoen: Schoengold
 
@@ -308,6 +313,7 @@ shor-full: Anshel Schorr
 anshel: Anshel
 
 asch-full: Sholem Asch
+asch: Asch
 
 blank-full: Leon Blank
 blank: Blank
@@ -432,6 +438,7 @@ kapote: _kapote_
 khalilah: _khalilah_
 khurbn: _khurbn_
 kibitz: _kibitz_
+kibitzarnie: _kibitzarnie_
 kvelled: _kvelled_
 landslayt: _landslayt_
 landsman: _landsman_
@@ -489,6 +496,7 @@ shavues: _Shavu'es_
 shiduch: _shiduch_
 shkhite: _shkhite_
 shkotsim: _shkotsim_
+sheygets: _sheygets_
 shokhet: _shoykhet_
 shtetl: _shtetl_
 shtiklakh: _shtiklakh_
@@ -504,6 +512,7 @@ toive: _toive_
 toivm-u-sholem: _toivm u'sholem_
 toivm: _toivm_
 torah: _Toire_
+tsoyn-kodoshim: _tsoyn kodoshim_
 tsures: _tsures_
 tumult: _tumult_
 tzaddik: _tzaddik_
