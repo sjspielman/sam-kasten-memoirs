@@ -73,6 +73,7 @@ khantshe: _Khantshe in Amerike_
 greenhorns: _Di Greenhorns, oder Mishke un Moshke_
 sheep: _Dos Farblondzete Shefele_ 
 gloybn: _Undzer Gloybn_
+griner-m: _Der Griner Milyoner_
 
 ## SONGS ------------------------------------------
 
@@ -174,6 +175,8 @@ mogu: Mogulesko
 zeligel: Zeligl # also a role in Blimele
 zelig: Zelig
 zelig-full: Zelig Mogulesko
+
+sholem-a: Sholem Aleichem
 
 weintraub: Weintraub
 s-weintraub: Sigmond Weintraub
@@ -312,8 +315,12 @@ shor: Schorr
 shor-full: Anshel Schorr
 anshel: Anshel
 
+schaik: Schaikewitz
+
 asch-full: Sholem Asch
 asch: Asch
+
+gershon-full: Gershon Rubin
 
 blank-full: Leon Blank
 blank: Blank
@@ -412,6 +419,7 @@ daytshmerish: _daytshmerish_
 der-roiter: _\"der royter\"_
 dreykop: _dreykop_
 dvar-toireh: _dvar toire_
+dybbuk: _dybbuk_
 eshet-chayal: _eyshes-khayil_
 frum: _frum_
 gabbai: _gabe_

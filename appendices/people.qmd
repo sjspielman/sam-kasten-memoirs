@@ -98,6 +98,8 @@ _Leksikon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/R/rafalo-clara.htm)
 - _Elias {{< var rothstein >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/R/rothstein-elias.htm)
+- _{{< var gershon-full >}}_
+  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/R/rubin-gershon.htm)
 - _{{< var abba-full >}} ("Yaffa Zahav", Beautiful Gold)_
   - [Wikipedia](https://en.wikipedia.org/wiki/Abba_Schoengold)
 - _{{< var shild-full >}}_
@@ -174,7 +176,8 @@ _Leksikon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
 
 ::: {.column width="40%"}
 
-
+- _{{< var sholem-a >}}_
+  - [Wikipedia](https://en.wikipedia.org/wiki/Sholem_Aleichem)
 - _{{< var asch-full >}}_
   - [Wikipedia](https://en.wikipedia.org/wiki/Sholem_Asch)
 - _{{< var belzer-full >}}_
@@ -249,7 +252,7 @@ _Leksikon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
   - [Milken Archive](https://www.milkenarchive.org/artists/view/joseph-rumshinsky)
 - _{{< var a-shomer >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/S/shomer-abraham.htm)
-- _Nahum Meïr Schaikewitz^[_Also a novelist more generally_], aka_ {{< var shomer >}}
+- _Nahum Meïr {{< var schaik >}}^[_Also a novelist more generally_], aka_ {{< var shomer >}}
   - [Wikipedia](https://en.wikipedia.org/wiki/Nahum_Meir_Schaikewitz)
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/S/shomer-abraham.htm)
 - _Solomon {{< var smulo >}}_ (aka _Solomon Small_)
