@@ -15,6 +15,7 @@ I do NOT own copyright of these materials. Where known, sources are provided all
 - [`lyric-theater.jpg`](https://www.museumoffamilyhistory.com/brooklyn/yt/theatres.htm)
 - [`liberty-theater.jpg`](https://www.museumoffamilyhistory.com/brooklyn/yt/theatres.htm)
 - [`wedding-day.jpeg`](https://www.loc.gov/resource/ihas.200186076.0/)
+- `sam-griner-millionaire.jpeg` is from Sam's Leksikon entry
 
 
 ## Newspaper clippings folder
@@ -32,6 +33,7 @@ Below, they are organized by newspaper and link to the source.
 - [`1919-09-06_forverts.png`](https://www.nli.org.il/en/newspapers/frw/1919/09/06/01/article/64.2)
 - [`1912-09-14_forverts.png`](https://www.nli.org.il/en/newspapers/frw/1912/09/14/01/article/15.1)
 - [`1913-01-12_forverts.png`](https://www.nli.org.il/en/newspapers/frw/1913/01/12/01/article/16.2)
+- [`1915-02-04_forverts.png`](https://www.nli.org.il/en/newspapers/frw/1915/02/04/01/article/47.3/)
 
 ### [_Fraye Arbeter Shtime_](https://www.nli.org.il/en/newspapers/freiearb)
 - [`1891-02-06_freiearb.png`](https://www.nli.org.il/en/newspapers/freiearb/1891/02/06/01/)

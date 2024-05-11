@@ -10,10 +10,55 @@ So we got tossed back and forth from one kind of play to another, when we never 
 
 But perhaps he just wanted to show that, in the theater, he was a "master of everything."
 
-Among the plays in which {{< var thomash >}} excelled when I played with him over several seasons in the National Theater was {{< var a-shomer >}}'s distinguished comedy {{< var griner-m >}}. {{< var blank-full >}} and I were also exceptional in this play. And the interesting thing was that, hearing the comedy read aloud, {{< var thomash >}} wasn't impressed by it, and neither were other actors in the troupe. People were sure that it would be a huge failure. 
 
-The only person who was certain that the comedy was sure to be a huge success was the author himself, {{< var a-shomer >}}, the son of the famous novelist {{< var schaik >}}, aka {{< var shomer >}}. He talked about his comedy with such enthusiasm that it infected us all. 
+::: {layout-ncol=2}
 
-This was in the 1915 season, after a whole series of failures of other plays in the theater. And as usual in such moments, we were ready to try anything - even plays we didn't really believe would succeed. Everyone was simply tired of all the failures during the previous season. And when {{< var a-shomer >}} set the condition that he, not {{< var thomash >}} should direct the play himself, we of course let him take the reins. 
 
-{{< var a-shomer >}} was really able to direct a play. He had a good understanding of the theater and a healthy sense of realism and performing with a natural tone. 
+![Advertisement from February 4th, 1915 in {{< var forverts >}} for the premiere of {{< var griner-m >}}.<br>[Source.](https://www.nli.org.il/en/newspapers/frw/1915/02/04/01/article/47.3/)](../img/newspaper_clippings/1915-02-04_forverts.png){width="2.5in"}
+
+Among the plays in which {{< var thomash >}} excelled when I played with him over several seasons in the National Theater was {{< var a-shomer >}}'s distinguished comedy {{< var griner-m >}}. {{< var blank-full >}} and I were also exceptional in this play. And the interesting thing was that, hearing the comedy read aloud, {{< var thomash >}} wasn't impressed by it, and neither were other actors in the troupe. People were sure that it would be a huge failure.<br><br>
+The only person who was certain that the comedy was sure to be a huge success was the author himself, {{< var a-shomer >}}, the son of the famous novelist {{< var schaik >}}, aka {{< var shomer >}}. He talked about his comedy with such enthusiasm that it infected us all.<br><br>
+This was in the 1915 season^[This was the 1914/1915 season], after a whole series of failures of other plays in the theater. And as usual in such moments, we were ready to try anything - even plays we didn't really believe would succeed. Everyone was simply tired of all the failures during the previous season. And when {{< var a-shomer >}} set the condition that he, not {{< var thomash >}} should direct the play himself, we of course let him take the reins.
+
+:::
+
+
+
+
+{{< var a-shomer >}} was really able to direct a play. He had a good understanding of the theater and a healthy sense of realism and performing with a natural tone. He was also able to hold a firm command of the room so that everyone had to obey him during rehearsals, even when they thought that he was wrong. I experienced this myself, and I remember how I argued with him over one scene for a while, but I couldn't persuade him one bit. 
+
+
+::: {layout-ncol=2}
+
+We argued over my role as the smalltown {{< var shtetl  >}} {{< var shadchan >}}, who was a master achieving the impossible. There was a scene where I run in and, in jubilation, show everyone a picture sent from America. In the picture there was a wagon with a cooler^[In {{< var griner-m >}}, the lead character comes to America and sells ice out of a cooler], and a few good horses, and I, while playing the {{< var shadchan >}} who was also hoping for the opportunity to go America through a {{< var shidduch >}}, make a huge fuss about it and go on and on nonstop in astonishment over the wagon, the cooler, the horses, and the groom, who became a simple "cooler-man" in America and, in his imagination, thinks he is already a millionaire. <br><br>
+My thought was, because I generally played exaggerated, over-the-top types of characters, I should run in with the picture in my hand and when I deliver the line "Jews, come see!", I should shout it at the top of my lungs, and in nervous excitement I'd make such a tumult just as though I were bringing the greatest news possible.
+
+![Picture of Sam in the role of the {{< var shadchan >}} in {{< var griner-m >}}. Image is from Sam's entry in {{< var leks >}}](../img/sam-griner-millionaire.png){width="1.8in"}
+
+:::
+
+This is how I interpreted the scene, so this is how I performed it during rehearsals.
+
+But {{< var a-shomer >}} did want me to play it like that.
+
+-- We don't need all this! - he said. - Why all the tumult? Why all the commotion?
+
+He insisted that I should play the scene calmly and casually, and I should behave as though the whole story with the wagon, the cooler, and the horses was nothing special but just a regular thing that there's no need to get excited about.
+
+He insisted on naturalness. I pointed out to him that in this role, the excitement was natural, he pointed out to me that in fact a more relaxed tone would be more natural here. I thought my interpretation was right and his was wrong, but I couldn't convince him. {{< var thomash >}} also agree with me, and he gave me the advice to play it in rehearsals the way {{< var a-shomer >}} wanted, but in the actual performance to play it the way I wanted.
+
+-- That way will be better! - he said. - And you will see that afterwards, he'll admit that you were right. 
+
+And so that's what I did. 
+
+During rehearsals, I played the scene as {{< var a-shomer >}} wanted. But when it came time to perform on stage, I played the scene as I interpreted it, and it really did come out better. It was much more fitting for the {{< var shadchan >}} character type. You could see this even more while performing than during rehearsals. And {{< var a-shomer >}} himself also had to admit that I was right. 
+
+We enjoyed the show very much. I was very pleased with it, and I was pleased with the role I played in {{< var a-shomer >}}'s fine comedy {{< var griner-m >}}. And I remember how one time, I was told that the great Yiddish writer {{< var sholem-a >}} was in the audience for a performance^[And just barely! {{< var sholem-a >}} died a year later in 1916], I was especially excited because I wanted to blow him away more than anyone else would. When I met him after the performance and he complimented me on my acting, it was a very, very important moment for me.
+
+That meeting with {{< var sholem-a >}} after that performance is etched forever in my memory. I remember how taken aback I was he, in his own unique way, told me that I had stolen from him when creating the {{< var shadchan >}} character - a "{{< var sholem-a  >}}-type" of Jew. But soon I got control of myself and I responded with a smile: "Who then should I steal from, if not {{< var sholem-a >}}?" He enjoyed my answer and laughed.
+
+The huge success of {{< var a-shomer >}}'s {{< var griner-m >}} was quite the surprise for all the actors in the troupe. And when they recalled how at the beginning they were sure that the play would of course be a flop, they said it just goes to show how in the theater you never know what will succeed and what will fail, and whatever happens is no more than coincidence. But the truth was it was no coincidence. The play really was a good one with a healthy sense of humor, it was popular, the plot was natural and flowed well from one scene to the next, and the acting was good. {{< var thomash >}} was brilliant in the role of the "cooler-man." {{< var blank-full >}} played the role of the shoemaker better than you could imagine. {{< var gershon-full >}} also later excelled in the same role. And as for my performance as the {{< var shadchan >}}, the critics' reviews really pleased me a lot. In private conversations, prominent Jews - among them the likes Dr. [{{< var shmar-levin >}}](https://en.wikipedia.org/wiki/Shmaryahu_Levin) - also complemented my acting. 
+
+We ended the season with {{< var griner-m >}}, and then over the years it was put on again from time to time. Whenever it was put on, the theater was always packed. A lot of people came to see the play not once, but two or three times. And I am more than certain that if we had a "repertoire-theater" where we could put on, from time to time, the best plays from the old days, {{< var a-shomer >}}'s {{< var griner-m >}} would still be a big hit.
+
+But we have a problem where after a play has finished its run, it is hidden away somewhere in a box and never taken out again. And this is a shame, a great shame. Such a fine comedy as {{< var griner-m >}} deserves to be staged again from time to time. For the audiences who really love quality Yiddish theater, it would be refreshing, and I feel it is my duty to mention this here. 
