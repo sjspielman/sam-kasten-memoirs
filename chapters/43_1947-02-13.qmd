@@ -1,0 +1,18 @@
+# February 13th, 1947
+
+_This article is not available from the National Library of Israel. The article was obtained from the New York Public Library's microfiche archives._
+
+> The times when {{< var thomash >}} wanted to "add a new page to the history of Yiddish Theater in America" with his opera {{< var violin >}}.
+
+
+::: {layout-ncol=2}
+
+
+![Advertisement from February 4th, 1915 in {{< var forverts >}} for the premiere of {{< var griner-m >}}.<br>[Source.](https://www.nli.org.il/en/newspapers/frw/1915/02/04/01/article/47.3/)](../img/newspaper_clippings/1915-02-04_forverts.png){width="2.5in"}
+
+Among the plays in which {{< var thomash >}} excelled when I played with him over several seasons in the National Theater was {{< var a-shomer >}}'s distinguished comedy {{< var griner-m >}}. {{< var blank-full >}} and I were also exceptional in this play. And the interesting thing was that, hearing the comedy read aloud, {{< var thomash >}} wasn't impressed by it, and neither were other actors in the troupe. People were sure that it would be a huge failure.<br><br>
+The only person who was certain that the comedy was sure to be a huge success was the author himself, {{< var a-shomer >}}, the son of the famous novelist {{< var schaik >}}, aka {{< var shomer >}}. He talked about his comedy with such enthusiasm that it infected us all.<br><br>
+This was in the 1915 season^[This was the 1914/1915 season], after a whole series of failures of other plays in the theater. And as usual in such moments, we were ready to try anything - even plays we didn't really believe would succeed. Everyone was simply tired of all the failures during the previous season. And when {{< var a-shomer >}} set the condition that he, not {{< var thomash >}} should direct the play himself, we of course let him take the reins.
+
+:::
+

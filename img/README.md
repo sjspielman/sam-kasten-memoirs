@@ -16,7 +16,8 @@ I do NOT own copyright of these materials. Where known, sources are provided all
 - [`liberty-theater.jpg`](https://www.museumoffamilyhistory.com/brooklyn/yt/theatres.htm)
 - [`wedding-day.jpeg`](https://www.loc.gov/resource/ihas.200186076.0/)
 - `sam-griner-millionaire.jpeg` is from Sam's Leksikon entry
-
+- [`sam-broken-violin-1.png`](https://digitalcollections.nypl.org/items/5e66b3e8-b68c-d471-e040-e00a180654d7)
+- [`sam-broken-violin-2.jpg`](https://digitalcollections.nypl.org/items/5e66b3e8-cab8-d471-e040-e00a180654d7)
 
 ## Newspaper clippings folder
 
