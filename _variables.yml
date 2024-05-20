@@ -94,6 +94,8 @@ yisrolik: \"Yisrolik, Kum Aheym\"
 strike: \"Yeder Einer Streikt Atzind\"
 khantshe-song: \"Khantshe\"
 ich-hob: \"Ikh Hob\"
+breng-ich: \"Ikh breng eych a gros fun der haim\"
+aktor: \"Ikh bin an aktor\"
 
 ## ROLES --------------------------------------------
 
@@ -121,7 +123,8 @@ shlmomo-gargel: Shmuel Gorgel
 igor: Igor
 Khantshe: Khantshe
 joe: \"Monkey Joe\"
-
+sigo: Sigolesko
+shmendrik: Shmendrik
 
 ## PEOPLE  -------------------------------------------
 
@@ -215,6 +218,7 @@ clara-rafalo: Clara Rafalo
 lateiner-full: Joseph Lateiner
 lateiner: Lateiner
 rumshinsky-full: Joseph Rumshinsky
+rumshinsky: Rumshinsky
 shomer: Shomer
 
 a-shomer: Abraham Shomer
@@ -352,6 +356,10 @@ shpachner: Shpachner
 
 schwartz-full: Maurice Schwartz
 schwartz: Schwartz
+
+samuel-rosen: Samuel Rosenstein
+medoff-full: David Medoff
+medoff: Medoff
 
 wilner: Wilner
 wilner-full: Max Wilner

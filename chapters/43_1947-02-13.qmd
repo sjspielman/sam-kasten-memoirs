@@ -2,17 +2,80 @@
 
 _This article is not available from the National Library of Israel. The article was obtained from the New York Public Library's microfiche archives._
 
-> The times when {{< var thomash >}} wanted to "add a new page to the history of Yiddish Theater in America" with his opera {{< var violin >}}.
+> The times when {{< var thomash >}} wanted to "write a new page in the history of Yiddish Theater in America" with his operetta {{< var violin >}}.
+
 
 
 ::: {layout-ncol=2}
 
+{{< var thomash >}} had always loved grand performances. He loved grandiose spectacles that stood out above all else, and he pursued them even more during the years of his affair with {{< var regina >}}. There wasn't a thing in the world that was too difficult for him to do for her. In each performance, he tried hard to break new ground. During the 1916 season when he staged his operetta {{< var violin >}}, he poured himself into it while working together with {{< var rumshinsky >}}, who wrote the music. While writing the songs for {{< var violin >}}, {{< var thomash >}} grew particularly fond of the romantic songs, so he wrote a couple for himself. We prepared for the performance as though it were a huge wedding.<br><br>
+You could really tell from the rehearsals that {{< var violin >}} was going to be something nobody had ever seen before on the Yiddish stage. Per the agreement made with {{< var rumshinsky >}}, there would be an 25-seat orchestra together with a ballet of 16 young women. They spared no expense - but they _did_ spare expenses with us actors in the troupe!<br><br>
+Aside from {{< var blank-full >}}, [{{< var samuel-rosen >}}](https://www.museumoffamilyhistory.com/yt/lex/R/rosenstein-samuel.htm), and myself, the singer [{{< var medoff-full >}}](https://www.museumoffamilyhistory.com/yt/lex/M/medoff-david.htm) was also in the troupe. He had come from Russia, by way of Japan, and {{< var thomash >}} himself had written a song especially for him - [{{< var breng-ich >}}](https://www.loc.gov/item/2016787664/).^[Listen to {{< var medoff-full >}} himself sing this song [at this link](https://search.library.wisc.edu/digital/ATUATCBFD4VOUZ8W/AVXUHOL7VK22748N)] {{< var medoff >}} was a huge hit with this song.<br><br>
+The troupe had two or three of everything - prima donnas, comedians, and romantic leads. And the whole time we were preparing for the first performance, {{< var thomash >}} would often say that we would "write a new page in the history of Yiddish Theater in America" with his operetta {{< var violin >}}. The operetta was about the lives of actors. When the curtain rises, you see an empty stage where people are setting up decorations for a performance. I was assigned the role of a Yiddish actor called {{< var sigo >}}, which was partly - but only partly - based on {{< var mogu >}}'s life. 
 
-![Advertisement from February 4th, 1915 in {{< var forverts >}} for the premiere of {{< var griner-m >}}.<br>[Source.](https://www.nli.org.il/en/newspapers/frw/1915/02/04/01/article/47.3/)](../img/newspaper_clippings/1915-02-04_forverts.png){width="2.5in"}
 
-Among the plays in which {{< var thomash >}} excelled when I played with him over several seasons in the National Theater was {{< var a-shomer >}}'s distinguished comedy {{< var griner-m >}}. {{< var blank-full >}} and I were also exceptional in this play. And the interesting thing was that, hearing the comedy read aloud, {{< var thomash >}} wasn't impressed by it, and neither were other actors in the troupe. People were sure that it would be a huge failure.<br><br>
-The only person who was certain that the comedy was sure to be a huge success was the author himself, {{< var a-shomer >}}, the son of the famous novelist {{< var schaik >}}, aka {{< var shomer >}}. He talked about his comedy with such enthusiasm that it infected us all.<br><br>
-This was in the 1915 season^[This was the 1914/1915 season], after a whole series of failures of other plays in the theater. And as usual in such moments, we were ready to try anything - even plays we didn't really believe would succeed. Everyone was simply tired of all the failures during the previous season. And when {{< var a-shomer >}} set the condition that he, not {{< var thomash >}} should direct the play himself, we of course let him take the reins.
+![Advertisement from October 17th, 1916 in {{< var morgen >}} for {{< var violin >}}.<br>[Source.](https://www.nli.org.il/en/newspapers/tjm/1916/10/17/01/article/61)](../img/newspaper_clippings/1916-10-17_morgen.png){width="1.9in"}
 
 :::
+
+
+As with everything he did, {{< var thomash >}} really went all out for this operetta, so much that it was excessive. Everything was over the top. In addition, the operetta had a very strange sort of composition, like a rivalry between the music and the libretto. It was hard to know what stood out more on the stage - the music or the acting. The operetta had several delightful numbers, each of which was a pleasure on its own, but they didn't all "click" together. 
+
+::: {#fig-violin layout-ncol=2}
+
+![[Image source](https://digitalcollections.nypl.org/items/5e66b3e8-b68c-d471-e040-e00a180654d7).](../img/sam-broken-violin-1.png){width="4in"}
+
+![[Image source](https://digitalcollections.nypl.org/items/5e66b3e8-cab8-d471-e040-e00a180654d7).](../img/sam-broken-violin-2.jpg){width="4in"}
+
+Two images of Sam performing {{< var violin >}}. In both images, Sam is on the far right.
+:::
+
+
+In my role as the actor {{< var sigo >}}, I had to sing a song called [{{< var aktor >}}](https://www.loc.gov/item/2016787658/). The songs ends with posing this question to the audience: "Tell me, what do you think of me for an actor?" {{< var lillian-full >}} wrote the lyrics to this song, and {{< var rumshinsky >}} wrote the music. I confess, I had no great desire to sing this song. What would happen when I asked the audience what they thought of me for an actor? And what would I do if some wise guy in the theater shouted out at the top of his lungs, "Oh, and what kind of an actor is that?!"
+
+Anything could happen...
+
+I was really hesitant to perform this song. I tried to make {{< var rumshinsky >}} and {{< var thomash >}} understand that {{< var violin >}} would be fine without this song. But they didn't want to listen. They were both very insistent that I had to learn and perform it. 
+
+And this is how it went:
+
+> I used to be a cloakmaker, working at a machine.
+>
+> I have already done everything there is.
+>
+> I'm not a greenhorn anymore, full of troubles and hunger.
+>
+> I became a singer in a choir, 
+>
+> Now I am already an actor.
+>
+> I make a big splash, 
+>
+> I am an actor, Oi, I am an actor.
+>
+> I play "{{< var shmendrik >}}"^[Title role in [{{< var goldfaden >}}'s play _{{< var shmendrik >}}_](https://web.uwm.edu/yiddish-stage/plotting-yiddish-drama/shmendrik), originated by {{< var mogu >}}. The term "shmendrik" comes from this play/character.] and "{{< var kuni-lemel >}}", 
+>
+> And I can whistle like a kettle.
+>
+> I am an actor, Oi, I am an actor.
+> 
+> Tell me:
+>
+> What do you think of me for an actor?
+
+By the time it was my turn to sing this song in the first performance, it was already after midnight. Because I was sure that the audience was certainly impatient at the end of a long evening, my heart beat even faster. I was so scared, simply trembling, but I had no other choice but to sing it. And to my great surprise, my song was a huge hit with the audience, and I even had to sing it again. 
+
+Even when, after the first performance, several numbers were cut from the show because they couldn't keep the audiences in the theater so late every night, my number was not cut. In fact it became quite popular and people couldn't stop singing, 
+
+> I am an actor, oi, I am an actor!
+
+The melody was so catchy that it begged to be sung.
+
+The great hopes that people pinned on the operetta {{< var violin >}} didn't exactly pan out. No matter how great the box office earnings, it wasn't enough to cover the expenses. It was impossible to cover such larger expenses. And so we had to stage a different operetta instead, a less involved one, a less opulent one; and that's how they ended the season. {{< var thomash >}}'s dreams that {{< var violin >}} would "write a new page in the history of Yiddish Theater in America" were dashed.
+
+{{< var rumshinsky >}} too had the same dreams as {{< var thomash >}} - he too was sure that {{< var violin >}} would usher in a revolution in how operettas in the Yiddish theater were staged. There was even already talk of a special "{{< var thomash >}}-{{< var rumshinsky >}} combination," which would serve as a model for others. But it didn't come to pass at all. {{< var rumshinsky >}} left {{< var thomash >}} and went over to work with {{< var edelstein-full >}} when he became the manager of the Second Avenue Theater that had been built for the great artist {{< var kessler-full >}}.
+
+There's one more thing that I want to mention about the time when I played in {{< var thomash >}}'s National Theater: 
+
+
 

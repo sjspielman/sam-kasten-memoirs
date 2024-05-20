@@ -52,6 +52,7 @@ Below, they are organized by newspaper and link to the source.
 ### [_Der Morgen Zshurnal_](https://www.nli.org.il/en/newspapers/tjm)
 - [`1919-09-08_morgen.png`](https://www.nli.org.il/en/newspapers/tjm/1919/09/08/01/article/59.2)
 - [`1913-04-14_morgen.png`](https://www.nli.org.il/en/newspapers/tjm/1913/04/14/01/article/69)
+- [`1916-10-17_morgen.png`](https://www.nli.org.il/en/newspapers/tjm/1916/10/17/01/article/61/)
 
 
 ### [_Yidishes Togblat_](https://www.nli.org.il/en/newspapers/ytb)
