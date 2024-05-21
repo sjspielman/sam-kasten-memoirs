@@ -76,6 +76,7 @@ gloybn: _Undzer Gloybn_
 griner-m: _Der Griner Milyoner_
 violin: _Dos Tsubrokhene Fidele_
 bokher: _Der Griner Bokher_
+liovke: _Liovke Molodietz_
 
 ## SONGS ------------------------------------------
 
@@ -157,6 +158,10 @@ friedsell-full: Louis Friedsell
 Yehiel: Yehiel
 
 linetzky: Yitzhak Yoel Linetzky
+
+satz-full: Ludwig Satz
+satz: Satz
+
 
 gottlieb-full: Leon Gottlieb
 gottlieb: Gottlieb
@@ -317,6 +322,11 @@ m-horowitz: Moishe Horowitz
 horowitz-full: Moishe Ish Horowitz Halevy
 halevy: Moishe Ish Halevy
 
+leb: Lebedeff
+leb-full: Aaron Lebedeff
+
+shumsky: Wolf Shumsky
+
 shor: Schorr
 shor-full: Anshel Schorr
 anshel: Anshel
@@ -343,7 +353,7 @@ wohl-full: Herman Wohl
 cahan: Abe Cahan
 
 kalich: Kalish
-kalich-full: Berta Kalish
+kalich-full: Bertha Kalish
 
 z-libin: Z. Libin
 libin: Libin

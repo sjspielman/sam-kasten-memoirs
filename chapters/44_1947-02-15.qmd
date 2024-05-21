@@ -1,0 +1,17 @@
+# February 15th, 1947
+
+_This article is not available from the National Library of Israel. The article was obtained from the New York Public Library's microfiche archives._
+
+> [{{< var satz-full >}}](https://www.museumoffamilyhistory.com/yt/lex/S/satz-ludwig.htm) could have become a {{< var mogu >}}. How "starism" ran wild after [{{< var leb-full >}}](https://www.museumoffamilyhistory.com/yt/lex/L/lebedeff-aaron.htm)'s success in {{< var liovke >}}.
+
+::: {layout-ncol=2}
+
+
+text will go here probably.
+
+
+![Advertisement from October 27th, 1920 in {{< var morgen >}} for {{< var liovke >}}, starring {{< var leb-full >}}. The show _The Hungarian Girl_ is also advertised. <br>[Source.](https://www.nli.org.il/en/newspapers/tjm/1920/10/27/01/article/63.2)](../img/newspaper_clippings/1920-10-27_morgen.png){width="2.25in"}
+
+:::
+
+more text!

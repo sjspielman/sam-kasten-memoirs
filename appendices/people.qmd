@@ -50,13 +50,6 @@ _Leksikon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
   - [Contested House of Representatives election case](https://www.amazon.com/Contested-Election-Jacob-Gartenstein-Adolph-Sabath/dp/0265117615)
 - _{{< var glickman-full >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/G/glickman-elias.htm)
-:::
-
-::: {.column width="5%"}
-:::
-
-::: {.column width="30%"}
-
 - _{{< var heine-full >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/H/heine-chaimovich-morris.htm)
 - _{{< var heyman-full >}}_
@@ -68,6 +61,14 @@ _Leksikon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/K/kalich-bertha.htm)
   - [Wikipedia](https://en.wikipedia.org/wiki/Bertha_Kalich)
   - [Jewish Women's Archive](https://jwa.org/encyclopedia/article/kalich-bertha)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="30%"}
+
+
 - _{{< var kalmano-full >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/K/kalmanowitz-harry.htm)
 - _{{< var karp-full >}}_
@@ -78,6 +79,9 @@ _Leksikon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
   - [Wikipedia](https://en.wikipedia.org/wiki/David_Kessler_(actor))
 - _Joseph Kessler_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/K/kessler-joseph.htm)
+- _{{< var leb-full >}}_
+  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/L/lebedeff-aaron.htm)
+  - [Wikipedia](https://en.wikipedia.org/wiki/Aaron_Lebedeff)
 - _{{< var keni-full >}}_
   - [Wikipedia](https://en.wikipedia.org/wiki/Keni_Liptzin)
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/L/lipzin-keni.htm)
@@ -104,6 +108,9 @@ _Leksikon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/R/rothstein-elias.htm)
 - _{{< var gershon-full >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/R/rubin-gershon.htm)
+- _{{< var satz-full >}}_
+  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/S/satz-ludwig.htm)
+  - [Wikipedia](https://en.wikipedia.org/wiki/Ludwig_Satz)
 - _{{< var abba-full >}} ("Yaffa Zahav", Beautiful Gold)_
   - [Wikipedia](https://en.wikipedia.org/wiki/Abba_Schoengold)
 - _{{< var shild-full >}}_
@@ -111,6 +118,9 @@ _Leksikon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
 - _{{< var shor-full >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/S/schorr-anshel.htm)
   - [Wikipedia](https://en.wikipedia.org/wiki/Anshel_Schorr)
+- _{{< var schwartz-full >}}_
+  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/S/schwartz-maurice.htm)
+  - [Wikipedia](https://en.wikipedia.org/wiki/Maurice_Schwartz)
 
 :::
 
@@ -119,9 +129,6 @@ _Leksikon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
 
 ::: {.column width="30%"}
 
-- _{{< var schwartz-full >}}_
-  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/S/schwartz-maurice.htm)
-  - [Wikipedia](https://en.wikipedia.org/wiki/Maurice_Schwartz)
 - _{{< var william-full >}}_
   - _His Leksikon entry has not yet been translated, but it is part of Volume 6, page 4990._
   - [Obituary](https://www.newspapers.com/article/the-tampa-tribune-obituary-for-william-s/45664678/)
@@ -129,6 +136,8 @@ _Leksikon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/S/shneyer-rae.htm)
 - _Adolph {{< var shrage >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/S/shrage-adolph.htm)
+- _{{< var shumsky >}}_
+  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/S/shumsky-wolf.htm)
 - _{{< var simonoff-full >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/S/simonoff-moshe.htm)
 - _{{< var tanzman-full >}}_
