@@ -59,6 +59,7 @@ book:
         - chapters/42_1947-02-08.qmd 
         - chapters/43_1947-02-13.qmd 
         - chapters/44_1947-02-15.qmd 
+        - chapters/45_1947-02-20.qmd 
     - part: "Appendices"
       chapters:
         - appendices/people.qmd
