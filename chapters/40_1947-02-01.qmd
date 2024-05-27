@@ -6,7 +6,7 @@
 
 When it was announced around Philadelphia that {{< var mogu >}} will appear in {{< var greenhorns >}} in Arch Street Theater, all the tickets were bought up in a mere three days time. The announcements were big and bold, and read:
 
--- The greatest three comedians of the Yiddish stage - {{< var mogu-full >}}, Sam Kestin, and {{< var frank-full >}} - in one performance."
+-- The greatest three comedians of the Yiddish stage - {{< var mogu-full >}}, {{< var sam-full >}}, and {{< var frank-full >}} - in one performance."
 
 They did need to say anything more than that. The rush for tickets was so great, that if there were more room in the theater, three times as many could have been sold. {{< var Nu >}}, it goes without saying that I felt like I was in seventh heaven, and I was thankful to {{< var mogu >}} with all my heart for not turning me down. In the letter which I wrote him at the time, I relayed how the audiences in Philadelphia were eagerly expecting him, and he could be sure that he would receive such an ovation in the theater that he'd never forget for the rest of his life. Everyone was talking about the performance, and everyone was looking forward to seeing {{< var mogu >}}.
 
@@ -84,4 +84,4 @@ He had known when he would leave, and therefore he had intentionally told me to 
 
 -- Come on now, is spending your money on me really how you want to go through life?
 
-He didn't want me to spend any money on him. It was his pleasure to do such a huge {{< var toive >}}, and this made us completely even^[Sam saved {{< var mogu >}}'s benefit performance, and {{< var mogu >}} saved his.]. Everything was clean, without even the slightest stain. His artistic soul could not bear a stain between friends.
+He didn't want me to spend any money on him. It was his pleasure to do such a huge {{< var toive >}}, and this made us completely even^[{{< var sam >}} saved {{< var mogu >}}'s benefit performance, and {{< var mogu >}} saved his.]. Everything was clean, without even the slightest stain. His artistic soul could not bear a stain between friends.

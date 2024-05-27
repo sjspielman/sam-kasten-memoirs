@@ -44,7 +44,7 @@ In the second act of Tolstoy's {{< var kreuzer >}}, there was a scene where the 
 -- {{< var igor >}}! {{< var igor >}}!<br><br>
 I was supposed to come out onto the stage after the second time my character's name was called, and upon my arrival, I was supposed to look frightened and shaken.
 
-![[Advertisement in {{< var forverts >}} from September 14th, 1912 for {{< var kreuzer >}}](https://www.nli.org.il/en/newspapers/frw/1912/09/14/01/article/15.1), with Sam's name boxed in blue (my addition). This advertisement includes several excerpts from positive reviews about the show, including one from {{< var cahan >}}.](../img/newspaper_clippings/1912-09-14_forverts.png){width="2.5in"}
+![[Advertisement in {{< var forverts >}} from September 14th, 1912 for {{< var kreuzer >}}](https://www.nli.org.il/en/newspapers/frw/1912/09/14/01/article/15.1), with {{< var sam >}}'s name boxed in blue (my addition). This advertisement includes several excerpts from positive reviews about the show, including one from {{< var cahan >}}.](../img/newspaper_clippings/1912-09-14_forverts.png){width="2.5in"}
 
 :::
 

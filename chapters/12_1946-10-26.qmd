@@ -18,7 +18,7 @@ Around that time my wife gave birth to our first child^[Their first son Freddie 
 
 So what could I do? I went to {{< var thomash >}} and asked him to save me.
 
--- You have to do something for me - I said to him - as a member of the family^[Recall, Sam is Boris' wife Bessie's cousin], you have to help me out. Don't forget that I am now a father of a child, and there are times when I simply have no bread at home...
+-- You have to do something for me - I said to him - as a member of the family^[Recall, {{< var sam >}} is Boris' wife Bessie's cousin], you have to help me out. Don't forget that I am now a father of a child, and there are times when I simply have no bread at home...
 
 It was difficult for me to speak like that, because that was not at all my nature, but I had no other choice.
 
@@ -64,7 +64,7 @@ And the enthusiasm grew even greater when he began to sing Mogulesko’s song {{
 > ווען גאָט איז מיט מיר
 
 
-Like all the songs that {{< var mogu >}} wrote during the years he wrote for the Yiddish stage^[my translation; Sam wrote {{< var mogu >}} "created for" the Yiddish stage], his song {{< var minha >}}, also had a meaning; it evoked feelings and memories. And his creations had a genuine Jewishness to them, his is still authentically Yiddish both in their subject and in their melody. And Max Karp knew how to bring this out, and when he sang Mogulesko's {{< var minha >}} again, the crowd echoed every word:
+Like all the songs that {{< var mogu >}} wrote during the years he wrote for the Yiddish stage^[my translation; {{< var sam >}} wrote {{< var mogu >}} "created for" the Yiddish stage], his song {{< var minha >}}, also had a meaning; it evoked feelings and memories. And his creations had a genuine Jewishness to them, his is still authentically Yiddish both in their subject and in their melody. And Max Karp knew how to bring this out, and when he sang Mogulesko's {{< var minha >}} again, the crowd echoed every word:
 
 > דאס יידעלע, אים קענען אלע
 >

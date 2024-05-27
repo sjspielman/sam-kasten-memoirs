@@ -45,7 +45,7 @@ When {{< var bessie >}} was playing her repertoire in the Novelty Theater, she a
 {{< var rakov >}} defeated Tolstoy, and {{< var bessie >}} defeated {{< var shild >}}. It was a running joke in theater circles at the time, that {{< var rakov >}} had defeated Tolstoy.<br><br>
 {{< var bessie-first >}} herself also joked about it, in her own good-natured way. And because she wanted to prove that she alone, without {{< var thomash >}}, could draw an audience, she was a really high spirits, and her friends were also really happy for her.
 
-![[Advertisement from January 12th, 1913 in {{< var forverts >}}](https://www.nli.org.il/en/newspapers/frw/1913/01/12/01/article/16.2) for {{< var khantshe >}} at "Sarah Adler's Novelty Theater." Notably, the last line of the advertisement states that Sam Kestin arranged the dances and marches. ](../img/newspaper_clippings/1913-01-12_forverts.png){width="3in"}
+![[Advertisement from January 12th, 1913 in {{< var forverts >}}](https://www.nli.org.il/en/newspapers/frw/1913/01/12/01/article/16.2) for {{< var khantshe >}} at "Sarah Adler's Novelty Theater." Notably, the last line of the advertisement states that {{< var sam-full >}} arranged the dances and marches. ](../img/newspaper_clippings/1913-01-12_forverts.png){width="3in"}
 
 :::
 
@@ -55,7 +55,7 @@ In the comedy {{< var khantshe >}}, I was given a role of an elevator man, a rol
 
 While sculpting this character, as we used to say in our theater dialect, it goes without saying that I couldn't add any heavy speeches to  such a lighthearted comedy, where the whole world should revolve around {{< var Khantshe >}}, and she should take up the whole stage. So, in my own way, I cobbled together a very interesting personage, full of quicksilver if not with life. I myself was more than amused with the character I portrayed in the role of the elevator man, who doesn't rest for a single second and is a good brother to everyone.
 
-I remember how one of the distinguished theater critics wrote in his review that Sam Kestin is the Yiddish [George M. Cohan](https://en.wikipedia.org/wiki/George_M._Cohan). And this was no coincidence - while preparing for the role, I indeed took a leaf out of none other than George M. Cohan's book. I had always admired him, and I never missed a chance to see him in a Broadway play. You could always learn something from him.
+I remember how one of the distinguished theater critics wrote in his review that {{< var sam-full >}} is the Yiddish [George M. Cohan](https://en.wikipedia.org/wiki/George_M._Cohan). And this was no coincidence - while preparing for the role, I indeed took a leaf out of none other than George M. Cohan's book. I had always admired him, and I never missed a chance to see him in a Broadway play. You could always learn something from him.
 
 For a few weeks, the comedy {{< var khantshe >}} premiered in the Novelty Theater with great success, and we were sure that it could of course play through the end of the season. But suddenly all of our success vanished into thin air. Audiences stopped coming to the theater and we couldn't attract anyone - neither with {{< var shild >}} playing in serious dramas, nor with {{< var bessie >}} playing in lighter comedies.
 
@@ -68,4 +68,4 @@ But because business was going so poorly, the theater managers started arguing a
 
 
 [^khantshe]:
-  There are several surviving songs from this play, including [{{< var Khantshe >}}](https://www.museumoffamilyhistory.com/yt/chantshe-in-america.htm) and Sam's song {{< var ich-hob >}} for which we have [sheet music](https://www.loc.gov/item/ihas.200182188/), a [recording](https://www.youtube.com/watch?v=YJfmY-qlwIo), and a [translation](http://www.yiddishpennysongs.com/2017/09/ikh-hob-ales-vos-ikh-darf-bay-andere.html).
+  There are several surviving songs from this play, including [{{< var Khantshe >}}](https://www.museumoffamilyhistory.com/yt/chantshe-in-america.htm) and {{< var sam >}}'s song {{< var ich-hob >}} for which we have [sheet music](https://www.loc.gov/item/ihas.200182188/), a [recording](https://www.youtube.com/watch?v=YJfmY-qlwIo), and a [translation](http://www.yiddishpennysongs.com/2017/09/ikh-hob-ales-vos-ikh-darf-bay-andere.html).

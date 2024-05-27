@@ -26,9 +26,9 @@ That's why I will start with myself, and as I involve many others as well, and a
 
 ---
 
-So, I will start with myself, as is usually the case in a memoir. And right from the beginning I want to say, not unlike many other Jews that came to America from Russia and from many other countries, I did not bring my name to America; My name was not Sam Kestin back home, but {{< var shmuelik-full >}}. That's the name they gave me. That's what everyone called me, and no one there, God forbid, ever thought about how difficult it was to get such a long name out...
+So, I will start with myself, as is usually the case in a memoir. And right from the beginning I want to say, not unlike many other Jews that came to America from Russia and from many other countries, I did not bring my name to America; My name was not {{< var sam-full >}} back home, but {{< var shmuelik-full >}}. That's the name they gave me. That's what everyone called me, and no one there, God forbid, ever thought about how difficult it was to get such a long name out...
 
-I don't know what city I was born in. And let no one think that this is some joke on my part, or a prank by a comedian who sometimes plays one on the stage. All my years I tried to find out what city, or what town, I was born in, but all my efforts were in vain and I couldn't find any talk about it, because there were two opinions: One opinion was that I was born in {{< var kyiv >}}, in the current capital of Ukraine; It was said that this happened just then when my mother visited {{< var kyiv >}} to see a very close relative of ours, who lived there in Solomenka^[A neighborhood right outside of {{< var kyiv >}} with a substantial Jewish population. In 1879 (10 years after Sam was born), it became part of {{< var kyiv >}} proper.]. More than once I heard my mother and father talk about this. And I was very satisfied that I was born in such a big city as {{< var kyiv >}}... To be born in the world, in a big beautiful city, and not some kind of wasteland {{< var shtetl >}} nobody has heard of or knows where it is...
+I don't know what city I was born in. And let no one think that this is some joke on my part, or a prank by a comedian who sometimes plays one on the stage. All my years I tried to find out what city, or what town, I was born in, but all my efforts were in vain and I couldn't find any talk about it, because there were two opinions: One opinion was that I was born in {{< var kyiv >}}, in the current capital of Ukraine; It was said that this happened just then when my mother visited {{< var kyiv >}} to see a very close relative of ours, who lived there in Solomenka^[A neighborhood right outside of {{< var kyiv >}} with a substantial Jewish population. In 1879 (10 years after {{< var sam >}} was born), it became part of {{< var kyiv >}} proper.]. More than once I heard my mother and father talk about this. And I was very satisfied that I was born in such a big city as {{< var kyiv >}}... To be born in the world, in a big beautiful city, and not some kind of wasteland {{< var shtetl >}} nobody has heard of or knows where it is...
 
 But, as if to spite me, as though it was not {{< var beshert >}}^[fate/destiny] that I could take pride in this, there was a second opinion about where I was born - not in the big city of {{< var kyiv >}}, but in the small village of {{< var zat >}}, which is located between the two cities of {{< var bt >}}^[In Ukrainian, this is [Bila Tserkva](https://en.wikipedia.org/wiki/Bila_Tserkva)] and {{< var vasil >}}^[In Ukrainian, this is [Vasilkyv](https://en.wikipedia.org/wiki/Vasylkiv)], in {{< var kyiv >}} province.
 
@@ -67,7 +67,7 @@ I was very ashamed then. Why did I jump around so much in the middle of it? But 
 
 > Hop, moyi hrechanyky^[buckwheat blintz ("blini")],
 >
-> Hop, moyi mili^[Sam writes _mili_, but the folk song linked above says _bili_. Still, likely the same song and possibly a typo in Sam's article.].
+> Hop, moyi mili^[{{< var sam >}} writes _mili_, but the folk song linked above says _bili_. Still, likely the same song and possibly a typo in {{< var sam >}}'s article.].
 
 It was good for me. I was happy...
 

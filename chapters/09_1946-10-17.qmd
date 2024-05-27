@@ -4,7 +4,7 @@
 
 > My {{< var mame >}} wanted me to make me a farmer. -- Her last words to me before she died.^[These are two _separate_ taglines. These were not her last words to him.]
 
-In those days, people used to play for "stamps"^[System of payment in which each actor in the company received an agreed _percentage_ of any profits according to their "stamp."], and the actors could not behave peacefully around themselves, because every time they had to split the pitiful^[my translation; Sam uses "poor, miserable"] earnings among themselves, each one was sure that an injustice w being done to him, and he had grievances. Also in {{< var garten >}}'s troupe, who came to play Yiddish theater in Philadelphia, the actors used to fight. And these fights ended with the troupe splitting into two, and both left Philadelphia to try their luck in other cities.
+In those days, people used to play for "stamps"^[System of payment in which each actor in the company received an agreed _percentage_ of any profits according to their "stamp."], and the actors could not behave peacefully around themselves, because every time they had to split the pitiful^[my translation; {{< var sam >}} uses "poor, miserable"] earnings among themselves, each one was sure that an injustice w being done to him, and he had grievances. Also in {{< var garten >}}'s troupe, who came to play Yiddish theater in Philadelphia, the actors used to fight. And these fights ended with the troupe splitting into two, and both left Philadelphia to try their luck in other cities.
 
 That's usually how it went when one troupe became two. Playing at {{< var garten >}}'s got my head so twisted that I couldn't work in the shop anymore. I convinced myself that it no longer suited me to work in a shop. I opened a sort of dance class and in the evenings I taught young boys and girls to dance, and from this I got "water on porridge"^[Phrase in Yiddish meaning to be dirt poor and starving. So, he was not making a living.]. But I was still satisfied, because dancing has a bit of a relationship to theater...
 
@@ -34,13 +34,13 @@ Together with a _landsman_^[someone from same region in the old country] of mine
 
 It had to be good, because I did the same as him in all three roles. I simply imitated him, and it was successful for me... He then became very angry with me, and threatened he would get even with me for this. But it didn't save him at all.
 
-Whenever a Jewish troupe came to Philadelphia, I was the first to present myself to them to be given a role to play. And when {{< var boris >}}^[He would soon become a major figure in Yiddish theater in America; at this time, he was young and recently married to Bessie.). It's also worth noting that Boris & his troupe were already in Philadelphia in competition with {{< var garten >}}, and moreover we know from Bessie's memoir that in fact _they approached Sam_, and not vice versa, to invite him into their troupe. It was not too difficult to convince him, in part, because Sam and Bessie are cousins.] came down to play in Philadelphia and he staged the play {{< var honor >}}, he gave me the role of some {{< var shames >}}^[Rabbi's assistant, essentially; this would be an extremely religious character.], and that, I think, was the first time I wore a beard on stage and played an older Jew^[According to Bessie's memoirs, Sam played in their troupe during the summer of 1889.].
+Whenever a Jewish troupe came to Philadelphia, I was the first to present myself to them to be given a role to play. And when {{< var boris >}}^[He would soon become a major figure in Yiddish theater in America; at this time, he was young and recently married to Bessie.). It's also worth noting that Boris & his troupe were already in Philadelphia in competition with {{< var garten >}}, and moreover we know from Bessie's memoir that in fact _they approached {{< var sam >}}_, and not vice versa, to invite him into their troupe. It was not too difficult to convince him, in part, because {{< var sam >}} and Bessie are cousins.] came down to play in Philadelphia and he staged the play {{< var honor >}}, he gave me the role of some {{< var shames >}}^[Rabbi's assistant, essentially; this would be an extremely religious character.], and that, I think, was the first time I wore a beard on stage and played an older Jew^[According to Bessie's memoirs, {{< var sam >}} played in their troupe during the summer of 1889.].
 
 Incidentally, I didn't give up that beard after playing there, and sometime later when I was working again in the shop where, as it used to go in those times, they sung Yiddish theater songs while working, all it took was for me to stroke my beard and call out some song, and the mood would be lively and cheerful.
 
 Once, when I was at work in the shop, my sister Donia suddenly burst into the shop with some big news.
 
--- Sam! - she shouted with joy. - We've had a stroke of luck: I won ten thousand dollars!...
+-- {{< var sam >}}! - she shouted with joy. - We've had a stroke of luck: I won ten thousand dollars!...
 
 She won the ten thousand dollars in some lottery, and that brought a lot of joy to our family and we were suddenly prosperous.
 
@@ -58,7 +58,7 @@ You could see this, but she didn't say anything about it.
 
 So a long time passed, and once when I was busily working on the farm, my sister came running to me, out of breath -
 
--- Sam, come quickly; Something has happened to {{< var mame >}}!
+-- {{< var sam >}}, come quickly; Something has happened to {{< var mame >}}!
 
 Frightened, I rushed back home, and when I entered, I was even more frightened; {{< var mame >}} was lying in bed, unable to speak, and her face was as pale as the wall.
 

@@ -50,6 +50,8 @@ _Leksikon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
   - [Contested House of Representatives election case](https://www.amazon.com/Contested-Election-Jacob-Gartenstein-Adolph-Sabath/dp/0265117615)
 - _{{< var glickman-full >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/G/glickman-elias.htm)
+- _{{< var goldenburg >}}_
+  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/G/goldenburg-samuel.htm)
 - _{{< var heine-full >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/H/heine-chaimovich-morris.htm)
 - _{{< var heyman-full >}}_

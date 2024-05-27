@@ -63,7 +63,7 @@ He did not have the slightest doubt that this would indeed be the case. And so t
 
 ::: {layout-ncol="2"}
 
-![Article published on January 8th, 1893 in {{< var brookeagle >}}. It announces the opening of Parmer's Casino, mentioning "Samuel Caston" as playing the lead comedian in their first show, _Honor thy Father and Mother_. <br>[Source.](https://www.newspapers.com/image/50378460/)](../img/newspaper_clippings/1893-01-08_brooklyneagle.jpg){#fig-parmers width="3.5in"}
+![Article published on January 8th, 1893 in {{< var brookeagle >}}. It announces the opening of Parmer's Casino, mentioning "{{< var sam >}}uel Caston" as playing the lead comedian in their first show, _Honor thy Father and Mother_. <br>[Source.](https://www.newspapers.com/image/50378460/)](../img/newspaper_clippings/1893-01-08_brooklyneagle.jpg){#fig-parmers width="3.5in"}
 
 -- First of all, - he said, - when it comes to a theater, where to play, you don't have to dizzy yourself^[implying, you don't have to go crazy looking for somewhere]. There is a Jew in Brownsville, whose name is Parmer, and he has built a casino, truly something first class. He built his casino on Pitkin Avenue, and that in and of itself is so small thing. Now's here's something to really persuade you - Pitkin Avenue!... That's one down. And now the other: you will get ten dollars a week!<br><br>
 When I heard this, I didn't believe my own ears.<br><br>
@@ -71,7 +71,7 @@ When I heard this, I didn't believe my own ears.<br><br>
 I really didn't expect such good fortune then, and I thought to myself, that this was nothing else but something that had fallen from heaven for me.<br><br>
 
 
-At that time - I must confess - I had already fallen in love with a girl. The girl's name was {{< var suzi-full >}}^[סוזי שעיפער], and she was so charming, and a quiet/soft and affable girl. She came to America from [Balta](https://en.wikipedia.org/wiki/Balta,_Ukraine), and I got to know her when she became a member of our club and she played Yiddish theater together with us. It was precisely her quietness and shyness^[the word Sam uses translates to "withdrawal"; I think he is referring to her introversion] that attracted me to her, and I fell deeply in love with her. It took me a long time to get up the courage to tell her. And when she, in her own quiet and very modest way, told me her feelings, that she was also in love with me just as I was with her, I was the happiest person in the world.
+At that time - I must confess - I had already fallen in love with a girl. The girl's name was {{< var suzi-full >}}^[סוזי שעיפער], and she was so charming, and a quiet/soft and affable girl. She came to America from [Balta](https://en.wikipedia.org/wiki/Balta,_Ukraine), and I got to know her when she became a member of our club and she played Yiddish theater together with us. It was precisely her quietness and shyness^[the word {{< var sam >}} uses translates to "withdrawal"; I think he is referring to her introversion] that attracted me to her, and I fell deeply in love with her. It took me a long time to get up the courage to tell her. And when she, in her own quiet and very modest way, told me her feelings, that she was also in love with me just as I was with her, I was the happiest person in the world.
 
 :::
 

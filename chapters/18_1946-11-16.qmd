@@ -41,7 +41,7 @@ We had Mr. {{< var himmelfarb >}}'s address. We also knew that he had a "station
 -- {{< var Chevreh >}}, we have to seem impressive... This meeting is a big one... This is very important...
 
 
-And here I want to emphasize^[My translation; Sam writes "dwell/linger on"] on a few details, which are, in my opinion, important, simply because they are very characteristic of the condition in which the Yiddish theater found itself in the provinces in America. Characteristic of the actors of the past and also characteristic of the really nice and good Jews who used to help out the actors who wandered around the provincial cities and dreamed of playing in New York.
+And here I want to emphasize^[My translation; {{< var sam >}} writes "dwell/linger on"] on a few details, which are, in my opinion, important, simply because they are very characteristic of the condition in which the Yiddish theater found itself in the provinces in America. Characteristic of the actors of the past and also characteristic of the really nice and good Jews who used to help out the actors who wandered around the provincial cities and dreamed of playing in New York.
 
 When we arrived at Mr. {{< var himmelfarb >}}'s store, we behaved as though were very important and talked to him just as if every word were a piece of gold...
 
@@ -51,7 +51,7 @@ When we arrived at Mr. {{< var himmelfarb >}}'s store, we behaved as though were
 
 -- My name is {{< var jakele-last >}}, {{< var jakele-full >}}, as I'm sure you've heard.
 
--- And my name is Kestin, Sam Kestin - I introduced myself.
+-- And my name is Kestin, {{< var sam-full >}} - I introduced myself.
 
 Even {{< var frank >}}, who by nature was a disheveled sort and had never been able keep up pretenses - even he, just like in a well-rehearsed role, really put on airs:
 
@@ -91,7 +91,7 @@ And when the cigars were presented, he - with great pretense - paid for them so 
 
 And soon, from my pocket, I pulled out the article that {{< var winch-full >}} published in {{< var der-emes >}}^[As described in [Chapter 15](./15_1946-11-07.qmd)] that he had written about me, where he said that I was a talented comedian and that I was well-received by the audience. And when the Jew^[Referring to {{< var himmelfarb >}}; recall that it was standard to refer to fellow Jews as "Jew" instead of man/woman.] saw this, he read over it carefully, and when he finished, he looked me up and down, from head to toe, and while looking at me he said:
 
--- Yes, {{< var winch >}}... That's really something - {{< var winch >}}!... But tell me, I implore you, how do I know that you are really Sam Kestin? Maybe you're not him at all, no offense... - He began to defend himself. - Nowadays, there are so many runners and such swindlers that you can't know who is who and what is what... Not long ago there was a group of runners here in Cincinnati who told some story that they wanted to play Yiddish theater, and what do you think happened? They took the money and they disappeared... When the audience came to see them play, they were no longer in Cincinnati...
+-- Yes, {{< var winch >}}... That's really something - {{< var winch >}}!... But tell me, I implore you, how do I know that you are really {{< var sam-full >}}? Maybe you're not him at all, no offense... - He began to defend himself. - Nowadays, there are so many runners and such swindlers that you can't know who is who and what is what... Not long ago there was a group of runners here in Cincinnati who told some story that they wanted to play Yiddish theater, and what do you think happened? They took the money and they disappeared... When the audience came to see them play, they were no longer in Cincinnati...
 
 
 He complained strongly about the fact that after the "runners" left with the money and stuck their tongue out at the audience, he could no longer show his face, because he had sold tickets for the performance, and afterwards he had to return the money to the audiences out of his own pocket. And when he finished, he posed a question again to us:

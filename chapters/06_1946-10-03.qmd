@@ -26,7 +26,7 @@ In one village, a young woman - a Christian - caught my eye; I liked her so much
 
 ---
 
-After a while^[Sam's [Lekskion](https://www.museumoffamilyhistory.com/yt/lex/K/kasten-sam.htm) entry suggests he sold matches for about a year. So, we can place the time in mid-1886], I was tired of {{< var schlepping >}} around the villages, and I was really sick of selling matches. I could no longer say the same thing and the same thing over and over again: "Parler matches, three for five...." I was simply disgusted by it. And then a {{< var landsman >}}^["countryman," specifically implying someone from the same region in the old country] took me into his shop and taught me the craft of sewing shirts...
+After a while^[{{< var sam >}}'s [Lekskion](https://www.museumoffamilyhistory.com/yt/lex/K/kasten-sam.htm) entry suggests he sold matches for about a year. So, we can place the time in mid-1886], I was tired of {{< var schlepping >}} around the villages, and I was really sick of selling matches. I could no longer say the same thing and the same thing over and over again: "Parler matches, three for five...." I was simply disgusted by it. And then a {{< var landsman >}}^["countryman," specifically implying someone from the same region in the old country] took me into his shop and taught me the craft of sewing shirts...
 
 
 I became a "shirt-maker,"^[שירט–מעיקער] as it is called in America, and among the other {{< var landsmen >}} who worked there, they said that this is better than pearls, because in America trade/craft is - a {{< var brokhe >}}^[from Hebrew, "bracha" meaning blessing]...
@@ -39,7 +39,7 @@ What _didn't_ Jewish workers sing while working in the shop! They knew all the s
 
 Jews who came to America from different countries and marinas - from Ukraine, from Lithuania, from Poland, from Galicia, from Romania, and from anywhere else - all worked and sang in the shop. And everyone brought with him a different style, different nuances, and sometimes even a new song that we hadn't heard before. And everyone sang. We couldn't not sing while working. It was very difficult to imagine how work in the shop could have gone without it...
 
-And it's safe to say that we often sang [{{< var chazanishe >}}](https://en.wikipedia.org/wiki/Hazzan)^["{{< var chazan >}}"-ish; cantorial, religiously-inspired] tunes as well. The workers would sing {{< var chazanishe >}} {{< var shtiklakh >}}^[little bits of {{< var chazan >}} music] like this, going up like smoke^[unclear idiom here, but presumably a good thing - filling the air maybe?]. And it was normal that, that in the middle of the day, amidst the noise of the sewing machines, you could hear voices:^[Below I've directly written the _Hebrew_ (not Yiddish) as Sam wrote it out. This is a liturgical tune?]
+And it's safe to say that we often sang [{{< var chazanishe >}}](https://en.wikipedia.org/wiki/Hazzan)^["{{< var chazan >}}"-ish; cantorial, religiously-inspired] tunes as well. The workers would sing {{< var chazanishe >}} {{< var shtiklakh >}}^[little bits of {{< var chazan >}} music] like this, going up like smoke^[unclear idiom here, but presumably a good thing - filling the air maybe?]. And it was normal that, that in the middle of the day, amidst the noise of the sewing machines, you could hear voices:^[Below I've directly written the _Hebrew_ (not Yiddish) as {{< var sam >}} wrote it out. This is a liturgical tune?]
 
 > יעלה, יעלה תחנו–ני–נו מערב
 >
@@ -79,7 +79,7 @@ That's what I thought. And for a little while, I was really happy with this.
 
 However, it turned out differently: It turned out, they simply needed extras for the performance, and they were looking for Jews in the community who would be eager and interested, so for this, so I was hired...
 
-Even so, I was satisfied. And when they let me out on stage for the first time^[This is Sam's first performance - as an extra in {{< var shulamith >}}] alone with the "folk"^[commoner or lowly person; these are roles in the show] who were traveling to Jerusalem and singing, "_laden with all of our belongings, with walking stick in hand_", I was terrified, but at the same time I felt my heart sing inside me. I was happy. So happy, that I could not imagine any greater happiness in life, and even though I was not in the choir, I still sang with great joy:
+Even so, I was satisfied. And when they let me out on stage for the first time^[This is {{< var sam >}}'s first performance - as an extra in {{< var shulamith >}}] alone with the "folk"^[commoner or lowly person; these are roles in the show] who were traveling to Jerusalem and singing, "_laden with all of our belongings, with walking stick in hand_", I was terrified, but at the same time I felt my heart sing inside me. I was happy. So happy, that I could not imagine any greater happiness in life, and even though I was not in the choir, I still sang with great joy:
 
 > Laden with all of our belongings, 
 >

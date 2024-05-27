@@ -52,12 +52,12 @@ You simply can't make up what happened next. They dealt with the situation by ma
 ![Advertisement in {{< var yidtog >}} from September 10th, 1919 ([Source](https://www.nli.org.il/en/newspapers/ytb/1919/09/10/01/article/86.2)).](../img/newspaper_clippings/1919-09-10_yidtog.png){width="1.8in"}
 
 
-Three different advertisement styles for how {{< var two-cantors >}} was advertised in the papers. In all advertisements, I have marked {{< var kessler-full >}} with green boxes, {{< var thomash >}} with green boxes, and Sam with orange boxes.
+Three different advertisement styles for how {{< var two-cantors >}} was advertised in the papers. In all advertisements, I have marked {{< var kessler-full >}} with green boxes, {{< var thomash >}} with green boxes, and {{< var sam >}} with orange boxes.
 :::
 
 
 
-In those times - I believe it must have been 1918^[In fact, this specific story took place in the fall of 1919] - also played in {{< var thomash >}}'s National Theater, and I remember how when we put on [{{< var kalmano >}}[(https://www.museumoffamilyhistory.com/yt/lex/K/kalmanowitz-harry.htm)'s play {{< var two-cantors >}}^[Sam sang the song {{< var strike >}} in this show. You can find [sheet music here](https://www.loc.gov/item/ihas.200182369/) and [a translation of the lyrics along with a recording here](http://www.yiddishpennysongs.com/2018/03/yeder-eyner-straykt-atsind-everybody-is.html)]. {{< var kessler >}} played one {{< var chazan >}}^[cantor] and {{< var thomash >}} played the other. And not only was {{< var thomash >}} the theater manager, he was also necessarily the director who, naturally, during rehearsals showed everyone how to perform their roles.
+In those times - I believe it must have been 1918^[In fact, this specific story took place in the fall of 1919] - also played in {{< var thomash >}}'s National Theater, and I remember how when we put on [{{< var kalmano >}}[(https://www.museumoffamilyhistory.com/yt/lex/K/kalmanowitz-harry.htm)'s play {{< var two-cantors >}}^[{{< var sam >}} sang the song {{< var strike >}} in this show. You can find [sheet music here](https://www.loc.gov/item/ihas.200182369/) and [a translation of the lyrics along with a recording here](http://www.yiddishpennysongs.com/2018/03/yeder-eyner-straykt-atsind-everybody-is.html)]. {{< var kessler >}} played one {{< var chazan >}}^[cantor] and {{< var thomash >}} played the other. And not only was {{< var thomash >}} the theater manager, he was also necessarily the director who, naturally, during rehearsals showed everyone how to perform their roles.
 
 In this play, there was a scene where one of the two {{< var chazanim >}}^[cantors] comes home dejected and tells his two sons that he has lost his job. The {{< var gabbaim >}}^[plural of [gabbai](https://en.wikipedia.org/wiki/Gabbai)] at the {{< var shul >}} didn't want him anymore - they said that he was too old and could no longer sing. His voice had grown raspy and hoarse and wasn't like it once was...
 
@@ -87,7 +87,7 @@ All in all, it was the strongest and most dramatic scene in the whole play. Even
 
 
 [^william]:
-    Alas, Sam's memory does _not_ serve, but he's close! The bad son was instead played by _{{< var william-full >}}_. In fact, {{< var forverts >}} actually issued a correction was actually issued to this end immediately after the following week's article on January 23rd:
+    Alas, {{< var sam >}}'s memory does _not_ serve, but he's close! The bad son was instead played by _{{< var william-full >}}_. In fact, {{< var forverts >}} actually issued a correction was actually issued to this end immediately after the following week's article on January 23rd:
 
     ::: {layout-ncol="2"}
     

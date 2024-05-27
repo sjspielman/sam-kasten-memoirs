@@ -5,7 +5,7 @@
 <br>
 
 > _Note to readers: Based on dates on which memoir articles were supposed to be published, it is quite possible that we are missing an article that would have come out on 1946-10-05. Unfortunately, that edition is not available in either the National Library of Israel archives or in the New York Public Library archives._
-> _That said, there is no gap in the story that Sam is telling, so it is also possible there simply wasn't Forverts edition on 1946-10-05, and/or there was no memoir article published in that edition._
+> _That said, there is no gap in the story that {{< var sam >}} is telling, so it is also possible there simply wasn't Forverts edition on 1946-10-05, and/or there was no memoir article published in that edition._
 
 I played an extra in no more than two or three performances with {{< var heine >}} and {{< var karp-full >}}'s troupe. After that, they didn't need me anymore and told me I could go home. As it usually went, they didn't me pay for it. It didn't even occur to me to ask to be paid.
 
@@ -13,7 +13,7 @@ In general, Yiddish troupes at that time would recruit local men and women to be
 
 In the shop where I worked as a shirt-maker, the spirit of Yiddish theater pervaded more than ever; there was no one who didn't take the opportunity to go see the troupe who came from New York to Philadelphia for only a few performances. And since everyone knew I was on the stage with them, I was greatly exalted. They would request from me,
 
--- {{< var Nu >}}, Sam, how does that song go that they sing in that one scene? {{< var Nu >}}, how?
+-- {{< var Nu >}}, {{< var sam >}}, how does that song go that they sing in that one scene? {{< var Nu >}}, how?
 
 And I didn't make them beg, and I sang. And more than any other song, I sang [{{< var raisins >}}](https://en.wikipedia.org/wiki/Raisins_and_Almonds)^["Raisins and Almonds", a well known Yiddish lullaby originally from {{< var shulamith >}}.] I had to sing it for them several times a day, and everyone used to sing with me. And it started like this^[You can find the full lyrics in English and transliterated Yiddish [here](https://www.hebrewsongs.com/?song=rozinkesmitmandlen).]:
 
@@ -56,7 +56,7 @@ Like this, all day long, I sang. And after the sung, everyone "licked their fing
 
 ::: {layout-ncol="2"}
 
-The spirit of the Yiddish theater filled the whole shop even more a little later when **Mogulesko**^[This, and other bolded words, were bolded in the original article. In Yiddish, words are emphasized by spacing letters out; for example this was actually written: "M o g u l e s k o."], the great and famous [{{< var mogu-full >}}](https://en.wikipedia.org/wiki/Sigmund_Mogulesko)^[Nickname "{{< var zelig >}};" he was _the_ most beloved comedian of the early Yiddish theater, bar none. Read his Leksikon entry [here](https://www.museumoffamilyhistory.com/yt/lex/M/mogulesko-sigmund.htm). He and Sam would later become close friends, and Sam loved and admired him dearly.], came to Philadelphia for a few performances. All of Philadelphia went crazy over this, and it was no wonder - like in many other cities in America, he already had many ardent and passionate fans before he even arrived. His fans were Ukrainian, Moldovan, and Romanian Jews who remembered him from back home.<br><br>They had seen him perform in Odessa, in Bucharest, in Iasi, and in many other cities in Europe. They couldn't forget him, because even back in the old country, his acting inspired them, and when people talked about him, they said in the whole world there is no one better than him. When he performed in a theater, the voices of the crowd filled the air with great joy:
+The spirit of the Yiddish theater filled the whole shop even more a little later when **Mogulesko**^[This, and other bolded words, were bolded in the original article. In Yiddish, words are emphasized by spacing letters out; for example this was actually written: "M o g u l e s k o."], the great and famous [{{< var mogu-full >}}](https://en.wikipedia.org/wiki/Sigmund_Mogulesko)^[Nickname "{{< var zelig >}};" he was _the_ most beloved comedian of the early Yiddish theater, bar none. Read his Leksikon entry [here](https://www.museumoffamilyhistory.com/yt/lex/M/mogulesko-sigmund.htm). He and {{< var sam >}} would later become close friends, and {{< var sam >}} loved and admired him dearly.], came to Philadelphia for a few performances. All of Philadelphia went crazy over this, and it was no wonder - like in many other cities in America, he already had many ardent and passionate fans before he even arrived. His fans were Ukrainian, Moldovan, and Romanian Jews who remembered him from back home.<br><br>They had seen him perform in Odessa, in Bucharest, in Iasi, and in many other cities in Europe. They couldn't forget him, because even back in the old country, his acting inspired them, and when people talked about him, they said in the whole world there is no one better than him. When he performed in a theater, the voices of the crowd filled the air with great joy:
 
 ![{{< var mogu-full >}}. <br>[Source.](https://archive.nyu.edu/handle/2451/58547?mode=full)](../img/mogulesko.jpg){#fig-mogulesko width="2.25in"}
 
@@ -102,7 +102,7 @@ This feeling gripped me so tightly that there was nothing I could do to escape i
 
 And I still remember how strange it was to me, that this man used a nickname - for {{< var mogu >}} himself! - as though they were equals... He called him {{< var zeligel >}}...
 
-When I was introduced to {{< var mogu >}} in his dressing room and I suddenly realized how near I was to him, I was left standing in a daze and I suddenly forgot everything that I had planned to say to him^[Sam literally wrote: "suddenly everything I was going to say before went out of my head"]. Only when {{< var mogu >}} stretched out his hand to me and I saw a good face, a kind face, I mustered the courage and I started to say,
+When I was introduced to {{< var mogu >}} in his dressing room and I suddenly realized how near I was to him, I was left standing in a daze and I suddenly forgot everything that I had planned to say to him^[{{< var sam >}} literally wrote: "suddenly everything I was going to say before went out of my head"]. Only when {{< var mogu >}} stretched out his hand to me and I saw a good face, a kind face, I mustered the courage and I started to say,
 
 -- It is an honor for me, a great honor, to shake your head... I thank you...
 
@@ -125,7 +125,7 @@ And after he left Philadelphia, back in the stop here I worked, everyone already
 
 That's how deep of an impression he left on me. And then everyone in the shop started singing {{< var yankele >}} which they sung more than any other song, and some of them wanted to sing it exactly as {{< var mogu >}} did. And when someone thought they wouldn't be able to sing it like {{< var mogu >}}, they would turn to me and say,
 
--- {{< var Nu >}}, Sam, you show us how to sing it like {{< var mogu >}} does...
+-- {{< var Nu >}}, {{< var sam >}}, you show us how to sing it like {{< var mogu >}} does...
 
 And I showed them and they told me it was good.
 

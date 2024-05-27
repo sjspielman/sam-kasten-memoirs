@@ -16,7 +16,7 @@ It was really touching to see how the Jewish community in Cincinnati yearned for
 
 And you should have seen what joy there was in Cincinnati at our first performance of {{< var barkochba >}}!
 
-They, all the Jews of Cincinnati who came to see us perform {{< var goldfaden-full >}}'s hysterical operetta, carried themselves with a poise that felt closer times of {{< var bar-kochba-person >}} than to the times in which they lived. And when it came to the song {{< var zions-daughters >}}^[Sam calls this song "Zion's daughters are all crying," which is actually the [first line of the song](https://fau.digital.flvc.org/islandora/object/fau%3A81016) but not its actual title.], there was no need for a choir at all, because almost everyone in the theater sang with us. You only had to start the song, and soon everyone sang along:
+They, all the Jews of Cincinnati who came to see us perform {{< var goldfaden-full >}}'s hysterical operetta, carried themselves with a poise that felt closer times of {{< var bar-kochba-person >}} than to the times in which they lived. And when it came to the song {{< var zions-daughters >}}^[{{< var sam >}} calls this song "Zion's daughters are all crying," which is actually the [first line of the song](https://fau.digital.flvc.org/islandora/object/fau%3A81016) but not its actual title.], there was no need for a choir at all, because almost everyone in the theater sang with us. You only had to start the song, and soon everyone sang along:
 
 > ^[Translation by me, hopefully not _too_ bad!]Zion's daughters are all crying,
 >

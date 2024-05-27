@@ -4,9 +4,9 @@
 
 > In two roles in a benefit performance for {{< var mogu >}}. -- How {{< var mogu >}} ruled the stage and how his wife ruled over him at home.
 
-Going around like a beggar without consistent work was, to me, always the hardest thing in the world. Even when I was sure that it wouldn't last long and some theater would hire me again, I felt like an outcast and it was deeply unpleasant to have nothing at all to do. I was always like this since when I was young, and my story of 77 years^[In January 1947 when this article was published, he would have been 77 years old, soon to be 78 in April] has not yet fallen heavily on my narrow shoulders. In thinking back on my life, I am not Sam Kestin, the comedian who made a name for himself on the Yiddish stage, but {{< var shmuelik-full >}}, the {{< var possessor >}}'s little son, who always loved to frolic and make mischief.
+Going around like a beggar without consistent work was, to me, always the hardest thing in the world. Even when I was sure that it wouldn't last long and some theater would hire me again, I felt like an outcast and it was deeply unpleasant to have nothing at all to do. I was always like this since when I was young, and my story of 77 years^[In January 1947 when this article was published, he would have been 77 years old, soon to be 78 in April] has not yet fallen heavily on my narrow shoulders. In thinking back on my life, I am not {{< var sam-full >}}, the comedian who made a name for himself on the Yiddish stage, but {{< var shmuelik-full >}}, the {{< var possessor >}}'s little son, who always loved to frolic and make mischief.
 
-And I confess, that even now, there are moments where I forget who I am, and I feel like I am still that little boy {{< var shmuelik-full >}}, and I'm only playing the role of a man named Sam Kestin who is already, {{< var baruch-hashem >}}, a Jew of 77 years...
+And I confess, that even now, there are moments where I forget who I am, and I feel like I am still that little boy {{< var shmuelik-full >}}, and I'm only playing the role of a man named {{< var sam-full >}} who is already, {{< var baruch-hashem >}}, a Jew of 77 years...
 
 Of all the roles which I have played on the Yiddish stage, I was given yet another role still - to play none other than a director^[or, producer]....
 
@@ -72,7 +72,7 @@ I was truly delighted that I was able to do such a {{< var toive >}} for {{< var
 
 -- What request? - {{< var mogu >}} asked. - Don't be shy at all, tell me. You can be sure that I will not let you down.
 
-My request was this - after {{< var pesach >}}, the Arch Street Theater in Philadelphia would be holding a benefit performance for me^[{{< var mogu >}}'s benefit performance was on April 15th, 1913, and {{< var pesach >}} that year was April 21-29th. So, Sam's benefit performance in Philadelphia is likely in early May 1913.]. This had already all been set up with {{< var shor-full >}}. I wondered if he might come there and put on {{< var lateiner >}}'s {{< var greenhorns >}} for it. 
+My request was this - after {{< var pesach >}}, the Arch Street Theater in Philadelphia would be holding a benefit performance for me^[{{< var mogu >}}'s benefit performance was on April 15th, 1913, and {{< var pesach >}} that year was April 21-29th. So, {{< var sam >}}'s benefit performance in Philadelphia is likely in early May 1913.]. This had already all been set up with {{< var shor-full >}}. I wondered if he might come there and put on {{< var lateiner >}}'s {{< var greenhorns >}} for it. 
 
 -- This would really be a huge {{< var toive >}} for me. - I told him. - You would really save me too, because, as you know, I've had a really bad season this year.
 

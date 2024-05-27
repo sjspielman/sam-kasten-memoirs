@@ -25,7 +25,7 @@ As with everything he did, {{< var thomash >}} really went all out for this oper
 
 ![[Image source](https://digitalcollections.nypl.org/items/5e66b3e8-cab8-d471-e040-e00a180654d7).](../img/sam-broken-violin-2.jpg){width="4in"}
 
-Two images of Sam performing {{< var violin >}}. In both images, Sam is on the far right.
+Two images of {{< var sam >}} performing {{< var violin >}}. In both images, {{< var sam >}} is on the far right.
 :::
 
 

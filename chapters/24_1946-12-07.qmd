@@ -21,7 +21,7 @@ One time, when we were getting ready to put on {{< var goldfaden >}}'s historica
 
 > _Lyrics._
 
-It was explicitly promised that this time my name would not be left out, and they will specifically announce that I, the comedian Sam Kestin, will play the role of {{< var tsing >}} in {{< var shulamith >}}. But they didn't keep their word; They was announced that the role of {{< var tsing >}} would be played by {{< var berl-b >}}, even though I was playing the role...
+It was explicitly promised that this time my name would not be left out, and they will specifically announce that I, the comedian {{< var sam-full >}}, will play the role of {{< var tsing >}} in {{< var shulamith >}}. But they didn't keep their word; They was announced that the role of {{< var tsing >}} would be played by {{< var berl-b >}}, even though I was playing the role...
 
 That's what they decided, and when I complained, they tried to weasel out of what they did with all kinds of excuses, but this time it didn't work.
 
@@ -33,7 +33,7 @@ At that time, {{< var mike >}}, one of {{< var boris >}}'s younger brothers, own
 
 That's how people used to behave. And there was always a crowd that gladly came to see the same play when another well-known actor played the main role. They wanted to see the difference between this actor and that actor, and afterwards they had a whole discussion and debate about it...
 
-I went to {{< var feinman >}} and he talked it over with {{< var mike >}}, and immediately I was accepted into the troupe. They announced on stage that from now on, the comedian Sam Kestin will no longer play in the Columbia Theatre, only here in Arch Street Theater. And they gave me many opportunities to appear in good pieces from the old repertoire, and I felt good there.
+I went to {{< var feinman >}} and he talked it over with {{< var mike >}}, and immediately I was accepted into the troupe. They announced on stage that from now on, the comedian {{< var sam-full >}} will no longer play in the Columbia Theatre, only here in Arch Street Theater. And they gave me many opportunities to appear in good pieces from the old repertoire, and I felt good there.
 
 There was fierce competition between the two Yiddish theaters in Philadelphia, and each always wanted to prevail over the other. That's why everything was always so chaotic. Each was always trying to head the other one off. They simply tried to catch the other one with their hands tied behind their back, and as a result business in both theaters started to go very badly, and all around everyone was very unhappy.
 
@@ -56,7 +56,7 @@ I really did not expect such a thing. Who could have imagined that {{< var boris
 
 It goes without saying that I immediately sent the bell boy back to them with an answer, that I will come to see them. And when I went to their hotel after the show, {{< var boris >}} didn't started talking to me directly about it, but danced around it a bit. But {{< var edelstein >}} soon interrupted got straight to the point:
 
--- Listen to what I will tell you - right away, as was his way, he started talking to me informally^[Yiddish has two pronouns for "you" - an informal and formal (which is used for plural) version. Here, Sam means that {{< var edelstein >}} immediately used the informal "you" pronoun with Sam, not the formal one.] - We want to hire you to play in "People's Music Hall." How much do you want?
+-- Listen to what I will tell you - right away, as was his way, he started talking to me informally^[Yiddish has two pronouns for "you" - an informal and formal (which is used for plural) version. Here, {{< var sam >}} means that {{< var edelstein >}} immediately used the informal "you" pronoun with {{< var sam >}}, not the formal one.] - We want to hire you to play in "People's Music Hall." How much do you want?
 
 He gave no further introduction.
 
