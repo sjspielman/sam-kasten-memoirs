@@ -447,6 +447,7 @@ frum: _frum_
 gabbai: _gabe_
 gabbaim: _gaboim_
 gamara: _Gemore_
+ganeden: _genaydn_
 gazlen: _gazlen_
 golem: _goylem_
 goles: _goles_
@@ -481,7 +482,7 @@ matzos: _matzos_
 maysim: _maysim_
 melamed: _melamed_
 mentsh: _mentsh_
-mentshl: _menshl_
+mentshl: _mentshl_
 meshuga: _meshuga_
 meshugas: _meshugas_
 meshumed: _meshumed_
@@ -494,9 +495,9 @@ moses: Moishe Rabbeinu
 mumzer: _mumzer_
 naches: _naches_
 nebech: _nebech_
-nigun: _nigun_
+nigun: _nign_
 nigunim: _nigunim_
-okher-yisrael: _okher yisroiel_
+okher-yisrael: _okher yisroel_
 oyveyzmir: _Oy vey iz mir_
 panshina: _panshina_
 parsheh: _parshe_
@@ -505,7 +506,6 @@ possessieh: _possessie_
 possessor: _possessor_
 possessorka: _possessorka_
 purim-sm: _Purim shalakh-manes_
-purim: Purim
 purim: _Purim_
 rebbe: _Rebbe_
 rebbeinu-shel-olam: _Rebbeinu Shel Oylem_
@@ -532,7 +532,7 @@ shtetl: _shtetl_
 shtiklakh: _shtiklakh_
 shul: _shul_
 shund: _shund_
-simcha: _simche_
+simcha: _simkhe_
 sukkah: _sukke_
 tate: _tate_
 tefilot: _t'filos_
@@ -548,7 +548,7 @@ tumult: _tumult_
 tzaddik: _tzaddik_
 umipnei: _Umipnei Khatoeinu_
 veyismir: _vey iz mir_
-yiddishkeit: _yiddishkayt_
+yiddishkeit: _yidishkayt_
 yimakh-shemo: _yimokh sh'mo_
 yomim-neroim: _yomim-nero'im_
 yontif: _yontif_
