@@ -47,7 +47,6 @@ _Leksikon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/F/fridman-feyvele.htm)
 - _{{< var garten-full >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/G/gartenstein-jacob.htm)
-  - [Contested House of Representatives election case](https://www.amazon.com/Contested-Election-Jacob-Gartenstein-Adolph-Sabath/dp/0265117615)
 - _{{< var glickman-full >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/G/glickman-elias.htm)
 - _{{< var goldenburg >}}_
@@ -328,7 +327,7 @@ _{{< var nathanson-full >}}_
 
 - _Abraham ("Abe") Cahan_
   - [Wikipedia](https://en.wikipedia.org/wiki/Abraham_Cahan)
-- _David Edelstadt_
+- _{{< var edel-full >}}_
   - [Wikipedia](https://en.wikipedia.org/wiki/David_Edelstadt)
 - _Yitzhak Yoel Linetsky_
   - [Wikipedia](https://en.wikipedia.org/wiki/Yitzkhok_Yoel_Linetzky)

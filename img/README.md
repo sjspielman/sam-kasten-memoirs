@@ -1,5 +1,5 @@
 No contents of this folder should be held to the `CC-BY-NC-SA 4.0` license that applies to the rest of this repository.
-I do NOT own copyright of these materials. Where known, sources are provided all contents are provided below.
+I do NOT own copyright of these materials unless otherwise stated. Where known, sources are provided all contents are provided below.
 
 ## Images
 
@@ -18,6 +18,7 @@ I do NOT own copyright of these materials. Where known, sources are provided all
 - `sam-griner-millionaire.jpeg` is from Sam's Leksikon entry
 - [`sam-broken-violin-1.png`](https://digitalcollections.nypl.org/items/5e66b3e8-b68c-d471-e040-e00a180654d7)
 - [`sam-broken-violin-2.jpg`](https://digitalcollections.nypl.org/items/5e66b3e8-cab8-d471-e040-e00a180654d7)
+- `fega.jpeg` was photographed by me (@sjspielman)
 
 ## Newspaper clippings folder
 
