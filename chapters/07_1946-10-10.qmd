@@ -4,8 +4,8 @@
 
 <br>
 
-> _Note to readers: Based on dates on which memoir articles were supposed to be published, it is quite possible that we are missing an article that would have come out on 1946-10-05. Unfortunately, that edition is not available in either the National Library of Israel archives or in the New York Public Library archives._
-> _That said, there is no gap in the story that {{< var sam >}} is telling, so it is also possible there simply wasn't Forverts edition on 1946-10-05, and/or there was no memoir article published in that edition._
+> Note to readers: _Based on dates on which memoir articles were supposed to be published, it is quite possible that we are missing an article that would have come out on 1946-10-05. Unfortunately, that edition is not available in either the National Library of Israel archives or in the New York Public Library archives._
+> _That said, there is no gap in the story that {{< var sam >}} is telling, so it is also possible there simply wasn't a {{< var forverts >}} edition on 1946-10-05, and/or there was no memoir article published in that edition._
 
 I played an extra in no more than two or three performances with {{< var heine >}} and {{< var karp-full >}}'s troupe. After that, they didn't need me anymore and told me I could go home. As it usually went, they didn't me pay for it. It didn't even occur to me to ask to be paid.
 
@@ -56,7 +56,7 @@ Like this, all day long, I sang. And after the sung, everyone "licked their fing
 
 ::: {layout-ncol="2"}
 
-The spirit of the Yiddish theater filled the whole shop even more a little later when **Mogulesko**^[This, and other bolded words, were bolded in the original article. In Yiddish, words are emphasized by spacing letters out; for example this was actually written: "M o g u l e s k o."], the great and famous [{{< var mogu-full >}}](https://en.wikipedia.org/wiki/Sigmund_Mogulesko)^[Nickname "{{< var zelig >}};" he was _the_ most beloved comedian of the early Yiddish theater, bar none. Read his Leksikon entry [here](https://www.museumoffamilyhistory.com/yt/lex/M/mogulesko-sigmund.htm). He and {{< var sam >}} would later become close friends, and {{< var sam >}} loved and admired him dearly.], came to Philadelphia for a few performances. All of Philadelphia went crazy over this, and it was no wonder - like in many other cities in America, he already had many ardent and passionate fans before he even arrived. His fans were Ukrainian, Moldovan, and Romanian Jews who remembered him from back home.<br><br>They had seen him perform in Odessa, in Bucharest, in Iasi, and in many other cities in Europe. They couldn't forget him, because even back in the old country, his acting inspired them, and when people talked about him, they said in the whole world there is no one better than him. When he performed in a theater, the voices of the crowd filled the air with great joy:
+The spirit of the Yiddish theater filled the whole shop even more a little later when **{{< var mogu >}}**^[This, and other bolded words, were bolded in the original article. In Yiddish, words are emphasized by spacing letters out; for example, this was actually written: "M o g u l e s k o."], the great and famous [{{< var mogu-full >}}](https://en.wikipedia.org/wiki/Sigmund_Mogulesko)^[Nickname "{{< var zelig >}};" he was _the_ most beloved comedian of the early Yiddish theater, bar none. Read his Leksikon entry [here](https://www.museumoffamilyhistory.com/yt/lex/M/mogulesko-sigmund.htm). He and {{< var sam >}} would later become close friends, and {{< var sam >}} loved and admired him dearly.], came to Philadelphia for a few performances. All of Philadelphia went crazy over this, and it was no wonder - like in many other cities in America, he already had many ardent and passionate fans before he even arrived. His fans were Ukrainian, Moldovan, and Romanian Jews who remembered him from back home.<br><br>They had seen him perform in Odessa, in Bucharest, in Iasi, and in many other cities in Europe. They couldn't forget him, because even back in the old country, his acting inspired them, and when people talked about him, they said in the whole world there is no one better than him. When he performed in a theater, the voices of the crowd filled the air with great joy:
 
 ![{{< var mogu-full >}}. [(Source)](https://archive.nyu.edu/handle/2451/58547?mode=full)](../img/mogulesko.jpg){#fig-mogulesko width="2.25in"}
 
@@ -72,7 +72,7 @@ His talent spread like a rumor at those times, when Jews would come to see him p
 And {{< var mogu >}} performed the role of {{< var bobe-schp >}} with such grace and such charm, that it was no wonder that he enchanted the whole audience.
 Oh, how beautifully and how sweetly he sang!
 
-> My husband used to _daven_ with twelve singers.
+> My husband used to {{< var daven >}} with twelve singers.
 >
 > Ah, my dear Yankele!
 >
@@ -96,7 +96,7 @@ And I remember that when I saw him for the first time, in Philadelphia in the pl
 
 I felt that I had to say something to him, the man who performed such wonders on the stage. I had to express my enthusiasm!^[or, "how inspired I was"] I had to touch his hand! I had to thank him for the spiritual pleasure that he had given me.
 
-This feeling gripped me so tightly that there was nothing I could do to escape it. I suddenly just forgot that, fundamentally, I have a reserved/shy nature, not like someone who elbows their way in somewhere. And when I went behind the curtain and said, that I **had** to see {{< var mogu >}}, they passed me from person to person. And it went on like this until a Jew^[It it worth noting that they generally referred to fellows Jews as "Jew" rather than, here for example, "man"] loomed up from underground - a healthy Jew, a tall Jew, who spoke in such a way that you could immediately recognize he was Romanian; he told me to follow him, and while leading me, he shouted out loud:
+This feeling gripped me so tightly that there was nothing I could do to escape it. I suddenly just forgot that, fundamentally, I have a reserved/shy nature, not like someone who elbows their way in somewhere. And when I went behind the curtain and said, that I **had** to see {{< var mogu >}}, they passed me from person to person. And it went on like this until a Jew^[It it worth noting that Yiddish speakers generally referred to fellows Jews as "Jew" rather than, here for example, "man"] loomed up from underground - a healthy Jew, a tall Jew, who spoke in such a way that you could immediately recognize he was Romanian; he told me to follow him, and while leading me, he shouted out loud:
 
 -- Hey, {{< var zeligel >}}^[Yiddish endearment nickname for {{< var zelig >}}], some guy asked to see you...
 
@@ -105,7 +105,6 @@ And I still remember how strange it was to me, that this man used a nickname - f
 When I was introduced to {{< var mogu >}} in his dressing room and I suddenly realized how near I was to him, I was left standing in a daze and I suddenly forgot everything that I had planned to say to him^[{{< var sam >}} literally wrote: "suddenly everything I was going to say before went out of my head"]. Only when {{< var mogu >}} stretched out his hand to me and I saw a good face, a kind face, I mustered the courage and I started to say,
 
 -- It is an honor for me, a great honor, to shake your head... I thank you...
-
 
 He was, it seems, used to things like this, so he smiled, and then I became even bolder:
 
@@ -117,7 +116,7 @@ But {{< var mogu >}} wasn't offended by what I had said. "Good," he replied. "Th
 
 Then he became very busy and I could not spend any more time with him. As I was leaving, I shook his hand, and I wanted to say so much more to him, but I didn't say anything...
 
-At that time, neither of us could have imagined that, years later, I would play his roles on the Yiddish stage and he himself would say that I did not "embarrass" him^[In Yiddish theater, roles were often quite tied to the actor who originated them (not unlike today!). For example, when you played one of {{< var mogu >}}'s roles, your performance might reflect poorly on _him_ as much as on you.] and that he was pleased with me.
+At that time, neither of us could have imagined that, years later, I would play his roles on the Yiddish stage and he himself would say that I did not "embarrass" him^[Roles were often quite tied to the actor who originated them (not unlike today!). For example, when you played one of {{< var mogu >}}'s roles, your performance might reflect poorly on _him_ as much as on you.] and that he was pleased with me.
 
 This was my first encounter with {{< var mogu >}}, the great and God-blessed artist, from whom I learned so much over the years while he lived and created great theater here in America. And this encounter took place in Philadelphia, a city which is so intimately linked with my career on the Yiddish stage. This meeting is so etched in memory, that now the whole scene is floating before my eyes. I could not forget what he said to me, that if I indeed become an actor, we will certainly see each other again.
 
@@ -127,7 +126,7 @@ That's how deep of an impression he left on me. And then everyone in the shop st
 
 -- {{< var Nu >}}, {{< var sam >}}, you show us how to sing it like {{< var mogu >}} does...
 
-And I showed them and they told me it was good.
+And I showed them, and they told me it was good.
 
 We sang other songs from the play {{< var coquettes >}} too, in the shop in Philadelphia where I worked sewing shirts. And among the popular songs we used to sing, there was also the song {{< var bshtika >}}^["In silence". You can find the full lyrics in Yiddish [here](https://www.google.com/books/edition/%D7%93%D7%A2%D7%A8_%D7%90%D7%99%D7%93%D7%99%D7%A9%D7%A2%D7%A8_%D7%A4%D7%A8%D7%99%D7%A5/RKcsAAAAMAAJ?hl=en&gbpv=1&pg=RA1-PA21&printsec=frontcover).] and as I recall, it went like this:
 
