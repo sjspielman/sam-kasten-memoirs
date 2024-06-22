@@ -194,7 +194,7 @@ _{{< var nathanson-full >}}_
 
 ### Others in the Yiddish theater
 
-> Authors, playwrights, lyricists, composers, managers and more
+> Authors, playwrights, lyricists, composers, managers, and more
 
 :::: {.columns}
 
@@ -241,6 +241,8 @@ _{{< var nathanson-full >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/P/pasternak-willy.htm)
 - _{{< var rakov-full >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/R/rakov-n.htm)
+- _{{< var segal-full >}}_
+  - [Congress for Jewish Culture](https://congressforjewishculture.org/people/2473/)
 - _{{< var schulman-full >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/S/schulman-nathan.htm)
 

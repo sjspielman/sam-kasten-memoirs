@@ -77,6 +77,9 @@ griner-m: _Der Griner Milyoner_
 violin: _Dos Tsubrokhene Fidele_
 bokher: _Der Griner Bokher_
 liovke: _Liovke Molodietz_
+zaydes-gelibte: _Dem Zeyden's Gelibte_
+kinder: _Kinder Fargesn Nit_
+rabbis-son: _Dem Rabin's Zondele_
 
 ## SONGS ------------------------------------------
 
@@ -217,11 +220,14 @@ tanzman: Tanzman
 tanzman-full: Avrom Itzhik Tanzman
 berta: Berta Tanzman
 
+
 goldberg-full: Louie Goldberg
+goldberg: Goldberg
 schulman-full: Nathan Schulman
 nathanson-full: Charles Nathanson
 meltzer-full: Annie Meltzer
 nakhum-stut: Nakhum Stutchkoff
+segal-full: William Segal
 
 molly-full: Molly Picon
 jacob-kalich: Jacob Kalich
@@ -522,6 +528,7 @@ pesach: _Pesach_
 possessieh: _possessie_
 possessor: _possessor_
 possessorka: _possessorka_
+Possessorka: _Possessorka_
 purim-sm: _Purim shalakh-manes_
 purim: _Purim_
 rebbe: _Rebbe_
