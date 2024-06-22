@@ -45,11 +45,11 @@ You simply can't make up what happened next. They dealt with the situation by ma
 
 ::: {#fig-cantors layout-ncol=3}
 
-![Advertisement in {{< var forverts >}} from September 6th, 1919 ([Source](https://www.nli.org.il/en/newspapers/frw/1919/09/06/01/article/64.2)).](../img/newspaper_clippings/1919-09-06_forverts.png){width="1.8in"}
+![Advertisement in {{< var forverts >}} from September 6th, 1919 [(Source)](https://www.nli.org.il/en/newspapers/frw/1919/09/06/01/article/64.2).](../img/newspaper_clippings/1919-09-06_forverts.png){width="1.8in"}
 
-![Advertisement in {{< var morgen >}} from September 8th, 1919 ([Source](https://www.nli.org.il/en/newspapers/tjm/1919/09/08/01/article/59.2/)).](../img/newspaper_clippings/1919-09-08_morgen.png){width="1.8in"}
+![Advertisement in {{< var morgen >}} from September 8th, 1919 [(Source)](https://www.nli.org.il/en/newspapers/tjm/1919/09/08/01/article/59.2/).](../img/newspaper_clippings/1919-09-08_morgen.png){width="1.8in"}
 
-![Advertisement in {{< var yidtog >}} from September 10th, 1919 ([Source](https://www.nli.org.il/en/newspapers/ytb/1919/09/10/01/article/86.2)).](../img/newspaper_clippings/1919-09-10_yidtog.png){width="1.8in"}
+![Advertisement in {{< var yidtog >}} from September 10th, 1919 [(Source)](https://www.nli.org.il/en/newspapers/ytb/1919/09/10/01/article/86.2).](../img/newspaper_clippings/1919-09-10_yidtog.png){width="1.8in"}
 
 
 Three different advertisement styles for how {{< var two-cantors >}} was advertised in the papers. In all advertisements, I have marked {{< var kessler-full >}} with green boxes, {{< var thomash >}} with green boxes, and {{< var sam >}} with orange boxes.

@@ -18,7 +18,7 @@ I got along with everyone. And if there was someone along the way who I got on p
 
 ::: {layout-ncol=2}
 
-![Advertisement from September 25th, 1927 in the English section of {{< var forverts >}} announcing the Public Theater cast for the 1927/28 season.<br>[Source.](https://www.nli.org.il/en/newspapers/frw/1927/09/25/01/article/96)](../img/newspaper_clippings/1927-09-25_forverts.png){width="1.5in"}
+![Advertisement from September 25th, 1927 in the English section of {{< var forverts >}} announcing the Public Theater cast for the 1927/28 season. [(Source)](https://www.nli.org.il/en/newspapers/frw/1927/09/25/01/article/96)](../img/newspaper_clippings/1927-09-25_forverts.png){width="1.5in"}
 
 At the start of the 1927 season, I was engaged to play in the New York Public Theater, and I was promised that I would be the first comedian. In other words, I would play the leading comic roles in the plays I performed in. There were two managers of the theater, {{< var goldberg-full >}} and {{< var schulman-full >}}, both honorable men and good managers who knew who to run a theater. They put together a very good troupe, and the "star" who played the lead roles was {{< var blank-full >}}. Aside from {{< var blank >}} and I in the troupe, there was also [{{< var goldenburg >}}](https://www.museumoffamilyhistory.com/yt/lex/G/goldenburg-samuel.htm) and [{{< var nathanson-full >}}](https://www.museumoffamilyhistory.com/yt/lex/N/nathanson-charles.htm).
 
@@ -47,7 +47,7 @@ The first switch was good, but the second switch was bad, and {{< var libin >}}'
 When {{< var kinder >}} was taken down, we put on [{{< var segal-full >}}](https://congressforjewishculture.org/people/2473/)'s operetta {{< var rabbis-son >}}, with lyrics by [{{< var nakhum-stut >}}](https://www.museumoffamilyhistory.com/yt/lex/S/stutchkoff-nakhum.htm) and music by {{< var wohl-full >}}. And with this performance, something happened that was very characteristic of "starism":<br><br>
 {{< var satz >}}, one of the two "stars" in the troupe, had to direct the play. He was given the play and told to learn it well at home, and then come back to the theater with it and lead rehearsals. But while he had the play in his hands for a few days, he cut parts out so that he would take center stage the whole time, singing every song with lines in every scene. And we, the other actors in the troupe, would just rotate on the stage so that all the action was centered on him.   
 
-![Image from February 24th, 1928 in {{< var morgen >}} of {{< var satz-full >}} (L) and {{< var sam >}} (R) in {{< var rabbis-son >}}.<br>[Source.](https://www.nli.org.il/en/newspapers/tjm/1928/02/24/01/article/54.1)](../img/newspaper_clippings/1928-02-24_morgen.png){width="2.5in"}
+![Image from February 24th, 1928 in {{< var morgen >}} of {{< var satz-full >}} (L) and {{< var sam >}} (R) in {{< var rabbis-son >}}. [(Source)](https://www.nli.org.il/en/newspapers/tjm/1928/02/24/01/article/54.1)](../img/newspaper_clippings/1928-02-24_morgen.png){width="2.5in"}
 
 :::
 

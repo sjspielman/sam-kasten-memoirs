@@ -69,7 +69,7 @@ It was really good for us then, and we were happy that we took Baltimore "by sto
 
 But during one of the performances^[On Friday December 26th 1895, this was a performance of the historical operetta {{< var alexander-long >}}], suddenly somewhere around the stop-gap of the lit gas pipe, the flame let out a "crack," and it frightened someone so much that they started shouting "fire" at the top of his voice. And then all of a sudden there erupted such a panic in the theater that it was impossible to calm down; The startled crowd was so lost that, pushing one another towards the floor and pushing each other, they didn't look back when someone fell; In an effort to save themselves, people trampled on those who had fallen. And in the end, after the panic had barely subsided and the theater was already empty and everyone was already outside, it turned out that twenty-two people had died in the stampede...
 
-![Front Street Theater in Baltimore, where the company was playing and this tragedy occurred. The theater was later lost during the [Great Baltimore Fire](https://en.wikipedia.org/wiki/Great_Baltimore_Fire) of 1904. <br>[Source.](https://www.reddit.com/r/Lost_Architecture/comments/vgznrj/front_street_theater_baltimore_md_18291904/)](../img/front-street-theater-baltimore.jpg){#fig-front-street-theater width="2in"}
+![Front Street Theater in Baltimore, where the company was playing and this tragedy occurred. The theater was later lost during the [Great Baltimore Fire](https://en.wikipedia.org/wiki/Great_Baltimore_Fire) of 1904. [(Source)](https://www.reddit.com/r/Lost_Architecture/comments/vgznrj/front_street_theater_baltimore_md_18291904/)](../img/front-street-theater-baltimore.jpg){#fig-front-street-theater width="2in"}
 
 :::
 

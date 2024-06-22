@@ -5,16 +5,6 @@
 > An interesting story with {{< var shild-full >}} while performing Tolstoy's {{< var kreuzer >}}.
 
 
-
-::: {layout-ncol=2}
-
-At that time, {{< var edelstein >}} had hired the famous German-Jewish actor {{< var shild-full >}} to play in People's Theater, and that in and of itself was quite a sensation because {{< var shild >}} had come to America with a German troupe. {{< var shild >}} had made a worldwide name for himself playing Shakespeare's Shylock as well as acting in other plays from the world repertoire. He spoke a rich, delicious Yiddish, and everyone wanted to snatch him up to play on the Yiddish stage. Everyone was anxious to see him perform.<br><br>
-In People's Theater, {{< var shild-full >}} appeared in his repertoire; he played Shakespeare's Shylock and King Lear, and also {{< var asch-full >}}'s {{< var vengeance >}}. In that same season, he appeared in {{< var a-shomer >}}'s new play {{< var maziq >}}, and his acting made a big splash^[There are two interesting articles about this play. [First](https://www.nli.org.il/en/newspapers/dwt/1911/08/26/01/article/60) is a review of {{< var shild >}} in the play published in {{< var vahr >}}. [Second](https://www.nli.org.il/en/newspapers/tjm/1911/08/24/01/article/53) is an article from before the premiere when the theater opened the dress rehearsals for audiences to attend. According to the article, this was the first time a Yiddish theater had a public dress rehearsal.].
-
-![[Advertisement in {{< var yidtog >}} from August 8th, 1911 for {{< var maziq >}}](https://www.nli.org.il/en/newspapers/ytb/1911/08/24/01/article/39.1).](../img/newspaper_clippings/1911-08-24_yidtog.png){width="1.8in"}
-
-:::
-
 The Novelty Theater in Brooklyn, where I was hired to play in the troupe {{< var sara-adler >}} and {{< var shild-full >}} had put together^[Interesting fun fact: {{< var abba-full >}}'s son, Joseph {{< var schoen >}}, was also in this troupe], was just like the story about how they built a new {{< var shul >}} not because they needed one - but because the two {{< var gabbaim >}} couldn't share the limelight in the same {{< var shul >}} so they built a new one. For a change, {{< var sara-adler >}} was a little angry with her husband {{< var jacob-adler >}}. She wanted to show him that she could achieve great things on her own and that the audiences highly valued her talent, so she went off and rented the Novelty Theater in Brooklyn - or better said, in some far off corner of Williamsburg. To ensure her great success, she brought the famous {{< var shild-full >}} into her troupe. And you have to admit - you couldn't have imagined with a better combination, because both {{< var sara-adler >}} and {{< var shild-full >}} have graced the best stages in the world with their talent and they both performed well in the best pieces in the world. And the fact that the first piece they put on in the Novelty Theater was Tolstoy's {{< var kreuzer >}} alone showed just how talented they were.
 
 We worked so hard in rehearsals that even in the Yiddish Art Theater no one has ever worked harder. You see, the lead role was played by {{< var shild-full >}} himself, and because it was clear from the plot that the lead role was semi-autobiographical, {{< var shild >}} played the part as though he weren't merely playing a great Russian prince, but Tolstoy himself. He immersed himself in the role so completely in a way that only such a God-blessed artist like {{< var shild >}} could do. No one else could create such a full character.
@@ -44,7 +34,7 @@ In the second act of Tolstoy's {{< var kreuzer >}}, there was a scene where the 
 -- {{< var igor >}}! {{< var igor >}}!<br><br>
 I was supposed to come out onto the stage after the second time my character's name was called, and upon my arrival, I was supposed to look frightened and shaken.
 
-![[Advertisement in {{< var forverts >}} from September 14th, 1912 for {{< var kreuzer >}}](https://www.nli.org.il/en/newspapers/frw/1912/09/14/01/article/15.1), with {{< var sam >}}'s name boxed in blue (my addition). This advertisement includes several excerpts from positive reviews about the show, including one from {{< var cahan >}}.](../img/newspaper_clippings/1912-09-14_forverts.png){width="2.5in"}
+![Advertisement in {{< var forverts >}} from September 14th, 1912 for {{< var kreuzer >}}, with {{< var sam >}}'s name boxed in blue (my addition). This advertisement includes several excerpts from positive reviews about the show, including one from {{< var cahan >}}. [(Source)](https://www.nli.org.il/en/newspapers/frw/1912/09/14/01/article/15.1)](../img/newspaper_clippings/1912-09-14_forverts.png){width="2.5in"}
 
 :::
 

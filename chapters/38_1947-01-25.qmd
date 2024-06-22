@@ -45,7 +45,7 @@ When {{< var bessie >}} was playing her repertoire in the Novelty Theater, she a
 {{< var rakov >}} defeated Tolstoy, and {{< var bessie >}} defeated {{< var shild >}}. It was a running joke in theater circles at the time, that {{< var rakov >}} had defeated Tolstoy.<br><br>
 {{< var bessie-first >}} herself also joked about it, in her own good-natured way. And because she wanted to prove that she alone, without {{< var thomash >}}, could draw an audience, she was a really high spirits, and her friends were also really happy for her.
 
-![[Advertisement from January 12th, 1913 in {{< var forverts >}}](https://www.nli.org.il/en/newspapers/frw/1913/01/12/01/article/16.2) for {{< var khantshe >}} at "Sarah Adler's Novelty Theater." Notably, the last line of the advertisement states that {{< var sam-full >}} arranged the dances and marches. ](../img/newspaper_clippings/1913-01-12_forverts.png){width="3in"}
+![Advertisement from January 12th, 1913 in {{< var forverts >}} for {{< var khantshe >}} at "Sarah Adler's Novelty Theater." Notably, the last line of the advertisement states that {{< var sam-full >}} arranged the dances and marches. [(Source)](https://www.nli.org.il/en/newspapers/frw/1913/01/12/01/article/16.2)](../img/newspaper_clippings/1913-01-12_forverts.png){width="3in"}
 
 :::
 

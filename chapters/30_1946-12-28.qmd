@@ -13,11 +13,12 @@ Opening night arrived, and it was time to raise the curtains in the Windsor Thea
 -- You wretch, what are we doing to do? What will the actors do for the last act? How will we end the performance?!<br><br>
 The actors were also really nervous. {{< var blank-full >}} was so beside himself that he was unable to articulate a clear word that anyone else could understand, so he just grumbled and groaned and threw his hands up in the air. {{< var juvelier-full >}} tensed up his shoulders and like a lost wanderer went from one person to another with such a look on his face like he was pleading for something. Nobody could blame him, because God knows, it wasn't his fault.<br><br>
 {{< var shrage >}} spun around and around like a shadow, looming larger and larger at each turn, and he would whispered something in your ear and then leave as though he were giving up all responsibility.<br><br>
-And I tried to muster the strength to tell jokes, but my heart was heavy and dark.
 
-![[Running advertisement in the {{< var forverts >}}](https://www.nli.org.il/en/newspapers/frw/1903/09/30/01/article/18) announcing the play {{< var yiziat >}} at the Windsor Theater. This advertisement announces only the first several shows, including the premiere on October 1st, 1903, but the play continued to run throughout the month of October 1903.](../img/newspaper_clippings/1903-09-30_forverts.png){width="3in"}
+![Running advertisement in the {{< var forverts >}} announcing the play {{< var yiziat >}} at the Windsor Theater. This advertisement announces only the first several shows, including the premiere on October 1st, 1903, but the play continued to run throughout the month of October 1903. [(Source)](https://www.nli.org.il/en/newspapers/frw/1903/09/30/01/article/18)](../img/newspaper_clippings/1903-09-30_forverts.png){width="3in"}
 
 :::
+
+I tried to muster the strength to tell jokes, but my heart was heavy and dark.
 
 The only one who was calm and didn't take the whole situation to heart was the "Professor" himself. All for all the grief we gave him, he had one response:
 

@@ -46,9 +46,9 @@ And so it went, just as if we were, here in the shop, putting on our own perform
 
 Like this, all day long, I sang. And after the sung, everyone "licked their fingers"^[idiom - they really enjoyed it, as in "finger-licking good"] over it.
 
--- Yo, that is good!
+-- Yes, that is good!
 
--- Yo, that is sweet as sugar!
+-- Yes, that is sweet as sugar!
 
 ---
 
@@ -58,7 +58,7 @@ Like this, all day long, I sang. And after the sung, everyone "licked their fing
 
 The spirit of the Yiddish theater filled the whole shop even more a little later when **Mogulesko**^[This, and other bolded words, were bolded in the original article. In Yiddish, words are emphasized by spacing letters out; for example this was actually written: "M o g u l e s k o."], the great and famous [{{< var mogu-full >}}](https://en.wikipedia.org/wiki/Sigmund_Mogulesko)^[Nickname "{{< var zelig >}};" he was _the_ most beloved comedian of the early Yiddish theater, bar none. Read his Leksikon entry [here](https://www.museumoffamilyhistory.com/yt/lex/M/mogulesko-sigmund.htm). He and {{< var sam >}} would later become close friends, and {{< var sam >}} loved and admired him dearly.], came to Philadelphia for a few performances. All of Philadelphia went crazy over this, and it was no wonder - like in many other cities in America, he already had many ardent and passionate fans before he even arrived. His fans were Ukrainian, Moldovan, and Romanian Jews who remembered him from back home.<br><br>They had seen him perform in Odessa, in Bucharest, in Iasi, and in many other cities in Europe. They couldn't forget him, because even back in the old country, his acting inspired them, and when people talked about him, they said in the whole world there is no one better than him. When he performed in a theater, the voices of the crowd filled the air with great joy:
 
-![{{< var mogu-full >}}. <br>[Source.](https://archive.nyu.edu/handle/2451/58547?mode=full)](../img/mogulesko.jpg){#fig-mogulesko width="2.25in"}
+![{{< var mogu-full >}}. [(Source)](https://archive.nyu.edu/handle/2451/58547?mode=full)](../img/mogulesko.jpg){#fig-mogulesko width="2.25in"}
 
 :::
 

@@ -13,7 +13,7 @@ The whole time I played in the Windsor Theater, I knew that every time we put on
 When we put on his historical operetta {{< var white-black >}}^[Also called, {{< var sons-israel >}}], which told the story of the lost ten tribes, he also hadn't finished the last act when it came time for the first performance. And as always, the "Professor" found a way to handle it; just as he did in {{< var yiziat >}}, at the end of {{< var white-black >}} he came up on stage and gave a long monologue with the words, "Jews, we are going to return to Eretz Yisroel." When he finished the monologue, the chorus sang some song which I no longer remember, and after the performance was over, he didn't remember at all what he said - not how he began the monologue, and not how he ended it.
 
 
-![[Advertisement in the {{< var forverts >}}](https://www.nli.org.il/en/newspapers/frw/1904/03/04/01/article/32.1/) announcing the play {{< var sons-israel >}}, or {{< var white-black >}} at the Windsor Theater, being performed on March 4-6th, 1904, written by {{< var horowitz-full >}} with music by {{< var perlmutter >}} and {{< var wohl >}}.](../img/newspaper_clippings/1904-03-04_forverts.png){width="2in"}
+![Advertisement from March 4th, 1904 in {{< var forverts >}} announcing the play {{< var sons-israel >}}, or {{< var white-black >}} at the Windsor Theater, being performed on March 4-6th, 1904, written by {{< var horowitz-full >}} with music by {{< var perlmutter >}} and {{< var wohl >}}. [(Source)](https://www.nli.org.il/en/newspapers/frw/1904/03/04/01/article/32.1/)](../img/newspaper_clippings/1904-03-04_forverts.png){width="2in"}
 
 :::
 

@@ -12,7 +12,7 @@ Aside from {{< var blank-full >}}, [{{< var samuel-rosen >}}](https://www.museum
 The troupe had two or three of everything - prima donnas, comedians, and romantic leads. And the whole time we were preparing for the first performance, {{< var thomash >}} would often say that we would "write a new page in the history of Yiddish Theater in America" with his operetta {{< var violin >}}. The operetta was about the lives of actors. When the curtain rises, you see an empty stage where people are setting up decorations for a performance. I was assigned the role of a Yiddish actor called {{< var sigo >}}, which was partly - but only partly - based on {{< var mogu >}}'s life. 
 
 
-![Advertisement from October 17th, 1916 in {{< var morgen >}} for {{< var violin >}}.<br>[Source.](https://www.nli.org.il/en/newspapers/tjm/1916/10/17/01/article/61)](../img/newspaper_clippings/1916-10-17_morgen.png){width="1.9in"}
+![Advertisement from October 17th, 1916 in {{< var morgen >}} for {{< var violin >}}. [(Source)](https://www.nli.org.il/en/newspapers/tjm/1916/10/17/01/article/61)](../img/newspaper_clippings/1916-10-17_morgen.png){width="1.9in"}
 
 :::
 

@@ -4,11 +4,11 @@
 
 <br>
 
-{{< var Tate >}}'s death shook life of our entire family so much that things could never be as they were. No matter how hard {{< var mame >}} tried work hard so that we would not be in need or have to ask for help, she could not make it happen. It never happened. And then the name "{{< var Feige >}} the {{< var possessorka >}}" began to sound like a joke, because a {{< var possessor >}}^[farmer] is a generally a professional who has means to live well.
+{{< var Tate >}}'s death shook life of our entire family so much that things could never be as they were. No matter how hard {{< var mame >}} tried work hard so that we would not be in need or have to ask for help, she could not make it happen. It never happened. And then the name "{{< var Feige >}} the {{< var Possessorka >}}" began to sound like a joke, because a {{< var possessor >}}^[farmer] is a generally a professional who has means to live well.
 
 
 When {{< var mame >}} lost all interest in running the property as {{< var tate >}} had, she left the village and settled in the town of {{< var rybinka >}}, where my sister Bat-sheva lived with her husband. And there, in {{< var rybinka >}}, we opened what is called a "sustenance-house,"^[I will use the term "general store" for this moving forward.] where they sell everything that you can think of - even a little drink too.
-{{< var Mame >}} worked very hard in the "general store," and she was really a great {{< var eshet-chayal >}}^[term of Biblical origin, referring to an woman of strength: אשת–חייל] and knew how to get along with people. Not only with the Jewish customers, who bought various small things from us, but also with the {{< var goyishe >}} customers. She understood who could be given a loan, and who could not. And she behaved such that people in the town had a great respect for her, and they still called her "{{< var Feige >}} the {{< var possessorka >}}."
+{{< var Mame >}} worked very hard in the "general store," and she was really a great {{< var eshet-chayal >}}^[term of Biblical origin, referring to an woman of strength: אשת–חייל] and knew how to get along with people. Not only with the Jewish customers, who bought various small things from us, but also with the {{< var goyishe >}} customers. She understood who could be given a loan, and who could not. And she behaved such that people in the town had a great respect for her, and they still called her "{{< var Feige >}} the {{< var Possessorka >}}."
 
 
 A {{< var possessorka >}} without a {{< var possessieh >}}^["A farmer without a farm."]. {{< var Mame >}} couldn't figure out what to do with me. She was of course sure that a woman - a widow - could still raise her daughters and, as it were, stay on the right path, such that when people see them, they will see beautiful and well-behaved children.
@@ -62,7 +62,7 @@ But heard of him again? Yes, indeed we heard a lot.
 People must have liked him a lot, because he, Meir the choirboy, the son of the {{< var rybinka >}} rabbi, later became a famous opera singer on the Russian stage. And he called himself [_Medvedev_](https://www.centropa.org/en/photo/mikhail-efimovich-medvedev-meer-haimovich-bernshtein-stage)^[Mikhail Efimovich Medvedev, né Meir Haimovich/Yefimiovich(?) Bernshtein.] even then...
 However, he did not forget when they beat him in the synagogue when he was caught for that offense. And when I met him, many years later, in America, we both laughed a lot when we talked about it. But I will tell you about this when I reach that point...
 
-![Photo of Medvedev, early 1900s. <br>[Source.](https://www.centropa.org/en/photo/portrait-mikhail-efimovich-medvedev-meer-haimovich-bernshtein)](../img/medvedev.jpg){#fig-medvedev width=2.5in}
+![Photo of Medvedev, early 1900s. [(Source)](https://www.centropa.org/en/photo/portrait-mikhail-efimovich-medvedev-meer-haimovich-bernshtein)](../img/medvedev.jpg){#fig-medvedev width=2.5in}
 
 :::
 

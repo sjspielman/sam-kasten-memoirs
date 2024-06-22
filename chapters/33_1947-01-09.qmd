@@ -42,9 +42,9 @@ The plan that {{< var wilner >}} made for kicking off the new season in the Thia
 
 ::: {layout-ncol="2"}
 
-![Lyric Theater located at 16-18 Seigel Avenue in Williamsburg, Brooklyn. [Image source](https://www.museumoffamilyhistory.com/brooklyn/yt/theatres.htm).](../img/lyric-theater.jpg){width="2.5in"}
+![Lyric Theater located at 16-18 Seigel Avenue in Williamsburg, Brooklyn. [(Source)](https://www.museumoffamilyhistory.com/brooklyn/yt/theatres.htm).](../img/lyric-theater.jpg){width="2.5in"}
 
-![Liberty Theater located at 61 Liberty Avenue in Brownsville, Brooklyn. [Image source](https://www.museumoffamilyhistory.com/brooklyn/yt/theatres.htm).](../img/liberty-theater.jpg){width="2in"}
+![Liberty Theater located at 61 Liberty Avenue in Brownsville, Brooklyn. [(Source)](https://www.museumoffamilyhistory.com/brooklyn/yt/theatres.htm).](../img/liberty-theater.jpg){width="2in"}
 
 :::
 
@@ -52,7 +52,7 @@ The plan that {{< var wilner >}} made for kicking off the new season in the Thia
 
 ::: {layout-ncol="2"}
 
-![Sheet music cover for {{< var wedding-day >}} performed in Lyric Theater, picturing from left to right, {{< var clara-full >}}, {{< var kessler-full >}}, and {{< var sam >}} "Kesten." [Image source and associated sheet music](https://www.loc.gov/resource/ihas.200186076.0/).](../img/wedding-day.jpeg){width="4in"}
+![Sheet music cover for {{< var wedding-day >}} performed in Lyric Theater, picturing from left to right, {{< var clara-full >}}, {{< var kessler-full >}}, and {{< var sam >}} "Kesten." [(Source)](https://www.loc.gov/resource/ihas.200186076.0/).](../img/wedding-day.jpeg){width="4in"}
 
 
 All at once we were playing in both theaters - in Lyric Theater {{< var kessler-full >}} played the lead role in the play, and in Liberty Theater {{< var juvelier-full >}} played the same lead role, and when needed, half of the troupe would go tour the provinces with {{< var kessler >}}. This was in the 1910^[1910/1911] season, and I will never forget those times because in playing with {{< var kessler >}}, I had a lot of good times and also a lot of bad times. But I have forgotten the bad times and remembered only the good times...<br><br>
