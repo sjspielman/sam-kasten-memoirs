@@ -5,24 +5,21 @@
 > When I played {{< var shabtai-golem >}} in {{< var lateiner >}}'s {{< var lostsoul >}}. -- The two popular songs {{< var wiseson >}} and {{< var purim-nes >}}.
 
 
-As in every city, in Pittsburgh we also had a group of very good Jews^[וואילע אידען] who were there for us and were ready to do anything for us, simply because they loved Yiddish theater and enjoyed that they could somehow be of help to the traveling Yiddish actors.
+As in every city, in Pittsburgh we also had a group of very {{< var voyle-yiden >}}^["good/happy/nice Jews"] who were there for us and were ready to do anything for us, simply because they loved Yiddish theater and enjoyed that they could somehow be of help to the traveling Yiddish actors.
 
-These good Jews, who in their simplicity had a lot of {{< var haimishkeit >}}, were then in all the cities and towns of America, and Abba Schehngold was able to find them everywhere he went. And he didn't only need them because they were well-connected and he could hitch his wagon to them to sell tickets for the show, but also because they could find some kind of home for his children and would take care of them while he was busy acting. 
+These {{< var voyle-yiden >}}, who in their simplicity had a lot of {{< var haimishkeit >}}, were then in all the cities and towns of America, and {{< var abba-full >}} was able to find them everywhere he went. And he didn't only need them because they were well-connected and he could hitch his wagon to them to sell tickets for the show, but also because they could find some kind of home for his children and would take care of them while he was busy acting. 
 
-At that time he became a, the actor {{< var abba-full >}}; His children were still small then; His son Joe, who years later became a well-known actor and married Adler's daughter Frances^[The daughter of {{< var jacob-adler >}} and {{< var sara-adler >}}], was a little boy then. And since {{< var abba-full >}} loved his children very much and he was extraordinarily loyal and devoted to them, he took them with him everywhere he traveled to play, and people knew that the first thing he did when he arrived somewhere in a city was find a home for his children in a respectable household where they would be well looked after. And he usually found such a home with the help of one of those good Jews who loved Yiddish theater and who were always ready to help out a wandering Yiddish actor.
+At that time, the actor {{< var abba-full >}} became a widower^[His wife was [Clara {{< var schoen >}}](https://www.museumoffamilyhistory.com/yt/lex/S/shoengold-clara.htm)]. His children were still small then. His son Joe^[His Leksikon entry has not yet been translated, but it is available from Volume 6, page 5344.], who years later became a well-known actor and married {{< var adler >}}'s daughter [Frances](https://www.museumoffamilyhistory.com/yt/lex/A/adler-frances.htm)^[One of {{< var jacob-adler >}} and {{< var sara-adler >}}'s children], was just a little boy then. And since {{< var abba-full >}} loved his children very much and he was extraordinarily loyal and devoted to them, he took them with him everywhere he traveled to play, and people knew that the first thing he did when he arrived somewhere in a city was find a home for his children in a respectable household where they would be well looked after. And he usually found such a home with the help of one of those {{< var voyle-yiden >}} who loved Yiddish theater and who were always ready to help a wandering Yiddish actor out.
 
-In general, those good and happy Jews played an important role in the lives of the Yiddish actors, who for many years traveled the provinces playing Yiddish theater in all the cities and towns of America. If it weren't for them, the situation of the traveling Jewish of would have been much worse, not knowing who, in these cities far from home, was well-connected and how to earn a piece of bread from some performances.
+In general, those {{< var voyle-yiden >}} played an important role in the lives of the Yiddish actors, who for many years traveled the provinces playing Yiddish theater in all the cities and towns of America. If it weren't for them, the situation of the traveling Yiddish actors of would have been much worse, not knowing who, in these cities far from home, was well-connected or how to earn a piece of bread from some performances.
 
-This is indeed why I have to mention those good Jews. They earned it. And by the way, I want to say that there were also those among them, whose love for the Yiddish theater, little by little, drove them to become "stage managers" and this was a kind of side income for them. In many cities at that time, such stage managers could be found. And also in Pittsburgh we had someone like that, who was something of a stage manager. He took care of us and took on the work of  with us and took on the job of acquiring a theater and also providing the necessary wardrobe for the performances.
+This is indeed why I have to mention those {{< var voyle-yiden >}}. They earned it. And by the way, I want to say that there were also those among them whose love for the Yiddish theater, little by little, drove them to become "stage managers" as a kind of side income for them. You could find a lot such stage managers in many cities in those days. In Pittsburgh too we had someone who was something of a stage manager. He took care of us and took on the job of acquiring a theater and providing the necessary wardrobe for the performances. This was a side gig for him, and he already had a bit of experience in this.
 
-This was a side income for him and he already had a bit of experience in this.
+In Pittsburgh, we played {{< var lateiner-full >}}'s piece {{< var lostsoul >}}, and {{< var schoen >}} gave me the role of {{< var shabtai-golem >}}. I really enjoyed and felt elevated by this because this role had good singing and speaking parts, and you could stand out in front of the audience.
 
-In Pittsburgh, we played {{< var lateiner-full >}}'s piece {{< var lostsoul >}}, and {{< var schoen >}} gave me the role of {{< var shabtai-golem >}}, and I really enjoyed and felt elevated by this because, this role had good singing and speaking parts and you could stand out in front of the audience.
+I was a really big hit with the song {{< var wiseson >}}. The audience simply did not want to let me off the stage, and I had to sing the couplet over and over again. And that was of course not just because I sang the song so well, but also because the song was very popular in those days. Everyone knew the song, and it was sung everywhere.
 
-
-I was a really big hit with the song {{< var wiseson >}}. The audience simply did not want to let me off the stage, and I had to sing the couplets over and over again. And that was of course not just because I sang the song so well, but also because the song was very popular in those days; Everyone knew the song and it was sung everywhere.
-
-As an experienced actor, I already knew that the more popular a song is, the more people want to hear it, and with the certainty that even before I start, I already have the audience with me, I immediately became lively and cheerful, and I went out on the stage with a bang: 
+As an experienced actor, I already knew that the more popular a song is, the more people want to hear it. Certain that even before I started the audience was already with me, I immediately became lively and cheerful, and I went out on the stage with a bang: 
 
 _Lyrics._^[Most of the lyrics of this song are too complex for me to reliably translate.]
 
@@ -42,20 +39,19 @@ You could call this a kind of "entrance;" with this I introduced myself to the a
 
 _Lyrics._
 
-As usual, this was a big hit with the women in theater and they laughed loudly and applauded with great enjoyment. And I, contented, sang on:
+As usual, this was a big hit with the women in the audience. They laughed loudly and applauded with great enjoyment. And I, contented, sang on:
 
 _Lyrics._
 
-In general the song {{< var wiseson >}} was really hit the spot for women, since it made fun of men. With this^[referring to the literal lyric, "The wise son of the four questions"] the song began and with this it ended, and in the end came the part that everyone really looked forward to, ready to burst out laughing.
+In general the song {{< var wiseson >}} really hit the spot for women since it made fun of men. The song began and ended with the line "The wise son of the four questions," and in the end came the part that everyone really looked forward to, ready to burst out laughing.
 
 _Lyrics._
 
-It is hard to convey in words how this all happened in the Pittsburgh theater. Their laughter and their applause became stronger and stronger. I had to sing the last couplet over and over again. In the role of {{< var shabtai-golem >}}, I was instantly beloved by the the audience from just first performance. And as I have already said in a previous chapter, in my writing I consider it necessary to impart certain songs from the past - songs that brought so much joy into the hearts of thousands and thousands of Jews.
+It is hard to convey in words how this all happened in the Pittsburgh theater. Their laughter and their applause became stronger and stronger. I had to sing the last couplet over and over again. In the role of {{< var shabtai-golem >}}, I was instantly beloved from just the first performance. And as I have already said in a previous chapter, in my writing I consider it necessary to share certain songs from the past - songs that brought so much joy into the hearts of thousands and thousands of Jews.
 
-In that piece {{< var lostsoul >}}, there was also a song called {{< var purim-nes >}}. A young girl who played the role of {{< var bobele >}} sang that song. This was a serious song and people took it very seriously; Like most of the serious songs from the Yiddish theater of that time, it was based on the olden history of the Jews while also being connected to events of the end times.
+In that piece {{< var lostsoul >}}, there was also a song called {{< var purim-nes >}}. A young girl who played the role of {{< var bobele >}} sang that song. This was a serious song, and people took it very seriously. Like most of the serious songs from the Yiddish theater of that time, it was based on the history of the Jews while also being connected to events of the end times.
 
-This song, which was called {{< var purim-nes >}}, is also worth sharing. It went like this:
-
+This song is also worth sharing. It went like this:
 
 > We praise you, God, today with holy songs,
 >
@@ -77,7 +73,7 @@ This song, which was called {{< var purim-nes >}}, is also worth sharing. It wen
 >
 > To all enemies, oh God, bring such an end.
 
-This song always began with Haman Haroshe^["Haman the Evil"]. {{< var lateiner-full >}}'s piece {{< var lostsoul >}} also started with this song. And the young girl who played the role of {{< var bobele >}} in Pittsburgh sang with song with heart and feeling. And the audience in the theater swallowed every word and they gladly listened to what comes next in the song:
+This song always began with _Haman Haroshe_^["Haman the Evil"]. {{< var lateiner-full >}}'s piece {{< var lostsoul >}} also started with this song. The young girl who played the role of {{< var bobele >}} in Pittsburgh sang with song with heart and feeling. The audience swallowed every word and gladly listened on:
 
 > In every generation today, just like before,
 >
@@ -85,7 +81,7 @@ This song always began with Haman Haroshe^["Haman the Evil"]. {{< var lateiner-f
 >
 > In these troubles, our God, is your people Israel,
 >
-> Help us, our Father, from the Haman's today as well!
+> Help us, our Father, from the Hamans today as well!
 >
 > Millions of Jews cry out, oi, in every country, where they are mercilessly oppressed.
 >
@@ -102,11 +98,8 @@ This song always began with Haman Haroshe^["Haman the Evil"]. {{< var lateiner-f
 > And also to all their kin...
 
 
-That is how the song {{< var purim-nes >}} went in {{< var lateiner >}}'s piece {{< var lostsoul >}}. And from how the song cursed the Russian tsar, you could tell it was written during the period when Alexander the Third sat on the throne; This was apparent from the meaning of the words that God should send him "where he sent his father," Alexander the Second, who the [revolutionaries killed in St. Petersburg with a bomb in the middle of the street](https://en.wikipedia.org/wiki/Assassination_of_Alexander_II_of_Russia)... 
+That is how the song {{< var purim-nes >}} went in {{< var lateiner >}}'s piece {{< var lostsoul >}}. And from how the song cursed the Russian tsar, you could tell it was written during the period when Alexander the Third sat on the throne. You could tell from the meaning of the words that God should send him "where he sent his father," Alexander the Second, who the [revolutionaries killed in St. Petersburg with a bomb in the middle of the street](https://en.wikipedia.org/wiki/Assassination_of_Alexander_II_of_Russia)... 
 
-
-It was very common that, in the free land of America, Jews would curse the Russian tsar on stage quite openly and nobody was afraid to do so. And I still remember how {{< var abba-full >}} himself took such great pleasure in hearing {{< var bobele >}} sing the song  {{< var purim-nes >}}. This song was very pleasing to him, and he himself also excelled in the dramatic role he played in the piece. And he was very pleased that the income at the cash register in Pittsburgh was really good, and thanks to this he can do more for his children, who he loved so much...
+It was very common that, in the free land of America, Jews would curse the Russian tsar on stage quite openly. Nobody was afraid to do so. And I still remember how {{< var abba-full >}} himself took such great pleasure in hearing {{< var bobele >}} sing the song {{< var purim-nes >}}. This song was very pleasing to him, and he himself also excelled in the dramatic role he played in the piece. And he was very happy that the box office income in Pittsburgh was really good - thanks to this, he could do more for his children, who he loved so much...
 
 It is really difficult to find such a faithful father as {{< var abba-full >}} was.
-
- 

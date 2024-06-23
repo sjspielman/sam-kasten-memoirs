@@ -6,20 +6,19 @@
 
 > I pair up with {{< var abba-full >}} to play theater in Boston and get a big surprise. -- When the famous [{{< var gest-full >}}](https://en.wikipedia.org/wiki/Morris_Gest) from Broadway was a messenger-boy in the Yiddish theater.
 
+There is so much to say about the famous Yiddish actors of those times, but I have to add one thing: they did not limit themselves to New York as the only city where you could play Yiddish theater. They thought that in America, there are endless cities with Jews, and Yiddish theater should be played there not only after the end of the New York season, but also during the season, exactly as they did in New York.
 
-What should not be said about the well-known Yiddish actors of those times^[Something is missing in translation here. Perhaps the previous sentence has a different connotation.] - one thing, however, must be added, and that is that they did not limit themselves to New York as the only city where you could play Yiddish theater. They thought that in America, there are endless cities with Jews and Yiddish theater should be played there not only after the end of the season, but during the season, in New York. Exactly how they did in New York.
+This started because even the well-known Yiddish actors of those times always had to be on the lookout for ways to make a living. In addition, it was often difficult for them to empathize with one another because of professional jealousy. So, throughout their journey traveling around the cities, they were always looking for opportunities to have greater prestige than in New York. And in their travels, they made Yiddish theater popular among the Jewish public in America and, as they say today, they "spread the Jewish word."
 
-
-It started because conditions were such that they, the well-known Yiddish actors of those times, always had to be looking for a livelihood from somewhere. In addition, it was often difficult to empathize with each other because of professional jealousy, and therefore while traveling around the cities, throughout their journey, they were always looking for opportunities to have greater prestige than in New York. And in their travels, they made Yiddish theater popular among the Jewish public in America and, as they say today, to "spread the Jewish word."
-
-With all the {{< var chesed >}}^[mercy, grace, benevolence] that found in the how Yiddish theater was once performed across the country, something was accomplished with it, and if among the "long-standing; deeply-rooted"^[perhaps this implies assimilated: אלט–געזעסענע] Jews in America who are estranged from us, find themselves remembering from long ago a beautiful Yiddish tune, an old one, and because of this feel more connected to the Jewish community people, the traveling actors of old certainly had a part in that.
+All the {{< var chesed >}}^[mercy, grace, benevolence] in the how Yiddish theater was once performed across the country accomplished something - if among the long-standing^[perhaps this implies assimilated: אלט–געזעסענע] Jews in America who are estranged from us find themselves remembering from long ago a beautiful Yiddish tune, an old one, and because of that feel more connected to the Jewish people, the traveling actors of old certainly had a part in that.
 
 That's how I think of it. And there is no doubt in my mind that many who are familiar with the history of the Yiddish theater in America will agree that I am right.
 
-Among the actors, who traveled a lot across America and played everywhere there was a considerable Jewish population, was also {{< var abba-full >}}, one of the first pioneers who created the Jewish theater. He was by nature one of those who are always looking for something and even though he was lazy in his pursuit, there was something in him that should have reminded me of an artistic pursuit.
+Among the actors, who traveled a lot across America and played everywhere there was a considerable Jewish population, was also {{< var abba-full >}}, one of the first pioneers who created the Yiddish theater. He was by nature one of those who was always looking for something, and even though he was lazy in his pursuit, there was something in him that reminded me of an artistic pursuit.
+
 I remember once, in the middle of winter, just when I was in Brownsville having great troubles, {{< var abba-full >}} came to me with something great:
 
--- Kestin, you don't have to worry anymore; We are going to Boston!
+-- {{< var kestin >}}, you don't have to worry anymore; We are going to Boston!
 
 -- And what will we do in Boston?
 
@@ -31,16 +30,15 @@ He even gave me something on the spot to persuade me that it would be good - fiv
 
 -- Take a fiver - he said - and it's agreed!...
 
-
 I didn't talk to him at all about salary. There was nothing to say, because they were playing for "stamps"^[Recall, a system where each actor gets a pre-specified percentage of profits]. It was just a question of what kind of stamp should be set for me. But I didn't open my mouth to ask anything about it, because given my situation, I should stay silent and not argue with anyone about what stamp was set for me.
 
-After playing the first week in Boston, {{< var abba-full >}} brought me a bag of money, and when I counted it and saw that it was a sum of two hundred and seventy-five dollars, I literally couldn't believe my eyes and I remained sitting in a daze.
+After playing the first week in Boston, {{< var abba-full >}} brought me a bag of money, and when I counted it and saw that it was a sum of $275, I literally couldn't believe my eyes, and I remained sitting in a daze.
 
 -- {{< var schoen >}}, - I started speaking as if I was not sure what I wanted to say - {{< var schoen >}}, maybe there is a mistake? Maybe...could it be... eh?... It is possible this was miscalculated...?
 
 {{< var schoen >}} clearly thought that I was not satisfied and he got angry with me:
 
--- Oh, it's already starting! - he grimaced - There is no error in the amount; Everything was calculated correctly, and according to the "stamp," both you and your wife get two hundred and seventy-five dollars for this week. What do you want? Huh?
+-- Oh, it's already starting! - he grimaced - There is no error in the amount; Everything was calculated correctly, and according to the "stamp," both you and your wife get $275 for this week. What do you want? Huh?
 
 And when he went out, he gave a wave with his hand:
 
@@ -48,23 +46,23 @@ And when he went out, he gave a wave with his hand:
 
 This was the first time that I had earned so much money in one week in the Yiddish theater, and my joy was so great that, if I weren't so ashamed of myself, I would have danced for joy.
 
-When I told my wife how much money {{< var schoen >}} had given me for the first week, tears welled up in her eyes for joy, and she quietly, and with a pious expression, said, "{{< var Nu >}} it's really about time things looked up. And may God help so that it doesn't worse again later..."
+When I told my wife how much money {{< var schoen >}} had given me for the first week, tears welled up in her eyes for joy, and she quietly, and with a pious expression, said, "{{< var Nu >}} it's really about time things looked up. And may God help so that it doesn't get worse again later..."
 
-But after the two hundred and seventy-five dollars in the first week, it was the same as with that poor boy who carries {{< var purim-sm >}}^[שלח–מנות; Basket of gifts/sweets you give to family and friends at {{< var purim >}}. I am assuming there is a Yiddish parable/short story about a poor boy who brings them around and the following happens..]; The second week, we received less than before, and the third week - even less. And so it all went more and more downhill, and during the few weeks that fell before Passover, it was really bad. It was difficult to make ends meet. And as usual when this happens, the actors in the troupe began to quarrel. They fought over roles, they fought over the calculations for the "stamps," and around and around like this until there was no {{< var naches >}}^[joy, happiness] left to have.
+But after the $275 in the first week, it was the same as with that poor boy who carries {{< var purim-sm >}}^[שלח–מנות; Basket of gifts/sweets you give to family and friends at {{< var purim >}}. I am assuming there is a Yiddish parable/short story about a poor boy who brings them around and the following happens?]; The second week, we received less than before, and the third week - even less. And so it all went more and more downhill, and during the few weeks that fell before {{< var pesach >}}, it was really bad. It was difficult to make ends meet. And as usual when this happens, the actors in the troupe began to quarrel. They fought over roles, they fought over the calculations for the "stamps," and the went around and around until there was no {{< var naches >}}^[joy, happiness] left to have.
 
 As far as {{< var abba-full >}} could, he did everything in his power to try and keep the peace in the troupe. But it was difficult. He was not always successful.
 
-At that time, behind the curtains of the Yiddish Theater in Boston, there hung around a young man whom everyone called {{< var moishe >}}. Nobody knew his last name and nobody ever cared to know, because they saw in him merely some kind of an annoyance, a nuisance, who had ingratiated himself with the theater because he enjoyed waiting on the actors; In his submissiveness, he obeyed everyone, and whenever you had to send something somewhere, or run an errand, he was treated like the messenger boy. It was quite common that, behind the curtain, you'd hear a voice from some other dressing room:
+At that time, behind the curtains of the Yiddish Theater in Boston, a young man who everyone called {{< var moishe >}} hung around. Nobody knew his last name and nobody ever cared to know, because they saw him merely as some kind of an annoyance, a nuisance, who had ingratiated himself with the theater because he enjoyed waiting on the actors. In his submissiveness, he obeyed everyone, and whenever you had to send something somewhere, or run an errand, he was treated like the messenger boy. Behind the curtain, you'd often hear a voice from some other dressing room:
 
 -- {{< var moishe >}}! Hey, {{< var moishe >}}!
 
-And soon you'd see {{< var moishe >}} running towards it and he was ready to obey. Ready to serve.
+And soon you'd see {{< var moishe >}} running towards the voice, ready to obey, ready to serve.
 
-From then on, all the holes were plugged by^[as in, he did all the little things] the young poor boy {{< var moishe >}}. And since he was a good person by nature, no one took advantage of him or asked for anything more than was necessary.
+From then on, the young poor boy {{< var moishe >}} took care of everyone's little needs. And since he was a good person by nature, no one took advantage of him or asked for anything more than was necessary.
 
-{{< var moishele >}} viewed me and my wife as if we were part of his family. And since we could not afford to keep a maid and we had no one to leave our child with at home, my wife had no other choice but to take our child with her to the rehearsals that were held in the theater and also to the performances. She kept him with her in her dressing room, and every time she had to go on stage to play a scene, she called for {{< var moishe >}} to come take care of the him.
+{{< var moishele >}} viewed me and my wife as if we were part of his family. Since we could not afford to keep a maid and had no one to leave our child with at home, my wife had no other choice but to take our child with her to the rehearsals and also to the performances. She kept him with her in her dressing room, and every time she had to go on stage to play a scene, she called for {{< var moishe >}} to come take care of the him.
 
-One time, when {{< var moishe >}} was putting the child to sleep and he was sitting quietly and watching over him, an actor sent him somewhere to fetch something and then the child woke up crying, and when my wife came back from the stage into her dressing room, frightened, she started shouting at the top of her voice:
+One time, when {{< var moishe >}} was putting the child to sleep and sitting quietly and watching over him, an actor sent him somewhere to fetch something. The child woke up crying, and when my wife came back from the stage into her dressing room, frightened, she started shouting at the top of her voice:
 
 -- Oi, {{< var moishe >}}! Where is {{< var moishe >}}?
 
@@ -73,7 +71,7 @@ When he came back later and she saw him, she let out her grievances, screaming a
 
 Soon after I realied what I had done. But it had already happened. I could not take back the slap and poor {{< var moishe >}} stood in front of me dejected, offended, and I heard him say to me in the silence:
 
--- You don't need to strike me, Mr. Kestin... Why should you hit me?... I'm not guilty of this...
+-- You don't need to strike me, Mr. {{< var kestin >}}... Why should you hit me?... I'm not guilty of this...
 
 And looking at him, as he stands so pitiful and dejected, my heart was torn apart...
 
@@ -81,7 +79,6 @@ Years later, the same {{< var moishe >}} became one of the biggest - if not the 
 
 It did not occur to anyone at that time that he, {{< var moishele >}}, the errand boy, would rise so high and occupy such a prominent place. This occurred to me less than anyone when I slapped him unjustifiably for nothing...
 
-But my heart was low at the time and people could not hold me responsible for what I did in a moment of anger. The bad business in the theater then upset me so much that I was always angry. And when I realized that I couldn't stand it anymore, I left Boston and went back to Brownsville, even though I didn't know why I was going there and what was in store for me there...
+But my heart was low at the time and people could not hold me responsible for what I did in a moment of anger. The bad business in the theater upset me so much that I was always angry. And when it was clear that I couldn't take it anymore, I left Boston and went back to Brownsville, even though I didn't know why I was going there and what was in store for me there...
 
 The only thing that attracted me to Brownsville was that it was close to New York. And New York has always drawn me to it like a magnet.
-

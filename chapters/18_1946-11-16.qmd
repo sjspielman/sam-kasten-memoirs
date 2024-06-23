@@ -5,43 +5,40 @@
 > My travels to Cincinnati with {{< var jakele-full >}} and {{< var frank-full >}}. -- A scene in a theater-lover's candy store.
 
 
-Of all the luck and all the great success we had in Pittsburgh with {{< var lateiner >}}'s {{< var lostsoul >}}, we did not become rich. And when the luck ended and people started thinking about where to go next, {{< var abba-full >}} immediately had a plan ready:
+In spite of all the luck and all the great success we had in Pittsburgh with {{< var lateiner >}}'s {{< var lostsoul >}}, we did not become rich. And when our luck ended and we started thinking about where to go next, {{< var abba-full >}} immediately had a plan ready:
 
 -- We are going back to Baltimore!
 
 In hearing Baltimore, I was struck with fear: 
 
--- Baltimore? Really? How can we go there and what will we do there? The audiences there certainly still remember the disaster in the theater; No one will come to our performance.
+-- Baltimore? Really? How can we go there and what will we do there? The audiences there certainly still remember the disaster in the theater. No one will come to our performance.
 
 -- They will come, they will come. - {{< var schoen >}} answered me. - The audiences will hear that {{< var abba-full >}} is here again, so they will come to the theater to see him play, trust me.
 
-He was so stubborn about it that it was simply impossible to convince him otherwise. And he indeed got his way - we left for Baltimore. But this time, {{< var schoen >}} did not succeed. And as though he had no obligation to me, because in those days there was never any talk in the provinces about such a thing as hiring an actor for a season, he drove off somewhere alone and didn't tell anyone where he was going or what prospects he had.
+He was so stubborn about it that it was simply impossible to convince him otherwise. And he indeed got his way - we left for Baltimore. But this time, {{< var schoen >}} did not succeed. And as though he had no obligation to me, because in those days there was never any talk in the provinces about such a thing as hiring an actor for the full season, he drove off somewhere alone and didn't tell anyone where he was going or what prospects he had.
 
-And I, in God's care alone, went to Buffalo, and when I got there, I met {{< var frank >}} and {{< var jakele-full >}} there again. Just like me, they also came there to "tap a wall" and see if they can play some shows there and earn a little money to be able to pay their expenses. And it turned, with the three of us together, it felt more {{< var haimlicher >}}...
+And I, in God's care alone, went to Buffalo. When I got there, I met {{< var frank-full >}} and {{< var jakele-full >}} there again. Just like me, they also came there to "tap a wall" and see if they could play some shows there and earn a little money to be able to pay their expenses. And indeed, with the three of us together, it felt more {{< var haimlicher >}}...
 
-
-And next we embarked on a "series"^[He uses the term _sidra_, as in weekly Torah portion] of wandering over the cities and towns, and I must say that in general we were a good "threesome,"^[As in, there are three of them.], by which I mean we really got used to living with each other, and even though it was often very bad for us and we didn't know what tomorrow would bring us and where we'd end up next playing Yiddish theater, but we never lost heart; {{< var frank >}} and I, the two comedians of the "threesome," made jokes at the expense of our own poverty, and the serious, often dead-serious {{< var jakele-full >}}, always fell upon another ingenious idea, and when he thought up something, he gave us the good news - 
+And next we embarked on journey, wandering across a series of the cities and towns, and I must say that in general we were a good trio. By this, I mean we really got used to living with each other, and even though it was often very bad for us and we didn't know what tomorrow would bring us or where we'd end up next playing Yiddish theater, but we never lost heart. {{< var frank >}} and I, the two comedians of the trio made jokes about our poverty, and the serious, often dead-serious, {{< var jakele-full >}} always stumbled upon another ingenious idea, and when he thought up something, he gave us the good news - 
 
 -- {{< var Chevreh >}}, it will be good... You will see soon, that it will be good!...
 
-As usual, all this good news was just fantasy, and afterwards we laughed at ourselves over it. In those days we really laughed with the lizards^[[Idiom](https://www.yiddishwit.com/gallery/lizards.html) meaning to laugh out of bitterness, not joy]...
+As usual, all this good news was just fantasy, and afterwards we laughed at ourselves over it. In those days we really ["laughed with the lizards"](https://www.yiddishwit.com/gallery/lizards.html)...
 
+So we {{< var schlepped >}} around for a long time until we reached Cincinnati. When we got there, all three of us together had, all in all, three and a half dollars... This was our entire worth that we had earned playing Yiddish theater in all the cities where there was an audience who would come to see us...
 
-So we {{< var schlepped >}} around for a long time, until we reached Cincinnati, and when we got there, all three of us together had, all in all, three and a half dollars... This was our entire worth that we had earned playing Yiddish theater 
-in all the cities where there was an audience who would come to see us...
+It was the beginning of winter. It was already cold outside and we were still walking around in our summer coats and we were shivering. But that didn't bother us. With the full certainty that Cincinnati was a city where we could make money playing Yiddish theater, we stopped in a hotel, in a dirt-cheap hotel, and we felt very lucky with these arrangements...
 
-It was the beginning of winter. It was already cold outside and we were still walking around in our summer coats and we were shivering. But that didn't bother us. And with the full certainty that Cincinnati is a city where we could make money playing Yiddish theater, we stopped in a hotel, in a dirt-cheap hotel, and the arrangement we made for ourselves even made it seem that we were very lucky...
+{{< var jakele-full >}} was certain he had heard somewhere that there was a Jew named {{< var himmelfarb >}} in Cincinnati who was one of those {{< var voyle-yiden >}} who was really in love with Yiddish theater, and on top of that he was a dear man with a golden heart. {{< var jakele-full >}} had heard that whenever Yiddish actors came to him, he would help them sell tickets and also find other local Jews who would help them. He generally behaved in such a way to make wandering Yiddish actors in Cincinnati feel at home, and when the actors left, people would bid them farewell as though they were members of his own family.
 
-{{< var jakele-full >}} was certain he had heard somewhere that there was a Jew named {{< var himmelfarb >}} in Cincinnati who was one of those good Jews who were really in love with Yiddish theater, and on top of that he had a golden heart, a dear man. {{< var jakele-full >}} had heard that whenever Yiddish actors came to him, he would help them sell tickets and also find other local Jews who would help them, and in general he behaved in such a way that a wandering Yiddish actor in Cincinnati felt at home, and when the actor left, people would bid him farewell as though he were own of their own family.
+{{< var Nu >}}, we had to go see this {{< var himmelfarb >}}, and there we'd make the best arrangements would no longer have to worry. 
 
-{{< var Nu >}}, we had to go see this {{< var himmelfarb >}}, and there we'd make the best arrangements and we'd no longer have to worry. 
-
-We had Mr. {{< var himmelfarb >}}'s address. We also knew that he had a "stationery store." On our way there, {{< var jakele-full >}} stopped to remind us something he had told us earlier:
+We had Mr. {{< var himmelfarb >}}'s address. We also knew that he had a "stationary store." On our way there, {{< var jakele-full >}} stopped to remind us something he had told us earlier:
 
 -- {{< var Chevreh >}}, we have to seem impressive... This meeting is a big one... This is very important...
 
 
-And here I want to emphasize^[My translation; {{< var sam >}} writes "dwell/linger on"] on a few details, which are, in my opinion, important, simply because they are very characteristic of the condition in which the Yiddish theater found itself in the provinces in America. Characteristic of the actors of the past and also characteristic of the really nice and good Jews who used to help out the actors who wandered around the provincial cities and dreamed of playing in New York.
+And here I want to emphasize on a few details which are, in my opinion, important simply because they are very characteristic of the Yiddish theater in provincial America - characteristic of the actors of those times, and also characteristic of the {{< var voyle-yiden >}} who used to help the actors who wandered around the provinces while dreaming of playing in New York.
 
 When we arrived at Mr. {{< var himmelfarb >}}'s store, we behaved as though were very important and talked to him just as if every word were a piece of gold...
 
@@ -51,21 +48,21 @@ When we arrived at Mr. {{< var himmelfarb >}}'s store, we behaved as though were
 
 -- My name is {{< var jakele-last >}}, {{< var jakele-full >}}, as I'm sure you've heard.
 
--- And my name is Kestin, {{< var sam-full >}} - I introduced myself.
+-- And my name is {{< var kestin >}}, {{< var sam-full >}} - I introduced myself.
 
 Even {{< var frank >}}, who by nature was a disheveled sort and had never been able keep up pretenses - even he, just like in a well-rehearsed role, really put on airs:
 
 -- And my name is {{< var frank >}}. - He said this with a tone just like he was [Rav Bar Ashi](https://en.wikipedia.org/wiki/Rav_Ashi). - {{< var frank-full >}}... Of course you've heard of me, eh?
 
-It is needless to say that Mr. {{< var himmelfarb >}} was not taken aback by our names; You could see that had certainly not heard of us, and he didn't know who we were. And then {{< var jakele-full >}} uttered three words, no more than three words, but with such a dramatic expression, just as if he had embarked on a really strong and intense monologue in one of Shakespeare's historical pieces: 
+Needless to say, Mr. {{< var himmelfarb >}} was not taken aback by our names. He clearly had not heard of us, and he didn't know who we were. And then {{< var jakele-full >}} uttered three words, no more than three words, but with such a dramatic expression, just as if he had embarked on a really powerful and intense monologue from one of Shakespeare's historical plays: 
 
 -- We are actors!...
 
-And when Mr. {{< var himmelfarb >}} heard that we were actors, his expression became very severe and pinching his little beard with his fingers, he began to speak to us with restrained anger:
+And when Mr. {{< var himmelfarb >}} heard that we were actors, his expression became very severe. Pinching his little beard with his fingers, he began to speak to us with restrained anger:
 
 -- What does this have to do with me and what do you want from me?
 
-This was a big surprise for us and really not a very pleasant one; From him, from this man, about whom we have heard so many good things regarding his attitude toward traveling Yiddish actors, we did not expect anything like this; It was like he had poured cold water on all three of us at once; His behavior really disconcerted us, even more so when we took the great trouble to tell him that we would like him to sell tickets for our performance. He 
+This was a big surprise for us and really not a very pleasant one. We did not expect anything like this from this man about whom we have heard such good things about his attitude toward traveling Yiddish actors. It was like he had poured cold water on all three of us at once. His behavior really disconcerted us, even more so when we took the great trouble to tell him that we would like him to sell tickets for our performance.
 
 As soon as he heard this, he went to open the door and said angrily:
 
@@ -79,27 +76,26 @@ And suddenly he started shouting at the top of his voice:
 
 -- I won't be duped!... Enough! More than once I've paid the price, and it won't happen again!
 
-It was only then that we realized that others of us had tricked him before and he was still very upset about it. And when we started questioning him about who duped him and how, we saw that he had no qualms about getting into a long dispute with us, {{< var jakele-full >}} had an idea and suddenly started speaking in English to Mr. {{< var himmelfarb >}}. He said, that Mr. {{< var himmelfarb >}} should give us six cigars - the best ones in the store...
+It was only then that we realized that others had tricked him before, and he was still very upset about it. When we started questioning him about who duped him, and we saw that he had no qualms about getting into a long dispute with us, {{< var jakele-full >}} had an idea. He suddenly started speaking in English to Mr. {{< var himmelfarb >}} - he said that Mr. {{< var himmelfarb >}} should give us six cigars - the best ones in the store...
 
--- _Only di best._ - He firmly emphasized the words. - _Vee are not uzed to cheap cigars_...
+-- _Only di best._ - He firmly emphasized the words. - _Vee are not uzed to cheap cigarz_...
 
-And when the cigars were presented, he - with great pretense - paid for them so generously, as if money was no object. And after that he gave me a cigar and {{< var frank >}} a cigar. And when all three of us lit our cigars and smelled the smoke like the great connoiseurs of good cigars, Mr. {{< var himmelfarb >}} suddenly started looking at us as though he was no longer completely sure whether he really needed to drive us away and insult us like that.
+And when the cigars were presented, he - with great pretense - paid for them so generously, as if money was no object. And after that he gave me a cigar and {{< var frank >}} a cigar. When all three of us lit our cigars and smelled the smoke like connoiseurs of fine cigars, Mr. {{< var himmelfarb >}} suddenly started looking at us as though he was no longer completely sure whether he really needed to drive us away and insult us like that.
 
 -- Can you maybe prove to me somehow that you are indeed actors?
 
 -- _Bitte schön_. - I said, suddenly starting to speak in German. - _Bitte schön_...
 
-And soon, from my pocket, I pulled out the article that {{< var winch-full >}} published in {{< var der-emes >}}^[As described in [Chapter 15](./15_1946-11-07.qmd)] that he had written about me, where he said that I was a talented comedian and that I was well-received by the audience. And when the Jew^[Referring to {{< var himmelfarb >}}; recall that it was standard to refer to fellow Jews as "Jew" instead of man/woman.] saw this, he read over it carefully, and when he finished, he looked me up and down, from head to toe, and while looking at me he said:
+And soon, from my pocket, I pulled out the article that {{< var winch-full >}} published in {{< var der-emes >}}^[As described in [Chapter 15](./15_1946-11-07.qmd)] that he had written about me, where he said that I was a talented comedian and that I was well-received by the audience. And when the {{< var himmelfarb >}} saw this, he read over it carefully. When he finished, he looked me up and down from head to toe, and looking at me he said:
 
--- Yes, {{< var winch >}}... That's really something - {{< var winch >}}!... But tell me, I implore you, how do I know that you are really {{< var sam-full >}}? Maybe you're not him at all, no offense... - He began to defend himself. - Nowadays, there are so many runners and such swindlers that you can't know who is who and what is what... Not long ago there was a group of runners here in Cincinnati who told some story that they wanted to play Yiddish theater, and what do you think happened? They took the money and they disappeared... When the audience came to see them play, they were no longer in Cincinnati...
-
-
-He complained strongly about the fact that after the "runners" left with the money and stuck their tongue out at the audience, he could no longer show his face, because he had sold tickets for the performance, and afterwards he had to return the money to the audiences out of his own pocket. And when he finished, he posed a question again to us:
-
--- {{< var Nu >}}, can you blame me for not trusting theater companies anymore, who come here and tell stories that they will play Yiddish theater?...
+-- Yes, {{< var winch >}}... That's really something - {{< var winch >}}!... But tell me, I implore you, how do I know that you are really {{< var sam-full >}}? Maybe you're not him at all, no offense... - He began to defend himself. - Nowadays, there are so many runners and swindlers that you can't know who is who and what is what... Not long ago there was a group of runners here in Cincinnati who told some story that they wanted to play Yiddish theater, and what do you think happened? They took the money and they disappeared... When the audience came to see them play, they were no longer in Cincinnati...
 
 
-We could not answer this question. We could not blame him, because we understood that the Jew was, unfortunately, right. And before leaving, {{< var jakele-full >}} cleverly held the cigar in the corner of his mouth and said with a confident tone:
+He complained strongly that after the "runners" left with the money and stuck their tongue out at the audience, he could no longer show his face because he had sold tickets for the performance, and afterwards he had to return the money to the audiences out of his own pocket. He then posed a question again to us:
+
+-- {{< var Nu >}}, can you blame me for not trusting theater troupes anymore, who come here and tell stories that they will play Yiddish theater?...
+
+We could not answer this question. We could not blame him, because we understood that he was, unfortunately, correct. And before leaving, {{< var jakele-full >}} cleverly held the cigar in the corner of his mouth and said with a confident tone:
 
 -- Listen, Mr. {{< var himmelfarb >}}, whether you will help us out or not, whether you will do something for us or not - we want to play Yiddish theater in Cincinnati!...
 
@@ -107,6 +103,6 @@ And we left.
 
 We did not understand where {{< var jakele-full >}} took such certainty from. We thought that these were just words, all part of the pretense we had put on. But on the way back to the hotel, {{< var jakele-full >}} said to us:
 
--- Listen, {{< var chevreh >}} he is alright, Mr. {{< var himmelfarb >}}, he is. I tell you, he's a good Jew. Really a good one. And we have to show him that we are also alright and then you will see how good he will be to us. He will be a good friend of ours and he will help us out a lot... We must play theater in Cincinnati...
+-- Listen, {{< var chevreh >}} he is alright, Mr. {{< var himmelfarb >}}, he is. I tell you, he's a {{< var voyle-yid >}}. Really a good one. And we have to show him that we are also alright and then you will see how good he will be to us. He will be a good friend of ours and he will help us out a lot... We must play theater in Cincinnati...
 
 And we did play. But before we got to play, we still had quite a bit to endure, but afterwards Mr. {{< var himmelfarb >}} really became a friend of ours and Cincinnati went up on the map of Yiddish theater in America. But that is a separate chapter of its own.

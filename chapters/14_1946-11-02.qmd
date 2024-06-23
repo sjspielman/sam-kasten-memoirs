@@ -6,18 +6,17 @@
 
 > The song {{< var wonders >}} which was once popular and famous among Yiddish theater audiences. -- How it often went in the theater when the prima donna [{{< var berta >}}](https://www.museumoffamilyhistory.com/yt/lex/T/tanzman-berta.htm) used to sing this song.
 
-Like many other actors who joined the Yiddish stage in those years when you didn't expect any great luck, I also never fell into despair when I went through bad times. I made peace with the fact that this is just how the theater profession is, and this is just what the life of an actor is: suddenly you are distinguished and it goes well and you earn enough money playing, and then all of a sudden it goes badly and you had to "put your teeth on the shelf"^[This is an idiom, meaning to be starving - after all, if you aren't eating, you don't need your teeth anymore so you can put them on the shelf. In Yiddish: פאַרוואַרפן די ציין אויף די בענטאַנעס ], as we used to say in Ukraine^[in his Ukrainian Yiddish dialect], and after a while it will start to go well again.
+Like many other actors who joined the Yiddish stage in those years when you didn't expect any great luck, I also never fell into despair when I went through bad times. I made peace with the fact that this is just how the theater profession is, and this is just what the life of an actor is: suddenly you are distinguished and it goes well and you earn enough money acting, and then all of a sudden it goes badly and you had to "put your teeth on the shelf"^[This is an idiom, meaning to be starving - after all, if you aren't eating, you don't need your teeth anymore so you can put them on the shelf.], as we used to say in Ukraine, and after a while it will start to go well again.
 
-I never thought about leaving the stage. Not even in the worst times. Such a thought never even occurred to me, and it was difficult for me to understand those Yiddish actors who - for one reason or another - left the stage and went to something else, as was the case with {{< var weinb-full >}}^[Recall, Ihesrael bought {{< var sam >}}'s farm in Bridgeton, Cumberland County, NJ], with {{< var marx-full >}} and also with others.
+I never thought about leaving the stage. Not even in the worst times. Such a thought never even occurred to me, and it was difficult for me to understand those Yiddish actors who - for one reason or another - left the stage and went to something else, as was the case with {{< var weinb-full >}}, {{< var marx-full >}}, and others.
 
-This kind of thing really annoyed me. And more than others, I resented that {{< var marx-full >}} left the stage, because he was really a very talented actor, an excellent comedian, and in theater circles it was said that even {{< var mogu >}} quietly considers him a rival...
+This kind of thing really annoyed me. I particularly I resented that {{< var marx-full >}} left the stage, because he was such a very talented actor and an excellent comedian, and in theater circles it was said that even {{< var mogu >}} quietly considers him a rival...
 
-In general, I just couldn't understand, intellectually, how an actor could leave the stage because he couldn't be as big as someone else, or because he had to go through difficult times...
+In general, I just couldn't understand, intellectually, how an actor could leave the stage because he couldn't have as big a name as someone else, or because he had to go through difficult times...
 
-So that's how it was when I came back to Brownsville from Boston. It was very bad for me then, and together with the comedian {{< var frank >}}^[His old friend {{< var frank-full >}}from Philadelphia (recall, Star Specialty Club), and they had gone to Brownsville together. Jacob either stayed in Brownsville while {{< var sam >}} was in Boston or toured elsewhere in the country.], I managed to pull through and earn a few dollars from a performance here and there, but it wasn't really working. And when I once mustered the courage and I went to {{< var adler >}}, to the {{< var nesher >}} himself, to see if he would include me into his troupe, he actually received me well. He said that he has already heard a lot of good things about me, but he still can't include me in the troupe, because it’s not up to him.
+So that's how thing were when I went back to Brownsville from Boston. It was very bad for me then, and together with the comedian {{< var frank >}}, I managed to pull through and earn a few dollars from a performance here and there, but it wasn't really working. Once, I mustered the courage to go to {{< var adler >}}, the {{< var nesher >}} himself, to see if he would include me into his troupe. He actually received me well. He said that he has already heard a lot of good things about me, but he still couldn't include me in the troupe, because it’s not up to him.
 
 -- Talk to them - he said - with the company; If they don't mind, I'll let you in...
-
 
 And who was "the company?" The actors of the troupe. And with them there was nothing to say...
 
@@ -26,24 +25,26 @@ And then {{< var abba-full >}} came to my aid again, and things started to go we
 
 ::: {layout-ncol="2"}
 
-He was back again in Boston, the restless {{< var abba-full >}}, and he sent me a telegram to tell me to come there immediately with my wife, because he already has big plans has assembled a really impressive troupe; the manager of the troupe was none other than [Lazar Mitnick](https://www.museumoffamilyhistory.com/yt/lex/M/mitnick-leiser.htm) himself, a Jew who really loved the theater up to his ears, and among the actors were the famous prima donna [{{< var berta >}}](https://www.museumoffamilyhistory.com/yt/lex/T/tanzman-berta.htm) and her husband [{{< var tanzman-full >}}](https://www.museumoffamilyhistory.com/yt/lex/T/tanzman-avraham-itzhak.htm), who wasn't "just anybody" but someone the public loved very much. Dramas, melodramas and operettas will be staged, and - it will be good...
+Restless as ever, {{< var abba-full >}} was back in Boston, and he sent me a telegram telling me to come there immediately with my wife, because he had big plans and had assembled a really impressive troupe. The manager of the troupe was none other than [Lazar Mitnick](https://www.museumoffamilyhistory.com/yt/lex/M/mitnick-leiser.htm) himself, a Jew who really loved the theater up to his ears, and among the actors were the famous prima donna [{{< var berta >}}](https://www.museumoffamilyhistory.com/yt/lex/T/tanzman-berta.htm) and her husband [{{< var tanzman-full >}}](https://www.museumoffamilyhistory.com/yt/lex/T/tanzman-avraham-itzhak.htm), who wasn't "just anybody" but someone the public loved very much. Dramas, melodramas, and operettas will be staged, and - it will be good...
 
 
 ![Article published on September 27th, 1895 in {{< var der-emes >}}, a short-lived Boston newspaper. It announces that, although it was previously thought Boston Jews were not "theater-goers" enough to support a Yiddish theater, now a Yiddish theater is opening under the direction of Mitnick, [{{< var rothstein >}}](https://www.museumoffamilyhistory.com/yt/lex/R/rothstein-elias.htm), and {{< var tanzman >}}. So, for at least one season there will be Yiddish in Boston and the hopefully the actors will be able to make a living - why not? [(Source)](https://www.nli.org.il/en/newspapers/emet/1895/09/27/01/article/17/)](../img/newspaper_clippings/1895-09-27_deremes.png){#fig-deremes width="2in"}
 
 :::
 
-I, of course, drove straight away to Boston again, and there I soon saw that the leading man on the stage was not {{< var schoen >}}, but {{< var tanzman >}}; and that really wasn't to my liking, because I got along better with {{< var schoen >}} than with {{< var tanzman >}}. I knew that the main thing on {{< var tanzman >}}'s mind was that his wife the prima donna be the main attraction on the stage, and on top of that, he didn't like when another actor performed better in a role than he did...
+Of course, I drove straight away back to Boston, and there I soon saw that the leading man on the stage was not {{< var schoen >}}, but {{< var tanzman >}}. That really wasn't to my liking, because I got along better with {{< var schoen >}} than with {{< var tanzman >}}. I knew that the main thing on {{< var tanzman >}}'s mind was that his wife the prima donna be the main attraction on the stage, and on top of that, he didn't like when another actor performed better in a role than he did...
 
-Because of his wife the prima donna, {{< var tanzman >}} decided that in Boston we would start with an operetta, with {{< var goldfaden >}}'s {{< var meilitz >}}^[Read the whole play, in Yiddish, [in Google Books](https://www.google.com/books/edition/מליץ_יושר/ZUQQAAAAYAAJ).] That's what he wanted, because in this operetta his wife would have a very good role, and most of all she excelled in the song {{< var wonders >}} which the really audience loved to hear.
+Because of his wife, {{< var tanzman >}} decided that in Boston we would start with an operetta, with {{< var goldfaden >}}'s {{< var meilitz >}}^[Read the whole play, in Yiddish, [in Google Books](https://www.google.com/books/edition/מליץ_יושר/ZUQQAAAAYAAJ).] That's what he wanted, because in this operetta his wife would have a very good role, and most of all she excelled in the song {{< var wonders >}} which the really audience loved to hear.
 
-In general, the public in those times loved to hear the songs that were sung in plays^[The Jews loved their show tunes!], and more than anything they loved {{< var goldfaden >}}'s songs, and possibly this is due to their subject matter. The songs were authentically Jewish^[עכט–יידיש], and people quickly learned them and sang them everywhere.
+In general, audiences back then loved Yiddish showtunes, and more than anything they loved {{< var goldfaden >}}'s songs, and possibly this is due to their subject matter. The songs were authentically Jewish^[עכט–יידיש], and people quickly learned them and sang them everywhere.
 
-Today, most of these songs have been forgotten and they are no longer sung. Neither in the theater nor the home. And that's why I think it's necessary to mention them, and that's really what I'm doing in writing about my life at the Yiddish theater. It is really worthwhile to remember those Yiddish songs of yesteryear - songs that were sung on the Yiddish stage and in hundreds of thousands of Jewish homes all over the world. I will also do the same, then, with the song {{< var wonders >}} from {{< var goldfaden >}}'s operetta {{< var meilitz >}}, which was so beloved by audiences, and so I implore those who still remember the song to read it and sing the song to yourself, and you will certainly enjoy it very much.
+Today, most of these songs have been forgotten and are no longer sung, neither in theaters nor at home. And that's why I think it's necessary to mention them, and that's really what I'm doing in writing about my life at the Yiddish theater. It is really worthwhile to remember those Yiddish songs of yesteryear - songs that were sung on the Yiddish stage and in hundreds of thousands of Jewish homes all over the world. I will also do the same, then, with the song {{< var wonders >}} from {{< var goldfaden >}}'s operetta {{< var meilitz >}}, which was so beloved by audiences, and so I implore those who still remember the song to read it and sing the song to yourself, and you will certainly enjoy it very much.
 
 So let's all sing it together^[You can [sing along](https://www.youtube.com/watch?v=ahdVAOBb-20) too with the first two verses, with lyrics in Yiddish and English!]:
 
-> ^[This translation is from [Yiddish Penny Songs](http://www.yiddishpennysongs.com/2016/04/gots-vunder-gottes-wunder-yiddish.html), but rearranged to better match the order of words in Yiddish. The lyrics at the link are somewhat rearranged for English speakers.]Once, the nation concerned itself
+> ^[This translation is from [Yiddish Penny Songs](http://www.yiddishpennysongs.com/2016/04/gots-vunder-gottes-wunder-yiddish.html), but rearranged to better match the order of words in Yiddish. The lyrics at the link are somewhat rearranged for English speakers.]
+
+> Once, the nation concerned itself
 >
 > With listening to an influential man,
 >
@@ -101,7 +102,7 @@ And you had to see how the audience gaped when the prima donna sang it. It was a
 >
 > in the land of Egypt.
 >
-> They were very stronglytrongly oppressed there
+> They were very oppressed there
 >
 > Until God heard their lamentations,
 >
@@ -177,7 +178,7 @@ In this way, the story of the manna in the desert, where {{< var moses >}}^[Mose
 >
 > faithful children of mine.
 
-Everyone knew what was coming next, and they were very, very anxious to hear it. It appealed to the heart. It spoke to the soul. They licked their fingers, they delighted in it.
+Everyone knew what was coming next, and they were very, very anxious to hear it. It appealed to the heart. It spoke to the soul. They licked their fingers and delighted in it.
 
 {{< var Nu >}}, let's sing together again:
 
@@ -191,12 +192,11 @@ Everyone knew what was coming next, and they were very, very anxious to hear it.
 >
 > He wanted to finish them off
 >
->
 > they would have been lost.
 >
 > But God gave a whistle – in fear
 >
-> the ocean congealed/hardened.
+> the ocean hardened.
 >
 > And Pharaoh's soldiers
 >
@@ -214,6 +214,6 @@ Here, not only the chorus, but also the crowd joined in to sing refrain, and the
 
 > _I have not translated these final lyrics, since they were not provided at the [Yiddish Penny Songs link](http://www.yiddishpennysongs.com/2016/04/gots-vunder-gottes-wunder-yiddish.html), and my attempted word-for-word translation is mediocre. Instead, here is the gist of the "plot":_
 >
-> _In this verse, they receive the 10 commandments. God warns he will punish the Jews if they forsake him, and they will no longer see his wonders or miracles if they do not remain his good, kind, faithful people._
+> _In this verse, they receive the 10 commandments. God warns he will punish the Jews if they forsake him, and they will no longer see his wonders or miracles if they do not remain his good, kind, faithful children._
 
-Thus went {{< var goldfaden >}}'s song {{< var wonders >}} in this historical operetta, which he called {{< var meilitz-long >}}. And no one should have any complaints for me because I have given the whole song here, from beginning to end^[Indeed, his _full set_ of lyrics may be among the last remaining transcriptions.]. I simply could not resist the temptation and I had to convey it here in its entirety, because while writing it I was singing it to myself, and I felt that I had to sing it the the whole way through. And I'm sure that those who still remember this song will also sing it to themselves when they read it, and they will be pleased that I reminded them of a beautiful old Yiddish song, that was once sung on stages everywhere that Yiddish theater was played and also in thousands and thousands of Jewish houses all over the world...
+Thus went {{< var goldfaden >}}'s song {{< var wonders >}} in this historical operetta, which he called {{< var meilitz-long >}}. And no one should have any complaints for me because I have given the whole song here, from beginning to end^[Indeed, his _full set_ of lyrics may be among the last remaining transcriptions.]. I simply could not resist the temptation and I had to convey it here in its entirety, because while writing it I was singing it to myself, and I felt that I had to sing it the the whole way through. And I'm sure that those who still remember this song will also sing it to themselves when they read it, and they will be pleased that I reminded them of a beautiful old Yiddish song, that was once sung on stages everywhere that Yiddish theater was played and also in thousands and thousands of Jewish homes all over the world...
