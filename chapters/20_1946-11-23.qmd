@@ -2,21 +2,21 @@
 
 ##### _Link to [Forverts edition](https://www.nli.org.il/en/newspapers/frw/1946/11/23/01/)_ {.unnumbered}
 
-> How Yiddish theater used to be played in the provinces. -- The true owners of the plays were not the writers, but the suppliers.
+> How Yiddish theater used to be performed in the provinces. -- The true owners of the plays were not the writers, but the suppliers.
 
-Mr. {{< var himmelfarb >}}'s plan was comprised of this - he had established a club in Cincinnati into which he brought all the good Jews who really loved the Yiddish theater with all their hearts. He made them members of the club; and everyone paid a certain amount, and officials were elected and meetings were held, and it was that we would play what the audience - the members of the club - asked for.
+Mr. {{< var himmelfarb >}}'s plan was comprised of this - he had established a club in Cincinnati into which he brought all the {{< var voyle-yiden >}} who truly loved the Yiddish theater with all their hearts. He made them members of the club: Everyone paid a certain amount, officials were elected, and meetings were held. It was decided that we would put on what the audience - meaning, the members of the club - asked us to.
 
 -- You understand, - Mr. {{< var himmelfarb >}} said to us, - here in Cincinnati, we love historical plays. {{< var Nu >}}, we want your first performance to be {{< var barkochba >}}. Can you play {{< var barkochba >}}?
 
-We didn't need to think for a long time about what kind of answer we should give him. The answer was very short:
+We didn't need to think for a long time about how to answer. Our answer was very short:
 
 -- {{< var Nu >}}, of course we can play {{< var barkochba >}}. What can't we play?...
 
-It was really touching to see how the Jewish community in Cincinnati yearned for historical operettas like {{< var goldfaden >}}'s. So touching that, even if we didn't know {{< var barkochba >}}, or all of {{< var goldfaden >}}'s other historical operettas that we performed there later, we would not have had the heart to refuse to them.
+It was really touching to see how the Jewish community in Cincinnati yearned for historical operettas like {{< var goldfaden >}}'s. So touching that, even if we didn't know {{< var barkochba >}}, or all of {{< var goldfaden >}}'s other historical operettas that we would later perform there, we would not have had the heart to refuse to them.
 
 And you should have seen what joy there was in Cincinnati at our first performance of {{< var barkochba >}}!
 
-They, all the Jews of Cincinnati who came to see us perform {{< var goldfaden-full >}}'s hysterical operetta, carried themselves with a poise that felt closer times of {{< var bar-kochba-person >}} than to the times in which they lived. And when it came to the song {{< var zions-daughters >}}^[{{< var sam >}} calls this song "Zion's daughters are all crying," which is actually the [first line of the song](https://fau.digital.flvc.org/islandora/object/fau%3A81016) but not its actual title.], there was no need for a choir at all, because almost everyone in the theater sang with us. You only had to start the song, and soon everyone sang along:
+All the Jews of Cincinnati who came to see us perform {{< var goldfaden-full >}}'s hysterical operetta carried themselves with a poise that felt closer times of {{< var bar-kochba-person >}} than to the times in which they lived. And when it came to the song {{< var zions-daughters >}}^[{{< var sam >}} calls this song "Zion's daughters are all crying," which is actually the [first line of the song](https://fau.digital.flvc.org/islandora/object/fau%3A81016) but not its actual title.], there was no need for a choir at all, because almost everyone in the theater sang with us. You only had to start the song, and soon everyone sang along:
 
 > ^[Translation by me, hopefully not _too_ bad!]Zion's daughters are all crying,
 >
@@ -43,7 +43,7 @@ They, all the Jews of Cincinnati who came to see us perform {{< var goldfaden-fu
 > Until you come to our aid.
 
 
-The audience nodded along while singing. And they nodded along even more when we reached the part of the song about the {{< var khurbn >}}^[destruction. This term, in Yiddish, is used to describe the destruction of the first and second Temples, and the Holocaust. It specifically implies a catastrophic event in the Jewish collective memory.] of Jerusalem.
+The audience nodded along while singing. And they nodded along even more when we reached the part of the song about the {{< var khurbn >}}^["destruction." This Yiddish term specifically implies a catastrophic event in the Jewish collective memory. It is used for the destruction of the first and second Temples, as well as the Holocaust.] of Jerusalem.
 
 > Rich as a king with diamonds
 >
@@ -55,9 +55,9 @@ The audience nodded along while singing. And they nodded along even more when we
 >
 > The stars amidst the moon,
 >
-> We would gaze upon from it;
+> We would gaze upon it;
 >
-> And today she is a widow
+> And today she is a widow,
 >
 > And we are orphaned from her.
 
@@ -73,7 +73,7 @@ And then again, louder than before:
 >
 > Until you come to our aid.
 
-Especially when we got to the song {{< var shepherd >}}^[Listen [here on Spotify!](https://open.spotify.com/track/6ZWCRTbEXndPo7SqVtiStt?si=642fce1b9c214167)]! With this, they didn't necessarily sing along all together, but they all sung the song with us in their hearts, and they lapped up every word and delighted in it:
+The audience especially loved when we got to the song {{< var shepherd >}}^[Listen [here on Spotify!](https://open.spotify.com/track/6ZWCRTbEXndPo7SqVtiStt?si=642fce1b9c214167)]! They didn't necessarily sing along all together, but they all sung the song with us in their hearts, and they lapped up every word and delighted in it:
 
 > ^[Again, translated by me! Hopefully not _too_ bad!]There once was a little shepherd
 >
@@ -106,7 +106,7 @@ And here people would sing along with this beautiful and lively tune. As everyon
 >
 > Yes, full of charm.
 >
-> To tell and listen to this.
+> To tell and listen to this tale.
 >
 > Yes, not at all loathesome,
 >
@@ -114,7 +114,7 @@ And here people would sing along with this beautiful and lively tune. As everyon
 
 That's how the song went in the form of a little tale, a story told in rhyme. And as it proceeded, people listened closely to the story. People could listen to it over and over, because how could they not - it was, after all, so beautiful and full of charm! They really implored us to sing it again:
 
-> Reb Moishe^[Moses] went the wrong way
+> Reb {{< var moishe >}}^[Moses] went the wrong way
 >
 > And soon he realized!
 >
@@ -126,7 +126,7 @@ That's how the song went in the form of a little tale, a story told in rhyme. An
 >
 > The richest of magnates,
 >
-> And (can't translate this),
+> And [can't translate this],
 >
 > That you should knead clay! -
 >
@@ -138,42 +138,34 @@ That's how the song went in the form of a little tale, a story told in rhyme. An
 >
 > Oh, come home to your land!"
 
-We had to play {{< var barkochba >}} several times in Cincinnati, and whenever we played this {{< var goldfaden >}} historical operetta, a large audience came. We also often played {{< var shulamith >}}, as well as other historical operettas. And we didn't have to worry about income at the cash register, because the members of the club that Mr. {{< var himmelfarb >}} established worked like bees; They sold tickets, they distributed leaflets, and in general they did everything in their power to make our performances a success. And that's how Cincinnati became a good city for Yiddish theater, and during that time, there wasn't a single Jewish household where songs from the historical Jewish operettas were not sung.
+We had to play {{< var barkochba >}} several times in Cincinnati, and whenever we played this {{< var goldfaden >}} historical operetta, a large audience came. We also often played {{< var shulamith >}}, as well as other historical operettas. There was no need to worry about income at the cash register, because the members of the club that Mr. {{< var himmelfarb >}} established worked like bees; They sold tickets, they distributed leaflets, and in general they did everything in their power to make our performances a success. And that's how Cincinnati became a good city for Yiddish theater, and during that time, there wasn't a single Jewish household where songs from the historical Jewish operettas were not sung.
 
 The members of the club treated all three of us - {{< var frank >}}, {{< var jakele-full >}}, and I - with the greatest deference, and they were ready to do anything in the world for us. Whatever we wanted, they did it. Nothing was too difficult for them to do to satisfy us. And they also did a lot for us, because we had agreed that, whatever kind of play they wanted to see, we would play it for them. Everything was, as we say in the theater dialect^[Literally a Yiddish dialect that grew around the theater: טעאטער–לשון] - "at the request of the highly esteemed public."
 
-I remember how once Mr. {{< var himmelfarb >}} said to us, that the public requests that we play [{{< var blimele >}}](https://www.loc.gov/item/ihas.200182090/)^[A [program](https://digitalcollections.nypl.org/items/9b980e00-436d-0133-e479-00505686a51c#/?uuid=9bece540-436d-0133-9eac-00505686a51c) from a {{< var boris >}} production of this {{< var lateiner-full >}} play in 1910]... They want to see {{< var blimele >}} because they had heard a lot about it, and they wanted to know if we were familiar with the play {{< var blimele >}}.
+I remember how once Mr. {{< var himmelfarb >}} said to us, that the public requests that we play [{{< var blimele >}}](https://www.loc.gov/item/ihas.200182090/)^[A [program](https://digitalcollections.nypl.org/items/9b980e00-436d-0133-e479-00505686a51c#/?uuid=9bece540-436d-0133-9eac-00505686a51c) from a {{< var boris >}} production of this {{< var lateiner-full >}} play in 1910]... They wanted to see {{< var blimele >}} because they had heard a lot about it, and they wanted to know if we were familiar with the play {{< var blimele >}}.
 
 When we heard this, we were faced with a big dilemma because none of us has see {{< var blimele >}} before, and we also didn't have a copy of the play.
 
 But {{< var jakele-full >}} knew one thing - you don't turn down {{< var himmelfarb >}}. So he answered right there on the spot:
 
--- Good! You want us to play {{< var blimele >}} for you, so we will play {{< var blimele >}}. Just give us a little time and everything will be alright.
+-- Good! You want us to put on {{< var blimele >}} for you, so we will put on {{< var blimele >}}. Just give us a little time and everything will be alright.
 
 
-In those times, actors in the provinces generally didn't care much about such a thing as paying "royalties" to the playwrights; Nobody asked them for permission to put on their play, and nobody paid them. Many of the plays that were performed were printed in special little books that you could buy for a few cents. And those that were not re-printed but remained as manuscripts also passed from hand to hand, and it was not difficult to get a copy and put on the play when you wanted, where you wanted, and as many times as you wanted.
+In those times, actors in the provinces generally didn't care much about such a thing as paying "royalties" to the playwrights; Nobody asked them for permission to put on their play, and nobody paid them. Many of the plays that were performed were printed in special little books that you could buy for a few cents. And those that were not re-printed but remained as manuscripts also passed from hand to hand. It wasn't difficult to get a copy and put on the play when you wanted, where you wanted, and as many times as you wanted.
 
-You could usually get those kinds of copies from suppliers in the New York Yiddish theaters. They used to simply rewrite each play, make several copies of it, and sell those copies to anyone who was interested in buying them. And the most skilled of them were two suppliers, who are now already in the next world^[They had passed away]; From them you could get any kind of play you wanted, and it didn't cost much - for one dollar you could get a copy of a rewritten play, an old one or a new one. And if you ever paid two dollars, you were really paying a lot...
+You could usually get those kinds of copies from suppliers for the New York Yiddish theaters. They used to simply rewrite each play, make several copies of it, and sell those copies to anyone who was interested in buying them. And the most skilled of them were two suppliers, who have since passed away. You could get any kind of play you wanted from you, and it didn't cost much - for one dollar you could get a copy of a rewritten play, an old one or a new one. And if you ever paid two dollars, you were really overpaying...
 
-That's how it was in those days: for a dollar or two, you could buy a play and then you became its owner. Playwrights did not think about being paid "royalties." It had not occurred to anyone that this was necessary, and that the true owner of the play was the playwright and not the supplier who rewrote it.
+That's how it was in those days. For a dollar or two, you could buy a play and then you became its owner. Playwrights did not think about being paid "royalties." It had not occurred to anyone that this was necessary, and that the true owner of the play was the playwright and not the supplier who had rewritten it.
 
-In this way, we also got {{< var lateiner >}}'s piece {{< var blimele >}}, which was also called the which was also called {{< var blimele-other >}}. For one dollar, one of those two suppliers sent us a scribbled copy of the piece, and the parts of the script that we couldn't make out, we supplied them ourselves. {{< var jakele-full  >}} tried his hand at it, and he wrote down whatever he wanted or whatever occurred to him. We also added scenes of our own. And soon roles were assigned, rehearsals were held, and when it was ready, we performed {{< var blimele >}} with such a bang that everyone was very impressed.
+This is how we got {{< var lateiner >}}'s piece {{< var blimele >}}, which was also called {{< var blimele-other >}}. For one dollar, one of those two suppliers sent us a scribbled copy of the piece, and the parts of the script that we couldn't make out, well, we wrote them ourselves. {{< var jakele-full >}} tried his hand at it, and he simply wrote whatever he wanted or whatever occurred to him. We also added scenes of our own. And soon roles were assigned, rehearsals were held, and when it was ready, we performed {{< var blimele >}} with such a bang that everyone was very impressed.
 
 It was such a hit, that when another troupe came to Cincinnati some time later and played {{< var lateiner >}}'s {{< var blimele >}} exactly as it was written, people turned their noses up and said:
 
 -- No, that's not it...
 
-We had quite the experience playing {{< var blimele >}}  in Cincinnati.
+We had quite the experience playing {{< var blimele >}} in Cincinnati.
 
-All in all, we played in Cincinnati for six months, and during those six months things were really good. And, as it usually goes with actors, we all started to dress "in vinegar and honey"^[dress to the nines], and we bought the best diamond rings and nice gold watches, and we were able to save a little money too. And our imaginations started running wild about how it will go later, and we really thought that we would conquer the world.
+All in all, we played in Cincinnati for six months, and during those six months things were really good. And, as it usually goes with actors, we all started to dress "in vinegar and honey"^[dressed to the nines], and we bought the best diamond rings and nice gold watches, and we were able to save a little money too. And our imaginations started running wild about how it will go later, and we really thought that we would conquer the world.
 
 But there's no telling where the imagination leads you, an ordinary person, especially an actor...
-
-
-
-
-
-
-
-
 

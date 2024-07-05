@@ -162,6 +162,8 @@ _{{< var nathanson-full >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/T/thomashefsky-bessie.htm)
 - _Mendel Teplitzky_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/T/teplitzky-mendel.htm)
+- _Samuel Tobis_
+  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/T/tobias-samuel.htm)
 - _{{< var vakhtel-full >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/V/vakhtel-yosef.htm)
 - _{{< var weinb-full >}}_

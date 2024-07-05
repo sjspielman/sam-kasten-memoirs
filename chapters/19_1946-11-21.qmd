@@ -2,13 +2,13 @@
 
 ##### _Link to [Forverts edition](https://www.nli.org.il/en/newspapers/frw/1946/11/21/01/)_ {.unnumbered}
 
-> Our troupe puts on {{< var gordin >}}'s plays in Cincinnati and wins the trust of the Jewish theater world. - How [Clara Rafalo](https://www.museumoffamilyhistory.com/yt/lex/R/rafalo-clara.htm) became an actress.
+> Our troupe puts on {{< var gordin >}}'s plays in Cincinnati and wins the trust of the Jewish theater world. - How [{{< var clara-rafalo >}}](https://www.museumoffamilyhistory.com/yt/lex/R/rafalo-clara.htm) became an actress.
 
-No one in Cincinnati wanted to help us take the first step to play Yiddish theater and earn a little money. It was as if all the good Jews in the city had suddenly all agreed to "blow cold," because they had just been burned. And this really irritated us so much since we wanted to show that we are good people. On top of that we had to do something about our situation because we didn't have the expenses to continue. 
+No one in Cincinnati wanted to help us take the first step to play Yiddish theater and earn a little money. It was as if all the {{< var voyle-yiden >}} in the city had suddenly all agreed to "blow cold," because they had just been burned. And this really irritated us since we wanted to show that we were good people. On top of that, we had to do something about our situation because we didn't have much to live on.
 
-With the few pennies we still had, we went to look for a suitable hall where we could play at least one show. And we just found such a hall and they requested from us merely than 15 dollars for the evening.
+With the few pennies we still had, we went to look for a suitable hall where we could play at least one show. The hall we found requested merely 15 dollars for the evening.
 
--- We have to play here - {{< var jakele-full >}} said. - Come thunder and lightning, we will give a performance here. And we want to perform {{< var gordin-full >}}'s {{< var jewish-priest >}}^[Available, in Yiddish handwritten script, from the [YIVO Archives](https://digipres.cjh.org/delivery/DeliveryManagerServlet?dps_pid=IE2725799)]. This is a strong melodrama and we will blow them away with it...
+-- We have to play here - {{< var jakele-full >}} said. - Come thunder and lightning, we will give a performance here. And we'll put on {{< var gordin-full >}}'s {{< var jewish-priest >}}, a powerful melodrama that we will blow the audiences away with...
 
 But where could we get a little money for the necessary expenses?
 
@@ -16,29 +16,29 @@ But where could we get a little money for the necessary expenses?
 
 -- And we'll also need to sell our coats. - {{< var frank >}} replied.
 
-This made us laugh because he, {{< var der-roiter >}}^["the red one"; he was a redhead] as we called Frank, wore such a shabby coat that no one would given him even three bucks for it^[Not 100% confident in the exact wording of this translation, but the concept is correct.]...
+This made us laugh because he, {{< var der-roiter >}}^["the red one"; he was a redhead] as we called {{< var frank >}}, wore such a shabby coat that no one would have given him even three bucks for it...
 
-Then we sold the watches and some other things that had a value, and this gave us the opportunity to put matters into our own hands. And after when we put a down payment on the hall and already had printed tickets, we went back to Mr. {{< var himmelfarb >}} with a request - indeed, the same request that we had had for him before:
+Then we sold the watches and some of our other valuables, which gave us the chance to take matters into our own hands. After we put a down payment on the hall and printed tickets, we went back to Mr. {{< var himmelfarb >}} with a request - indeed, the same request that we had had for him before:
 
 -- Do us a {{< var toive >}}, Mr. {{< var himmelfarb >}}, and sell tickets to our show; We already have a hall to play in and a piece to perform. You will see soon enough...
 
-This time Mr. {{< var himmelfarb >}} did not drive us out; He listened to us calmly and peacefully, and then he said:
+This time Mr. {{< var himmelfarb >}} did not drive us out. He listened to us calmly and peacefully, and then he said:
 
--- {{< var Nu >}}, {{< var mila >}}^["so be it"], I will take tickets from you to sell, but you should know I will not hand over the money I collect from selling the tickets right away; You'll get it only after you perform the play...
+-- {{< var Nu >}}, {{< var mila >}}^["so be it"], I will take tickets from you to sell, but I will not hand over the money I collect from selling the tickets right away; You'll get it only after you perform the play...
 
-Apparently, he was still afraid that we would take the money and run off. And we couldn't blame him, and we told him that we didn't think any other way, and that we indeed should receive the money only after we put on the performance.
+Apparently, he was still afraid that we would take the money and run off. And we couldn't blame him. We told him that we didn't think it should be any other way - we indeed get the money only after we put on the performance.
 
-Just then there was another Jew in the store, and when he heard us doing business, he said that he too would take tickets to sell; And just like Mr. {{< var himmelfarb >}}, he too will only give us the money after first the performance, not before.
+Just then, there was another Jew in the store, and when he heard us doing business, he said that he too would take tickets to sell; And just like Mr. {{< var himmelfarb >}}, he too will only give us the money after first the performance, not before.
 
-That Jew, by the way, was more sympathetic to us from the beginning than was Mr. {{< var himmelfarb >}}, who was obviously always afraid that we were going to make a fool of him. He brought in his daughter to join us, a young lady^[She would have been 14-16 years old] who had a strong desire to play theater. And as we were looking to bring in a young lady for a role in {{< var gordin-full >}}'s play {{< var jewish-priest >}}, we gave her the opportunity to play, and after that she remained an actress and she made a name for herself on the Yiddish stage in the provinces, and later also in New York. She was the actress {{< var clara-rafalo >}}.
+That Jew, by the way, was more sympathetic to us from the beginning than was Mr. {{< var himmelfarb >}}, who was obviously always afraid that we were going to make a fool of him. He brought in his daughter to join us, a young lady^[She would have been 14-16 years old] who had a strong desire to play theater. And as we were looking to bring in a young lady for a role in {{< var gordin-full >}}'s play {{< var jewish-priest >}}, we gave her the opportunity to play. Afterwards, she remained an actress and made a name for herself on the Yiddish stage in the provinces, and later also in New York. She was the actress {{< var clara-rafalo >}}.
 
 At the time, we didn't have anything to eat besides bread and herring, and all the energy we had, we exerted to show the Jews in Cincinnati that actors aren't "runners" or lawless delinquents, and we don't just grab any money and run off with it...
 
 It was simply our mission in life to show them this. It was as though it fell upon the three of us - {{< var frank >}}, {{< var jakele-full >}}, and me - to rescue the honor of the Yiddish theater profession in the eyes of the Cincinnati Jews...
 
-The three of us made up our minds to play like this - as though the whole audience consisted of the greatest theater connoisseurs. And we therefore worked diligently during our rehearsals. And all-in-all, it was very difficult, because the "troupe" we had quickly assembled consisted of beginners, as it usually went when traveling the provinces. And the three of us, {{< var frank >}}, {{< var jakele-full >}}, and I, took it upon ourselves to play two roles each, and we generally divided things up so that we wouldn't be short of anything.
+The three of us decided to perform as though the audience was full of of the greatest theater connoisseurs. And we therefore worked diligently during our rehearsals. And all-in-all, it was very difficult, because the troupe we had quickly assembled consisted of beginners, as it usually went when performing in the provinces. {{< var frank >}}, {{< var jakele-full >}}, and I took it upon ourselves to play two roles each, and we generally divided up tasks and roles so that everything would be taken care of.
 
-In no other city did we prepare for a performance the way we prepared for that performance in Cincinnati. And something really just happened by chance, that on the day of the performance, in the early morning hours, snow began to fall - a snow that really chilled you to the bone. And when they opened the box office that evening, our eyes grew darker and darker because the number of the Jews who came to the box office to buy tickets was so small that only God could take pity on us...
+In no other city did we prepare for a performance the way we prepared for that performance in Cincinnati. But then just my chance, in the early morning hours of the day of the performance, it began to snow - a snow that really chilled you to the bone. When they opened the box office that evening, our eyes grew darker and darker because the number of the Jews who came to the box office to buy tickets was so small that only God could take pity on us...
 
 All in all, we brought in no more than twenty dollars at the register, and we immediately had to return the wardrobe of the clothes we had borrowed for the play {{< var jewish-priest >}}. After all, you can't perform without it.^[Something is wrong with this little paragraph but I can't quite figure it out. Unclear if it's about returning or borrowing.]
 
@@ -50,13 +50,13 @@ Apparently, they thought that by now we would run off - that we would take the l
 
 You could tell that's what they were thinking from what Mr. {{< var himmelfarb >}} told us very openly:
 
--- I sold tickets for around 70 dollars - he told us, - and he too - he pointed to the father of {{< var clara-rafalo >}} - sold tickets for a sum of around 30 dollars. All in all we have about a hundred dollars for you. But I am, you understand me, a Jew of my word, and as I have already told you, I will not put any money in your hand until I am really sure that you will actually perform, and I will only be sure of this when I see you on stage...
+-- I sold around $70 worth of tickets - he told us, - and he too - he pointed to the father of {{< var clara-rafalo >}} - sold around $30 worth of tickets. All in all, we have about $100 for you. But I am, you understand me, a Jew of my word, and as I have already told you, I will not put any money in your hand until I am really sure that you will actually perform, and I will only be sure of this when I see you on stage...
 
-He certainly meant no harm, Mr. {{< var himmelfarb >}}, who loved Yiddish theater very much; But he couldn't forget that he had already paid dearly for putting his trust in the traveling Yiddish actors who played in the provinces. And I remember how then {{< var frank >}}, the comedian, suddenly became very serious. So serious that the whole expression on his face suddenly changed. And after the two Jews left, he said to us:
+He certainly meant no harm, Mr. {{< var himmelfarb >}}, who loved Yiddish theater very much; But he couldn't forget that he had already paid dearly for putting his trust in the traveling Yiddish actors who played in the provinces. I remember how {{< var frank >}}, the comedian, suddenly became very serious - so serious that the whole expression on his face suddenly changed. And after the two Jews left, he said to us:
 
 -- Listen, children: Even if the world turns upside down, today we play theater, and indeed in such a way that they will never forget!...
 
-As bad as the weather was outside, a crowd gradually arrived. Those who had already bought tickets from the two Jews prior to the show, who did not trust us at all, showed up. And when we saw that there was already a crowd in the theater and that we couldn't wait any longer, because nobody else was showing up anyways, we got dressed for the roles, and that's it. We were so shaken and rattled that we hardly spoke to each other. And more on edge than all of us was {{< var jakele-full >}}; He was pensive, serious, sullen -  he was completely absorbed in himself. And when he finished dressing for the first role he had in the play, he came up to me and {{< var frank >}} and said:
+As bad as the weather was outside, a crowd gradually arrived. Those who had already bought tickets from the two Jews showed up. And when we saw that there was already a crowd in the theater and that we couldn't wait any longer, because nobody else was showing up anyways, we got dressed for the roles, and that's it. We were so shaken and rattled that we hardly spoke to each other. And more on edge than all of us was {{< var jakele-full >}}; He was pensive, serious, sullen -  he was completely absorbed in himself. And when he finished dressing for the first role he had in the play, he came up to me and {{< var frank >}} and said:
 
 -- Listen, {{< var chevreh >}}, if he, Mr. {{< var himmelfarb >}}, wants to give us the money for the tickets after the first act - don't take it!... We have time until after the performance. But remember what I'm telling you and follow me - don’t take it!... But really, not even a penny, before the performance is over...
 
