@@ -6,3 +6,5 @@
 .Rproj.user
 
 spell_check_errors.tsv
+
+*.code-workspace
