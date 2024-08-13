@@ -2,19 +2,19 @@
 
 ##### _Link to [Forverts edition](https://www.nli.org.il/en/newspapers/frw/1947/02/01/01/)_ {.unnumbered}
 
-> When {{< var mogu >}} was ill, he came to Philadelphia to play in my benefit performance. -- A scene that took place behind the curtain that can't be forgotten.
+> When {{< var mogu >}} was ill, he came to Philadelphia to play in my benefit performance. -- A scene that took place backstage that can't be forgotten.
 
-When it was announced around Philadelphia that {{< var mogu >}} will appear in {{< var greenhorns >}} in Arch Street Theater, all the tickets were bought up in a mere three days time. The announcements were big and bold, and read:
+When it was announced around Philadelphia that {{< var mogu >}} will appear in {{< var greenhorns >}} in the Arch Street Theater, all the tickets were bought up in a mere three days time. The announcements were big and bold, and read:
 
--- The greatest three comedians of the Yiddish stage - {{< var mogu-full >}}, {{< var sam-full >}}, and {{< var frank-full >}} - in one performance."
+**The greatest three comedians of the Yiddish stage - {{< var mogu-full >}}, {{< var sam-full >}}, and {{< var frank-full >}} - in one performance.**
 
-They did need to say anything more than that. The rush for tickets was so great, that if there were more room in the theater, three times as many could have been sold. {{< var Nu >}}, it goes without saying that I felt like I was in seventh heaven, and I was thankful to {{< var mogu >}} with all my heart for not turning me down. In the letter which I wrote him at the time, I relayed how the audiences in Philadelphia were eagerly expecting him, and he could be sure that he would receive such an ovation in the theater that he'd never forget for the rest of his life. Everyone was talking about the performance, and everyone was looking forward to seeing {{< var mogu >}}.
+They didn't need to say anything more. The rush for tickets was so great, that if there were more room in the theater, three times as many could have been sold. {{< var Nu >}}, it goes without saying that I felt like I was in seventh heaven, and I was thankful to {{< var mogu >}} with all my heart for not turning me down. In the letter I wrote him at the time, I told him how the Philadelphia audiences were eagerly expecting him, and he could be sure that he would receive such an ovation in the theater that he'd never forget for the rest of his life. Everyone was talking about the performance, and everyone was looking forward to seeing {{< var mogu >}}.
 
-But exactly one day before the performance, I received a telegram from New York that {{< var mogu >}} had again fallen seriously ill and is unable to speak, and therefore he would not be able to come to the performance. 
+But exactly one day before the performance, I received a telegram from New York that {{< var mogu >}} had again fallen seriously ill and was unable to speak, and therefore he would not be able to come to the performance. 
 
-When I read over the telegram, my eyes went dark. At first I suspected that {{< var molly >}} had made this up so that he wouldn't have to come perform. But soon I dismissed this suspicion because I knew that {{< var mogu >}} really was ill, and it was nothing new that he lost his speech and couldn't utter even one word.
+When I read over the telegram, my eyes went dark. At first I suspected that {{< var molly >}} had made this up so that he wouldn't have to come perform. But soon I dismissed this suspicion because I knew that {{< var mogu >}} really was ill, and he often lost his speech and wasn't able to utter even one word.
 
-There was no time to lose. The thought that when audiences found out that {{< var mogu >}} would not be coming they'd tear me to shreds had me unable to stay calm. And since I knew that back in New York, {{< var mogu >}} was under the care of {{< var held >}}- the brother of [Adolph Held](https://en.wikipedia.org/wiki/Adolph_Held), who was at that time, as I recall, the business manager of the {{< var forverts >}}, I straight away sent a telegram to {{< var held >}} that even if {{< var mogu >}} is unable to perform, would he allow him to come to Philadelphia just to present himself to the audiences, since this would surely save me. If not, {{< var khalilah >}}, I would be doomed and I would be simply ashamed to show my face in public again. 
+There was no time to lose. The thought that when audiences found out that {{< var mogu >}} would not be coming they'd tear me to shreds had me unable to stay calm. And since I knew that back in New York, {{< var mogu >}} was under the care of {{< var held >}}, the brother of [Adolph Held](https://en.wikipedia.org/wiki/Adolph_Held) who was at that time, as I recall, the business manager of the {{< var forverts >}}. I straight away sent a telegram to {{< var held >}} asking that even if {{< var mogu >}} was unable to perform, would he allow him to come to Philadelphia just to present himself to the audiences, since this would surely save me. If not, {{< var khalilah >}}, I would be doomed and I would be simply ashamed to show my face in public again. 
 
 I was really rattled over this, pacing around unsettled and disconcerted. And to this day, I can't forget how I rejoiced when I saw {{< var mogu >}} the next day. He didn't come to Philadelphia by himself, but together with {{< var molly >}} and {{< var held >}}. The good doctor, who had always held the talents of the great actors of the Yiddish theater in high regard, did not want to let {{< var mogu >}} travel to Philadelphia alone, so he therefore came with him. 
 
@@ -34,15 +34,15 @@ He turned and beseeched {{< var held >}}:
 
 And you just had to see how {{< var mogu >}} rejoiced when he heard this. He rejoiced like a child.
 
-It was difficult for him to perform. In the first few scenes, he was so quiet that you could barely hear what he was saying. But out of respect for him, the audience didn't think of such a thing as to demand that {{< var mogu >}} speak up. They understood that his illness was what made his voice was so soft.
+It was difficult for him to perform. In the first few scenes, he was so quiet that you could barely hear what he was saying. But out of respect for him, the audience didn't think of such a thing as to demand that {{< var mogu >}} speak up^[Note the implication that normally for any other actor, they would have yelled out for him to speak up already!]. They understood that his illness was what made his voice was so soft.
 
-But after he had played the first few scenes, a miracle suddenly happened and he perked up, and he began to speak so that everyone in the theater could hear what he said. The audience was so overjoyed that the whole theater resounded with applause. They heard {{< var mogu >}}'s voice, his beloved voice, which always charmed the audiences so, and they rejoiced. 
+But after he had played the first few scenes, a miracle suddenly happened. He perked up, and he began to speak so that everyone in the theater could hear what he said. The audience was so overjoyed that the whole theater resounded with applause. They heard {{< var mogu >}}'s voice, his beloved voice, which always charmed the audiences so, and they rejoiced. 
 
 The actors on the stage were also thrilled. 
 
 {{< var mogu >}} speaks!
 
-You could hear his voice now! You could hear it!
+You can hear his voice now! You can hear it!
 
 He proceeded to play the whole rest of his role such that, every gesture and every movement and every sparkle of his eye evoked enthusiasm from the audience. When the curtain fell, the theater was simply full of screams which for years and years had been heard across Yiddish theaters in Russia, Romania, and many other countries:
 
@@ -68,7 +68,7 @@ But I wasn't able to think much about what he meant by "{{< var Nu >}}," and tak
 
 She had no desire to obey him, and looking right at me and then at him, she started talking about what a sick man he was, such a sick man, and he needs to be looked after. With this, she obviously wanted to calm him down and remind him that now, as always, he must also follow her lead and not interfere in matters that he doesn't understand. But this time he was insistent and he held firm:
 
--- {{< var molly >}}, give him back the hundred! You heard what I said, {{< var molly >}}? Give him back the hundred!... I will be ashamed to look him straight in the eyes if you take that hundred from him ... He didn't force me to play at all, so I won't take anything from him...
+-- {{< var molly >}}, give him back the hundred! You heard what I said, {{< var molly >}}? Give him back the hundred!... I will be ashamed to look him in the eye if you take that hundred from him ... He didn't force me to play at all, so I won't take anything from him...
 
 And when he saw that she was still not willing to give the money back, he became angry:
 
@@ -84,4 +84,4 @@ He had known when he would leave, and therefore he had intentionally told me to 
 
 -- Come on now, is spending your money on me really how you want to go through life?
 
-He didn't want me to spend any money on him. It was his pleasure to do such a huge {{< var toive >}}, and this made us completely even^[{{< var sam >}} saved {{< var mogu >}}'s benefit performance, and {{< var mogu >}} saved his.]. Everything was clean, without even the slightest stain. His artistic soul could not bear a stain between friends.
+He didn't want me to spend any money on him. It was his pleasure to do such a huge {{< var toive >}} for me, and this made us completely even^[{{< var sam >}} saved {{< var mogu >}}'s benefit performance, and {{< var mogu >}} saved his.]. Everything was clean, without even the slightest stain. His artistic soul could not bear a stain between friends.

@@ -2,7 +2,7 @@
 
 ##### _Link to [Forverts edition](https://www.nli.org.il/en/newspapers/frw/1947/01/30/01/)_ {.unnumbered}
 
-> In two roles in a benefit performance for {{< var mogu >}}. -- How {{< var mogu >}} ruled the stage and how his wife ruled over him at home.
+> Playing two roles in a benefit performance for {{< var mogu >}}. -- How {{< var mogu >}} ruled over the stage and how his wife ruled over him at home.
 
 Going around like a beggar without consistent work was, to me, always the hardest thing in the world. Even when I was sure that it wouldn't last long and some theater would hire me again, I felt like an outcast and it was deeply unpleasant to have nothing at all to do. I was always like this since when I was young, and my story of 77 years^[In January 1947 when this article was published, he would have been 77 years old, soon to be 78 in April] has not yet fallen heavily on my narrow shoulders. In thinking back on my life, I am not {{< var sam-full >}}, the comedian who made a name for himself on the Yiddish stage, but {{< var shmuelik-full >}}, the {{< var possessor >}}'s little son, who always loved to frolic and make mischief.
 
@@ -10,13 +10,11 @@ And I confess, that even now, there are moments where I forget who I am, and I f
 
 Of all the roles which I have played on the Yiddish stage, I was given yet another role still - to play none other than a director^[or, producer]....
 
-But let's circle back to the Novelty Theater, where I performed when {{< var jacob-adler >}} and {{< var boris >}} were on bad terms with their wives. When the Novelty Theater closed before the season was over, I felt like a spare, and I became uneasy and restless - I was never able to sit still, neither at home nor in the cafe where the actors usually got together in their free time.
+But let's circle back to the Novelty Theater, where I performed when {{< var jacob-adler >}} and {{< var boris >}} were on bad terms with their wives. When the Novelty Theater closed before the season was over, I felt like a spare, and I became uneasy and restless - I was never able to sit still, neither at home nor in the cafe where the actors usually hung around in their free time^[He is referring, almost certainly, to [Cafe Royal](https://www.villagepreservation.org/2011/03/01/cafe-royal/)].
 
-You must understand that, not having any work when other actors did is, for an actor, one of the worst things. {{< var Nu >}}, as usual, I went back to Philadelphia where my friend {{< var shor-full >}} saw to it that I would, from time to time, play a performance and get my share of applause which I always longed for so much when I was out of work. And when I had nothing to do in Philadelphia, I came back to New York. And so I ran back and forth from one city to the other, never getting any rest. Which is to say - other actors were playing, but I was not! 
+You must understand that not having any work when other actors did is, for an actor, one of the worst things possible. {{< var Nu >}}, as usual, I went back to Philadelphia where my friend {{< var shor-full >}} saw to it that I would, from time to time, play a performance and get my share of applause which I always longed for so much when I was out of work. And when I had nothing to do in Philadelphia, I came back to New York. And so I ran back and forth from one city to the other, never getting any rest. Which is to say - other actors were playing, but I was not! 
 
 And believe me, the notion of a getting paid to perform interested me less than performing itself.
-
-
 
 ::: {layout-ncol=2}
 
@@ -30,21 +28,21 @@ No actor turned down an offer to play in a benefit performance for {{< var mogu 
 
 {{< var mogu >}} did not take any pleasure asking actors to perform in his benefit performance. He was always afraid that they would turn him down, and for him this would of course be a great offense, and he would be completely mortified. Indeed, this is why his wife {{< var molly >}}^[short for [Amalia](https://www.museumoffamilyhistory.com/yt/lex/M/mogulesko-amalia.htm)] took on this task on his behalf and kept his involvement to an absolute minimum.
 
-Generally speaking, the great artist {{< var mogu >}} was under his wife {{< var molly >}}'s control. He treated whatever she said as law. And he always listened to her, like a good little obedient boy. And he gave her every penny of his earnings to put away. Whenever he had to buy something for himself, he had to go to her and ask for money. She counted every cent and kept track of all the money he spent. She was a very stingy, the wife of the great Yiddish comedian who he ruled over the hearts and souls of hundreds of thousands of people. She never spent one extra cent, and he had to give her an exact account of every penny he spent. 
+Generally speaking, the great artist {{< var mogu >}} was under his wife {{< var molly >}}'s control. He treated whatever she said as law. And he always listened to her, like a good little obedient boy. And he gave her every penny of his earnings to put away. Whenever he had to buy something for himself, he had to go to her and ask for money. She counted every cent and kept track of all the money he spent. She was very stingy, never spending even one extra cent, and he had to give her an exact account of every penny he spent. 
 
 It's possible that she was so frugal because she was always afraid that, any any moment, her husband's illness would render him unable able to perform and they would have nothing left to live on, and they would have to go to others for help. She was simply taking precautions so that, if they fell on even harder times, they would not starve to death. This was the situation in which the best Yiddish character-comedian, the God-blessed artist {{< var mogu >}}, found himself, after all those years playing on the Yiddish stage and bringing such joy to the hearts of thousands and thousands of Jews across the whole world.
 
-{{< var Nu >}}, I remember one time when I went to the theater cafe on 2nd Avenue^[He is referring, almost certainly, to [Cafe Royal](https://www.villagepreservation.org/2011/03/01/cafe-royal/)], I spotted {{< var mogu >}} sitting with his wife, and beside them sat the Yiddish journalist Itzhik Gonikman. {{< var molly >}} was visibly upset, and Itzhik Gonikman tried to calm her down, but it was no use.
+{{< var Nu >}}, I remember one time when I went to the theater cafe on 2nd Avenue^[Again, likely Cafe Royal] I spotted {{< var mogu >}} sitting with his wife, and beside them sat the Yiddish journalist [Itzhik Gonikman](https://congressforjewishculture.org/people/6047/Gonikman-Yitskhok-1876-November-28-1919). {{< var molly >}} was visibly upset, and Itzhik Gonikman tried to calm her down, but it was no use.
 
 {{< var mogu >}} himself didn't say a word. He was just sitting there, preoccupied and silent. But as soon as he saw me, he started to speak:
 
--- You hear, Kestin - he said to me, - I too am a victim of {{< var thomash >}}'s love affair...
+-- You hear, {{< var kestin >}} - he said to me, - I too am a victim of {{< var thomash >}}'s love affair...
 
 At first I didn't understand what he meant - I couldn't fathom how he could also be a victim of {{< var thomash >}}'s affair with the young prima donna {{< var regina >}}. But soon it all became clear. Indeed, {{< var mogu >}} said again:
 
 -- Imagine this - he said - I was sure that {{< var thomash >}} would of course keep his word and he would play the role of {{< var joe >}} in my benefit performance just like he promised. But he screwed me - he ran off somewhere with {{< var regina >}} and no one has any idea where they are... Oy, romance, romance...! - he wailed.
 
-He then become very despondent, and he had no earthly clue what to do about it. 
+He then become very despondent, and he had no earthly clue what to do about the whole situation. 
 
 -- How can we put on the show without him? What will I do? How am I going to get someone else to play {{< var joe >}} on such short notice? 
 
@@ -62,7 +60,7 @@ I made the last remark mostly to reassure {{< var molly >}} because she, general
 
 -- But how will you be able to play both roles? - he asked, shrugging his shoulders. - It will be difficult.
 
-I know it was going to be very hard without him telling me also, but my desire to help {{< var mogu >}} and take away his worries was so great that nothing could talk me out of it. And indeed, right there on the spot, I showed him how, in the prologue during the scene changes, I would be able to play the role of the "little merry negro" and immediately after do a quick change into the role of {{< var joe >}} - the role {{< var thomash >}} was supposed to play.
+I knew it was going to be very hard without him telling me, but my desire to help {{< var mogu >}} and take away his worries was so great that nothing could talk me out of it. And indeed, right there on the spot, I showed him how, in the prologue during the scene changes, I would be able to play the role of the "little merry negro" and immediately after do a quick change into the role of {{< var joe >}} - the role {{< var thomash >}} was supposed to play.
 
 Like every one of {{< var mogu >}}'s benefit performances, this one too ended up being a great success. And when we all met up afterwards in the restaurant, {{< var mogu >}} thanked me profusely^[This is actually meant to be an idiom that I could not translate: האלטן זילך לעבן מיך], and he said that he wanted everyone to know that I had saved him and he would never forget it. 
 
@@ -80,11 +78,11 @@ My request was this - after {{< var pesach >}}, the Arch Street Theater in Phila
 
 -- {{< var Nu >}}, of course I will come and play! I wouldn't be worth my weight in gold^[Again another tricky idiom was here, so I added this instead] if I told you no...
 
-In that moment, I realized that {{< var molly >}} was cringing and was really displeased that he promised right there on the spot to come to Philadelphia to play in my benefit performance. {{< var mogu >}} noticed his wife cringing as well and that she was very unhappy. And because of this, he actually mentioned that I had actually played in many of his benefit performances already. Speaking with a compassionate expression on his face, he looked at his wife as if to say that this time she would support him and not say no when he said yes. And since {{< var molly >}} said nothing at all, he took it upon himself and laid his hands on my shoulders and said:
+In that moment, I realized that {{< var molly >}} was cringing and was really displeased that he promised right there on the spot to come to Philadelphia to play in my benefit performance. {{< var mogu >}} noticed his wife cringing as well and that she was very unhappy. And because of this, he mentioned that I had actually played in many of his benefit performances already. Speaking with a compassionate expression on his face, he looked at his wife as if to say that this time she should support him and not say no when he said yes. And since {{< var molly >}} said nothing at all, he took it upon himself and laid his hands on my shoulders and said:
 
 -- I will come, I will come!...
 
-There are no words to describe the silent scene that then took place between {{< var mogu >}} and {{< var molly >}}. You had to see it with your own eyes. It's not possible to describe. {{< var molly >}}'s gaze reflected both her anger at me, and at the same time also her pity for her husband. And when she realized there was nothing she could do about it, she simply said:
+There are no words to describe the silent scene that then took place between {{< var mogu >}} and {{< var molly >}}. You had to see it with your own eyes. It's just not possible to describe. {{< var molly >}}'s gaze reflected both her anger at me, and at the same time also her pity for her husband. And when she realized there was nothing she could do about it, she simply said:
 
 -- He is such a sick man, so very sick... He needs to be taken care of, taken care of very well...
 
