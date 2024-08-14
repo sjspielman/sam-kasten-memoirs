@@ -2,14 +2,15 @@
 
 _This article is not available from the National Library of Israel. The article was obtained from the New York Public Library's microfiche archives._
 
-> The times when {{< var thomash >}} wanted to "write a new page in the history of Yiddish Theater in America" with his operetta {{< var violin >}}.
+> The time when {{< var thomash >}} wanted to "write a new page in the history of Yiddish theater in America" with his operetta {{< var violin >}}.
 
 ::: {layout-ncol=2}
 
-{{< var thomash >}} had always loved grand performances. He loved grandiose spectacles that stood out above all else, and he pursued them even more during the years of his affair with {{< var regina >}}. There wasn't a thing in the world that was too difficult for him to do for her. In each performance, he tried hard to break new ground. During the 1916 season when he staged his operetta {{< var violin >}}, he poured himself into it while working together with {{< var rumshinsky >}}, who wrote the music. While writing the songs for {{< var violin >}}, {{< var thomash >}} grew particularly fond of the romantic songs, so he wrote a couple for himself. We prepared for the performance as though it were a huge wedding.<br><br>
+{{< var thomash >}} had always loved grandiose performances. He loved gawdy spectacles that stood out above all else, and he pursued them even more during the years of his affair with {{< var regina >}}. There wasn't a thing in the world that was too difficult for him to do for her. In each performance, he tried hard to break new ground. During the 1916 season^[the 1916/1917 season] when he staged his operetta {{< var violin >}}, he poured himself into it while working together with {{< var rumshinsky >}}, who wrote the music. While writing the songs for {{< var violin >}}, {{< var thomash >}} grew particularly fond of the romantic songs, so he wrote a couple for himself. We prepared for the performance as though it were a huge wedding.<br><br>
 You could really tell from the rehearsals that {{< var violin >}} was going to be something nobody had ever seen before on the Yiddish stage. Per the agreement made with {{< var rumshinsky >}}, there would be an 25-seat orchestra together with a ballet of 16 young women. They spared no expense - but they _did_ spare expenses with us actors in the troupe!<br><br>
-Aside from {{< var blank-full >}}, [{{< var samuel-rosen >}}](https://www.museumoffamilyhistory.com/yt/lex/R/rosenstein-samuel.htm), and myself, the singer [{{< var medoff-full >}}](https://www.museumoffamilyhistory.com/yt/lex/M/medoff-david.htm) was also in the troupe. He had come from Russia, by way of Japan, and {{< var thomash >}} himself had written a song especially for him - [{{< var breng-ich >}}](https://www.loc.gov/item/2016787664/).^[Listen to {{< var medoff-full >}} himself sing this song [at this link](https://search.library.wisc.edu/digital/ATUATCBFD4VOUZ8W/AVXUHOL7VK22748N)] {{< var medoff >}} was a huge hit with this song.<br><br>
-The troupe had two or three of everything - prima donnas, comedians, and romantic leads. And the whole time we were preparing for the first performance, {{< var thomash >}} would often say that we would "write a new page in the history of Yiddish Theater in America" with his operetta {{< var violin >}}. The operetta was about the lives of actors. When the curtain rises, you see an empty stage where people are setting up decorations for a performance. I was assigned the role of a Yiddish actor called {{< var sigo >}}, which was partly - but only partly - based on {{< var mogu >}}'s life. 
+Aside from {{< var blank-full >}}, [{{< var samuel-rosen >}}](https://www.museumoffamilyhistory.com/yt/lex/R/rosenstein-samuel.htm), and myself, the singer [{{< var medoff-full >}}](https://www.museumoffamilyhistory.com/yt/lex/M/medoff-david.htm) was also in the troupe. He had come from Russia, by way of Japan, and {{< var thomash >}} himself had written a song especially for him - [{{< var breng-ich >}}](https://www.loc.gov/item/2016787664/)^[Listen to {{< var medoff-full >}} himself sing this song [at this link](https://search.library.wisc.edu/digital/ATUATCBFD4VOUZ8W/AVXUHOL7VK22748N)]. {{< var medoff >}} was a huge hit with this song.<br><br>
+The troupe had two or three of everything - prima donnas, comedians, and romantic leads. And the whole time we were preparing for the first performance, {{< var thomash >}} would often say that we would "write a new page in the history of Yiddish theater in America" with his operetta {{< var violin >}}.<br><br>
+The operetta was about the lives of actors. When the curtain rises, you see an empty stage where people are setting up decorations for a performance. I was assigned the role of a Yiddish actor called {{< var sigo >}}, which was partly - but only partly - based on {{< var mogu >}}'s life. 
 
 
 ![Advertisement from October 17th, 1916 in {{< var morgen >}} for {{< var violin >}}. [(Source)](https://www.nli.org.il/en/newspapers/tjm/1916/10/17/01/article/61)](../img/newspaper_clippings/1916-10-17_morgen.png){width="1.9in"}
@@ -21,19 +22,19 @@ As with everything he did, {{< var thomash >}} really went all out for this oper
 
 ::: {#fig-violin layout-ncol=2}
 
-![[Image source](https://digitalcollections.nypl.org/items/5e66b3e8-b68c-d471-e040-e00a180654d7).](../img/sam-broken-violin-1.png){width="4in"}
+![[Source](https://digitalcollections.nypl.org/items/5e66b3e8-b68c-d471-e040-e00a180654d7).](../img/sam-broken-violin-1.png){width="4in"}
 
-![[Image source](https://digitalcollections.nypl.org/items/5e66b3e8-cab8-d471-e040-e00a180654d7).](../img/sam-broken-violin-2.jpg){width="4in"}
+![[Source](https://digitalcollections.nypl.org/items/5e66b3e8-cab8-d471-e040-e00a180654d7).](../img/sam-broken-violin-2.jpg){width="4in"}
 
 Two images of {{< var sam >}} performing {{< var violin >}}. In both images, {{< var sam >}} is on the far right.
 :::
 
 
-In my role as the actor {{< var sigo >}}, I had to sing a song called [{{< var aktor >}}](https://www.loc.gov/item/2016787658/). The songs ends with posing this question to the audience: "Tell me, what do you think of me for an actor?" {{< var lillian-full >}} wrote the lyrics to this song, and {{< var rumshinsky >}} wrote the music. I confess, I had no great desire to sing this song. What would happen when I asked the audience what they thought of me for an actor? And what would I do if some wise guy in the theater shouted out at the top of his lungs, "Oh, and what kind of an actor is that?!"
+In my role as the actor {{< var sigo >}}, I had to sing a song called [{{< var aktor >}}](https://www.loc.gov/item/2016787658/). The songs ends with posing this question to the audience: "Tell me, what do you think of me as an actor?" {{< var lillian-full >}} wrote the lyrics to this song, and {{< var rumshinsky >}} wrote the music. I confess, I had no great desire to sing this song. What would happen when I asked the audience what they thought of me as an actor? And what would I do if some wise guy in the theater shouted out at the top of his lungs, "Oh, and what kind of an actor is that?!"
 
 Anything could happen...
 
-I was really hesitant to perform this song. I tried to make {{< var rumshinsky >}} and {{< var thomash >}} understand that {{< var violin >}} would be fine without this song. But they didn't want to listen. They were both very insistent that I had to learn and perform it. 
+I was really hesitant to perform this song. I tried to make {{< var rumshinsky >}} and {{< var thomash >}} see that {{< var violin >}} would be fine without this song. But they didn't want to listen. They were both very insistent that I had to perform it. 
 
 And this is how it went:
 
@@ -59,7 +60,7 @@ And this is how it went:
 > 
 > Tell me:
 >
-> What do you think of me for an actor?
+> What do you think of me as an actor?
 
 By the time it was my turn to sing this song in the first performance, it was already after midnight. Because I was sure that the audience was certainly impatient at the end of a long evening, my heart beat even faster. I was so scared, simply trembling, but I had no other choice but to sing it. And to my great surprise, my song was a huge hit with the audience, and I even had to sing it again. 
 
@@ -69,15 +70,15 @@ Even when, after the first performance, several numbers were cut from the show b
 
 The melody was so catchy that it begged to be sung.
 
-The great hopes that people pinned on the operetta {{< var violin >}} didn't exactly pan out. No matter how great the box office earnings, it wasn't enough to cover the expenses. It was impossible to cover such larger expenses. And so we had to stage a different operetta instead, a less involved one, a less opulent one; and that's how they ended the season. {{< var thomash >}}'s dreams that {{< var violin >}} would "write a new page in the history of Yiddish Theater in America" were dashed.
+The great hopes that people pinned on the operetta {{< var violin >}} didn't exactly pan out. No matter how great the box office earnings, it wasn't enough to cover the expenses. It was impossible to cover such larger expenses. And so we had to stage a different operetta instead, a less involved one, a less opulent one; and that's how we ended the season. {{< var thomash >}}'s dreams that {{< var violin >}} would "write a new page in the history of Yiddish theater in America" were dashed.
 
 {{< var rumshinsky >}} had the same dream as {{< var thomash >}} - he too was sure that {{< var violin >}} would usher in a revolution in how operettas in the Yiddish theater were staged. There was even already talk of a special "{{< var thomash >}}-{{< var rumshinsky >}} combination," which would serve as a model for others. But it didn't come to pass at all. {{< var rumshinsky >}} left {{< var thomash >}} and went over to work with {{< var edelstein-full >}} when he became the manager of the Second Avenue Theater, which had been built for the great artist {{< var kessler-full >}}.
 
 There's one more thing that I want to mention about the time when I played in {{< var thomash >}}'s National Theater: 
 
-From the start, {{< var thomash >}} had told me that from time to time in the middle of the week, we would put on some of the plays that {{< var bessie >}} used to excel in, and I would step in to play her roles. Perhaps he wanted to make up for the wrongs done to me when {{< var bessie-first >}} played all the men's roles which I should have played. {{< var Nu >}}, I thought that now that he and {{< var bessie >}} had split up, I'd be able to play her roles since he owned the rights to all of those plays. That's what I thought. And when I appeared in {{< var bokher >}}^[See a [placard for this show from 1905](https://www.museumoffamilyhistory.com/yt-placard-peoples-02.htm), with {{< var bessie >}} in the lead role.], and people said I was alright in the role.
+From the start, {{< var thomash >}} told me that from time to time in the middle of the week, we would put on some of the plays that {{< var bessie >}} used to excel in, and I would step in to play her roles. Perhaps he wanted to make up for the wrongs done to me when {{< var bessie-first >}} played all the men's roles which I should have played. {{< var Nu >}}, I thought that now that he and {{< var bessie >}} had split up, I'd be able to play her roles since he owned the rights to all of those plays. That's what I thought. And when I appeared in {{< var bokher >}}^[See a [placard for this show from 1905](https://www.museumoffamilyhistory.com/yt-placard-peoples-02.htm), with {{< var bessie >}} in the lead role], people said I was alright in the role.
 
-But even if my acting was alright, something else was not alright - {{< var bessie-first >}} let me that she wanted to see me, and when I met with her, she was upset with me:
+But even if my acting was alright, something else was not alright - {{< var bessie-first >}} told me that she wanted to see me, and when I met with her, she was upset with me:
 
 -- What is this, you take over and play my roles!? Is this fair? Come on, I dare you - let me hear you say it!
 
