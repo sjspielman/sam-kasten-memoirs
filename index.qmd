@@ -1,39 +1,39 @@
 # Preface {.unnumbered}
 
-Like many other well-known names in the American Yiddish theater, Sam Kasten (written in Yiddish as "Kestin"), [my great-great grandfather](./appendices/family.qmd), published his memoirs as serialized articles in {{< var forverts >}} ([*The Forward*](https://forward.com), aka *The Jewish Daily Forward*), likely ghost written by [Mendel Osherowitch](https://en.wikipedia.org/wiki/Mendel_Osherowitch).
-Two articles per week, from September 1946 - February 1947, were published, for a total of 45 articles.
 
-::: {layout-ncol="2"}
+
+Like many other well-known names in the American Yiddish theater, my great-great grandfather Sam Kasten's (written in Yiddish as "Kestin") memoirs were published as serialized articles in American Yiddish press. From September 1946 - February 1947, Sam's memoirs, which were likely ghost written by [Mendel Osherowitch](https://en.wikipedia.org/wiki/Mendel_Osherowitch), were published as a 45-article series in the {{< var forverts >}} ([*The Forward*](https://forward.com), aka *The Jewish Daily Forward*).
+
+:::: {layout-ncol="2"}
+
 ![Running advertisement in {{< var forverts >}} for Sam's memoir series. Image from [1946-09-01 edition](https://www.nli.org.il/en/newspapers/frw/1946/09/01/01/).](img/newspaper_clippings/1946-09-01_forverts.png){width="4in"}
+
+::: {style="font-size: 200%;"}
 
 > **Sam Kestin describes of 50 years of Yiddish Theater**
 >
 > The famous comedian, who for 50 years has been dancing and singing on the Yiddish stage, tells his memories for {{< var forverts >}}.
 > Dramatic, romantic, funny, and comical tales that occurred in and around the Yiddish theater in the last half century.
 >
-> Start reading Sam Kestin's articles in {{< var forverts >}} Saturday, September 7th.
+> Start reading Sam Kestin's articles in the {{< var forverts >}} Saturday, September 7th.
 > The articles will appear twice a week, Thursday and Saturday.
+
 :::
 
-This e-book contains my translation of these memoirs, with some important caveats:
+::::
 
-**This is an "alpha" version of the translation.**
 
-I am only beginning to learn Yiddish.
-For my first pass at translating, I typed up all 45 articles into Google Translate and got some "good enough to get the gist" translations.
+This website contains my translation of his memoirs.
+Armed with beginner Yiddish skills and an English/Yiddish dictionary, I provide a mostly verbatim translation, but in certain areas I do shift towards a more natural translation rephrased for the English ear, and I indicate areas where I am very unsure of my translation.
 
-This e-book represents my second pass at translation, using my new beginner Yiddish skills and with lots of help from an English-Yiddish dictionary, posting on this website as I go.
-Throughout, I indicate spots where I'm very unsure of my translation.
-Most of this is a highly verbatim translation, but in certain areas I do shift towards a more natural translation rephrased for the English ear.
-As I continue learning Yiddish, I plan to update this translation over time as part of a long-term, living project dedicated to Sam's life and legacy, along with new translations of other articles he wrote and/or were written about him.
 
-Where possible, I have cross-referenced items Sam discusses, as detailed in footnotes and inserted images.
-
-I obtained all memoirs articles from [The National Library of Israel](https://www.nli.org.il/en/newspapers/frw) and, for those newspaper editions that were not available online, from the [New York Public Library's](https://www.nypl.org/) microfiche archives.
+Where possible, I have cross-referenced items Sam discusses, as detailed in footnotes and inserted images. I obtained all memoirs articles from [The National Library of Israel](https://www.nli.org.il/en/newspapers/frw) and, for those newspaper editions that were not available online, from the [New York Public Library's](https://www.nypl.org/) microfiche archives.
 
 Many thanks to librarians at [NYPL's Dorot Division](https://www.nypl.org/locations/schwarzman/jewish-division) for support finding the "missing" articles!
 Thanks also to Steve Lasky and other volunteers who have contributed to the *Museum of the Family History* for making many translations from [Zalmen Zylbercweig's {{< var leks >}}](https://www.museumoffamilyhistory.com/yt/lex-biography.htm) available! They have been invaluable for cross-referencing.
 
+
+
 ------------------------------------------------------------------------
-In memory of Sol Glassman ז׳׳ל, whose untimely death sent me down an ancestry rabbit hole wherein I accidentally ended up at Sam (who is wholly unrelated to Sol), and discovered a treasure trove of Yiddish writings.
+This project is dedicated to the memory of Sol Glassman ז׳׳ל, whose untimely death sent me down an ancestry rabbit hole wherein I accidentally ended up at Sam (who is entirely unrelated to Sol) and discovered a treasure trove of Yiddish writings.
 Uniting the two sides of my family through Yiddish Theater is, simply put, {{< var beshert >}}.
