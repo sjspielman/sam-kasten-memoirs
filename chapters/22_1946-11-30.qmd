@@ -33,7 +33,7 @@ He sang it beautifully. His voice sounded strong. But the performances put on wi
 
 It didn't stick.
 
-{{< var medvedev >}} himself did not feel at home on the Yiddish stage. He also felt like a stranger among the Yiddish actors. That's how it seemed. And I remember how at the first performance, when {{< var medvedev >}} was sitting by himself in the dressing room between scenes, pensive and apprehensive, I went to him and started speaking in my broken and stitled Russian, of which a little still remained in my memory. And when I told him that my name back home was not {{< var kestin >}}, but {{< var konstan >}} and that I once went to a {{< var heder >}} in the {{< var shtetl >}} {{< var rybinka >}}, he was startled:
+{{< var medvedev >}} himself did not feel at home on the Yiddish stage. He also felt like a stranger among the Yiddish actors. That's how it seemed. And I remember how at the first performance, when {{< var medvedev >}} was sitting by himself in the dressing room between scenes, pensive and apprehensive, I went to him and started speaking in my broken and stilted Russian, of which a little still remained in my memory. And when I told him that my name back home was not {{< var kestin >}}, but {{< var konstan >}} and that I once went to a {{< var heder >}} in the {{< var shtetl >}} {{< var rybinka >}}, he was startled:
 
 -- In {{< var rybinka >}}?!...
 -- Yes, in {{< var rybinka >}}!

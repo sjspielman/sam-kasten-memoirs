@@ -20,7 +20,7 @@ And from the open windows of the houses, songs spread through the air - popular 
 
 Such a city was of course fit for a Yiddish theater. I was sure of this. Naturally, I immediately got to work, and the first play that we played there was {{< var boris >}}'s {{< var alilesdam-full >}}. That's what the play was called; One name for a play was not enough, and therefore people usually added an "or" well...
 
-After that we played another play, indeed again with an "or," as the style was: {{< var velvel >}} was the name of that play, and it was adapted by {{< var thomash >}}^[Boris wrote this based on a play written previously by [Shimon Beckerman](https://www.museumoffamilyhistory.com/yt/lex/B/bekerman-simeon.htm).].
+After that we played another play, indeed again with an "or," as the style was: {{< var velvel >}} was the name of that play, and it was adapted by {{< var thomash >}}^[Boris wrote this based on a play written previously by [{{< var shimon-b >}}](https://www.museumoffamilyhistory.com/yt/lex/B/bekerman-simeon.htm)].
 
 About such a thing as getting permission to play a play, there was very little concern. On top of that, I was already in touch with {{< var thomash >}} because his wife Bessie and I were relatives,^[They are cousins, and almost certainly they are first cousins - I believe their mothers were sisters] and {{< var thomash >}} himself already knew me well and he got along very well with me^[Recall, they had also acted together in Philadelphia for the summer of (probably) 1889.].
 

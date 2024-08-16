@@ -23,7 +23,7 @@ _Leksikon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/A/adler-sarah.htm)
 - _David Baratz_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/B/baratz-david.htm)
-- _Shimon Beckerman_
+- _{{< var shimon-b >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/B/bekerman-simeon.htm)
 - _{{< var berl-b >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/B/bernstein-berl.htm)

@@ -80,7 +80,7 @@ It was only then that we realized that others had tricked him before, and he was
 
 -- _Only di best._ - He firmly emphasized the words. - _Vee are not uzed to cheap cigarz_...
 
-And when the cigars were presented, he - with great pretense - paid for them so generously, as if money was no object. And after that he gave me a cigar and {{< var frank >}} a cigar. When all three of us lit our cigars and smelled the smoke like connoiseurs of fine cigars, Mr. {{< var himmelfarb >}} suddenly started looking at us as though he was no longer completely sure whether he really needed to drive us away and insult us like that.
+And when the cigars were presented, he - with great pretense - paid for them so generously, as if money was no object. And after that he gave me a cigar and {{< var frank >}} a cigar. When all three of us lit our cigars and smelled the smoke like connoisseurs of fine cigars, Mr. {{< var himmelfarb >}} suddenly started looking at us as though he was no longer completely sure whether he really needed to drive us away and insult us like that.
 
 -- Can you maybe prove to me somehow that you are indeed actors?
 
