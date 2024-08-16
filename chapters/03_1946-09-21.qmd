@@ -1,4 +1,4 @@
-# September 21st, 1946 
+# September 21st, 1946
 
 ##### _Link to [Forverts edition](https://www.nli.org.il/en/newspapers/frw/1946/09/21/01/)_ {.unnumbered}
 
@@ -8,7 +8,7 @@ As far as {{< var tate >}} was concerned, he thought that while preparing for th
 
 -- Just don't steal any money, {{< var Feige >}}." - he said to {{< var mame >}}, who then, even more than he, put on a dark face, so that you wouldn't see the heavy thoughts she carried because of his illness. - Just don't begrudge any money!... It costs so much, it will cost even more. God is our father and he will not forsake us...
 
-And {{< var mame >}} did what {{< var tate >}} told her. And as soon as it became clear to her that he was dragging himself around the house too much, she beseeched him: 
+And {{< var mame >}} did what {{< var tate >}} told her. And as soon as it became clear to her that he was dragging himself around the house too much, she beseeched him:
 
 -- Follow me, {{< var Leybs >}}, and lie down. You are already tired and you need to rest. And believe me -  she continued leading him to the secluded alcove where he was lying - believe me that our daughter's wedding, God willing, will turn out fine, and it will be good...
 
@@ -35,7 +35,7 @@ The new {{< var kapote >}} which he wore hung loosely on him, because he was alr
 
 He encouraged me and when I ran up to him again in joy and kissed his hands again,
 
--- Dance {{< var shmuelik >}}! At a wedding one should dance... at a wedding one should be happy... 
+-- Dance {{< var shmuelik >}}! At a wedding one should dance... at a wedding one should be happy...
 
 And four weeks after the wedding he died.
 
@@ -46,7 +46,7 @@ After {{< var tate >}}'s death, {{< var mame >}} got involved in the heavy burde
 
 Even a permanent {{< var melamed >}} for the children could not be kept. And at the time that this did not bother me, because to date I have never shown any great desire, and now it often bothers me very much...
 
-But life went on there, and during the times when the mother was tormented by the poverty-inducing property, she married off my older brother, {{< var itzhik-gedolia >}}^[later, he became Isaac Casten in America], who was nicknamed {{< var katik >}}^[kitten] in the family - he was quiet like a little kitten who plays only in a corner. {{< var itzhik-gedolia >}} was married to the daughter^[her name was Chuna, later changed to Anna in America] of a certain {{< var shmuel-pekelis >}}^[It is worth noting that {{< var sam >}} may be misremembering his name. According to [Anna's gravestone](https://www.findagrave.com/memorial/152164678/isaac-casten#view-photo=240653611), her father's name was Isaiah-Leyb, not Shmuel.], a Jewish merchant, who lived in {{< var bt >}} and conducted business with other cities as well. 
+But life went on there, and during the times when {{< var mame >}} was tormented by the poverty-inducing property, she married off my older brother, {{< var itzhik-gedolia >}}^[later, he became Isaac Casten in America], who was nicknamed {{< var katik >}}^[kitten] in the family - he was quiet like a little kitten who plays only in a corner. {{< var itzhik-gedolia >}} was married to the daughter^[her name was Chuna, later changed to Anna in America] of a certain {{< var shmuel-pekelis >}}^[It is worth noting that {{< var sam >}} may be misremembering his name. According to [Anna's gravestone](https://www.findagrave.com/memorial/152164678/isaac-casten#view-photo=240653611), her father's name was Isaiah-Leyb, not Shmuel.], a Jewish merchant, who lived in {{< var bt >}} and conducted business with other cities as well.
 
 And at that wedding of my brother {{< var katik >}}, I saw and heard for the first time the [{{< var badchen >}}](https://en.wikipedia.org/wiki/Badchen) {{< var shakhnes-full >}}, who at that time had a reputation in many Jewish cities and towns of {{< var kyiv >}} Governorate and also in the Podolier province. He really became an artist in his profession, {{< var shakhnes-full >}}, and he behaved as if he wanted to make a whole dynasty out of it.
 
@@ -57,13 +57,13 @@ People already knew that he doesn't perform at weddings by himself, but was acco
 
 > I walk around in the street
 >
-> One by one, 
+> One by one,
 >
 > I ask people for money/alms,
 >
 > But they don't want to look at me.
 
-He sand, one time, and then a second time. And immediately afterwards, he begged - "Give me alms!"
+He sang it one time, and then a second time. And immediately afterwards, he begged - "Give me alms!"
 
 And then {{< var shakhnes-full >}} the {{< var badchen >}} released such an anger on the poor beggar, and they began a dialogue:
 
@@ -83,9 +83,9 @@ And then {{< var shakhnes-full >}} the {{< var badchen >}} released such an ange
 
 This is how the dialogue went between the {{< var badchen >}} and his son-in-law who was pretending to be a beggar. And when they were done with their "lines," both sang to each other:
 
-> Make merry, pauper, 
+> Make merry, pauper,
 >
-> enjoy yourself, poor man; 
+> enjoy yourself, poor man;
 >
 > He who has nothing,
 >
