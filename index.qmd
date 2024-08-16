@@ -29,6 +29,8 @@ Armed with beginner Yiddish skills and an English/Yiddish dictionary, I provide 
 
 Where possible, I have cross-referenced items Sam discusses, as detailed in footnotes and inserted images. I obtained all memoirs articles from [The National Library of Israel](https://www.nli.org.il/en/newspapers/frw) and, for those newspaper editions that were not available online, from the [New York Public Library's](https://www.nypl.org/) microfiche archives.
 
+### Acknowledgements {.unnumbered}
+
 Many thanks to librarians at [NYPL's Dorot Division](https://www.nypl.org/locations/schwarzman/jewish-division) for support finding the "missing" articles!
 Thanks also to Steve Lasky and other volunteers who have contributed to the *Museum of the Family History* for making many translations from [Zalmen Zylbercweig's {{< var leks >}}](https://www.museumoffamilyhistory.com/yt/lex-biography.htm) available! They have been invaluable for cross-referencing.
 
