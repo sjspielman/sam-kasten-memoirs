@@ -3,6 +3,7 @@
 This appendix contains links to more information about people Sam meets and/or describes in his memoirs.
 People are listed below in alphabetical order.
 _Leksikon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Teater_](https://en.wikipedia.org/wiki/Leksikon_fun_yidishn_teater), many of which have been [translated](https://www.museumoffamilyhistory.com/yt/lex-biography.htm).
+For any _Leksikon_ entries which have not yet been translated, I provide their entry's volume and page number instead.
 
 ### Performers in the Yiddish theater
 
@@ -56,12 +57,17 @@ _Leksikon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
 - _{{< var heyman-full >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/H/heyman-louis.htm)
 - _{{< var juvelier-full >}}_
-  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/J/juvelier-kalmen.htm)
   - [Wikipedia](https://en.wikipedia.org/wiki/Kalman_Juvelier)
-- _{{< var kalich-full >}}_ 
-  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/K/kalich-bertha.htm)
+  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/J/juvelier-kalmen.htm)
+- _{{< var kalich-full >}}_
   - [Wikipedia](https://en.wikipedia.org/wiki/Bertha_Kalich)
+  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/K/kalich-bertha.htm)
   - [Jewish Women's Archive](https://jwa.org/encyclopedia/article/kalich-bertha)
+- _{{< var jacob-kalich >}}_
+  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/K/kalich-jacob.htm)
+- _{{< var kalmano-full >}}_
+  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/K/kalmanowitz-harry.htm)
+
 :::
 
 ::: {.column width="5%"}
@@ -69,21 +75,18 @@ _Leksikon_ refers to the entries in the encyclopedia [_Leksikon fun Yiddishn Tea
 
 ::: {.column width="30%"}
 
-- _{{< var jacob-kalich >}}_ 
-  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/K/kalich-jacob.htm)
-- _{{< var kalmano-full >}}_
-  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/K/kalmanowitz-harry.htm)
 - _{{< var karp-full >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/K/karp-max.htm)
 - _Jacob Katzman_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/K/katzman-jacob.htm)
 - _{{< var kessler-full >}}_
+  - Leksikon: Volume 4, page 2689
   - [Wikipedia](https://en.wikipedia.org/wiki/David_Kessler_(actor))
 - _Joseph Kessler_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/K/kessler-joseph.htm)
 - _{{< var leb-full >}}_
-  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/L/lebedeff-aaron.htm)
   - [Wikipedia](https://en.wikipedia.org/wiki/Aaron_Lebedeff)
+  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/L/lebedeff-aaron.htm)
 - _{{< var keni-full >}}_
   - [Wikipedia](https://en.wikipedia.org/wiki/Keni_Liptzin)
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/L/lipzin-keni.htm)
@@ -118,13 +121,14 @@ _{{< var nathanson-full >}}_
 - _{{< var gershon-full >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/R/rubin-gershon.htm)
 - _{{< var satz-full >}}_
-  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/S/satz-ludwig.htm)
   - [Wikipedia](https://en.wikipedia.org/wiki/Ludwig_Satz)
+  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/S/satz-ludwig.htm)
 - _{{< var abba-full >}} ("Yaffa Zahav", Beautiful Gold)_
   - [Wikipedia](https://en.wikipedia.org/wiki/Abba_Schoengold)
+  - Leksikon: Volume 4, page 2944
 - _{{< var shild-full >}}_
   - [Wikipedia](https://en.wikipedia.org/wiki/Rudolph_Schildkraut)
-
+  - Leksikon: Volume 4, page 2817
 
 :::
 
@@ -134,13 +138,13 @@ _{{< var nathanson-full >}}_
 ::: {.column width="30%"}
 
 - _{{< var shor-full >}}_
-  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/S/schorr-anshel.htm)
   - [Wikipedia](https://en.wikipedia.org/wiki/Anshel_Schorr)
+  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/S/schorr-anshel.htm)
 - _{{< var schwartz-full >}}_
-  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/S/schwartz-maurice.htm)
   - [Wikipedia](https://en.wikipedia.org/wiki/Maurice_Schwartz)
+  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/S/schwartz-maurice.htm)
 - _{{< var william-full >}}_
-  - _His Leksikon entry has not yet been translated, but it is part of Volume 6, page 4990._
+  - Leksikon: Volume 6, page 4990
   - [Obituary](https://www.newspapers.com/article/the-tampa-tribune-obituary-for-william-s/45664678/)
 - _Rae Shneyer_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/S/shneyer-rae.htm)
@@ -188,6 +192,7 @@ _{{< var nathanson-full >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/Z/zilberman-moshe.htm)
 - _{{< var regina >}}_
   - [Wikipedia](https://en.wikipedia.org/wiki/Regina_Zuckerberg)
+  - Leksikon: Volume 5, page 3853
 :::
 
 ::::
@@ -199,22 +204,22 @@ _{{< var nathanson-full >}}_
 
 :::: {.columns}
 
-::: {.column width="40%"}
+::: {.column width="60%"}
 
 - _{{< var sholem-a >}}_
   - [Wikipedia](https://en.wikipedia.org/wiki/Sholem_Aleichem)
 - _{{< var asch-full >}}_
   - [Wikipedia](https://en.wikipedia.org/wiki/Sholem_Asch)
 - _{{< var belzer-full >}}_
-  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/B/belzer-yudl.htm)
   - [Wikipedia entry for his father, Nissi Belzer](https://en.wikipedia.org/wiki/Nissan_Spivak)
+  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/B/belzer-yudl.htm)
 - {{< var brody-full >}}_
   - [Wikipedia](https://en.wikipedia.org/wiki/Joseph_Brody)
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/B/brody-joseph.htm)
   - [Milken Archive](https://www.milkenarchive.org/artists/view/joseph-brody)
 - _{{< var friedsell-full >}}_
-  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/F/friedsell-louis.htm)
   - [Wikipedia](https://en.wikipedia.org/wiki/Louis_Friedsell)
+  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/F/friedsell-louis.htm)
 - _{{< var gilrod-full >}}_
   - [Wikipedia](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Louis_Gilrod)
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/G/gilrod-louie.htm)
@@ -246,6 +251,8 @@ _{{< var nathanson-full >}}_
   - [Congress for Jewish Culture](https://congressforjewishculture.org/people/2473/)
 - _{{< var schulman-full >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/S/schulman-nathan.htm)
+- _{{< var nakhum-stut >}}_
+  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/S/stutchkoff-nakhum.htm)
 
 :::
 
@@ -253,17 +260,15 @@ _{{< var nathanson-full >}}_
 
 :::
 
-::: {.column width="40%"}
+::: {.column width="30%"}
 
-- _{{< var nakhum-stut >}}_
-  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/S/stutchkoff-nakhum.htm)
 - _{{< var zolotkoff >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/Z/zolotkoff-leon.htm)
   - [Congress for Jewish Culture](https://congressforjewishculture.org/people/4447/Zolotkof,%20Leon%20(May%2015,%201866–July%2031,%201938))
   - _He was primarily a writer and editor, and he was also a leading Zionist voice._
 - _{{< var libin-full >}}_
-  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/L/libin-z.htm)
   - [Wikipedia](https://en.wikipedia.org/wiki/Zalmon_Libin)
+  - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/L/libin-z.htm)
 - _{{< var lillian-full >}}_
   - [Wikipedia](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Isidore_Lillian)
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/L/lillian-isidore.htm)
@@ -271,8 +276,8 @@ _{{< var nathanson-full >}}_
   - [Wikipedia](https://en.wikipedia.org/wiki/Yitzkhok_Yoel_Linetzky)
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/L/linetzky-isaac-joel.htm)
 - _David {{< var meyero >}}_
-  - [Wikipedia](https://en.wikipedia.org/wiki/David_Meyerowitz)
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/M/meyerowitz-david.htm)
+  - [Wikipedia](https://en.wikipedia.org/wiki/David_Meyerowitz)
   - [Milken Archive](https://www.milkenarchive.org/artists/view/david-meyerowitz)
 - _{{< var perlmutter-full >}}_
   - [Wikipedia](https://en.wikipedia.org/wiki/Arnold_Perlmutter)
@@ -298,12 +303,17 @@ _{{< var nathanson-full >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/W/wohl-herman.htm)
   - [Milken Archive](https://www.milkenarchive.org/artists/view/herman-wohl)
 
-:::
 
 :::
 
+::::
 
-### People related to the non-Yiddish theater
+### Other people
+
+:::: {.columns}
+
+::: {.column width="60%"}
+
 
 - _David Belasco_
   - [Wikipedia](https://en.wikipedia.org/wiki/David_Belasco)
@@ -325,7 +335,14 @@ _{{< var nathanson-full >}}_
 - _Konstantin Stanislavski_
   - [Wikipedia](https://en.wikipedia.org/wiki/Konstantin_Stanislavski)
 
-### Other
+:::
+
+::: {.column width="10%"}
+
+:::
+
+::: {.column width="30%"}
+
 
 - _Abraham ("Abe") Cahan_
   - [Wikipedia](https://en.wikipedia.org/wiki/Abraham_Cahan)
@@ -340,3 +357,7 @@ _{{< var nathanson-full >}}_
   - Article in _The Jewish Exponent_: ["History's Lessons: Jewish Anarchist Doctors Cared for Philadelphia's Immigrants"](https://www.jewishexponent.com/historys-lessons-jewish-anarchist-doctors-cared-for-philadelphias-immigrants/)
 - _{{< var winch-full >}}_
   - [Wikipedia](https://en.wikipedia.org/wiki/Morris_Winchevsky)
+
+:::
+
+::::
