@@ -35,5 +35,5 @@ Thanks also to Steve Lasky and other volunteers who have contributed to the *Mus
 
 
 ------------------------------------------------------------------------
-This project is dedicated to the memory of Sol Glassman ז׳׳ל, whose untimely death sent me down an ancestry rabbit hole wherein I accidentally ended up at Sam (who is entirely unrelated to Sol) and discovered a treasure trove of Yiddish writings.
+This project is dedicated to the memory of my maternal grandfather Sol Glassman ז׳׳ל, whose untimely death sent me down an ancestry rabbit hole wherein I accidentally ended up at Sam (who, as one of my paternal great-great-grandfathers, is entirely unrelated to Sol) and discovered a treasure trove of Yiddish writings.
 Uniting the two sides of my family through Yiddish Theater is, simply put, {{< var beshert >}}.
