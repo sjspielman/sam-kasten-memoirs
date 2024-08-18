@@ -2,7 +2,7 @@
 
 
 
-Like many other well-known names in the American Yiddish theater, my great-great grandfather Sam Kasten's (written in Yiddish as "Kestin") memoirs were published as serialized articles in American Yiddish press. From September 1946 - February 1947, Sam's memoirs, which were likely ghost written by [Mendel Osherowitch](https://en.wikipedia.org/wiki/Mendel_Osherowitch), were published as a 45-article series in the {{< var forverts >}} ([*The Forward*](https://forward.com), aka *The Jewish Daily Forward*).
+Like many other well-known names in the American Yiddish theater, my great-great grandfather [Sam Kasten](./appendices/sam.qmd)'s (written in Yiddish as "Kestin") memoirs were published as serialized articles in American Yiddish press. From September 1946 - February 1947, Sam's memoirs (likely ghost written by [Mendel Osherowitch](https://en.wikipedia.org/wiki/Mendel_Osherowitch)) were published as a 45-article series in the {{< var forverts >}} ([*The Forward*](https://forward.com), aka *The Jewish Daily Forward*).
 
 :::: {layout-ncol="2"}
 
@@ -24,7 +24,7 @@ Like many other well-known names in the American Yiddish theater, my great-great
 
 
 This website contains my translation of his memoirs.
-Armed with beginner Yiddish skills and an English/Yiddish dictionary, I provide a mostly verbatim translation, but in certain areas I do shift towards a more natural translation rephrased for the English ear, and I indicate areas where I am very unsure of my translation.
+Armed with beginner Yiddish skills and an English/Yiddish dictionary, I provide a mostly verbatim translation, but in certain areas I do shift towards a more natural translation rephrased for the English ear. I indicate areas where I am very unsure of my translation. Translations many of the lyrics that Sam recounts are still a work in progress.
 
 
 Where possible, I have cross-referenced items Sam discusses, as detailed in footnotes and inserted images. I obtained all memoirs articles from [The National Library of Israel](https://www.nli.org.il/en/newspapers/frw) and, for those newspaper editions that were not available online, from the [New York Public Library's](https://www.nypl.org/) microfiche archives.
