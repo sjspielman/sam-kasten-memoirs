@@ -20,14 +20,14 @@ Click on the album images below to be directed to the song information and recor
   <img src="../img/shtetl-amerike.jpeg" width=250" alt = "_Shtetl Amerike_">
 </a>
 
-**_Ich bin sherif_**
+**_Ikh bin sherif_**
 <a href="https://digital.library.wisc.edu/1711.dl/3VCRAVLPKFPYC8M">
   <img src="../img/ich-bin-sherif.jpeg" width=250" alt = "_Ikh bin sherif_">
 </a>
 
 **_Kolombus medine_**
 <a href="https://digital.library.wisc.edu/1711.dl/LAZFBGS6T7AYM9A">
-  <img src="../img/kolombuses-medine.jpeg" width=250" alt = "_Kolombus medine_">
+  <img src="../img/kolombuses-medine.jpeg" width=250" alt = "_Kolombus's medine_">
 </a>
 
 
