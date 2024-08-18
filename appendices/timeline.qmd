@@ -4,7 +4,7 @@ format:
     page-layout: full
 ---
 
-# Appendix C: Timeline {.unnumbered}
+# Appendix D: Timeline {.unnumbered}
 
 This appendix contains a rough timeline (some dates are necessarily approximate, indicated with `~`) for Sam's whereabouts during the time periods the memoirs recount. 
 Although Sam does not always mention it, based on historical records we know that his wife {{< var suzi >}} Kestin often performed in the same troupe with him through the early 1920s.
