@@ -58,7 +58,7 @@ Click on any picture below to scroll through them as a photo gallery.
 
 ![Headshot](../img/sam0.jpg){group="sam"}
 
-![Headshot](../img/sam4.png){group="sam"}
+![](../img/sam4.png){group="sam"}
 
 
 ![Headshot](../img/sam3.jpg){group="sam"}
