@@ -62,8 +62,12 @@ Click on any picture below to scroll through them as a photo gallery.
 
 ![](../img/sam4.png){group="sam"}
 
+![](../img/sam6.jpg){group="sam"}
+
 
 ![Headshot](../img/sam3.jpg){group="sam"}
+
+![Photograph of Sam taken in Chicago, time unknown](../img/sam-chicago.png){group="sam"}
 
 
 ![Family photograph of Sam Kestin](../img/sam-ours.png){group="sam"}
