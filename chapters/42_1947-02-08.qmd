@@ -30,7 +30,7 @@ This was in the 1915 season^[1914/1915 season], after a whole series of failures
 We argued over my role as the smalltown {{< var shtetl >}} {{< var shadchan >}}, who was a master at achieving the impossible. There was a scene where I run in and, in jubilation, show everyone a picture I received from America. In the picture was a wagon with a cooler^[In {{< var griner-m >}}, the lead character comes to America and sells ice out of a cooler], and a few good horses. In my role as the {{< var shadchan >}}, who was also hoping for the opportunity to go America through a {{< var shidduch >}}, made a huge fuss about it and went on and on nonstop in astonishment over the wagon, the cooler, the horses, and the groom, who had become a simple "cooler-man" in America and, in his own imagination, thought he was already a millionaire.<br><br>
 My thought was, because I generally played exaggerated, over-the-top types of characters, I should run in with the picture in my hand. When delivering the line "Jews, come see!", I should shout it at the top of my lungs, and in nervous excitement I should make such a {{< var tumult >}} just as though I were bringing the greatest news possible.
 
-![Picture of {{< var sam >}} in the role of the {{< var shadchan >}} in {{< var griner-m >}}. Image is from {{< var sam >}}'s entry in {{< var leks >}}](../img/sam-griner-millionaire.png){width="2.25in"}
+![Picture of {{< var sam >}} in the role of the {{< var shadchan >}} in {{< var griner-m >}}. Image is from {{< var sam >}}'s entry in {{< var leks >}}.](../img/sam-griner-millionaire.jpg){width="2.25in"}
 
 :::
 

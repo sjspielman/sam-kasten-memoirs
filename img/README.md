@@ -19,6 +19,10 @@ I do NOT own copyright of these materials unless otherwise stated. Where known, 
 - [`sam-broken-violin-1.png`](https://digitalcollections.nypl.org/items/5e66b3e8-b68c-d471-e040-e00a180654d7)
 - [`sam-broken-violin-2.jpg`](https://digitalcollections.nypl.org/items/5e66b3e8-cab8-d471-e040-e00a180654d7)
 - `fega.jpeg` was photographed by me (@sjspielman)
+- [`ich-beink.jpeg`](https://digital.library.wisc.edu/1711.dl/QIQK5TNE3CH6H9D)
+- [`shtetl-amerike.jpeg`](https://digital.library.wisc.edu/1711.dl/3VCRAVLPKFPYC8M)
+- [`kolombuses-medine.jpeg`](https://digital.library.wisc.edu/1711.dl/LAZFBGS6T7AYM9A)
+- [`ich-bin-sherif.jpeg`](https://digital.library.wisc.edu/1711.dl/3VCRAVLPKFPYC8M)
 
 ## Newspaper clippings folder
 

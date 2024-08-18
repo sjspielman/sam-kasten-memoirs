@@ -1,0 +1,99 @@
+---
+lightbox: true
+---
+
+# Appendix A: About Sam Kestin {.unnumbered}
+
+Read Sam's [{{< var leks >}} entry](https://www.museumoffamilyhistory.com/yt/lex/K/kasten-sam.htm).
+
+## Songs
+
+Listen to Sam sing!
+Click on the album images below to be directed to the song information and recording.
+
+
+:::: {layout-ncol=4}
+
+
+**_Shtetl Amerike_**
+<a href="https://digital.library.wisc.edu/1711.dl/ILNOPUGHMBRRB8P">
+  <img src="../img/shtetl-amerike.jpeg" width=250" alt = "_Shtetl Amerike_">
+</a>
+
+**_Ich bin sherif_**
+<a href="https://digital.library.wisc.edu/1711.dl/3VCRAVLPKFPYC8M">
+  <img src="../img/ich-bin-sherif.jpeg" width=250" alt = "_Ikh bin sherif_">
+</a>
+
+**_Kolombus medine_**
+<a href="https://digital.library.wisc.edu/1711.dl/LAZFBGS6T7AYM9A">
+  <img src="../img/kolombuses-medine.jpeg" width=250" alt = "_Kolombus medine_">
+</a>
+
+
+::: {style="font-size: 50%;"}
+
+**_Ikh beink zurik kein New York_**
+<a href="https://digital.library.wisc.edu/1711.dl/QIQK5TNE3CH6H9D">
+  <img src="../img/ich-beink.jpeg" width=250" alt = "_Ikh beink zurik kein New York_">
+</a>
+
+:::
+
+::::
+
+
+
+## Photo Gallery
+
+Click on any picture below to scroll through them as a photo gallery.
+
+<br><br>
+
+::: {layout-ncol=4}
+
+![](../img/sam1.png){group="sam"}
+
+![Headshot](../img/sam2.jpeg){group="sam"}
+
+![Headshot](../img/sam0.jpg){group="sam"}
+
+![Headshot](../img/sam4.png){group="sam"}
+
+
+![Headshot](../img/sam3.jpg){group="sam"}
+
+
+![Family photograph of Sam Kestin](../img/sam-ours.png){group="sam"}
+
+![Sam (far right) performing in {{< var violin >}} [(Chapter 43)](../chapters/43_1947-02-13.qmd)](../img/sam-broken-violin-1.png){group="sam"}
+
+![Sam (far right) performing in {{< var violin >}} [(Chapter 43)](../chapters/43_1947-02-13.qmd)](../img/sam-broken-violin-2.jpg){group="sam"}
+
+
+![Sam performing with {{< var molly-full >}} in _Hello Molly_ in the 1928/29 season, Second Avenue Theater.](../img/1928-sam-molly.jpg){group="sam"}
+
+
+![Sam performing with {{< var molly-full >}} in the 1928/29 season, Second Avenue Theater, play unknown. According to the caption, in this scene she asks (in English, transliterated into Yiddish): "Hello Papa, how is your rheumatism?"](../img/rheumatism.png){group="sam"}
+
+![Sam performing with {{< var molly-full >}} (left) and [Betty Simonoff](https://www.museumoffamilyhistory.com/yt/lex/S/simonoff-betty.htm) (middle) in the 1928/29 season, Second Avenue Theater, play unknown. According to the caption, Sam and Molly play father and son, and in this scene they confess their love for the Russian princess (played by Betty) as she sings Romanian songs.](../img/sam-molly-betty.png){group="sam"}
+
+![Sam performing with {{< var molly-full >}} (left) and [Betty Simonoff](https://www.museumoffamilyhistory.com/yt/lex/S/simonoff-betty.htm) (middle) in _The Circus Girl_ during the 1928/29 season, Second Avenue Theater.](../img/circus-girl.jpeg){group="sam"}
+
+
+![Sam performing with [Annie Thomashefsky](https://www.museumoffamilyhistory.com/yt/lex/T/thomashefsky-annie.htm) (one of {{< var boris >}}'s sisters) in _The Happy Village_ in 1937, Second Avenue Theater.](../img/happy-village.jpeg){group="sam"}
+
+
+![Artist's rendering of Sam (1907)](../img/sam-stomach.png){group="sam"}
+
+
+![Cartoon by [Saul Raskin](https://en.wikipedia.org/wiki/Saul_Raskin) of the cast of _Earth, Heaven, and Trickery_, with Sam on the bottom right. [(Source)](https://archive.nyu.edu/handle/2451/54974?mode=full)](../img/earth-heaven.png){group="sam"}
+
+
+![Cartoon by [Zuni Maud](https://en.wikipedia.org/wiki/Zuni_Maud) of the cast of _The Doctor's Wife_ by {{< var kobrin-full >}}, with Sam second from the left.](../img/doctors-wife.jpeg){group="sam"}
+
+
+
+:::
+
+
