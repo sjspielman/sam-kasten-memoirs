@@ -54,18 +54,18 @@ Click on any picture below to scroll through them as a photo gallery.
 
 ![](../img/sam1.png){group="sam"}
 
-![Headshot](../img/sam2.jpeg){group="sam"}
+![](../img/sam2.jpeg){group="sam"}
 
 ![](../img/sam5.jpeg){group="sam"}
 
-![Headshot](../img/sam0.jpg){group="sam"}
+![](../img/sam0.jpg){group="sam"}
 
 ![](../img/sam4.png){group="sam"}
 
 ![](../img/sam6.jpg){group="sam"}
 
 
-![Headshot](../img/sam3.jpg){group="sam"}
+![](../img/sam3.jpg){group="sam"}
 
 ![Photograph of Sam taken in Chicago, time unknown](../img/sam-chicago.png){group="sam"}
 
