@@ -72,6 +72,8 @@ Click on any picture below to scroll through them as a photo gallery.
 
 ![Family photograph of Sam Kestin](../img/sam-ours.png){group="sam"}
 
+![Sam in his role in {{< var griner-m >}} [(Chapter 42)](../chapters/42_1947-02-08.qmd)](../img/sam-griner-millionaire.jpg){group="sam"}
+
 ![Sam (far right) performing in {{< var violin >}} [(Chapter 43)](../chapters/43_1947-02-13.qmd)](../img/sam-broken-violin-1.png){group="sam"}
 
 ![Sam (far right) performing in {{< var violin >}} [(Chapter 43)](../chapters/43_1947-02-13.qmd)](../img/sam-broken-violin-2.jpg){group="sam"}
