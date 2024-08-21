@@ -16,29 +16,25 @@ Click on the album images below to be directed to the song information and recor
 
 
 **_Shtetl Amerike_**
-<a href="https://digital.library.wisc.edu/1711.dl/ILNOPUGHMBRRB8P">
+<a href="https://search.library.wisc.edu/digital/AILNOPUGHMBRRB8P/A4AOYJB4PVKJLQ8D">
   <img src="../img/shtetl-amerike.jpeg" width=250" alt = "_Shtetl Amerike_">
 </a>
 
 **_Ikh bin sherif_**
-<a href="https://digital.library.wisc.edu/1711.dl/3VCRAVLPKFPYC8M">
+<a href="https://search.library.wisc.edu/digital/A3VCRAVLPKFPYC8M/A6AKXQVAVCNIA48Q">
   <img src="../img/ich-bin-sherif.jpeg" width=250" alt = "_Ikh bin sherif_">
 </a>
 
 **_Kolombus medine_**
-<a href="https://digital.library.wisc.edu/1711.dl/LAZFBGS6T7AYM9A">
+<a href="https://search.library.wisc.edu/digital/ALAZFBGS6T7AYM9A/AJFTAEKRURVFXA8T">
   <img src="../img/kolombuses-medine.jpeg" width=250" alt = "_Kolombus's medine_">
 </a>
 
 
-::: {style="font-size: 50%;"}
-
 **_Ikh beink zurik kein New York_**
-<a href="https://digital.library.wisc.edu/1711.dl/QIQK5TNE3CH6H9D">
+<a href="https://search.library.wisc.edu/digital/AQIQK5TNE3CH6H9D/AAPIWWXRMFVGB78J">
   <img src="../img/ich-beink.jpeg" width=250" alt = "_Ikh beink zurik kein New York_">
 </a>
-
-:::
 
 ::::
 
