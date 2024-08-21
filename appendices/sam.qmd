@@ -12,28 +12,28 @@ Listen to Sam sing!
 Click on the album images below to be directed to the song information and recording.
 
 
-:::: {layout-ncol=4}
+:::: {layout-ncol=4 style="font-size: 95%;"}
 
 
 **_Shtetl Amerike_**
 <a href="https://search.library.wisc.edu/digital/AILNOPUGHMBRRB8P/A4AOYJB4PVKJLQ8D">
-  <img src="../img/shtetl-amerike.jpeg" width=250" alt = "_Shtetl Amerike_">
+  <img src="../img/shtetl-amerike.jpeg" width=275" alt = "_Shtetl Amerike_">
 </a>
 
 **_Ikh bin sherif_**
 <a href="https://search.library.wisc.edu/digital/A3VCRAVLPKFPYC8M/A6AKXQVAVCNIA48Q">
-  <img src="../img/ich-bin-sherif.jpeg" width=250" alt = "_Ikh bin sherif_">
+  <img src="../img/ich-bin-sherif.jpeg" width=275" alt = "_Ikh bin sherif_">
 </a>
 
 **_Kolombus medine_**
 <a href="https://search.library.wisc.edu/digital/ALAZFBGS6T7AYM9A/AJFTAEKRURVFXA8T">
-  <img src="../img/kolombuses-medine.jpeg" width=250" alt = "_Kolombus's medine_">
+  <img src="../img/kolombuses-medine.jpeg" width=275" alt = "_Kolombus's medine_">
 </a>
 
 
 **_Ikh beink zurik kein New York_**
 <a href="https://search.library.wisc.edu/digital/AQIQK5TNE3CH6H9D/AAPIWWXRMFVGB78J">
-  <img src="../img/ich-beink.jpeg" width=250" alt = "_Ikh beink zurik kein New York_">
+  <img src="../img/ich-beink.jpeg" width=275" alt = "_Ikh beink zurik kein New York_">
 </a>
 
 ::::
