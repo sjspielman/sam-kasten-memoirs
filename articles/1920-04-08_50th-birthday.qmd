@@ -1,0 +1,9 @@
+# {{< var sam-full >}} turns 50 
+
+> By [Berl Botvinik](https://congressforjewishculture.org/people/6749/)
+
+##### _Link to [Forverts article]()_ {.unnumbered}
+
+<br>
+
+It's a funny thing, a fifty-year-old {{< var yid >}}, named Shmuel {{< var kestin >}}, and people call him {{< var sam >}}. His colleagues shout at him, "Say, {{< var sam >}}!" And {{< var sam >}}, who turns 50 years old in a few days^[In fact, Sam was turning 51. They always seemed to hold his birthday celebrations one year off...]
