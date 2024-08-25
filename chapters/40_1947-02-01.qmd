@@ -1,6 +1,6 @@
 # February 1st, 1947
 
-##### _Link to [Forverts edition](https://www.nli.org.il/en/newspapers/frw/1947/02/01/01/)_ {.unnumbered}
+##### _Link to [{{< var forverts >}}](https://www.nli.org.il/en/newspapers/frw/1947/02/01/01/)_ {.unnumbered}
 
 > When {{< var mogu >}} was ill, he came to Philadelphia to play in my benefit performance. -- A scene that took place backstage that can't be forgotten.
 

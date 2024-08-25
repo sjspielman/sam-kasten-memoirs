@@ -1,6 +1,6 @@
 # November 30th, 1946
 
-##### _Link to [Forverts edition](https://www.nli.org.il/en/newspapers/frw/1946/11/30/01/)_ {.unnumbered}
+##### _Link to [{{< var forverts >}}](https://www.nli.org.il/en/newspapers/frw/1946/11/30/01/)_ {.unnumbered}
 
 > In a troupe with the famous opera singer {{< var medvedev >}}. -- Why {{< var thomash >}} came all the way to Chicago to invite me to play in the People's Theater^[Formerly located at 199-201 Bowery, between Rivington and Spring Sts].
 

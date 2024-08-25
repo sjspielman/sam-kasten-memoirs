@@ -1,6 +1,6 @@
 # November 16th, 1946
 
-##### _Link to [Forverts edition](https://www.nli.org.il/en/newspapers/frw/1946/11/16/01/)_ {.unnumbered}
+##### _Link to [{{< var forverts >}}](https://www.nli.org.il/en/newspapers/frw/1946/11/16/01/)_ {.unnumbered}
 
 > My travels to Cincinnati with {{< var jakele-full >}} and {{< var frank-full >}}. -- A scene in a theater-lover's candy store.
 
