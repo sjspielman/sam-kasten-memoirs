@@ -1,6 +1,6 @@
 # October 17th, 1946
 
-##### _Link to [{{< var forverts >}}](https://www.nli.org.il/en/newspapers/frw/1946/10/17/01/)_ {.unnumbered}
+##### _Link to [{{< var forverts >}} edition](https://www.nli.org.il/en/newspapers/frw/1946/10/17/01/)_ {.unnumbered}
 
 > My {{< var mame >}} wanted me to make me a farmer. -- Her last words to me before she died.^[These are two _separate_ taglines. These were not her last words to him.]
 

@@ -1,6 +1,6 @@
 # February 6th, 1947
 
-##### _Link to [{{< var forverts >}}](https://www.nli.org.il/en/newspapers/frw/1947/02/06/01/)_ {.unnumbered}
+##### _Link to [{{< var forverts >}} edition](https://www.nli.org.il/en/newspapers/frw/1947/02/06/01/)_ {.unnumbered}
 
 > A leap from light comedies and merry operettas to serious dramas. --  The sad end of the great artist {{< var mogu >}} and the legacy he left behind.
 
