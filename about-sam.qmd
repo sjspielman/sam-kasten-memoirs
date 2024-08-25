@@ -38,12 +38,11 @@ Click on the album images below to be directed to the song information and recor
 
 ::::
 
+<!--
 ### Songs Sam originated
 
 These are songs which Sam did not record, but he _did_ originate! 
-
-
-
+-->
 
 ## Photo Gallery
 
