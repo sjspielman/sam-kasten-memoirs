@@ -1,8 +1,7 @@
 # Preface {.unnumbered}
 
 
-
-Like many other well-known names in the American Yiddish theater, my great-great grandfather [Sam Kasten](./appendices/sam.qmd)'s (1869-1953) (written in Yiddish as "Kestin") memoirs were published as serialized articles in American Yiddish press. From September 1946 - February 1947, Sam's memoirs (likely ghost written by [Mendel Osherowitch](https://en.wikipedia.org/wiki/Mendel_Osherowitch)) were published as a 45-article series in the {{< var forverts >}} ([*The Forward*](https://forward.com), aka *The Jewish Daily Forward*).
+Like many other well-known names in the American Yiddish theater, my great-great grandfather [Sam Kasten](./about-sam.qmd)'s (1869-1953) (written in Yiddish as "Kestin") memoirs were published as serialized articles in American Yiddish press. From September 1946 - February 1947, Sam's memoirs (likely ghost written by [Mendel Osherowitch](https://en.wikipedia.org/wiki/Mendel_Osherowitch)) were published as a 45-article series in the {{< var forverts >}} ([*The Forward*](https://forward.com), aka *The Jewish Daily Forward*).
 
 :::: {layout-ncol="2"}
 
@@ -26,8 +25,16 @@ Like many other well-known names in the American Yiddish theater, my great-great
 This website contains my translation of his memoirs.
 Armed with beginner Yiddish skills and an English/Yiddish dictionary, I provide a mostly verbatim translation, but in certain areas I do shift towards a more natural translation rephrased for the English ear. I indicate areas where I am very unsure of my translation. Translations many of the lyrics that Sam recounts are still a work in progress.
 
-
 Where possible, I have cross-referenced items Sam discusses, as detailed in footnotes and inserted images. I obtained all memoirs articles from [The National Library of Israel](https://www.nli.org.il/en/newspapers/frw) and, for those newspaper editions that were not available online, from the [New York Public Library's](https://www.nypl.org/) microfiche archives.
+
+There are also three appendices:
+
+- [Appendix A](./appendices/timeline.qmd): A timeline of Sam's whereabouts over the course of his memoirs
+- [Appendix B](./appendices/plays.qmd): A table of all plays Sam describes in his memoirs, including the English translations of their names
+- [Appendix C](./appendices/people.qmd): A list (with biography links, where available) of all people Sam meets and describes in his memoirs
+
+Yiddish words are generally defined on their first usage. I hope to add a Yiddish glossary in the future!
+
 
 ### Acknowledgements {.unnumbered}
 
@@ -35,7 +42,7 @@ Many thanks to librarians at [NYPL's Dorot Division](https://www.nypl.org/locati
 Thanks also to Steve Lasky and other volunteers who have contributed to the *Museum of the Family History* for making many translations from [Zalmen Zylbercweig's {{< var leks >}}](https://www.museumoffamilyhistory.com/yt/lex-biography.htm) available! They have been invaluable for cross-referencing.
 
 
-
 ------------------------------------------------------------------------
+
 This project is dedicated to the memory of my maternal grandfather Sol Glassman ז׳׳ל, whose untimely death sent me down an ancestry rabbit hole wherein I accidentally ended up at Sam (who, as one of my paternal great-great-grandfathers, is entirely unrelated to Sol) and discovered a treasure trove of Yiddish writings.
 Uniting the two sides of my family through Yiddish Theater is, simply put, {{< var beshert >}}.

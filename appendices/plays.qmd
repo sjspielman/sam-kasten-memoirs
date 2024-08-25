@@ -4,7 +4,7 @@ format:
     page-layout: full
 ---
 
-# Appendix C: Glossary of plays {.unnumbered}
+# Appendix B: Glossary of plays {.unnumbered}
 
 This appendix contains a table of Yiddish Theater plays that Sam mentions, either as a play he performed in, attended, or refers to someone else performing in.
 Plays are listed in order of first appearance.

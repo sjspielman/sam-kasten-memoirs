@@ -7,6 +7,7 @@ book:
   translator: "Stephanie Spielman"
   chapters:
     - index.qmd
+    - about-sam.qmd
     - part: "Part 1: Early life in Ukraine"
       chapters:
         - chapters/01_1946-09-07.qmd
@@ -60,12 +61,10 @@ book:
         - chapters/43_1947-02-13.qmd
         - chapters/44_1947-02-15.qmd
         - chapters/45_1947-02-20.qmd
-    - part: "Appendices"
-      chapters:
-        - appendices/sam.qmd
-        - appendices/people.qmd
-        - appendices/plays.qmd
-        - appendices/timeline.qmd
+  appendices:
+    - appendices/timeline.qmd
+    - appendices/plays.qmd
+    - appendices/people.qmd
 
   page-footer: '<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Except images and newspaper clippings, this work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.'
   google-analytics: "G-WWFS41KSZH"

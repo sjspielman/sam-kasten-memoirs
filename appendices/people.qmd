@@ -1,4 +1,4 @@
-# Appendix B: Glossary of people {.unnumbered}
+# Appendix C: Glossary of people {.unnumbered}
 
 This appendix contains links to more information about people Sam meets and/or describes in his memoirs.
 People are listed below in alphabetical order.
@@ -7,7 +7,7 @@ For any _Leksikon_ entries which have not yet been translated, I provide their e
 
 ### Performers in the Yiddish theater
 
-:::: {.columns}
+:::: {.columns style="font-size: 85%;"}
 
 ::: {.column width="30%"}
 
@@ -202,7 +202,7 @@ _{{< var nathanson-full >}}_
 
 > Authors, playwrights, lyricists, composers, managers, and more
 
-:::: {.columns}
+:::: {.columns style="font-size: 85%;"}
 
 ::: {.column width="60%"}
 
@@ -310,7 +310,7 @@ _{{< var nathanson-full >}}_
 
 ### Other people
 
-:::: {.columns}
+:::: {.columns style="font-size: 85%;"}
 
 ::: {.column width="60%"}
 

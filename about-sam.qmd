@@ -2,7 +2,7 @@
 lightbox: true
 ---
 
-# Appendix A: About Sam Kestin {.unnumbered}
+# About Sam Kestin {.unnumbered}
 
 Read Sam's [{{< var leks >}} entry](https://www.museumoffamilyhistory.com/yt/lex/K/kasten-sam.htm).
 
@@ -25,7 +25,7 @@ Click on the album images below to be directed to the song information and recor
   <img src="../img/ich-bin-sherif.jpeg" width=275" alt = "_Ikh bin sherif_">
 </a>
 
-**_Kolombus medine_**
+**_Kolombus's medine_**
 <a href="https://search.library.wisc.edu/digital/ALAZFBGS6T7AYM9A/AJFTAEKRURVFXA8T">
   <img src="../img/kolombuses-medine.jpeg" width=275" alt = "_Kolombus's medine_">
 </a>
@@ -37,6 +37,11 @@ Click on the album images below to be directed to the song information and recor
 </a>
 
 ::::
+
+### Songs Sam originated
+
+These are songs which Sam did not record, but he _did_ originate! 
+
 
 
 
