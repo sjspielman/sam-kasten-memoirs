@@ -1,6 +1,6 @@
 # February 20th, 1947
 
-##### _Link to [Forverts edition](https://www.nli.org.il/en/newspapers/frw/1947/02/20/01/)_ {.unnumbered}
+##### _Link to [{{< var forverts >}} edition](https://www.nli.org.il/en/newspapers/frw/1947/02/20/01/)_ {.unnumbered}
 
 > In {{< var satz >}}'s role. -- [{{< var molly-full >}}](https://www.museumoffamilyhistory.com/yt/lex/P/picon-molly.htm) and [{{< var jacob-kalich >}}](https://www.museumoffamilyhistory.com/yt/lex/K/kalich-jacob.htm) in my last years. -- The sum of everything that you can't go back and do again. 
 

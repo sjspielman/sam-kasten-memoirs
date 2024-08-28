@@ -1,6 +1,6 @@
 # January 16th, 1947
 
-##### _Link to [Forverts edition](https://www.nli.org.il/en/newspapers/frw/1947/01/16/01/)_ {.unnumbered}
+##### _Link to [{{< var forverts >}} edition](https://www.nli.org.il/en/newspapers/frw/1947/01/16/01/)_ {.unnumbered}
 
 > What {{< var kessler >}} could achieve in a role that he really loved. -- How he taught other actors to how to perform.
 

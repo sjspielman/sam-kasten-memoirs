@@ -12,7 +12,7 @@ Listen to Sam sing!
 Click on the album images below to be directed to the song information and recording.
 
 
-:::: {layout-ncol=4 style="font-size: 95%;"}
+:::: {layout-ncol=4 style="font-size: 90%;"}
 
 
 **_Shtetl Amerike_**

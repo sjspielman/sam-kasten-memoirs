@@ -107,7 +107,7 @@ For any _Leksikon_ entries which have not yet been translated, I provide their e
 - _Sigmund ("Zelig") {{< var mogu >}}_
   - [Wikipedia](https://en.wikipedia.org/wiki/Sigmund_Mogulesko)
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/M/mogulesko-sigmund.htm)
-_{{< var nathanson-full >}}_
+- _{{< var nathanson-full >}}_
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/N/nathanson-charles.htm)
 - _{{< var molly-full >}}_
   - [Wikipedia](https://en.wikipedia.org/wiki/Molly_Picon)

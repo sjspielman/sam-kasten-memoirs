@@ -1,6 +1,6 @@
 # November 21st, 1946
 
-##### _Link to [Forverts edition](https://www.nli.org.il/en/newspapers/frw/1946/11/21/01/)_ {.unnumbered}
+##### _Link to [{{< var forverts >}} edition](https://www.nli.org.il/en/newspapers/frw/1946/11/21/01/)_ {.unnumbered}
 
 > Our troupe puts on {{< var gordin >}}'s plays in Cincinnati and wins the trust of the Jewish theater world. - How [{{< var clara-rafalo >}}](https://www.museumoffamilyhistory.com/yt/lex/R/rafalo-clara.htm) became an actress.
 
