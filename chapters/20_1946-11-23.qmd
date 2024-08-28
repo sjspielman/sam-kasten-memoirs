@@ -73,9 +73,9 @@ And then again, louder than before:
 >
 > Until you come to our aid.
 
-The audience especially loved when we got to the song {{< var shepherd >}}^[Listen [here on Spotify!](https://open.spotify.com/track/6ZWCRTbEXndPo7SqVtiStt?si=642fce1b9c214167)]! They didn't necessarily sing along all together, but they all sung the song with us in their hearts, and they lapped up every word and delighted in it:
+The audience especially loved when we got to the song {{< var shepherd >}}^["A little shepherd." Listen [here on Spotify!](https://open.spotify.com/track/6ZWCRTbEXndPo7SqVtiStt?si=642fce1b9c214167)]! They didn't necessarily sing along all together, but they all sung the song with us in their hearts, and they lapped up every word and delighted in it:
 
-> ^[Again, translated by me! Hopefully not _too_ bad!]There once was a little shepherd
+> ^[Again, translated by me, but [this translation](https://yiddishsongs.org/a-pastekhl/) also exists]There once was a little shepherd
 >
 > In the land of Canaan -
 >
@@ -85,15 +85,15 @@ The audience especially loved when we got to the song {{< var shepherd >}}^[List
 >
 > And just as he became rich,
 >
-> He traded rye^[presumably as in growing crop? or a mistranslation.]
+> He traded rye,
 >
 > And lost all of his money,
 >
 > It was going poorly for him!
 >
-> Begging for a piece of bread,
+> To avoid begging for his piece of bread,
 >
-> He used to lay bricks,
+> He used to knead bricks,
 >
 > Build houses and stores,
 >
@@ -108,7 +108,7 @@ And here people would sing along with this beautiful and lively tune. As everyon
 >
 > To tell and listen to this tale.
 >
-> Yes, not at all loathsome,
+> Yes, so sweet, not at all terrible,
 >
 > To tell it to the end!
 
