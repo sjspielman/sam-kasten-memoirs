@@ -2,14 +2,14 @@
 
 ##### _Link to [{{< var forverts >}} edition](https://www.nli.org.il/en/newspapers/frw/1946/11/14/01/)_ {.unnumbered}
 
-> When I played {{< var shabtai-golem >}} in {{< var lateiner >}}'s {{< var lostsoul >}}. -- The two popular songs {{< var wiseson >}} and {{< var purim-nes >}}.
+> When I played {{< var shabtai-golem >}} in {{< var lateiner >}}'s {{< var lostsoul >}}. -- The two popular songs {{< var wiseson >}}^["A wise son from the Four Questions"] and {{< var purim-nes >}}.
 
 
 As in every city, in Pittsburgh we also had a group of very {{< var voyle-yiden >}}^["good/happy/nice Jews"] who were there for us and were ready to do anything for us, simply because they loved Yiddish theater and enjoyed that they could somehow be of help to the traveling Yiddish actors.
 
 These {{< var voyle-yiden >}}, who in their simplicity had a lot of {{< var haimishkeit >}}, were then in all the cities and towns of America, and {{< var abba-full >}} was able to find them everywhere he went. And he didn't only need them because they were well-connected and he could hitch his wagon to them to sell tickets for the show, but also because they could find some kind of home for his children and would take care of them while he was busy acting. 
 
-At that time, the actor {{< var abba-full >}} became a widower^[His wife was [Clara {{< var schoen >}}](https://www.museumoffamilyhistory.com/yt/lex/S/shoengold-clara.htm)]. His children were still small then. His son Joe^[His Leksikon entry has not yet been translated, but it is available from Volume 6, page 5344.], who years later became a well-known actor and married {{< var adler >}}'s daughter [Frances](https://www.museumoffamilyhistory.com/yt/lex/A/adler-frances.htm)^[One of {{< var jacob-adler >}} and {{< var sara-adler >}}'s children], was just a little boy then. And since {{< var abba-full >}} loved his children very much and he was extraordinarily loyal and devoted to them, he took them with him everywhere he traveled to play, and people knew that the first thing he did when he arrived somewhere in a city was find a home for his children in a respectable household where they would be well looked after. And he usually found such a home with the help of one of those {{< var voyle-yiden >}} who loved Yiddish theater and who were always ready to help a wandering Yiddish actor out.
+At that time, the actor {{< var abba-full >}} became a widower^[His wife was [Clara {{< var schoen >}}](https://www.museumoffamilyhistory.com/yt/lex/S/shoengold-clara.htm)]. His children were still small then. His son Joe^[His Leksikon entry has not yet been translated, but it is available from Volume 6, page 5344.], who years later became a well-known actor and married {{< var adler >}}'s daughter [Frances](https://www.museumoffamilyhistory.com/yt/lex/A/adler-frances.htm)^[One of {{< var jacob-adler >}} and {{< var sara-adler >}}'s children], was just a little boy then. And since {{< var abba-full >}} loved his children very much and he was extraordinarily loyal and devoted to them, he took them with him everywhere he traveled to play, and people knew that the first thing he did when he arrived somewhere in a city was find a respectable household for his children where they would be well looked after. And he usually found such a home with the help of one of those {{< var voyle-yiden >}} who loved Yiddish theater and who were always ready to help a wandering Yiddish actor out.
 
 In general, those {{< var voyle-yiden >}} played an important role in the lives of the Yiddish actors, who for many years traveled the provinces playing Yiddish theater in all the cities and towns of America. If it weren't for them, the situation of the traveling Yiddish actors of would have been much worse, not knowing who, in these cities far from home, was well-connected or how to earn a piece of bread from some performances.
 
@@ -26,11 +26,11 @@ _Lyrics._^[Most of the lyrics of this song are too complex for me to reliably tr
 
 And, with a snap of my finger and a wink of my eye:
 
-> The wise son!
+> A wise son!
 >
-> The wise son!
+> A wise son!
 >
-> The wise son - 
+> A wise son - 
 >
 > from the four questions.
 
