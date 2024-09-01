@@ -354,7 +354,9 @@ For any _Leksikon_ entries which have not yet been translated, I provide their e
   - [Wikipedia](https://en.wikipedia.org/wiki/Shmaryahu_Levin)
 - _Max Staller_^[He was the manager of Sam's acting troupe in Philadelphia, the "Star Specialty Club," in the late 1880s-early 1890s.]
   - [Find a Grave](https://www.findagrave.com/memorial/33506807/max-staller)
+<!--
   - Article in _The Jewish Exponent_: ["History's Lessons: Jewish Anarchist Doctors Cared for Philadelphia's Immigrants"](https://www.jewishexponent.com/historys-lessons-jewish-anarchist-doctors-cared-for-philadelphias-immigrants/)
+--> 
 - _{{< var winch-full >}}_
   - [Wikipedia](https://en.wikipedia.org/wiki/Morris_Winchevsky)
 
