@@ -1,6 +1,7 @@
 project:
   type: book
 
+
 book:
   title: "Sam Kestin describes 50 years in the Yiddish Theater"
   author: "Sam Kestin (Kasten), translated by <a href = 'https://sjspielman.github.io' style='color:#18BC9C;'>Stephanie Spielman</a>"
@@ -64,9 +65,15 @@ book:
     - appendices/timeline.qmd
     - appendices/plays.qmd
     - appendices/people.qmd
-
   page-footer: '<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Except images and newspaper clippings, this work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.'
   google-analytics: "G-WWFS41KSZH"
+
+website:
+  announcement:
+    icon: exclamation-circle
+    dismissable: true
+    content: "**This website has moved! Make sure to update your bookmarks!** This website (memoirs) is now [https://sjspielman.github.io/sam-kasten-memoirs](https://sjspielman.github.io/sam-kasten-memoirs). The website [https://sjspielman.github.io/sam-kasten](https://sjspielman.github.io/sam-kasten) is now a general landing page for my overall Sam Kasten project."
+    type: danger
 
 format:
   html:
