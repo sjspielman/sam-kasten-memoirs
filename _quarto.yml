@@ -7,7 +7,6 @@ book:
   translator: "Stephanie Spielman"
   chapters:
     - index.qmd
-    - about-sam.qmd
     - part: "Part 1: Early life in Ukraine"
       chapters:
         - chapters/01_1946-09-07.qmd
