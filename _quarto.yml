@@ -72,7 +72,7 @@ website:
   announcement:
     icon: exclamation-circle
     dismissable: true
-    content: "**Make sure to update your bookmarks!** This website (memoirs) is now [https://sjspielman.github.io/sam-kasten-memoirs](https://sjspielman.github.io/sam-kasten-memoirs). The website [https://sjspielman.github.io/sam-kasten](https://sjspielman.github.io/sam-kasten) is now a general landing page for my overall Sam Kasten project."
+    content: "**Make sure to update your bookmarks!**<br><br>This website (memoirs) is now [https://sjspielman.github.io/sam-kasten-memoirs](https://sjspielman.github.io/sam-kasten-memoirs).<br><br>The website [https://sjspielman.github.io/sam-kasten](https://sjspielman.github.io/sam-kasten) is a general landing page for the Sam Kasten Legacy Project which includes the memoirs, and more!"
     type: primary
 
 format:
