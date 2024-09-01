@@ -1,10 +1,10 @@
 # Preface {.unnumbered}
 
-> This URL has changed! Please update your bookmarks to https://sjspielman.github.io/sam-kasten-memoirs.
+> **This URL has changed! Please update your bookmarks to https://sjspielman.github.io/sam-kasten-memoirs.**
 > 
-> **Learn more about Sam from [this new landing page**](https://sjspielman.github.io/sam-kasten)!
+> **Learn more about Sam from [this new landing page](https://sjspielman.github.io/sam-kasten)!**
 
-Like many other well-known names in the American Yiddish theater, my great-great grandfather [Sam Kasten](./about-sam.qmd)'s (1869-1953) (written in Yiddish as "Kestin," which is how it is spelled throughout this website) memoirs were published as serialized articles in American Yiddish press. From September 1946 - February 1947, Sam's memoirs (likely ghost written by [Mendel Osherowitch](https://en.wikipedia.org/wiki/Mendel_Osherowitch) were published as a 45-article series in the {{< var forverts >}} ([*The Forward*](https://forward.com), aka *The Jewish Daily Forward*).
+Like many other well-known names in the American Yiddish theater, my great-great grandfather [Sam Kasten](https://sjspielman.github.io/sam-kasten/about_sam.html)'s (1869-1953) (written in Yiddish as "Kestin," which is how it is spelled throughout this website) memoirs were published as serialized articles in American Yiddish press. From September 1946 - February 1947, Sam's memoirs (likely ghost written by [Mendel Osherowitch](https://en.wikipedia.org/wiki/Mendel_Osherowitch) were published as a 45-article series in the {{< var forverts >}} ([*The Forward*](https://forward.com), aka *The Jewish Daily Forward*).
 
 :::: {layout-ncol="2"}
 
