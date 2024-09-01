@@ -61,6 +61,9 @@ book:
         - chapters/43_1947-02-13.qmd
         - chapters/44_1947-02-15.qmd
         - chapters/45_1947-02-20.qmd
+    - part: "Additional articles"
+      chapters:
+        - articles/1920-04-18_50th-birthday.qmd
   appendices:
     - appendices/timeline.qmd
     - appendices/plays.qmd

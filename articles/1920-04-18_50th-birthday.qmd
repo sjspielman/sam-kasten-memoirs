@@ -1,9 +1,45 @@
-# {{< var sam-full >}} turns 50 
+# Sam Kestin turns 50 
 
-> By [Berl Botvinik](https://congressforjewishculture.org/people/6749/)
+_By [Berl Botvinik](https://congressforjewishculture.org/people/6749/)_
 
-##### _Link to [Forverts article]()_ {.unnumbered}
+##### _Link to [Forverts article](https://www.nli.org.il/en/newspapers/frw/1920/04/18/01/article/58/)_ {.unnumbered}
 
 <br>
 
-It's a funny thing, a fifty-year-old {{< var yid >}}, named Shmuel {{< var kestin >}}, and people call him {{< var sam >}}. His colleagues shout at him, "Say, {{< var sam >}}!" And {{< var sam >}}, who turns 50 in a few days^[In fact, Sam was turning 51. They always seemed to hold his birthday celebrations one year off...], 
+::: {layout-ncol=2}
+
+It's a funny thing to be a 50-year-old {{< var yid >}}. His name is {{< var shmuel >}} {{< var kestin >}}, and people call him {{< var sam >}}. His colleagues shout at him, "Say, {{< var sam >}}!" And {{< var sam >}}, who turns 50 in a few days, not only replies, but runs in jumping on one foot like a mischevious {{< var heder >}} boy, giving himself a slap on each of his two cheeks, and there he is: The 50-year-old {{< var yid >}} Sam.<br><br>
+{{< var sam-full >}}, the famous Yiddish comedian. The comedian who brings us joy and tickles our funny bone^[The Yiddish idiom used here is "tickles our laugh-machine."]. We laugh and have a good time. We laugh and feel in good health, because {{< var sam-full >}} is entertaining us.<br><br>
+In looking at such a jolly, lively, charming comedian, you'l never believe that this "party animal"^[הוליאעק] was 50 years old. Even his children^[In 1920, his children were around 26, 22, and 18 years old.] almost look older than him. He isn't only young on the stage, but he is young in his cheerful soul too. He is indeed young in his appearance and in how he lives his simple life.<br><br>
+{{< var kestin >}} is one of those rare actors who actually discloses his age and doesn't use 20-year-old photographs of himself in advertisements. The picture you see here of {{< var kestin >}} was only just taken, indeed right as he is about to turn 50. And this picture wasn't taken with any makeup or massage, but just as {{< var sam >}} is.<br><br>
+Look at him - at his energy, at his fervor, at what a cheerful guy he is. He looks like a regular {{< var boychik >}}. And yet, it's {{< var reb >}} {{< var shmuel >}} {{< var kestin >}}, a 50-year-old {{< var yid >}} whose daughter is already grown and herself an actress on the Yiddish stage.<br><br>
+Everyone loves {{< var kestin >}}. Not only does everyone love him when he is on stage and makes us believe that the whole world dances and sings and jumps just for us, but everyone also loves him in day-to-day life, because he is a good friend and a loving man - "a {{< var mentsh >}} with a face of grace and with a soul of grace."<br><br>
+And that's the main thing about {{< var kestin >}}. He isn't only a dancer and a jumper. His every dance and his every jump are done with a thousand graces. Deep in his soul glows a true {{< var mentshlikher >}}^["{{< var mentsh >}}-ish"] spark with joy and love for everyone. In his grace there is a modesty, a sincerity, an affability that accompanies him on the stage just as much as in his life.
+
+![](img/1920-04-18_forverts.png){width=2.9in}
+
+:::
+
+
+
+A comedian on the Yiddish stage is the only one who plays without any arrogance in melodramas. On the Yiddish stage, a comedian is also the same one who plays the court jester to the king in Shakespeare's times. The comedian must reveal the bitter truth about the landlord, the boss, the lover, and the [parvenu](https://en.wikipedia.org/wiki/Parvenu).
+
+The comedian is the conscience of the Yiddish actors. {{< var kestin >}} isn't only this way on the stage, but in real life as well. He is joyful when he walks along the streets of New York because he has a merry, pleasant soul. On top of his happiness, he has the good gifts of modesty, honesty, brotherhood, and a soul full of charm.
+
+{{< var sam-full >}} - the comedian, the jumper - had a lot of serious troubles and {{< var tsures >}}. Even now, he has sorrows just like all men have. As a {{< var mentsh >}} such such a deep soul, he is almost moved to tears by the suffering of others. But {{< var sam-full >}} does not cry. {{< var sam-full >}} is no {{< var yidene >}}^[(older) Jewish woman], as [Teyve the Milkman](https://en.wikipedia.org/wiki/Tevye) used to say.
+
+When {{< var kestin >}} appears in serious roles, such as {{< var asch-full >}}'s {{< var gloybn >}}, he performs with humor. Even in a serious role, you'll want to laugh and enjoy yourself because just seeing {{< var sam-full >}} on the stage brings joys to the depths of your heart. His whole appearance, his charming little beard^[(goatee?) This must refer to a stage beard, since himself he was clean-shaven.] with his charming voice, makes you feel so good that it restores your health. It's a true delight to watch him perform, simply because it's {{< var sam-full >}} doing the performing.
+
+He's already performed for 28 years on the Yiddish stage, and maybe indeed for a whole 30...
+
+He was born in Kyiv, Russia, and came to America as a young man. Here in American, he worked as a "shirt operator" in a shop, and he was drawn to the stage as though by a {{< var klipe >}}^[I believe this is referring to this Kabbalistic term for [an evil spirit](https://en.wikipedia.org/wiki/Qlippoth)].
+
+His mother herself opened a shirt shop and wanted {{< var sam >}} to be the shop manager, but he ran away to become an actor^[This does not mesh very well with {{< var sam >}}'s memoirs, so who knows!]. He suffered, starved, froze, and endured terrible {{< var tsures >}} just to earn his piece of bread from acting.
+
+But now, he is the popular {{< var sam-full >}}, the 50-years-young {{< var yid >}}, and he is one of a few highly paid Yiddish actors.
+
+When {{< var kestin >}} comes out in from of the audience, the whole stage is with him. It doesn't matter what role he is playing. He is a character in and of himself. He is the charming actor {{< var kestin >}} and indeed is a whole play unto himself, a 50-year-old play, as shiny and new as when it was first written.
+
+His birthday is the 21st of April. He'll be 50-years-old on that day. The {{< var hau >}}, where {{< var sam >}} is an active member who helps ensure that everyone is able to make a living from acting, will hold a {{< var yontif >}} in honor of {{< var kestin >}}.
+
+A huge banquet is being arranged to which all manner of actors and actresses are invited. People can give gifts to and compliments to {{< var sam >}}, who will sit calmly and reserved as befits a {{< var yid >}} who is, {{< var kinehora >}}^[Literally means "no evil eye," this phrase is used to ward off the evil eye when saying something good or complimentary], turning 50 years old.
