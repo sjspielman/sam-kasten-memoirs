@@ -1,0 +1,5 @@
+# Sam Kasten Legacy Project {.unnumbered}
+
+This website is a part of the [Sam Kasten Legacy Project](https://sjspielman.github.io/sam-kasten/)!
+
+The project is an active work in progress and includes songs, pictures, and translations of other articles about {{< var sam-full >}}.
