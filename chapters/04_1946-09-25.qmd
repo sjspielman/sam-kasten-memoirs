@@ -7,7 +7,7 @@
 {{< var Tate >}}'s death shook our entire family so much that things could never be as they were. No matter how hard {{< var mame >}} worked so that we would not be in need or have to ask for help, she could not make it happen. It never happened. And then the name "{{< var Feige >}} the {{< var Possessorka >}}" began to sound like a joke, because a {{< var possessor >}} is a generally a professional who has means to live well.
 
 When {{< var mame >}} lost all interest in running the property as {{< var tate >}} had, she left the village and settled in the town of {{< var rybinka >}}, where my sister {{< var Batsheva >}} lived with her husband. And there, in {{< var rybinka >}}, we opened what is called a "sustenance-house,"^[I will use the term "general store" for this moving forward.] where they sell everything that you can think of - even a little drink too.
-{{< var Mame >}} worked very hard in the "general store," and she was really a great {{< var eshet-chayal >}}^[term of Biblical origin, "woman of valor"] and knew how to get along with people. Not only with the Jewish customers, who bought various small things from us, but also with the {{< var goyishe >}} customers. She understood who could be given a loan, and who could not. And she behaved such that people in the town had a great respect for her, and they still called her "{{< var Feige >}} the {{< var Possessorka >}}."
+{{< var Mame >}} worked very hard in the "general store," and she was really a great {{< var eshet-chayal >}}^["woman of valor"] and knew how to get along with people. Not only with the Jewish customers, who bought various small things from us, but also with the {{< var goyishe >}} customers. She understood who could be given a loan, and who could not. And she behaved such that people in the town had a great respect for her, and they still called her "{{< var Feige >}} the {{< var Possessorka >}}."
 
 
 A {{< var possessorka >}} without a {{< var possessieh >}}^["A farmer without a farm."]. 
@@ -30,7 +30,7 @@ Also, my brother {{< var itzhik-gedolia >}}, the silent {{< var katik >}}, used 
 
 -- Do me a {{< var toive >}}^[pronounced "toiveh" - literally "a good" - means a favor.] and take me back home. I've been here enough. I don't want to be here anymore. I'd rather go to the {{< var heder >}} in {{< var rybinka >}}.
 
-I also asked my {{< var mame >}} to let me come home. And when they finally gave in to me and they brought me back to {{< var rybinka >}} and I was once again home with my {{< var mame >}}, they sent me to {{< var heder >}} with the {{< var melamed >}} {{< var shmuel-yossel >}}, and this alone meant I could not have any joy; nothing good could come of this. 
+I also asked my {{< var mame >}} to let me come home. And when they finally gave in to me and they brought me back to {{< vafr rybinka >}} and I was once again home with my {{< var mame >}}, they sent me to {{< var heder >}} with the {{< var melamed >}} {{< var shmuel-yossel >}}, and this alone meant I could not have any joy; nothing good could come of this. 
 
 He was an angry Jew, {{< var shmuel-yossel >}}. A Jew with a red beard, a broad physique, and with two large, glaring eyes. He did not know how to speak to a student with kindness. He was always angry, and the anger always simmered in him just like in a cauldron. And when his two big eyes, the glaring ones, focused on a student, it felt like "the value of congealed/hardened mother's milk"^[well this is quite the idiom..! It's clearly not a good thing.] and the student was overwhelmed with fear.
 
@@ -39,7 +39,7 @@ Though I wanted to keep the promise I made to my {{< var mame >}} that I would s
 
 And from that time I remember something, which was strongly imprinted in my memory, and I want to tell it here: This was on a hot summer day, soon after lunch. In the {{< var shtetl >}}, there was suddenly a stampede. And when the {{< var reb >}}^[Referring to {{< var shmuel-yossel >}}, {{< var reb >}} was used as a general honorific ala "Mister" and does not strictly imply the person is a Rabbi] went outside to see what was happening there, he immediately ran back inside and shouted at the top of his voice: "Come, {{< var shkotsim >}}^[insolent person or prankster], with me!"
 
-In a hurry, he grabbed his {{< var kapote >}} and went out quickly, and we all ran after him, wondering where he was taking us - we were afraid. We followed him and none of us said a word the whole time. And so we went until he led us all into the {{< var beit-midrash >}}^["Beit Midrash" meaning "house of study;" place where Torah is studied] and there we saw something I will never forget.
+In a hurry, he grabbed his {{< var kapote >}} and went out quickly, and we all ran after him, wondering where he was taking us - we were afraid. We followed him and none of us said a word the whole time. And so we went until he led us all into the {{< var beit-midrash >}}^["Beit Midrash" meaning "house of study;" a place for dedicated Torah/Talmud study] and there we saw something I will never forget.
 
 In the middle of a group of inflamed and very upset Jews stood a frightened man, Meïr the synagogue choirboy, who at that time used to go to a nearby town to pray on {{< var shabes >}} in front of the pulpit. We knew that he was the son of the {{< var rokitner >}}^[adjective, of [{{< var rokitna >}}](https://en.wikipedia.org/wiki/Rokytne,_Rivne_Oblast)] Rabbi, and that the {{< var rybinker >}} butcher, {{< var Yehiel >}}, was his brother. He was a very young man, Meïr, and he always behaved as if he had no fear of anyone in the world. This time, however, he stood trembling in fear, and the enraged Jews shouted at him, called him the worst names, and one of them, an angry Jew, slapped him across the face.
 
@@ -55,16 +55,17 @@ And meanwhile, the whole town went "upside-down"^["topsy-turvy"]. Everywhere peo
 
 This is why he had led all of us to the {{< var beit-midrash >}}: He wanted us to see it with our own eyes and to remember it...
 
-After that, Meïr the choirboy was too ashamed to show his face in the street; he left {{< var rybinka >}}, and he never came back there again...
-But heard of him again? Yes, indeed we heard a lot.
+
 
 
 ::: {layout-ncol="2"}
 
+After that, Meïr the choirboy was too ashamed to show his face in the street; he left {{< var rybinka >}}, and he never came back there again...
+But heard of him again? Yes, indeed we heard a lot.<br><br>
 People must have liked him a lot, because he, Meïr the choirboy, the son of the {{< var rybinka >}} Rabbi, later became a famous opera singer on the Russian stage. And he called himself [{{< var medvedev >}}](https://www.centropa.org/en/photo/mikhail-efimovich-medvedev-meer-haimovich-bernshtein-stage)^[Mikhail Efimovich Medvedev, né Meïr Haimovich/Yefimiovich(?) Bernshtein.] even then...
 However, he did not forget when they beat him in the synagogue when he was caught for that offense. And when I met him, many years later, in America, we both laughed a lot when we talked about it. But I will tell you about this when I reach that point^[This point will be reached in [Chapter 22](./22_1946-11-30.qmd)]...
 
-![Photo of Medvedev, early 1900s. [(Source)](https://www.centropa.org/en/photo/portrait-mikhail-efimovich-medvedev-meer-haimovich-bernshtein)](../img/medvedev.jpg){#fig-medvedev width=2.5in}
+![Photo of Medvedev, early 1900s. [(Source)](https://www.centropa.org/en/photo/portrait-mikhail-efimovich-medvedev-meer-haimovich-bernshtein)](../img/medvedev.jpg){#fig-medvedev width=2in}
 
 :::
 
