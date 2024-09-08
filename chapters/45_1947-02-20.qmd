@@ -65,7 +65,14 @@ When the theater managers approached me to ask if I would come over to join the 
 
 Everyone agreed on that. 
 
-And over the three seasons that I played with {{< var molly-full >}} - two seasons at the Second Avenue Theater and one season at the Folks Theater - I played just as I am, with a smooth face and a white head of hair^[He performed with {{< var molly-full >}} and {{< var jacob-kalich >}} through the 1930/31 season when he was 62 years old]. And I feel it's necessary to mention that both {{< var molly-full >}} and {{< var jacob-kalich >}} treated me so well the whole time that it really couldn't have been better. They couldn't have taken better care of me if I were their own brother, or even their own father. [{{< var pasternak >}}](https://www.museumoffamilyhistory.com/yt/lex/P/pasternak-willy.htm) and [{{< var parnes >}}](https://www.museumoffamilyhistory.com/yt/lex/P/parnes-nathan.htm) - "the boys"^[די באָיס] from management, as we used to call them - were also good to me. 
+::: {layout-ncol=2}
+
+!["The Boys," as pictured in the [_Yiddish World Almanac_ (1926)](https://archive.org/details/nybc205590/page/n367/mode/2up?view=theater). Pictured from left to right: {{< var parnes >}}, {{< var jacob-kalich >}}, {{< var pasternak >}}, {{< var rumshinsky-full >}}, and Max Zager.](../img/theboys.png){width="2.25in"}
+
+
+And over the three seasons that I played with {{< var molly-full >}} - two seasons at the Second Avenue Theater and one season at the Folks Theater - I played just as I am, with a smooth face and a white head of hair^[He performed with {{< var molly-full >}} and {{< var jacob-kalich >}} through the 1930/31 season when he was 62 years old]. And I feel it's necessary to mention that both {{< var molly-full >}} and {{< var jacob-kalich >}} treated me so well the whole time that it really couldn't have been better. They couldn't have taken better care of me if I were their own brother, or even their own father. [{{< var pasternak >}}](https://www.museumoffamilyhistory.com/yt/lex/P/pasternak-willy.htm) and [{{< var parnes >}}](https://www.museumoffamilyhistory.com/yt/lex/P/parnes-nathan.htm) - "The Boys"^[די באָיס] from management, as we used to call them - were also good to me. 
+
+:::
 
 As with all the others who were good to me over the years I've been on the Yiddish stage, I also thank {{< var molly-full >}} and {{< var jacob-kalich >}} from the bottom of my heart. They were the last managers I worked under over my long career of sixty years. They were my last managers, and also my good friends. And since there is no longer a Molly Picon Theater, I go around like one of those "wandering stars," and from time to time, when people remember me, I still perform somewhere, and always without makeup - with only a smooth face and a head of white hair...
 
