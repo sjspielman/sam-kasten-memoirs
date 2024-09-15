@@ -20,6 +20,7 @@ I do NOT own copyright of these materials unless otherwise stated. Where known, 
 - [`sam-broken-violin-2.jpg`](https://digitalcollections.nypl.org/items/5e66b3e8-cab8-d471-e040-e00a180654d7)
 - `fega.jpeg` was photographed by me (@sjspielman)
 - [`theboys.png`](https://archive.org/details/nybc205590/page/n367/mode/2up?view=theater)
+- [`novelty-theater.png`](https://www.moyt.org/yth-br18.gif)
 
 ## Newspaper clippings folder
 
