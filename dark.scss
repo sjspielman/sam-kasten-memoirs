@@ -1,0 +1,11 @@
+/*-- scss:defaults --*/
+$link-color: #248CFC;
+$code-color: #bb8acf;
+
+a {
+  text-decoration: none;
+}
+
+/*-- scss:rules --*/
+.dark-mode { display: block; }
+.light-mode { display: none; }

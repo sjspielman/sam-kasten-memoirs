@@ -4,11 +4,16 @@ project:
 
 book:
   title: "Sam Kestin describes 50 years in the Yiddish Theater"
-  author: "Sam Kestin (Kasten), translated by <a href = 'https://sjspielman.github.io' style='color:#18BC9C;'>Stephanie Spielman</a>"
+  author: "Sam Kestin (Kasten), translated by Stephanie Spielman"
   translator: "Stephanie Spielman"
+  navbar:
+    right:
+      - icon: github
+        href: https://github.com/sjspielman/sam-kasten-memoirs
+        aria-label: GitHub
   chapters:
     - index.qmd
-    - landing-page.qmd 
+    - landing-page.qmd
     - part: "Part 1: Early life in Ukraine"
       chapters:
         - chapters/01_1946-09-07.qmd
@@ -69,12 +74,12 @@ book:
   page-footer: '<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Except images and newspaper clippings, this work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.'
   google-analytics: "G-WWFS41KSZH"
 
-website:
-  announcement:
-    icon: exclamation-circle
-    dismissable: true
-    content: "**Make sure to update your bookmarks!**<br><br>This website (memoirs) is now [https://sjspielman.github.io/sam-kasten-memoirs](https://sjspielman.github.io/sam-kasten-memoirs).<br><br>The website [https://sjspielman.github.io/sam-kasten](https://sjspielman.github.io/sam-kasten) is a general landing page for the Sam Kasten Legacy Project which includes the memoirs, and more!"
-    type: primary
+#website:
+#  announcement:
+#    icon: exclamation-circle
+#    dismissable: true
+#    content: "**Make sure to update your bookmarks!**<br><br>This website (memoirs) is now [https://sjspielman.github.io/sam-kasten-memoirs](https://sjspielman.github.io/sam-kasten-memoirs).<br><br>The website [https://sjspielman.github.io/sam-kasten](https://sjspielman.github.io/sam-kasten) is a general landing page for the Sam Kasten Legacy Project which includes the memoirs, and more!"
+#    type: primary
 
 format:
   html:
@@ -84,7 +89,6 @@ format:
     crossrefs-hover: true
     grid:
       sidebar-width: 260px;
-
-theme:
-  light: flatly
-  dark: darkly
+    theme:
+      light: [flatly, light.scss]
+      dark: [darkly, dark.scss]
