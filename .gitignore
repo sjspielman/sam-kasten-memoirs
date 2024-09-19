@@ -9,3 +9,4 @@ speeling.R
 spell_check_errors.tsv
 
 *.code-workspace
+merged-book.pdf
