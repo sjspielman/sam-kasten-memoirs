@@ -213,7 +213,7 @@ For any _Leksikon_ entries which have not yet been translated, I provide their e
 - _{{< var belzer-full >}}_
   - [Wikipedia entry for his father, Nissi Belzer](https://en.wikipedia.org/wiki/Nissan_Spivak)
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/B/belzer-yudl.htm)
-- {{< var brody-full >}}_
+- _{{< var brody-full >}}_
   - [Wikipedia](https://en.wikipedia.org/wiki/Joseph_Brody)
   - [Leksikon](https://www.museumoffamilyhistory.com/yt/lex/B/brody-joseph.htm)
   - [Milken Archive](https://www.milkenarchive.org/artists/view/joseph-brody)

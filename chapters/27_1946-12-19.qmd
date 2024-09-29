@@ -36,7 +36,7 @@ And indeed, soon the great news made its way around the whole Jewish community o
 And people didn't need to hear anything more. They immediately rushed to buy tickets, and on the evening of the performance^[September 4th, 1903] the theater was so full that people were packed in like sardines, and people were crammed into the aisles^[{{< var sam >}} uses a phrase that must be an idiom, "hung from the walls;" this is my phrasing]. And when {{< var mogu >}} came onto the stage, they gave him such an ovation; the whole audience stood up to applaud. And this moved {{< var mogu >}} so much that he remained standing on the stage, like someone reborn, and his eyes filled with tears. 
 
 
-![This advertisement from September 3rd, 1903 in the {{< var forverts >}} reads:<br><br>**People's Theater**<br>{{< var mogu >}} is healthy, lively, and in good spirits to play in the People's Theater. Friday evening September 4th, Mr. {{< var mogu >}} will appear as Feitl in **{{< var immigrant >}}**. [(Source)](https://www.nli.org.il/en/newspapers/frw/1903/09/03/01/article/16.1)(../img/newspaper_clippings/1903-09-03_forverts.png){width="3in"}
+![This advertisement from September 3rd, 1903 in the {{< var forverts >}} reads:<br><br>**People's Theater**<br>{{< var mogu >}} is healthy, lively, and in good spirits to play in the People's Theater. Friday evening September 4th, Mr. {{< var mogu >}} will appear as Feitl in **{{< var immigrant >}}**. [(Source)](https://www.nli.org.il/en/newspapers/frw/1903/09/03/01/article/16.1)](../img/newspaper_clippings/1903-09-03_forverts.png){width="3in"}
 
 :::
 
