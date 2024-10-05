@@ -1,7 +1,6 @@
 # Preface {.unnumbered}
 
-As were many other well-known actors and actresses in the American Yiddish theater, my great-great grandfather [ּSam Kasten](https://sjspielman.github.io/sam-kasten/about-sam.html)'s (1869ּּּֿֿ-1953; סעם קעסטין[^kestin]) memoirs were published as serialized articles in American Yiddish press. From September 1946 - February 1947, Sam's memoirs (likely ghost written by [Mendel Osherowitch](https://en.wikipedia.org/wiki/Mendel_Osherowitch) were published as a 45-article series in the {{< var forverts >}} ([*The Forward*](https://forward.com), aka *The Jewish Daily Forward*).
-
+As were many other well-known actors and actresses in the American Yiddish theater, my great-great grandfather [ּSam Kasten](https://sjspielman.github.io/sam-kasten/about-sam.html)'s (1869ּּּֿֿ-1953; סעם קעסטין[^kestin]) memoirs were published as serialized articles in American Yiddish press. From September 1946 - February 1947, Sam's memoirs, likely ghost written by [Mendel Osherowitch](https://en.wikipedia.org/wiki/Mendel_Osherowitch)[^source], were published as a 45-article series in the [{{< var forverts >}}](https://www.nli.org.il/en/newspapers/frw) (now [*The Forward*](https://forward.com)).
 
 
 :::: {layout-ncol="2"}
@@ -10,12 +9,12 @@ As were many other well-known actors and actresses in the American Yiddish theat
 
 ::: {style="font-size: 200%;"}
 
-> **{{< var sam-full >}} describes of 50 years of Yiddish Theater**
+> **{{< var sam-full >}} on 50 years of Yiddish Theater**
 >
-> The famous comedian, who for 50 years has been dancing and singing on the Yiddish stage, tells his memories for {{< var forverts >}}.
+> The famous comedian, who for 50 years has been dancing and singing on the Yiddish stage, writes his memoirs for "{{< var forverts >}}".
 > Dramatic, romantic, funny, and comical tales that occurred in and around the Yiddish theater in the last half century.
 >
-> Start reading {{< var sam-full >}}'s articles in the {{< var forverts >}} Saturday, September 7th.
+> Start reading {{< var sam-full >}}'s articles in "{{< var forverts >}}" Saturday, September 7th.
 > The articles will appear twice a week, Thursday and Saturday.
 
 :::
@@ -51,3 +50,7 @@ Uniting the two sides of my family through Yiddish Theater is, simply put, {{< v
 
 [^kestin]: 
     Note that Sam's name was written in Yiddish as Sam "_Kestin_" (סעם קעסטין), but I will write his name throughout as {{< var sam-full >}}.
+
+[^source]:
+    Sam's [{{< var leks >}} entry](https://www.museumoffamilyhistory.com/yt/lex/K/kasten-sam.htm) reads, 
+        > K. was published in the Forverts anonymously, through M. Osherowitch, his memoirs entitled, "Sam Kasten on 50 Years of Yiddish Theatre" (19 September 1946 -- 20 February 1947). 
