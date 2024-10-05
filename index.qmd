@@ -1,6 +1,8 @@
 # Preface {.unnumbered}
 
-Like many other well-known names in the American Yiddish theater, my great-great grandfather [Sam Kasten](https://sjspielman.github.io/sam-kasten/about-sam.html)'s (1869-1953) (written in Yiddish as "Kestin") memoirs were published as serialized articles in American Yiddish press. From September 1946 - February 1947, Sam's memoirs (likely ghost written by [Mendel Osherowitch](https://en.wikipedia.org/wiki/Mendel_Osherowitch) were published as a 45-article series in the {{< var forverts >}} ([*The Forward*](https://forward.com), aka *The Jewish Daily Forward*).
+As were many other well-known actors and actresses in the American Yiddish theater, my great-great grandfather [ּSam Kasten](https://sjspielman.github.io/sam-kasten/about-sam.html)'s (1869ּּּֿֿ-1953; סעם קעסטין[^kestin]) memoirs were published as serialized articles in American Yiddish press. From September 1946 - February 1947, Sam's memoirs (likely ghost written by [Mendel Osherowitch](https://en.wikipedia.org/wiki/Mendel_Osherowitch) were published as a 45-article series in the {{< var forverts >}} ([*The Forward*](https://forward.com), aka *The Jewish Daily Forward*).
+
+
 
 :::: {layout-ncol="2"}
 
@@ -8,12 +10,12 @@ Like many other well-known names in the American Yiddish theater, my great-great
 
 ::: {style="font-size: 200%;"}
 
-> **Sam Kestin describes of 50 years of Yiddish Theater**
+> **{{< var sam-full >}} describes of 50 years of Yiddish Theater**
 >
 > The famous comedian, who for 50 years has been dancing and singing on the Yiddish stage, tells his memories for {{< var forverts >}}.
 > Dramatic, romantic, funny, and comical tales that occurred in and around the Yiddish theater in the last half century.
 >
-> Start reading Sam Kestin's articles in the {{< var forverts >}} Saturday, September 7th.
+> Start reading {{< var sam-full >}}'s articles in the {{< var forverts >}} Saturday, September 7th.
 > The articles will appear twice a week, Thursday and Saturday.
 
 :::
@@ -22,7 +24,7 @@ Like many other well-known names in the American Yiddish theater, my great-great
 
 
 This website contains my translation of his memoirs.
-Armed with beginner Yiddish skills and an English/Yiddish dictionary, I provide a mostly verbatim translation, but in certain areas I do shift towards a more natural translation rephrased for the English ear. I indicate areas where I am very unsure of my translation. Translations of many of the lyrics that Sam recounts are still a work in progress.
+Armed with beginner Yiddish skills and an English/Yiddish dictionary, I provide a mostly verbatim translation, but in certain areas I do shift towards a more natural translation rephrased for the English ear. I indicate areas where I am very unsure of my translation. Translations of many of the lyrics that Sam recounts are still a work in progress. (Want to help? Please reach out at `stephanie <dot> spielman <at> gmail.com`!)
 
 Where possible, I have cross-referenced items Sam discusses, as detailed in footnotes and inserted images. I obtained all memoirs articles from [The National Library of Israel](https://www.nli.org.il/en/newspapers/frw) and, for those newspaper editions that were not available online, from the [New York Public Library's](https://www.nypl.org/) microfiche archives.
 
@@ -45,3 +47,7 @@ Thanks also to Steve Lasky and other volunteers who have contributed to the *Mus
 
 This project is dedicated to the memory of my maternal grandfather Sol Glassman ז׳׳ל, whose untimely death sent me down an ancestry rabbit hole wherein I accidentally ended up at Sam (who, as one of my paternal great-great-grandfathers, is entirely unrelated to Sol) and discovered a treasure trove of Yiddish writings.
 Uniting the two sides of my family through Yiddish Theater is, simply put, {{< var beshert >}}.
+
+
+[^kestin]: 
+    Note that Sam's name was written in Yiddish as Sam "_Kestin_" (סעם קעסטין), but I will write his name throughout as {{< var sam-full >}}.
