@@ -12,13 +12,14 @@ I do NOT own copyright of these materials unless otherwise stated. Where known, 
 - [`peoples-music-hall.jpg`](https://cinematreasures.org/theaters/60205)
 - [`BoweryWindsorTheatre.jpg`](https://www.boweryalliance.org/did-you-know-this-about-the-bowery/)
 - [`1909-1910_arch-st-theater-troupe.png`](https://twitter.com/schmeterpitz/status/1527979480119123969)
+    - Note that this tweet mistakenly implies the theater belongs to {{< var boris >}} - it does not. It is run by his brother {{< var mike >}}. We further know from the Yiddish press that the theater indeed was certainly operational for several seasons before 1910!
 - [`lyric-theater.jpg`](https://www.museumoffamilyhistory.com/brooklyn/yt/theatres.htm)
 - [`liberty-theater.jpg`](https://www.museumoffamilyhistory.com/brooklyn/yt/theatres.htm)
 - [`wedding-day.jpeg`](https://www.loc.gov/resource/ihas.200186076.0/)
 - `sam-griner-millionaire.jpeg` is from Sam's Leksikon entry
 - [`sam-broken-violin-1.png`](https://digitalcollections.nypl.org/items/5e66b3e8-b68c-d471-e040-e00a180654d7)
 - [`sam-broken-violin-2.jpg`](https://digitalcollections.nypl.org/items/5e66b3e8-cab8-d471-e040-e00a180654d7)
-- `fega.jpeg` was photographed by me (@sjspielman)
+- `fega.jpeg` was photographed by me. I do own this photograph.
 - [`theboys.png`](https://archive.org/details/nybc205590/page/n367/mode/2up?view=theater)
 - [`novelty-theater.png`](https://www.moyt.org/yth-br18.gif)
 
@@ -32,7 +33,7 @@ Below, they are organized by newspaper and link to the source.
 - [`1902-04-17_forverts.png`](https://www.nli.org.il/en/newspapers/frw/1902/04/17/01/article/13.2)
 - [`1902-08-30_forverts.png`](https://www.nli.org.il/en/newspapers/frw/1902/08/30/01/article/10.1)
 - [`1903-09-03_forverts.png`](https://www.nli.org.il/en/newspapers/frw/1903/09/03/01/article/16.1)
-- [`1903-09-30_forverts.png`](https://www.nli.org.il/en/newspapers/frw/1903/09/30/01/article/1)
+- [`1903-09-30_forverts.png`](https://www.nli.org.il/en/newspapers/frw/1903/09/30/01/article/18)
 - [`1904-03-04_forverts.png`](https://www.nli.org.il/en/newspapers/frw/1904/03/04/01/article/32.1/)
 - [`1919-09-06_forverts.png`](https://www.nli.org.il/en/newspapers/frw/1919/09/06/01/article/64.2)
 - [`1912-09-14_forverts.png`](https://www.nli.org.il/en/newspapers/frw/1912/09/14/01/article/15.1)
@@ -40,7 +41,7 @@ Below, they are organized by newspaper and link to the source.
 - [`1915-02-04_forverts.png`](https://www.nli.org.il/en/newspapers/frw/1915/02/04/01/article/47.3/)
 
 ### [_Fraye Arbeter Shtime_](https://www.nli.org.il/en/newspapers/freiearb)
-- [`1891-02-06_freiearb.png`](https://www.nli.org.il/en/newspapers/freiearb/1891/02/06/01/)
+- [`1891-02-06_freiearb.png`](https://www.nli.org.il/en/newspapers/freiearb/1891/02/06/01/article/21.3)
 - [`1911-02-25_freiearb.png`](https://www.nli.org.il/en/newspapers/freiearb/1911/02/25/01/article/26.2/)
 
 ## [_Der Emes_](https://www.nli.org.il/en/newspapers/emet)
