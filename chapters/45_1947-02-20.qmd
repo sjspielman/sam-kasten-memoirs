@@ -26,7 +26,7 @@ At the start of the 1927 season, I was engaged to play in the New York Public Th
 
 But a short time before the season started, on one fine morning, that told us the news that {{< var satz-full >}} had also been engaged to play in the Public Theater. I confess, when I heard this news I wasn't too happy because having {{< var satz >}} on board meant that I would no longer be able to play the lead comic roles.
 
-To take the audiences by storm right from the beginning, we opened the season with an operetta whose name I don't remember anymore^[According to this [advertisement in {{< var forverts >}} from September 21st 1927](https://www.nli.org.il/en/newspapers/frw/1927/09/21/01/article/77.4), the operetta was {{< var zaydes-gelibte >}}. Note that {{< var sam >}} appears in the bottom right corner the advertisement's cartoon image.]. But I do remember that the operetta was staged so that the two "stars" {{< var blank-full >}} and {{< var satz-full >}} wouldn't feel slighted and neither would eclipse the other.  
+To take the audiences by storm right from the beginning, we opened the season with an operetta whose name I don't remember anymore[^zaydes]. Note that {{< var sam >}} appears in the bottom right corner the advertisement's cartoon image.]. But I do remember that the operetta was staged so that the two "stars" {{< var blank-full >}} and {{< var satz-full >}} wouldn't feel slighted and neither would eclipse the other.  
 
 The first two weeks were a huge success, and we brought in a lot of money at the box office. {{< var goldberg >}} himself said at the time that he didn't remember a time in the Yiddish theater when they made this much money in just one week's time. We thought that if the first week was so good, surely it would only get better. But then the second week came, and the operetta was such a failure that if we didn't get it off the stage immediately we'd be doomed, and it would be hard to get out from under it. 
 
@@ -83,3 +83,9 @@ It was a long way. It was a hard way. But...
 But oh, if only we go back and do it all again!
 
 **_.ענדע_**^[The End.]
+
+
+[^zaydes]:
+    According to this [advertisement in {{< var forverts >}} from September 21st 1927](https://www.nli.org.il/en/newspapers/frw/1927/09/21/01/article/77.4), the operetta was {{< var zaydes-gelibte >}}. An article about {{< var satz-full >}}'s performance in the show entitled "{{< var satz-full >}}, Popular Yiddish Comedian, Shows Rare Ability As Star in New Musical Operetta" appeared in the _Brooklyn Sunday Star_ on November 6th 1927 and described {{< var sam >}} as follows:
+
+    > {{< var sam-full >}} is another artist of old school. He takes advantage of a very small and unimportant role and creates laughter and applause, where another actor in his place would feel lost alongside a comedian like {{< var satz >}}. However, the two work in perfect harmony and carry the production on their shoulders.
