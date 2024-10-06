@@ -3,14 +3,17 @@ project:
 
 
 book:
-  title: "Sam Kestin on 50 years of Yiddish Theater"
-  author: "Sam Kestin (Kasten), translated by Stephanie Spielman"
+  title: "Sam Kasten on 50 years of Yiddish Theater"
+  author: "Sam Kasten, translated by <a href='https://sjspielman.github.io/'>Stephanie Spielman<a>"
   translator: "Stephanie Spielman"
   navbar:
     right:
       - icon: github
         href: https://github.com/sjspielman/sam-kasten-memoirs
         aria-label: GitHub
+      - icon: envelope-fill
+        href: mailto:stephanie.spielman@gmail.com
+        aria-label: Email
   chapters:
     - index.qmd
     - landing-page.qmd
