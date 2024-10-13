@@ -21,7 +21,7 @@ One time, when we were getting ready to put on {{< var goldfaden >}}'s historica
 
 > _Lyrics._
 
-It was explicitly promised that this time my name would not be left out, and they will specifically announce that I, the comedian {{< var sam-full >}}, will play the role of {{< var tsing >}} in {{< var shulamith >}}. But they didn't keep their word; They was announced that the role of {{< var tsing >}} would be played by {{< var berl-b >}}, even though I was playing the role...
+It was explicitly promised that this time my name would not be left out, and they will specifically announce that I, the comedian {{< var sam-full >}}, will play the role of {{< var tsing >}} in {{< var shulamith >}}. But they didn't keep their word; They announced that the role of {{< var tsing >}} would be played by {{< var berl-b >}}, even though I was playing the role...
 
 That's what they decided, and when I complained, they tried to weasel out of what they did with all kinds of excuses, but this time it didn't work.
 
