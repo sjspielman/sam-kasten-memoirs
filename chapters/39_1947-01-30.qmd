@@ -12,7 +12,7 @@ Of all the roles which I have played on the Yiddish stage, I was given yet anoth
 
 But let's circle back to the Novelty Theater, where I performed when {{< var jacob-adler >}} and {{< var boris >}} were on bad terms with their wives. When the Novelty Theater closed before the season was over, I felt like a spare, and I became uneasy and restless - I was never able to sit still, neither at home nor in the cafe where the actors usually hung around in their free time^[He is referring, almost certainly, to [Cafe Royal](https://www.villagepreservation.org/2011/03/01/cafe-royal/)].
 
-You must understand that not having any work when other actors did is, for an actor, one of the worst things possible. {{< var Nu >}}, as usual, I went back to Philadelphia where my friend {{< var shor-full >}} saw to it that I would, from time to time, play a performance and get my share of applause which I always longed for so much when I was out of work. And when I had nothing to do in Philadelphia, I came back to New York. And so I ran back and forth from one city to the other, never getting any rest. Which is to say - other actors were playing, but I was not! 
+You must understand that not having any work when other actors did is, for an actor, one of the worst things possible. {{< var Nu >}}, as usual, I went back to Philadelphia where my friend {{< var shor-full >}} saw to it that I would, from time to time, play a performance and get my share of applause which I always longed for so much when I was out of work. And when I had nothing to do in Philadelphia, I came back to New York. And so I ran back and forth from one city to the other, never getting any rest. Which is to say - other actors were playing, but I was not!
 
 And believe me, the notion of a getting paid to perform interested me less than performing itself.
 
@@ -28,7 +28,7 @@ No actor turned down an offer to play in a benefit performance for {{< var mogu 
 
 {{< var mogu >}} did not take any pleasure asking actors to perform in his benefit performance. He was always afraid that they would turn him down, and for him this would of course be a great offense, and he would be completely mortified. Indeed, this is why his wife {{< var molly >}}^[short for [Amalia](https://www.museumoffamilyhistory.com/yt/lex/M/mogulesko-amalia.htm)] took on this task on his behalf and kept his involvement to an absolute minimum.
 
-Generally speaking, the great artist {{< var mogu >}} was under his wife {{< var molly >}}'s control. He treated whatever she said as law. And he always listened to her, like a good little obedient boy. And he gave her every penny of his earnings to put away. Whenever he had to buy something for himself, he had to go to her and ask for money. She counted every cent and kept track of all the money he spent. She was very stingy, never spending even one extra cent, and he had to give her an exact account of every penny he spent. 
+Generally speaking, the great artist {{< var mogu >}} was under his wife {{< var molly >}}'s control. He treated whatever she said as law. And he always listened to her, like a good little obedient boy. And he gave her every penny of his earnings to put away. Whenever he had to buy something for himself, he had to go to her and ask for money. She counted every cent and kept track of all the money he spent. She was very stingy, never spending even one extra cent, and he had to give her an exact account of every penny he spent.
 
 It's possible that she was so frugal because she was always afraid that, any any moment, her husband's illness would render him unable able to perform and they would have nothing left to live on, and they would have to go to others for help. She was simply taking precautions so that, if they fell on even harder times, they would not starve to death. This was the situation in which the best Yiddish character-comedian, the God-blessed artist {{< var mogu >}}, found himself, after all those years playing on the Yiddish stage and bringing such joy to the hearts of thousands and thousands of Jews across the whole world.
 
@@ -42,11 +42,11 @@ At first I didn't understand what he meant - I couldn't fathom how he could also
 
 -- Imagine this - he said - I was sure that {{< var thomash >}} would of course keep his word and he would play the role of {{< var joe >}} in my benefit performance just like he promised. But he screwed me - he ran off somewhere with {{< var regina >}} and no one has any idea where they are... Oy, romance, romance...! - he wailed.
 
-He then become very despondent, and he had no earthly clue what to do about the whole situation. 
+He then become very despondent, and he had no earthly clue what to do about the whole situation.
 
--- How can we put on the show without him? What will I do? How am I going to get someone else to play {{< var joe >}} on such short notice? 
+-- How can we put on the show without him? What will I do? How am I going to get someone else to play {{< var joe >}} on such short notice?
 
-{{< var mogu >}} was always got like this when he something happened that he did not expect - he become completely helpless and didn't know how to get out of the situation. 
+{{< var mogu >}} was always got like this when something happened that he did not expect - he became completely helpless and didn't know how to get out of the situation.
 
 When I heard what was happening, I reassured him:
 
@@ -62,7 +62,7 @@ I made the last remark mostly to reassure {{< var molly >}} because she, general
 
 I knew it was going to be very hard without him telling me, but my desire to help {{< var mogu >}} and take away his worries was so great that nothing could talk me out of it. And indeed, right there on the spot, I showed him how, in the prologue during the scene changes, I would be able to play the role of the "little merry negro" and immediately after do a quick change into the role of {{< var joe >}} - the role {{< var thomash >}} was supposed to play.
 
-Like every one of {{< var mogu >}}'s benefit performances, this one too ended up being a great success. And when we all met up afterwards in the restaurant, {{< var mogu >}} thanked me profusely^[This is actually meant to be an idiom that I could not translate: האלטן זילך לעבן מיך], and he said that he wanted everyone to know that I had saved him and he would never forget it. 
+Like every one of {{< var mogu >}}'s benefit performances, this one too ended up being a great success. And when we all met up afterwards in the restaurant, {{< var mogu >}} thanked me profusely^[This is actually meant to be an idiom that I could not translate: האלטן זילך לעבן מיך], and he said that he wanted everyone to know that I had saved him and he would never forget it.
 
 I was truly delighted that I was able to do such a {{< var toive >}} for {{< var mogu >}}. And when he told me that it would be his pleasure to return the {{< var toive >}} somehow, I immediately thought of something he could do for me:
 
@@ -70,7 +70,7 @@ I was truly delighted that I was able to do such a {{< var toive >}} for {{< var
 
 -- What request? - {{< var mogu >}} asked. - Don't be shy at all, tell me. You can be sure that I will not let you down.
 
-My request was this - after {{< var pesach >}}, the Arch Street Theater in Philadelphia would be holding a benefit performance for me^[{{< var mogu >}}'s benefit performance was on April 15th, 1913, and {{< var pesach >}} that year was April 21-29th. So, {{< var sam >}}'s benefit performance in Philadelphia is likely in early May 1913.]. This had already all been set up with {{< var shor-full >}}. I wondered if he might come there and put on {{< var lateiner >}}'s {{< var greenhorns >}} for it. 
+My request was this - after {{< var pesach >}}, the Arch Street Theater in Philadelphia would be holding a benefit performance for me^[{{< var mogu >}}'s benefit performance was on April 15th, 1913, and {{< var pesach >}} that year was April 21-29th. So, {{< var sam >}}'s benefit performance in Philadelphia is likely in early May 1913.]. This had already all been set up with {{< var shor-full >}}. I wondered if he might come there and put on {{< var lateiner >}}'s {{< var greenhorns >}} for it.
 
 -- This would really be a huge {{< var toive >}} for me. - I told him. - You would really save me too, because, as you know, I've had a really bad season this year.
 
@@ -86,6 +86,6 @@ There are no words to describe the silent scene that then took place between {{<
 
 -- He is such a sick man, so very sick... He needs to be taken care of, taken care of very well...
 
-In that moment, I began to understand her. And I pitied them both - both {{< var mogu >}} and his wife. 
+In that moment, I began to understand her. And I pitied them both - both {{< var mogu >}} and his wife.
 
-And now we are coming to the last moments of my acquaintanceship with {{< var mogu >}}. But I'll save this for the next article. 
+And now we are coming to the last moments of my acquaintanceship with {{< var mogu >}}. But I'll save this for the next article.

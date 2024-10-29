@@ -4,7 +4,7 @@
 
 > Good and bad moments while playing together with {{< var kessler-full >}}. -- Character traits of the great artist.
 
-During the rehearsals with {{< var kessler-full >}} in Brooklyn's Lyric Theater while we were putting on {{< var gorky >}}'s play, {{< var kessler >}} was harder on {{< var schwartz >}}^[{{< var schwartz-full >}}] than on than anyone else. {{< var kessler >}} would always single him out, and whatever {{< var schwartz >}} did, {{< var kessler >}} was not pleased with it and scowled at him, 
+During the rehearsals with {{< var kessler-full >}} in Brooklyn's Lyric Theater while we were putting on {{< var gorky >}}'s play, {{< var kessler >}} was harder on {{< var schwartz >}}^[{{< var schwartz-full >}}] than on than anyone else. {{< var kessler >}} would always single him out, and whatever {{< var schwartz >}} did, {{< var kessler >}} was not pleased with it and scowled at him,
 
 -- Not like that!...
 
@@ -18,7 +18,7 @@ During those rehearsals, he made {{< var schwartz >}} so depressed that it was n
 
 He clashed with the actors in troupe many times over the fact that, often, he didn't even know his own role, and many times it blew up into a whole debacle.
 
-I remember how once, in Brooklyn's Lyric Theater, we put on {{< var goldfaden >}}'s historical operetta {{< var barkochba >}}, and they gave me the role of the Roman governor. {{< var kessler >}}, apparently, had no real desire to play {{< var barkochba >}}. As usual, he relied on the fact that he had played the role of {{< var bar-kochba-person >}} many times before, so he didn't bother to study it or rehearse at all. 
+I remember how once, in Brooklyn's Lyric Theater, we put on {{< var goldfaden >}}'s historical operetta {{< var barkochba >}}, and they gave me the role of the Roman governor. {{< var kessler >}}, apparently, had no real desire to play {{< var barkochba >}}. As usual, he relied on the fact that he had played the role of {{< var bar-kochba-person >}} many times before, so he didn't bother to study it or rehearse at all.
 
 This was during the scene where the governor, drunk, sits on the throne and his men come to him to tell him that {{< var bar-kochba-person >}} wants to see him. I knew my role well because I studied it well, and like a true Roman governor, I said my line great fanfare:
 
@@ -50,7 +50,7 @@ And so he came down. But he didn't come to my dressing room; he stopped on the s
 
 -- Where is he, the Philadelphia "big shot"?
 
-And when again sent for me, I called back that the "Philadelphia big shot" has a name and that name is Mr. {{< var kestin >}}...
+And when he sent for me again, I called back that the "Philadelphia big shot" has a name and that name is Mr. {{< var kestin >}}...
 
 In my anger, I stood my ground. When {{< var kessler >}}, still standing on the stairs, called me "Mr. {{< var kestin >}}," I came out to see him. I was sure that this time we would have a big fight, and afterwards we would never speak to each other again...
 
@@ -66,7 +66,7 @@ Many actors saw him as their enemy and spoke out against him as the worst man in
 
 -- _You see_^[These two words in English], he doesn't understand, the idiot, that if he only had any talent and played a role well, people would see him as a man... _You know_, a real life man. And I would be the first to applaud him...
 
-The whole season in the Lyric Theater went on like this; I had a lot of good times with {{< var kessler >}}, and a lot of not-so-good times. And at the end of the season^[more likely, this was halfway through the season in January or so], there was talk of {{< var kessler >}} was going to choose some actors among the two troupes at the different theaters and travel around the provinces with them. {{< var boaz-full >}} immediately came up with a plan to stage a new comedy in the Lyric Theater called {{< var mayn-vaybs-man-full >}}. The play was originally written by [{{< var meisel-full >}}](https://www.museumoffamilyhistory.com/yt/lex/M/meisel-hyman.htm), but {{< var young >}} had also lent a hand^[he staged and directed the show, and presumably had some say in how it was written], and he had in mind that the comedy should have a role that his wife, the actress {{< var clara-full >}}, who was not yet famous, could have a chance to shine in. 
+The whole season in the Lyric Theater went on like this; I had a lot of good times with {{< var kessler >}}, and a lot of not-so-good times. And at the end of the season^[more likely, this was halfway through the season in January or so], there was talk that {{< var kessler >}} was going to choose some actors among the two troupes at the different theaters and travel around the provinces with them. {{< var boaz-full >}} immediately came up with a plan to stage a new comedy in the Lyric Theater called {{< var mayn-vaybs-man-full >}}. The play was originally written by [{{< var meisel-full >}}](https://www.museumoffamilyhistory.com/yt/lex/M/meisel-hyman.htm), but {{< var young >}} had also lent a hand^[he staged and directed the show, and presumably had some say in how it was written], and he had in mind that the comedy should have a role that his wife, the actress {{< var clara-full >}}, who was not yet famous, could have a chance to shine in.
 
 When the group of actors was being put together to head out to the provinces, {{< var boaz-full >}} told {{< var wilner >}}:
 

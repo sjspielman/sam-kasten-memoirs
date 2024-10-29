@@ -55,11 +55,11 @@ You simply can't make up what happened next. They dealt with the situation by ma
 Three different advertisement styles for how {{< var two-cantors >}} was advertised in the papers. In all advertisements, I have marked {{< var kessler-full >}} with green boxes, {{< var thomash >}} with blue boxes, and {{< var sam >}} with orange boxes.
 :::
 
-In those times - I believe it must have been 1918^[In fact, this specific story took place in the fall of 1919] - also played in {{< var thomash >}}'s National Theater, and I remember how when we put on [{{< var kalmano >}}](https://www.museumoffamilyhistory.com/yt/lex/K/kalmanowitz-harry.htm)'s play {{< var two-cantors >}}^[_The Two Cantors_;{{< var sam >}} sang, at least, the song {{< var strike >}} in this show. You can find [sheet music here](https://www.loc.gov/item/ihas.200182369/) and [a translation of the lyrics along with a recording here](http://www.yiddishpennysongs.com/2018/03/yeder-eyner-straykt-atsind-everybody-is.html)]. {{< var kessler >}} played one {{< var chazan >}}^[cantor] and {{< var thomash >}} played the other. And not only was {{< var thomash >}} the theater manager, he was also necessarily the director who, naturally, during rehearsals showed everyone how to perform their roles.
+In those days - I believe it must have been 1918^[In fact, this specific story took place in the fall of 1919] - he also played in {{< var thomash >}}'s National Theater, and I remember how when we put on [{{< var kalmano >}}](https://www.museumoffamilyhistory.com/yt/lex/K/kalmanowitz-harry.htm)'s play {{< var two-cantors >}}^[_The Two Cantors_;{{< var sam >}} sang, at least, the song {{< var strike >}} in this show. You can find [sheet music here](https://www.loc.gov/item/ihas.200182369/) and [a translation of the lyrics along with a recording here](http://www.yiddishpennysongs.com/2018/03/yeder-eyner-straykt-atsind-everybody-is.html)]. {{< var kessler >}} played one {{< var chazan >}}^[cantor] and {{< var thomash >}} played the other. And not only was {{< var thomash >}} the theater manager, he was also necessarily the director who, naturally, during rehearsals showed everyone how to perform their roles.
 
 There was a scene in the play where one of the two {{< var chazanim >}}^[cantors] comes home dejected and tells his two sons that he has lost his job. The {{< var gabbaim >}}^[plural of [gabbai](https://en.wikipedia.org/wiki/Gabbai)] at the {{< var shul >}} didn't want him anymore - they said that he was too old and could no longer sing. His voice had grown raspy and hoarse and wasn't like it once was...
 
-One of the {{< var chazan >}}'s sons was a simple, uneducated man, but a very good-natured man who loved and was very devoted to his father. And the other sons was educated but hardly good-natured - an egotistical man who always put himself first. I played the role of the good son, and if my memory serves, {{< var schwartz-full >}} played the bad son[^william].
+One of the {{< var chazan >}}'s sons was a simple, uneducated man, but a very good-natured man who loved and was very devoted to his father. And the other son was educated but hardly good-natured - an egotistical man who always put himself first. I played the role of the good son, and if my memory serves, {{< var schwartz-full >}} played the bad son[^william].
 
 The scene where two sons reacts to their father's news that he has been laid off is very dramatic. The good son consoles his father, tells him not to worry and reassures him that just like before, he will see to his father's needs. But the bad son handles it very differently; he becomes angry, and in his rage he loses his temper and hits his brother. Their father intervenes, and such {{< var tumult >}} ensues that the two sons leave even more angry at each other, and the poor {{< var chazan >}} becomes even more depressed than he was before...
 
@@ -88,12 +88,11 @@ All in all, it was the strongest and most dramatic scene in the whole play. Even
     Alas, {{< var sam >}}'s memory does _not_ serve, but he's close! The bad son was instead played by _{{< var william-full >}}_. In fact, {{< var forverts >}} actually issued a correction to this end immediately after the following week's article on January 23rd:
 
     ::: {layout-ncol="2"}
-    
-    >**Not {{< var schwartz-full >}} but Willy {{< var schwartz >}}** 
+
+    >**Not {{< var schwartz-full >}} but Willy {{< var schwartz >}}**
     >
     > In last Thursday's article, in relaying an episode from when I played with {{< var thomash >}} in the National Theater, I made an error: I meant Willy {{< var schwartz >}}, not {{< var schwartz-full >}} which was not right. {{< var schwartz-full >}} never played with {{< var thomash >}}.
-    
+
     ![Correction issued on January 23rd, 1947.](../img/newspaper_clippings/1947-01-23_forverts_correction.png){width="3in"}
-    
+
     :::
-    
