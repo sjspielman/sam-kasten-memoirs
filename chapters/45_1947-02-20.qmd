@@ -86,8 +86,7 @@ But oh, if only we go back and do it all again!
 
 
 [^zaydes]:
-    According to this [advertisement in {{< var forverts >}} from September 21st 1927](https://www.nli.org.il/en/newspapers/frw/1927/09/21/01/article/77.4), the operetta was {{< var zaydes-gelibte >}}. An article about {{< var satz-full >}}'s performance in the show entitled "{{< var satz-full >}}, Popular Yiddish Comedian, Shows Rare Ability As Star in New Musical Operetta" appeared in the _Brooklyn Sunday Star_ on November 6th 1927 and described {{< var sam >}} as follows:
+    According to this [advertisement in {{< var forverts >}} from September 21st 1927](https://www.nli.org.il/en/newspapers/frw/1927/09/21/01/article/77.4), the operetta was {{< var zaydes-gelibte >}}. An article about {{< var satz-full >}}'s performance in the show entitled "{{< var satz-full >}}, Popular Yiddish Comedian, Shows Rare Ability As Star in New Musical Operetta" appeared in the _Brooklyn Sunday Star_ on November 6th 1927.
+    Sam is pictured on the bottom right of the cartoon in the advertisement, and he is described {{< var sam >}} as follows:
 
     > {{< var sam-full >}} is another artist of old school. He takes advantage of a very small and unimportant role and creates laughter and applause, where another actor in his place would feel lost alongside a comedian like {{< var satz >}}. However, the two work in perfect harmony and carry the production on their shoulders.
-
-    Note that {{< var sam >}} appears in the bottom right corner the advertisement's cartoon image.
