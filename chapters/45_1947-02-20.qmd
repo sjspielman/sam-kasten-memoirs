@@ -2,19 +2,19 @@
 
 ##### _Link to [{{< var forverts >}} edition](https://www.nli.org.il/en/newspapers/frw/1947/02/20/01/)_ {.unnumbered}
 
-> In {{< var satz >}}'s role. -- [{{< var molly-full >}}](https://www.museumoffamilyhistory.com/yt/lex/P/picon-molly.htm) and [{{< var jacob-kalich >}}](https://www.museumoffamilyhistory.com/yt/lex/K/kalich-jacob.htm) in my last years. -- The sum of everything that you can't go back and do again. 
+> In {{< var satz >}}'s role. -- [{{< var molly-full >}}](https://www.museumoffamilyhistory.com/yt/lex/P/picon-molly.htm) and [{{< var jacob-kalich >}}](https://www.museumoffamilyhistory.com/yt/lex/K/kalich-jacob.htm) in my last years. -- The sum of everything that you can't go back and do again.
 
-The closer I get to the end of my memoirs, I feel all the more as though I'm moving farther and farther away from the best years of my life -- my best years on the Yiddish stage in America. 
+The closer I get to the end of my memoirs, I feel all the more as though I'm moving farther and farther away from the best years of my life -- my best years on the Yiddish stage in America.
 
 60 years on the stage is no small thing, after all!
 
-When I began acting, I was a young man of 16. And now I am already, {{< var baruch-hashem >}}, a Jew of 77 years, and soon in April^[April 1947, a little under 2 months after this final installment was published] - if I make it to then in good health - I will turn 78. 
+When I began acting, I was a young man of 16. And now I am already, {{< var baruch-hashem >}}, a Jew of 77 years, and soon in April^[April 1947, a little under 2 months after this final installment was published] - if I make it to then in good health - I will turn 78.
 
-Yes, 60 years on the Yiddish stage in America - that is no small thing. 
+Yes, 60 years on the Yiddish stage in America - that is no small thing.
 
-With whom have I _not_ played with on the stage! With the biggest and the smallest, with the best and the worst. 
+With whom have I _not_ played with on the stage! With the biggest and the smallest, with the best and the worst.
 
-I got along with everyone. And if there was someone along the way who I got on poorly with, well, that mostly wasn't my fault. 
+I got along with everyone. And if there was someone along the way who I got on poorly with, well, that mostly wasn't my fault.
 
 ::: {layout-ncol=2}
 
@@ -26,34 +26,34 @@ At the start of the 1927 season, I was engaged to play in the New York Public Th
 
 But a short time before the season started, on one fine morning, that told us the news that {{< var satz-full >}} had also been engaged to play in the Public Theater. I confess, when I heard this news I wasn't too happy because having {{< var satz >}} on board meant that I would no longer be able to play the lead comic roles.
 
-To take the audiences by storm right from the beginning, we opened the season with an operetta whose name I don't remember anymore[^zaydes]. Note that {{< var sam >}} appears in the bottom right corner the advertisement's cartoon image.]. But I do remember that the operetta was staged so that the two "stars" {{< var blank-full >}} and {{< var satz-full >}} wouldn't feel slighted and neither would eclipse the other.  
+To take the audiences by storm right from the beginning, we opened the season with an operetta whose name I don't remember anymore[^zaydes]. But I do remember that the operetta was staged so that the two "stars" {{< var blank-full >}} and {{< var satz-full >}} wouldn't feel slighted and neither would eclipse the other.
 
-The first two weeks were a huge success, and we brought in a lot of money at the box office. {{< var goldberg >}} himself said at the time that he didn't remember a time in the Yiddish theater when they made this much money in just one week's time. We thought that if the first week was so good, surely it would only get better. But then the second week came, and the operetta was such a failure that if we didn't get it off the stage immediately we'd be doomed, and it would be hard to get out from under it. 
+The first two weeks were a huge success, and we brought in a lot of money at the box office. {{< var goldberg >}} himself said at the time that he didn't remember a time in the Yiddish theater when they made this much money in just one week's time. We thought that if the first week was so good, surely it would only get better. But then the second week came, and the operetta was such a failure that if we didn't get it off the stage immediately we'd be doomed, and it would be hard to get out from under it.
 
-So they quickly bought {{< var libin >}}'s play {{< var kinder >}}, and to be sure, just as quickly as we started rehearsals, the two lead roles were given to the two "stars" of the theater - {{< var blank >}} and {{< var satz >}}. The lead female role was given to {{< var meltzer-full >}}, and she played it very well. 
+So they quickly bought {{< var libin >}}'s play {{< var kinder >}}, and to be sure, just as quickly as we started rehearsals, the two lead roles were given to the two "stars" of the theater - {{< var blank >}} and {{< var satz >}}. The lead female role was given to {{< var meltzer-full >}}, and she played it very well.
 
-Two days before the first performance, {{< var blank-full >}} suddenly became ill, and it was impossible for him to perform. He asked if they could push the performance back a week, but {{< var goldberg-full >}} had no interest in doing that. Instead, right on the spot, he switched up the roles: he gave {{< var blank >}}'s role to {{< var satz >}}, and he gave {{< var satz >}}'s role to me. 
+Two days before the first performance, {{< var blank-full >}} suddenly became ill, and it was impossible for him to perform. He asked if they could push the performance back a week, but {{< var goldberg-full >}} had no interest in doing that. Instead, right on the spot, he switched up the roles: he gave {{< var blank >}}'s role to {{< var satz >}}, and he gave {{< var satz >}}'s role to me.
 
-{{< var Nu >}}, it goes without saying that we had to do what the manager wanted. And even though we had to change things around in a great hurry, it didn't go poorly: I quickly switched gears to play {{< var satz >}}'s role, and not only did the audiences love my performance, but the critics did too. As for {{< var satz >}}, he was so good in {{< var blank >}}'s role that no other actor could have done a better job. 
+{{< var Nu >}}, it goes without saying that we had to do what the manager wanted. And even though we had to change things around in a great hurry, it didn't go poorly: I quickly switched gears to play {{< var satz >}}'s role, and not only did the audiences love my performance, but the critics did too. As for {{< var satz >}}, he was so good in {{< var blank >}}'s role that no other actor could have done a better job.
 
-In my opinion, this was one of the best characters that {{< var satz >}} ever created on the Yiddish stage. He played the role so well that after his performance, it was dangerous for other actors to play the same role because none of them - even the best - could live up to what {{< var satz >}} had created. 
+In my opinion, this was one of the best characters that {{< var satz >}} ever created on the Yiddish stage. He played the role so well that after his performance, it was dangerous for other actors to play the same role because none of them - even the best - could live up to what {{< var satz >}} had created.
 
 And of course, as soon as {{< var blank >}} got wind of what a splash {{< var satz >}} had made in his role, he couldn't rest any longer. On Saturday night, he called the theater telephone to say that he was feeling better and was back in good health, and the following week he would return to play his role and they should announce it in the papers. When the theater managers heard this, they naturally were not thrilled, but there was nothing they could do about it. When we performed the play the next week, it was nowhere near as good because {{< var blank >}} wasn't good in the role that {{< var satz >}} had played, and {{< var satz >}} wasn't as good in the role that I had played the previous week...
 
-The first switch was good, but the second switch was bad, and {{< var libin >}}'s play suffered a lot as a consequence. 
+The first switch was good, but the second switch was bad, and {{< var libin >}}'s play suffered a lot as a consequence.
 
 ::: {layout-ncol=2}
 
 When {{< var kinder >}} was taken down, we put on [{{< var segal-full >}}](https://congressforjewishculture.org/people/2473/)'s operetta {{< var rabbis-son >}}, with lyrics by [{{< var nakhum-stut >}}](https://www.museumoffamilyhistory.com/yt/lex/S/stutchkoff-nakhum.htm) and music by {{< var wohl-full >}}. And with this performance, something happened that was very characteristic of "starism":<br><br>
-{{< var satz >}}, one of the two "stars" in the troupe, had to direct the play. He was given the play and told to learn it well at home, and then come back to the theater with it and lead rehearsals. But while he had the play in his hands for a few days, he cut parts out so that he would take center stage the whole time, singing every song with lines in every scene. And we, the other actors in the troupe, would just rotate on the stage so that all the action was centered on him.   
+{{< var satz >}}, one of the two "stars" in the troupe, had to direct the play. He was given the play and told to learn it well at home, and then come back to the theater with it and lead rehearsals. But while he had the play in his hands for a few days, he cut parts out so that he would take center stage the whole time, singing every song with lines in every scene. And we, the other actors in the troupe, would just rotate on the stage so that all the action was centered on him.
 
 ![Image from February 24th, 1928 in {{< var morgen >}} of {{< var satz-full >}} (L) and {{< var sam >}} (R) in {{< var rabbis-son >}}. [(Source)](https://www.nli.org.il/en/newspapers/tjm/1928/02/24/01/article/54.1)](../img/newspaper_clippings/1928-02-24_morgen.png){width="2.5in"}
 
 :::
 
-When the actors in the troupe heard about this, they were all terribly offended. We all went to {{< var goldberg-full >}} and said that {{< var satz-full >}} might indeed be a "star," but we're not going to put up with this - in other words, we are not his assistants. We too are actors, and when we put on a new piece, we don't do it just to prop up {{< var satz >}}, but so we ourselves can perform. 
+When the actors in the troupe heard about this, they were all terribly offended. We all went to {{< var goldberg-full >}} and said that {{< var satz-full >}} might indeed be a "star," but we're not going to put up with this - in other words, we are not his assistants. We too are actors, and when we put on a new piece, we don't do it just to prop up {{< var satz >}}, but so we ourselves can perform.
 
-The manager realized that we were correct, and he took the piece {{< var rabbis-son >}} from {{< var satz >}} and gave it to {{< var samuel-rosen >}} to direct. But when {{< var satz >}} heard this, he became angry and said that if he didn't direct it, he would not perform it in either. 
+The manager realized that we were correct, and he took the piece {{< var rabbis-son >}} from {{< var satz >}} and gave it to {{< var samuel-rosen >}} to direct. But when {{< var satz >}} heard this, he became angry and said that if he didn't direct it, he would not perform it in either.
 
 A series of messages were passed back and forth until {{< var satz >}}, with great difficulty, was persuaded to direct with piece together with {{< var samuel-rosen >}} and not cut parts of the piece and leave the other actors with nothing to do...
 
@@ -63,14 +63,14 @@ In those days, {{< var molly-full >}} and {{< var jacob-kalich >}} had become bi
 
 When the theater managers approached me to ask if I would come over to join the Second Avenue Theater troupe and play with {{< var molly-full >}}, I accepted their offer with great pleasure. During negotiations, {{< var jacob-kalich >}} told me that he wanted me to perform without any makeup and instead to perform just as I am - with a smooth, clean-shaven face and a white head of hair.
 
-Everyone agreed on that. 
+Everyone agreed on that.
 
 ::: {layout-ncol=2}
 
 !["The Boys," as pictured in the [_Yiddish World Almanac_ (1926)](https://archive.org/details/nybc205590/page/n367/mode/2up?view=theater). Pictured from left to right: {{< var parnes >}}, {{< var jacob-kalich >}}, {{< var pasternak >}}, {{< var rumshinsky-full >}}, and Max Zager.](../img/theboys.png){width="2.25in"}
 
 
-And over the three seasons that I played with {{< var molly-full >}} - two seasons at the Second Avenue Theater and one season at the Folks Theater - I played just as I am, with a smooth face and a white head of hair^[He performed with {{< var molly-full >}} and {{< var jacob-kalich >}} through the 1930/31 season when he was 62 years old]. And I feel it's necessary to mention that both {{< var molly-full >}} and {{< var jacob-kalich >}} treated me so well the whole time that it really couldn't have been better. They couldn't have taken better care of me if I were their own brother, or even their own father. [{{< var pasternak >}}](https://www.museumoffamilyhistory.com/yt/lex/P/pasternak-willy.htm) and [{{< var parnes >}}](https://www.museumoffamilyhistory.com/yt/lex/P/parnes-nathan.htm) - "The Boys"^[די באָיס] from management, as we used to call them - were also good to me. 
+And over the three seasons that I played with {{< var molly-full >}} - two seasons at the Second Avenue Theater and one season at the Folks Theater - I played just as I am, with a smooth face and a white head of hair^[He performed with {{< var molly-full >}} and {{< var jacob-kalich >}} through the 1930/31 season when he was 62 years old]. And I feel it's necessary to mention that both {{< var molly-full >}} and {{< var jacob-kalich >}} treated me so well the whole time that it really couldn't have been better. They couldn't have taken better care of me if I were their own brother, or even their own father. [{{< var pasternak >}}](https://www.museumoffamilyhistory.com/yt/lex/P/pasternak-willy.htm) and [{{< var parnes >}}](https://www.museumoffamilyhistory.com/yt/lex/P/parnes-nathan.htm) - "The Boys"^[די באָיס] from management, as we used to call them - were also good to me.
 
 :::
 
@@ -89,3 +89,5 @@ But oh, if only we go back and do it all again!
     According to this [advertisement in {{< var forverts >}} from September 21st 1927](https://www.nli.org.il/en/newspapers/frw/1927/09/21/01/article/77.4), the operetta was {{< var zaydes-gelibte >}}. An article about {{< var satz-full >}}'s performance in the show entitled "{{< var satz-full >}}, Popular Yiddish Comedian, Shows Rare Ability As Star in New Musical Operetta" appeared in the _Brooklyn Sunday Star_ on November 6th 1927 and described {{< var sam >}} as follows:
 
     > {{< var sam-full >}} is another artist of old school. He takes advantage of a very small and unimportant role and creates laughter and applause, where another actor in his place would feel lost alongside a comedian like {{< var satz >}}. However, the two work in perfect harmony and carry the production on their shoulders.
+
+    Note that {{< var sam >}} appears in the bottom right corner the advertisement's cartoon image.
