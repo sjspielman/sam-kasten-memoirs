@@ -1,9 +1,5 @@
 #!/usr/bin/env Rscript
-
 # this script renders the book to pdf, screw you latex
-
-#quarto::quarto_render()
-
 
 book_dir <- "_book"
 chap_dir <- file.path(book_dir, "chapters")
@@ -31,5 +27,3 @@ all_files |>
     options = options_list,
     timeout = 200
   )
-
-system("pdftk _book/index.pdf _book/chapters/*.pdf _book/appendices/timeline.pdf _book/appendices/plays.pdf _book/appendices/people.pdf cat output merged-book.pdf")
