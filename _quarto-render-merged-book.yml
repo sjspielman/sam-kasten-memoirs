@@ -1,0 +1,101 @@
+# This _quarto.yml file is used with the script `render-merged-book.R`
+project:
+  type: book
+
+
+book:
+  title: "Sam Kasten on 50 years of Yiddish Theater"
+  author: "Sam Kasten, translated by <a href='https://sjspielman.github.io/'>Stephanie Spielman<a>"
+  translator: "Stephanie Spielman"
+  navbar:
+    right:
+      - icon: github
+        href: https://github.com/sjspielman/sam-kasten-memoirs
+        aria-label: GitHub
+      - icon: envelope-fill
+        href: mailto:stephanie.spielman@gmail.com
+        aria-label: Email
+  chapters:
+    - index.qmd
+    - landing-page.qmd
+    - part: "Part 1: Early life in Ukraine"
+      chapters:
+        - chapters/01_1946-09-07.qmd
+        - chapters/02_1946-09-19.qmd
+        - chapters/03_1946-09-21.qmd
+        - chapters/04_1946-09-25.qmd
+        - chapters/05_1946-09-28.qmd
+    - part: "Part 2: Making a living in America"
+      chapters:
+        - chapters/06_1946-10-03.qmd
+        - chapters/07_1946-10-10.qmd
+        - chapters/08_1946-10-12.qmd
+        - chapters/09_1946-10-17.qmd
+        - chapters/10_1946-10-19.qmd
+        - chapters/11_1946-10-24.qmd
+        - chapters/12_1946-10-26.qmd
+    - part: "Part 3: Traveling the provinces"
+      chapters:
+        - chapters/13_1946-10-31.qmd
+        - chapters/14_1946-11-02.qmd
+        - chapters/15_1946-11-07.qmd
+        - chapters/16_1946-11-09.qmd
+        - chapters/17_1946-11-14.qmd
+        - chapters/18_1946-11-16.qmd
+        - chapters/19_1946-11-21.qmd
+        - chapters/20_1946-11-23.qmd
+        - chapters/21_1946-11-28.qmd
+        - chapters/22_1946-11-30.qmd
+        - chapters/23_1946-12-05.qmd
+        - chapters/24_1946-12-07.qmd
+        - chapters/25_1946-12-12.qmd
+    - part: "Part 4: A regular actor in New York"
+      chapters:
+        - chapters/26_1946-12-14.qmd
+        - chapters/27_1946-12-19.qmd
+        - chapters/28_1946-12-21.qmd
+        - chapters/29_1946-12-26.qmd
+        - chapters/30_1946-12-28.qmd
+        - chapters/31_1947-01-02.qmd
+        - chapters/32_1947-01-04.qmd
+        - chapters/33_1947-01-09.qmd
+        - chapters/34_1947-01-11.qmd
+        - chapters/35_1947-01-16.qmd
+        - chapters/36_1947-01-18.qmd
+        - chapters/37_1947-01-23.qmd
+        - chapters/38_1947-01-25.qmd
+        - chapters/39_1947-01-30.qmd
+        - chapters/40_1947-02-01.qmd
+        - chapters/41_1947-02-06.qmd
+        - chapters/42_1947-02-08.qmd
+        - chapters/43_1947-02-13.qmd
+        - chapters/44_1947-02-15.qmd
+        - chapters/45_1947-02-20.qmd
+  appendices:
+    - appendices/timeline.qmd
+    - appendices/plays.qmd
+    - appendices/people.qmd
+  page-footer: '<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Except images and newspaper clippings, this work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.'
+  google-analytics: "G-WWFS41KSZH"
+
+#website:
+#  announcement:
+#    icon: exclamation-circle
+#    dismissable: true
+#    content: "**Make sure to update your bookmarks!**<br><br>This website (memoirs) is now [https://sjspielman.github.io/sam-kasten-memoirs](https://sjspielman.github.io/sam-kasten-memoirs).<br><br>The website [https://sjspielman.github.io/sam-kasten](https://sjspielman.github.io/sam-kasten) is a general landing page for the Sam Kasten Legacy Project which includes the memoirs, and more!"
+#    type: primary
+
+format:
+  html:
+    fontsize: 14px;
+    citations-hover: true
+    footnotes-hover: true
+    crossrefs-hover: true
+    grid:
+      sidebar-width: 260px;
+      body-width: 1200px;
+      margin-width: 10px;
+    theme:
+      light: [flatly, light.scss]
+      dark: [darkly, dark.scss]
+
