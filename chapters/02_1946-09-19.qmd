@@ -1,14 +1,11 @@
-# September 19th, 1946
-
-##### _Link to [{{< var forverts >}} edition](https://www.nli.org.il/en/newspapers/frw/1946/09/19/01/)_ {.unnumbered}
-
+# 
 <br>
 
 
 :::: {.columns}
 
 ::: {.column width="75%"}
-By nature, {{< var tate >}} was one of those types of people who would always be inspired by something. Needless to say, he was a {{< var chasid >}} - a <a href="https://en.wikipedia.org/wiki/Makarov_(Hasidic_dynasty)">{{< var Makarover >}} {{< var chasid >}}</a>. When he was able to tear himself away from his livelihood in the village, he left for {{< var Makariv >}} to see the {{< var rebbe >}}^[Rabbi, but specifically one who leads a {{< var chasidic >}} dynasty], and when he came back from there he was completely different and he would tell one story of the {{< var chiddush >}}^[[halakhic](https://en.wikipedia.org/wiki/Halakha) innovation; new way of doing something in orthodox Judaism] that he saw at the {{< var rebbe >}}'s, and he sang all the {{< var nigunim >}}^[songs/tunes] that he heard there.
+By nature, {{< var tate >}} was one of those types of people who was always inspired by something. Needless to say, he was a {{< var chasid >}} - a <a href="https://en.wikipedia.org/wiki/Makarov_(Hasidic_dynasty)">{{< var Makarover >}} {{< var chasid >}}</a>. When he was able to get away from work in the village, he left for [{{< var Makariv >}}](https://en.wikipedia.org/wiki/Makariv) to see the {{< var rebbe >}}^[Leader of a {{< var chasidic >}} dynasty], and when he came back from there he was completely different. He would tell a story of the {{< var chiddush >}}^[[halakhic](https://en.wikipedia.org/wiki/Halakha) innovation; new way of doing something in orthodox Judaism] that he saw at the {{< var rebbe >}}'s, and he sang all the {{< var nigunim >}}^[songs/tunes] that he heard there.
 
 
 In general, at our house in the small village of {{< var zat >}}, there was such atmosphere that you could literally see and feel how {{< var tate >}}'s faith in God and in his {{< var Makarover >}} {{< var rebbe >}} were connected with everything - When the business went well and we didn't have any problems with the landowner, {{< var tate >}} was sure that it was thanks to the blessings and wishes that the {{< var Makarover >}} {{< var rebbe >}} gave him. The first chance he got, he would go to the {{< var rebbe >}} and give him the fine fruit and be joyous together with the other {{< var chasidim >}}.
@@ -93,3 +90,8 @@ You had to think about it, even when you didn't want to, because {{< var tate >}
 
 And he counted the days that remained until two weeks before {{< var pesach >}}. And he looked forward to the good hour...I also counted the days left until the wedding. But I did not understand the silent tragedy that was taking place there. I was still too young to understand this. I just wanted dance at the first wedding in our family...
 
+
+
+##### Source
+
+This article was published in [_The Forverts_ on September 19th, 1946](https://www.nli.org.il/en/newspapers/frw/1946/09/19/01/article/41). {.unnumbered}

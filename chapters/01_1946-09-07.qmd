@@ -1,10 +1,8 @@
-# September 7th, 1946
-
-##### _Link to [{{< var forverts >}} edition](https://www.nli.org.il/en/newspapers/frw/1946/09/07/01/)_ {.unnumbered}
+# Where to begin?
 
 <br>
 
-First of all, I would like to make a brief introduction. I would like to say that when I attempt to describe much of what I have been through over the 50 years I have been playing Yiddish theater in America, as well as a lot of what I heard and saw over these 50 years, I feel it exactly as if I were now for the first time – dressed in "vinegar and honey"^[Yiddish idiom meaning "dressed to kill"; "all dolled up"], released alone on a big stage in a huge theater, with the eyes of thousands and thousands of people turned to me; Everyone is waiting, everyone is looking out for something to hear something from me, but I'm standing in a panic, in a state of confusion and I don't know where to begin...
+First of all, I would like to make a brief introduction. I would like to say that when I try to describe what I went through during over 50 years in the American Yiddish theater, as well as things I heard and saw over that time, I feel just as if I were back there now, for the very first time - dressed in "vinegar and honey"^[Yiddish idiom meaning "dressed to kill"; "all dolled up"], released alone on a big stage in a huge theater, with the eyes of thousands and thousands of people turned to me; Everyone is waiting, waiting to hear me say something, but I'm standing up there in a panic, completely confused and without any idea where to begin...
 
 Well, really, what do I start with and what do I leave for later? 50 years on stage is no small thing!
 
@@ -14,43 +12,40 @@ Well, really, what do I start with and what do I leave for later? 50 years on st
 
 50 years of dancing!
 
-Over half a century, which has already passed and will never return, I knew the greatest and most famous Yiddish actors, the pioneers, the builders and founders of Yiddish theater in America; I was close friends with most of them, and about each one of them I have something to tell, although not everything can be told...
+For over half a century, years gone and never to return, I knew the greatest and most famous Yiddish actors, the pioneers, the builders and founders of the Yiddish theater in America; I was close friends with most of them, and I have stories about all of them, though I can't tell them all.
 
 Where do I begin?
 
-And suddenly so many events and moments that I had forgotten for a long time come to mind. I suddenly remember things I have not thought of for a long time. The figures of people who were once very close and who have now passed on float before my eyes. And when you mention their names and talk about what they performed on the Yiddish stage in America and roles they created when they were at the top, you shake your head and realize that when they were alive, they were not appreciated enough, and that if they were alive now, people would know how to appreciate them...
+And suddenly so many events and moments that I had long forgotten spring to mind. I suddenly remember things I have not thought of for years. The images of people I was once very close with and who have now passed on float before my eyes. And when saying their names and talking about what they performed on the Yiddish stage and the roles they created when they were at their peak, you shake your head and realize that when they were alive, they were not appreciated enough. But if they were alive now, people would know how to appreciate them...
 
-And the more I immerse myself in what is now floating in my memory, the more it turns out that everything is gone, gone...
+And the more I immerse myself in my memory, the more I realize that everything is gone, gone...
 Away in the distant past, which is gradually being forgotten more and more.
 
-I'm thinking about this now and even for me, the funny comedian on the Yiddish stage, it weighs heavily on my heart and I don't know where to begin.
-
+Even for me, the funny comedian on the Yiddish stage, thinking about this weighs heavily on my heart, and I don't know where to begin.
 
 It's a long way back...but still!
-When you think about the long road you traveled, and you have in mind not only the others, but also yourself, it seems that everything was just yesterday...
-That's why I will start with myself, and as I involve many others as well, and all in all, I believe my stories will reflect a piece of history of 50 years of Yiddish theater in America. I am sure that the thousands and thousands of Jews who are interested in the Jewish life of the past and present will find this interesting.
+When you think about the long road you traveled, you have in mind not only the others you met, but also your own journey, and it seems that everything was just yesterday...
+That's why I will start with myself, and I continue, I'll bring many others into the story. I believe my stories will reflect a piece of history of 50 years of Yiddish theater in America. I am sure that the thousands and thousands of Jews who are interested in Jewish life of the past and present will find this interesting.
 
 ---
 
-So, I will start with myself, as is usually the case in a memoir. And right from the beginning I want to say, not unlike many other Jews that came to America from Russia and from many other countries, I did not bring my name to America; My name was not {{< var sam-full >}} back home, but {{< var shmuelik-full >}}. That's the name they gave me. That's what everyone called me, and no one there, God forbid, ever thought about how difficult it was to get such a long name out...
+So, I will start with myself, as is usually the case in a memoir. And right from the beginning I want to say, not unlike many other Jews that came to America from Russia and from many other countries, I did not keep my name in America; My name was not {{< var sam-full >}} back home, but {{< var shmuelik-full >}}. That's the name they gave me, and that's what everyone called me. And no one, God forbid, ever thought about how hard it was to get such a long name out...
 
-I don't know what city I was born in. And don't think that this is some joke on my part, or a prank by a comedian who sometimes plays tricks on the stage. All my years I tried to find out what city, or what town, I was born in, but all my efforts were in vain and I couldn't find any talk about it, because there were two opinions: One opinion was that I was born in {{< var kyiv >}}, in the current capital of Ukraine; It was said that this happened just then when my mother visited {{< var kyiv >}} to see a very close relative of ours, who lived there in Solomenka^[A neighborhood right outside of {{< var kyiv >}} with a substantial Jewish population. In 1879 (10 years after {{< var sam >}} was born), it became part of {{< var kyiv >}} proper.]. More than once I heard my mother and father talk about this. And I was very satisfied that I was born in such a big city as {{< var kyiv >}}... To be born in the world, in a big beautiful city, and not some kind of wasteland {{< var shtetl >}} nobody has heard of or knows where it is...
+I don't know what city I was born in. And don't think that this is some joke on my part, a prank by a comedian who sometimes them on the stage. All my years I tried to find out what city, or what town, I was born in, but all my efforts were in vain and I couldn't figure it out. You see, there were two versions: One version was that I was born in {{< var kyiv >}}, in the current capital of Ukraine; It was said that this happened when my mother was visiting {{< var kyiv >}} to see a very close relative of ours who lived in Solomenka^[A neighborhood right outside of {{< var kyiv >}} with a substantial Jewish population. In 1879 (10 years after {{< var sam >}} was born), it became part of {{< var kyiv >}} proper.]. More than once I heard my mother and father talk about this. And I was very satisfied that I was born in such a big city as {{< var kyiv >}}... To be born out in the world, in a big beautiful city, and not some kind of wasteland {{< var shtetl >}} nobody has heard of or knows where it is...
 
-But, as if to spite me, as though it was not {{< var beshert >}}^[fate/destiny] that I could take pride in this, there was a second opinion about where I was born - not in the big city of {{< var kyiv >}}, but in the small village of {{< var zat >}}, which is located between the two cities of {{< var bt >}}^[In Ukrainian, this is [Bila Tserkva](https://en.wikipedia.org/wiki/Bila_Tserkva)] and {{< var vasil >}}^[In Ukrainian, this is [Vasilkyv](https://en.wikipedia.org/wiki/Vasylkiv)], in the {{< var kyiv >}} Governorate.
+But, as if to spite me, as though it was not {{< var beshert >}}^[fate/destiny] that I could take pride in this, there was a second version of where I was born - not in the big city of {{< var kyiv >}}, but in the small village of {{< var zat >}}, which is located between the two cities of {{< var bt >}}^[In Ukrainian, this is [Bila Tserkva](https://en.wikipedia.org/wiki/Bila_Tserkva)] and {{< var vasil >}}^[In Ukrainian, this is [Vasilkyv](https://en.wikipedia.org/wiki/Vasylkiv)], in the {{< var kyiv >}} Governorate.
 
-I'm not sure what is true. We have this whole issue with us, the family is so confused, it was impossible to make sense of this. One thing, however, I am sure of, is that I was born.
+I'm not sure which version is true. We have this whole issue with us, the family is so confused, it was impossible to figure it out. One thing I am sure of, however, is that I was indeed born.
 
 The best thing about it is that I am alive and that for 50 years, I have been acting and singing and dancing on the Yiddish stage in America. I also know that now I am already, {{< var baruch-hashem >}}, 77 years old, and that means that I was born in 1869, when Alexander the 2nd was still sitting on the throne of Russia.
 
 This was exactly eight years after {{< var panshina >}}^[serfdom, which Russia abolished 1861] was abolished in Russia and we were living in a {{< var shtetl >}}. I still remember those Ukrainian farmers well, who always told stories about the times during {{< var panshina >}} when the landowners could do with the peasants what they wanted.
 
-In the village of {{< var zat >}}, where we lived for a long time, my {{< var tate >}}^["tateh" - father], {{< var Leybs >}}, had a farm, and that is why they called him {{< var Leybs >}} the {{< var Possessor >}}^[the farmer], and my {{< var mame >}}^["mameh" - mother] was called {{< var Feige >}} the {{< var Possessorka >}}. When he was home, he was doing business with the big landowner, Graf^[Graf is count/earl in Russian] Branitsky, who was the owner of the whole village and who also had a large fortune and was loaded with money.
+In the village of {{< var zat >}}, where we lived for a long time, my {{< var tate >}}^["tateh" - father], {{< var Leybs >}}, had a farm, and that is why they called him {{< var Leybs >}} the {{< var Possessor >}}^[the farmer], and my {{< var mame >}}^["mameh" - mother] was called {{< var Feige >}} the {{< var Possessorka >}}. When he was home, he did business with the landowner, Graf^[Graf is count/earl in Russian] Branitsky, who was the owner of the whole village and who also had a large fortune and was loaded with money.
 
-{{< var Tate >}} was a constant presence in the landowner's court, and I still remember how every time, when he had to go to the landowner, he combed his beautiful beard in a very special way into two points, and when he came back, but he had to tell many stories about the strange nobles' whims that he could not understand. And all the usual stories ended with the fact that he, my father, gave a thumbs-up and said:
+{{< var Tate >}} was a constant presence in the landowner's court. I still remember how every time he went to court, he combed his beautiful beard in a very special way into two points, and when he came back, but he told stories about the strange nobles' whims that he could not understand. And all the usual stories ended with my father shrugging and saying "That guy's nuts!"
 
--- _It's a nation/people!_^[Not a good translation here.]
-
-And by this he meant, what is there say - it's his world, not ours...
+And by this he meant, what else is there say - we're living in his world, not ours...
 
 He was a very {{< var frum >}}^[pious] Jew, my {{< var tate >}}. He carefully preserved Judaism with all the details and rules, and he shunned transgressions, just as one shuns fire. He also wanted his children to be {{< var frum >}} and devout. There were six of us children at home, two sons and four daughters, and {{< var tate >}} was afraid that we would become, God forbid, {{< var goyishe >}} because of the the village^[ They lived close to many Ukrainians]. He introduced that always, summer and winter, we should keep a {{< var melamed >}}^[Torah teacher/tutor] in the house for us, who should study with us. Not only with the boys, but also with the girls.
 
@@ -76,6 +71,11 @@ I was very ashamed then. Why did I jump around so much in the middle of it? But 
 
 It was good for me. I was happy...
 
+
+
+##### Source
+
+This article was published in [_The Forverts_ on September 7th, 1946](https://www.nli.org.il/en/newspapers/frw/1946/09/07/01/article/28). {.unnumbered}
 
 
 
