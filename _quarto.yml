@@ -91,7 +91,6 @@ format:
     footnotes-hover: true
     crossrefs-hover: true
     grid:
-      sidebar-width: 260px;
-    theme:
-      light: [flatly, light.scss]
-      dark: [darkly, dark.scss]
+      sidebar-width: 300px;
+      body-width: 800px;
+    theme: cosmo
