@@ -1,8 +1,11 @@
-# November 14th, 1946
+# Performing in Pittsburgh
 
-##### _Link to [{{< var forverts >}} edition](https://www.nli.org.il/en/newspapers/frw/1946/11/14/01/)_ {.unnumbered}
+::: {style="text-align: right;"}
+Published in the {{< var forverts >}} on [November 14th, 1946](https://www.nli.org.il/en/newspapers/frw/1946/11/14/01/)
+:::
 
-> When I played {{< var shabtai-golem >}} in {{< var lateiner >}}'s {{< var lostsoul >}}. -- The two popular songs {{< var wiseson >}}^["A wise son from the Four Questions"] and {{< var purim-nes >}}.
+
+> When I played {{< var shabtai-golem >}} in {{< var lateiner >}}'s {{< var lostsoul >}}. -- The two popular songs, {{< var wiseson >}}^["A wise son from the Four Questions"] and {{< var purim-nes >}}.
 
 
 As in every city, in Pittsburgh we also had a group of very {{< var voyle-yiden >}}^["good/happy/nice Jews"] who were there for us and were ready to do anything for us, simply because they loved Yiddish theater and enjoyed that they could somehow be of help to the traveling Yiddish actors.

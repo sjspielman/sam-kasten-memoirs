@@ -1,6 +1,9 @@
-# January 2nd, 1947
+# To the Grand Theater and back again
 
-##### _Link to [{{< var forverts >}} edition](https://www.nli.org.il/en/newspapers/frw/1947/01/02/01/)_ {.unnumbered}
+::: {style="text-align: right;"}
+Published in the {{< var forverts >}} on [January 2nd, 1947](https://www.nli.org.il/en/newspapers/frw/1947/01/02/01/)
+:::
+
 
 > With [Madame {{< var kalich >}}](https://www.museumoffamilyhistory.com/yt/lex/K/kalich-bertha.htm) in [{{< var z-libin >}}](https://www.museumoffamilyhistory.com/yt/lex/L/libin-z.htm)'s play. -- The end of the "Professor" who reigned for many years on the Yiddish stage.
 
@@ -37,7 +40,7 @@ Madame {{< var kalich >}} didn't tell us what {{< var shpachner >}} wanted to sp
 
 When we went to Madame {{< var kalich >}}'s house, {{< var shpachner >}} told us that next season he would be managing a new theater. He was putting together a troupe, and he wanted {{< var dora-full >}} and I to go with him.
 
-Without missing a beat he immediately offered me $60 a week, which in those days was quite a lot of money. He also offered this to {{< var dora-full >}}. And as it usually went in these situations, he promised that he would see to it that we would have good roles with lots of lines and songs to sing and dance in the plays that he staged.
+Without missing a beat he immediately offered me \$60 a week, which in those days was quite a lot of money. He also offered this to {{< var dora-full >}}. And as it usually went in these situations, he promised that he would see to it that we would have good roles with lots of lines and songs to sing and dance in the plays that he staged.
 
 But where would we play?
 

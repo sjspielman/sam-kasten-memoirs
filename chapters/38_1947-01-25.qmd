@@ -1,8 +1,11 @@
-# January 25th, 1947
+# Bessie Thomashefsky, no longer in trousers
 
-##### _Link to [{{< var forverts >}} edition](https://www.nli.org.il/en/newspapers/frw/1947/01/25/01/)_ {.unnumbered}
+::: {style="text-align: right;"}
+Published in the {{< var forverts >}} on [January 25th, 1947](https://www.nli.org.il/en/newspapers/frw/1947/01/25/01/)
+:::
 
->  Hard times in a theater that was established because {{< var jacob-adler >}} and {{< var boris >}} fought with their wives.
+
+> Hard times in a theater that was established because {{< var jacob-adler >}} and {{< var boris >}} fought with their wives.
 
 Respectable audiences^[As in, those who appreciate a higher quality] really enjoyed Tolstoy's drama {{< var kreuzer >}} and the fine acting. Critics wrote that if you wanted to see a truly good performance with good acting, you should go to the Novelty Theater in Williamsburg. But it didn't matter what they wrote...
 
@@ -18,7 +21,7 @@ Even in a foolish melodrama that was as far as you could get from high literatur
 
 But what good was it to stage such good acting when the Jewish audiences in New York wouldn't come all the way out to Williamsburg to see {{< var shild-full >}} perform in the Novelty Theater?
 
-As it turned out, you might as well take the whole whole Novelty Theater on your shoulders and carry it over to New York and place it down on Second Avenue.^[This translation is likely not accurate. The sentence itself was not clear to me. They indeed continued to play at the Novelty Theater in Williamsburg for more of the 1912/1913 season and did not move to Second Avenue. Perhaps this sentence is meant to be aspirational?]
+As it turned out, you might as well take the whole Novelty Theater on your shoulders and carry it over to New York and place it down on Second Avenue.^[This translation is likely not accurate. The sentence itself was not clear to me. They indeed continued to play at the Novelty Theater in Williamsburg for more of the 1912/1913 season and did not move to Second Avenue. Perhaps this sentence is meant to be aspirational?]
 
 It was around that time that {{< var bessie >}} returned from Europe, and it was no longer a secret to anyone that she had divorced {{< var boris >}}. And muddled up with this was the new young prima donna [{{< var regina >}}](https://en.wikipedia.org/wiki/Regina_Zuckerberg) with whom {{< var boris >}} was deeply in love...
 

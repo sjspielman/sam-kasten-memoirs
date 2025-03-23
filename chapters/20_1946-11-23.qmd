@@ -1,6 +1,9 @@
-# November 23rd, 1946
+# What can't we play?
 
-##### _Link to [{{< var forverts >}} edition](https://www.nli.org.il/en/newspapers/frw/1946/11/23/01/)_ {.unnumbered}
+::: {style="text-align: right;"}
+Published in the {{< var forverts >}} on [ November 23rd, 1946](https://www.nli.org.il/en/newspapers/frw/1946/11/23/01/)
+:::
+
 
 > How Yiddish theater used to be performed in the provinces. -- The true owners of the plays were not the writers, but the suppliers.
 

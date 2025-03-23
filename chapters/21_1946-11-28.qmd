@@ -1,6 +1,9 @@
-# November 28th, 1946
+# Meeting Jacob Gordin in St. Louis
 
-##### _Link to [{{< var forverts >}} edition](https://www.nli.org.il/en/newspapers/frw/1946/11/28/01/)_ {.unnumbered}
+::: {style="text-align: right;"}
+Published in the {{< var forverts >}} on [ November 28th, 1946](https://www.nli.org.il/en/newspapers/frw/1946/11/28/01/)
+:::
+
 
 > My wandering around the provinces. -- {{< var gordin-full >}} comes to St. Louis to stage the play [{{< var mirele-efros >}}](https://en.wikipedia.org/wiki/Mirele_Efros)^[Information about the [1939 film](https://jewishfilm.org/Catalogue/films/mireleefros.htm).] and I perform in the play. --  Yiddish actors' attitudes towards {{< var gordin-full >}}.
 

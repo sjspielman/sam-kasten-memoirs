@@ -1,6 +1,8 @@
-# December 7th, 1946
+# A lucky break at last
 
-_This article is not available from the National Library of Israel. The article was obtained from the New York Public Library's microfiche archives._
+::: {style="text-align: right;"}
+Published in the {{< var forverts >}} on December 7th, 1946
+:::
 
 > Luck finds you when you least expect it. -- Characteristics of the sullen man [{{< var yosele >}} {{< var edelstein >}}](https://www.museumoffamilyhistory.com/yt/lex/E/edelstein-joseph.htm).
 
@@ -69,13 +71,13 @@ Hearing such a thing, {{< var boris >}} began to equivocate. He said that this i
 
 -- You'll see, you'll see, the main thing is to gird yourself and be strong, and know the right thing to say. {{< var Nu >}}, in short, we'll see to it that you will join the union... What then will we do with you in New York? How will we butter you up?
 
-We then got around to talking about my price to play for one season in the "People's Music Hall." We agreed that I would receive $35 a week, and my wife would receive $15 a week. And when they asked how much I would like to receive a week to play the next season in People's Theater with {{< var thomash >}} and {{< var adler >}}, I really didn't know how to answer. I knew that to play in People's Theater, I couldn't ask for more than I was getting in People's Music Hall. ^[This sentence is particularly blurry, translation may not be accurate.]The thing was, if I asked for the right amount of money, then the chances of earning more would be better later. So, with a considerable amount of uncertainty, I hedged:
+We then got around to talking about my price to play for one season in the "People's Music Hall." We agreed that I would receive \$35 a week, and my wife would receive \$15 a week. And when they asked how much I would like to receive a week to play the next season in People's Theater with {{< var thomash >}} and {{< var adler >}}, I really didn't know how to answer. I knew that to play in People's Theater, I couldn't ask for more than I was getting in People's Music Hall. ^[This sentence is particularly blurry, translation may not be accurate.]The thing was, if I asked for the right amount of money, then the chances of earning more would be better later. So, with a considerable amount of uncertainty, I hedged:
 
--- Well,...How about $20 a week?
+-- Well,...How about \$20 a week?
 
 With this, {{< var edelstein-full >}} looked at me as though I had asked for far too much. That's how it seemed to me. But he had something completely different in mind. He leaned his head on his shoulders, as he used to do when he had to give some kind of firm decision that he stood resolute on, he said:
 
--- Get out of here, you imbecile! You won't be able make a living on $20 a week; I'll give you $30...
+-- Get out of here, you imbecile! You won't be able make a living on \$20 a week; I'll give you \$30...
 
 I then did not believe my own ears; This was the first time that I saw the ever-sullen {{< var edelstein >}} show someone genuine kindness and treat them so considerately. Later, when I got to know {{< var edelstein >}} better, I saw that, through his gloomy demeanor, he was really a very good person. He could do favors quietly and he never made a big deal out of it. Besides, he was a man of his word, and if he promised you something, you could rely on it. You could always count on his word.
 

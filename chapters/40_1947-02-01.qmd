@@ -1,6 +1,9 @@
-# February 1st, 1947
+# Mogulesko repays the favor
 
-##### _Link to [{{< var forverts >}} edition](https://www.nli.org.il/en/newspapers/frw/1947/02/01/01/)_ {.unnumbered}
+::: {style="text-align: right;"}
+Published in the {{< var forverts >}} on [February 1st, 1947](https://www.nli.org.il/en/newspapers/frw/1947/02/01/01/)
+:::
+
 
 > When {{< var mogu >}} was ill, he came to Philadelphia to play in my benefit performance. -- A scene that took place backstage that can't be forgotten.
 

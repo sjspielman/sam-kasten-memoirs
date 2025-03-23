@@ -1,6 +1,9 @@
-# November 16th, 1946
+# Meeting Mr. Himmelfarb
 
-##### _Link to [{{< var forverts >}} edition](https://www.nli.org.il/en/newspapers/frw/1946/11/16/01/)_ {.unnumbered}
+::: {style="text-align: right;"}
+Published in the {{< var forverts >}} on [ November 16th, 1946](https://www.nli.org.il/en/newspapers/frw/1946/11/16/01/)
+:::
+
 
 > My travels to Cincinnati with {{< var jakele-full >}} and {{< var frank-full >}}. -- A scene in a theater-lover's candy store.
 

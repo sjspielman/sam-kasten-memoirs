@@ -1,8 +1,9 @@
-# September 7th, 1946
+# Where do I begin?
 
-##### _Link to [{{< var forverts >}} edition](https://www.nli.org.il/en/newspapers/frw/1946/09/07/01/)_ {.unnumbered}
+::: {style="text-align: right;"}
+_Published in the {{< var forverts >}} on [September 7th, 1946](https://www.nli.org.il/en/newspapers/frw/1946/09/07/01/)_
+:::
 
-<br>
 
 First of all, I would like to make a brief introduction. I would like to say that when I attempt to describe much of what I have been through over the 50 years I have been playing Yiddish theater in America, as well as a lot of what I heard and saw over these 50 years, I feel it exactly as if I were there now for the first time – dressed in "vinegar and honey"^[Yiddish idiom meaning "dressed to kill"; "all dolled up"], released alone on a big stage in a huge theater, with the eyes of thousands and thousands of people turned to me; Everyone is waiting, everyone is looking out for something to hear something from me, but I'm standing in a panic, in a state of confusion and I don't know where to begin...
 

@@ -1,6 +1,9 @@
-# October 17th, 1946
+# Between theater and family
 
-##### _Link to [{{< var forverts >}} edition](https://www.nli.org.il/en/newspapers/frw/1946/10/17/01/)_ {.unnumbered}
+::: {style="text-align: right;"}
+Published in the {{< var forverts >}} on [October 17th, 1946](https://www.nli.org.il/en/newspapers/frw/1946/10/17/01/)
+:::
+
 
 > My {{< var mame >}} wanted me to make me a farmer. -- Her last words to me before she died.^[These are two _separate_ taglines. These were not her last words to him.]
 
@@ -30,7 +33,7 @@ Together with a {{< var landsman >}} of mine, who fell in with what I am going t
 
 ![Image of Wheatley Dramatic Hall, circa 1890. [(Source)](https://archive.nyu.edu/handle/2451/56843)](../img/dramatic-hall-1890.jpg){#fig-dramatic-hall width="3in"}
 
-![Image of Wheatley Dramatic Hall, circa 1959. The building was demolished in 1967 and replaced with row houses. [(Source)](https://www.ocfrealty.com/naked-philly/society-hill/delorean-time-machine-5th-gaskill/)](../img/gaskill-1959.jpg){#fig-gaskill width="2in"}
+![Image of (the building of) Wheatley Dramatic Hall, circa 1959. The building was demolished in 1967 and replaced with row houses. [(Source)](https://www.ocfrealty.com/naked-philly/society-hill/delorean-time-machine-5th-gaskill/)](../img/gaskill-1959.jpg){#fig-gaskill width="2in"}
 :::
 
 It had to be good, because I did the same as him in all three roles. I simply imitated him, and it was successful for me... He then became very angry with me, and threatened he would get even with me for this. But it didn't save him at all.
@@ -49,7 +52,7 @@ Then my mother started to argue with me that I should knock "this {{< var mishug
 
 -- It's not for you, {{< var shmuelik >}} - she said to me, calling me by my {{< var haimishe >}} name. - This is only for an idler, for a loafer, but not for you...
 
-She was always looking for ways to get me to knock "this {{< var mishugas >}}" out of my head. The others in the family were also looking for ways to get me away from it. And because of that, they bought me a farm in [Bridgeton, New Jersey](https://en.wikipedia.org/wiki/Bridgeton,_New_Jersey)^[This is essentially part of the [Alliance Colony](https://www.geni.com/projects/The-Alliance-Colony/42642), a Jewish agricultural colony in Cumberland County founded by Russian Jews who fled pogroms in 1881-2], and I became a farmer.
+She was always looking for ways to get me to knock "this {{< var mishugas >}}" out of my head. The others in the family were also looking for ways to get me away from it. And because of that, they bought me a farm in [Bridgeton, New Jersey](https://en.wikipedia.org/wiki/Bridgeton,_New_Jersey)^[This is essentially part of the [Alliance Colony](https://www.geni.com/projects/The-Alliance-Colony/42642), a Jewish agricultural colony in Cumberland County founded by Russian Jews who fled pogroms in as part of the larger [Am Olam](https://en.wikipedia.org/wiki/Am_Olam) movement], and I became a farmer.
 
 I then worked for a long time on the farm which was bought for me, but I confess that my head was not with me at work, because the whole time I was thinking about theater and dreaming about playing on the stage. But my {{< var mame >}} did everything she could to make me forget about this, and once I even had to keep her my word that I wouldn't become an actor...
 

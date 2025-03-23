@@ -1,6 +1,8 @@
-# December 26th, 1946
+# Dancing with Dora
 
-_This article is not available from the National Library of Israel. The article was obtained from the New York Public Library's microfiche archives._
+::: {style="text-align: right;"}
+Published in the {{< var forverts >}} on December 26th, 1946
+:::
 
 
 > How the "Professor" {{< var m-horowitz >}} wrote a play. -- His operetta **{{< var yiziat >}}**. --  An interesting story about a song about [{{< var moses >}}'s^[Moses] staff](https://en.wikipedia.org/wiki/Staff_of_Moses).
@@ -13,7 +15,7 @@ He was still a {{< var griner >}}^[A greenhorn; naive new immigrant], {{< var sh
 
 It goes without saying that I didn't play hard to get, and I went to the Windsor Theater to see the "Professor" {{< var horowitz-full >}} at the requested time. And when he saw me, he immediately got to the point:
 
--- Hear me out - he said like it was an order - I've heard, as they tell me, that in People's Theater they pay you $30 a week. {{< var Nu >}}, I will pay you $40 a week if you sign with me to play with us in the Windsor Theater next season.
+-- Hear me out - he said like it was an order - I've heard, as they tell me, that in People's Theater they pay you \$30 a week. {{< var Nu >}}, I will pay you \$40 a week if you sign with me to play with us in the Windsor Theater next season.
 
 I signed right there on the spot, and it was settled that I would play with the Windsor Theater for the whole next year.
 

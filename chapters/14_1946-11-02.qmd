@@ -1,6 +1,9 @@
-# November 2nd, 1946
+# God's wonders
 
-##### _Link to [{{< var forverts >}} edition](https://www.nli.org.il/en/newspapers/frw/1946/11/02/01/)_ {.unnumbered}
+::: {style="text-align: right;"}
+Published in the {{< var forverts >}} on [November 2nd, 1946](https://www.nli.org.il/en/newspapers/frw/1946/11/02/01/)
+:::
+
 
 <br>
 

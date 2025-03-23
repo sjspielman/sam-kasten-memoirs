@@ -1,8 +1,10 @@
-# September 21st, 1946
+# Two weddings and a funeral
 
-##### _Link to [{{< var forverts >}} edition](https://www.nli.org.il/en/newspapers/frw/1946/09/21/01/)_ {.unnumbered}
+::: {style="text-align: right;"}
+_Published in the {{< var forverts >}} on [September 21st, 1946](https://www.nli.org.il/en/newspapers/frw/1946/09/21/01/)_
+:::
 
-<br>
+
 
 As far as {{< var tate >}} was concerned, he thought that while preparing for the wedding, people would not think about how he was a crippled invalid. Because of this, he got out of bed several times during the day and, walking around the house with a cane, he bathed and looked at everything that was bought for {{< var Batsheva >}}. Excited for the occasion, he also thought that aside from inviting the in-laws, we shouldn't forget any of the poor relatives who lived in the nearby towns around and around. Every time he remembered something, someone else hugged him, and he said, "For God's sake, we should not forget it." He also announced that it should be seen that there should be as many poor guests as possible for the {{< var chuppah >}} meal.
 
@@ -19,7 +21,6 @@ At the wedding, which took place two weeks before {{< var pesach >}}, in the sma
 For each landowner who came to the wedding, and also for the other celebrants who came from the {{< var shtetl >}}_s_, they made way for Abba the Klezmer musician with his band of musicians, who were brought down from {{< var bt >}}. He, the Abba the Klezmer musician, was a smart, driven Jew, who even then, even in those times, wore a pressed shirt, a top and a short cap that falls to the waist. He wasn't born yesterday, and he knew how to play music for a high-ranking courtier, for whom a "_kerbel is a mumzer_"^[idiom: "a ruble is a trifle"; as in, money is no object].
 
 And the greatest wears brought for my sister {{< var Batsheva >}}'s wedding were from the rich landowner {{< var eliezer-shmuel >}}, who had a reputation for being a very wealthy man with a generous hand. In front of him, Abba played something like "Vivetsh" and something like "Dobrivetsh" with the band, over which {{< var eliezer-shmuel >}} himself was truly beside himself with joy and he said that he had never heard anything like that before...
-
 
 The {{< var simcha >}} was great. The whole village of {{< var zat >}} went mad with the wedding we held. Our goyishe neighbors, simple farmers and peasants, felt like family and they also came to the wedding and gave gifts and they danced and they congratulated the groom and the bride. May they be blessed and never know any evil...At that time, Jews and goyim still lived in peace among themselves in the villages...The {{< var goyim >}} only began to show hatred towards the Jews only later^[At this time in Pale of Settlement history, things were overall good for the Jews], when they were urged, when they were persuaded Jews were to blame for all the troubles that befell them...
 

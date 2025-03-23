@@ -1,6 +1,9 @@
-# January 11th, 1947
+# Clashing with Kessler on stage
 
-##### _Link to [{{< var forverts >}} edition](https://www.nli.org.il/en/newspapers/frw/1947/01/11/01/)_ {.unnumbered}
+::: {style="text-align: right;"}
+Published in the {{< var forverts >}} on [January 11th, 1947](https://www.nli.org.il/en/newspapers/frw/1947/01/11/01/)
+:::
+
 
 > Good and bad moments while playing together with {{< var kessler-full >}}. -- Character traits of the great artist.
 

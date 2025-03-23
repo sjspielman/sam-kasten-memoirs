@@ -1,6 +1,9 @@
-# January 9th, 1947
+# Kessler pecks at seeds
 
-##### _Link to [{{< var forverts >}} edition](https://www.nli.org.il/en/newspapers/frw/1947/01/09/01/)_ {.unnumbered}
+::: {style="text-align: right;"}
+Published in the {{< var forverts >}} on [January 9th, 1947](https://www.nli.org.il/en/newspapers/frw/1947/01/09/01/)
+:::
+
 
 > Again in Philadelphia, and then back to New York. -- With {{< var kessler >}} in rehearsals and the parables he told in disjointed and choppy words.
 

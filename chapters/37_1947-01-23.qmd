@@ -1,6 +1,9 @@
-# January 23rd, 1947
+# Toe to toe with Schildkraut
 
-##### _Link to [{{< var forverts >}} edition](https://www.nli.org.il/en/newspapers/frw/1947/01/23/01/)_ {.unnumbered}
+::: {style="text-align: right;"}
+Published in the {{< var forverts >}} on [January 23rd, 1947](https://www.nli.org.il/en/newspapers/frw/1947/01/23/01/)
+:::
+
 
 > An interesting story with {{< var shild-full >}} while performing Tolstoy's {{< var kreuzer >}}.
 
@@ -15,7 +18,6 @@ The Novelty Theater in Brooklyn, where I was hired to play in the troupe {{< var
 To ensure her great success, she brought the famous {{< var shild-full >}} into her troupe. And you have to admit - you couldn't have imagined a better combination, because both {{< var sara-adler >}} and {{< var shild-full >}} have graced the best stages in the world with their talent, and they have both excelled performing in the best pieces in the world. The mere fact that the first piece they put on in the Novelty Theater was Tolstoy's {{< var kreuzer >}} showed just how talented they were.
 
 :::
-
 
 
 We worked so hard in rehearsals that even in the [Yiddish Art Theater](https://en.wikipedia.org/wiki/Yiddish_Art_Theatre) no one ever worked harder. You see, {{< var shild-full >}} himself played the lead role, and because it was clear that the role was semi-autobiographical, {{< var shild >}} played the part as though he weren't merely playing a great Russian prince, but Tolstoy himself. He immersed himself in the role so completely that only such a God-blessed artist like {{< var shild >}} could do. No one else could create such a full character.

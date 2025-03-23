@@ -1,10 +1,12 @@
-# October 12th, 1946
+# Goldfaden's _Di Kishefmacherin_
 
-##### _Link to [{{< var forverts >}} edition](https://www.nli.org.il/en/newspapers/frw/1946/10/12/01/)_ {.unnumbered}
+::: {style="text-align: right;"}
+Published in the {{< var forverts >}} on [October 12th, 1946](https://www.nli.org.il/en/newspapers/frw/1946/10/12/01/)
+:::
+
+> ^[In this memoir article, the newspaper began including brief summaries before the article itself.]How I became an actor. -- My first role in {{< var goldfaden >}}'s <a href="https://en.wikipedia.org/wiki/The_Sorceress_(play)">{{< var sorceress >}}</a>^["The Sorceress", also known as {{< var bobeyachne >}}. Read a synopsis [here](https://web.uwm.edu/yiddish-stage/plotting-yiddish-drama/di-kishefmakherin). This play was recently revived by the [Folksbiene](https://nytf.org/the-sorceress/) ([NYT review](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj6yNao9I6BAxUXlokEHbtYBX8QFnoECCIQAQ&url=https%3A%2F%2Fwww.nytimes.com%2F2019%2F12%2F18%2Ftheater%2Freview-the-sorceress-yiddish.html&usg=AOvVaw1rrFq-N8ca6AyZIiFJeOWI&opi=89978449)).]. -- The Yiddish theater audiences of 50 years ago.
 
 <br>
-
-> ^[In this memoir article, the newspaper began including brief introductions.]How I became an actor. -- My first role in {{< var goldfaden >}}'s <a href="https://en.wikipedia.org/wiki/The_Sorceress_(play)">{{< var sorceress >}}</a>^["The Sorceress", also known as {{< var bobeyachne >}}. Read a synopsis [here](https://web.uwm.edu/yiddish-stage/plotting-yiddish-drama/di-kishefmakherin). This play was recently revived by the [Folksbiene](https://nytf.org/the-sorceress/) ([NYT review](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj6yNao9I6BAxUXlokEHbtYBX8QFnoECCIQAQ&url=https%3A%2F%2Fwww.nytimes.com%2F2019%2F12%2F18%2Ftheater%2Freview-the-sorceress-yiddish.html&usg=AOvVaw1rrFq-N8ca6AyZIiFJeOWI&opi=89978449)).]. -- The Yiddish theater audiences of 50 years ago.
 
 Making the acquaintance of {{< var mogu >}} put me in such a daze that I couldn't take working in the shop at all. Everything I saw of him on stage always floated before my eyes. I remembered every movement he made, every expression that appeared on his face. His unique stage grace which really has no equal was so deeply engraved in my memory that I could never forget it. And because I was always thinking so much about {{< var mogu >}} and the show he played in Philadelphia, I started to yearn to act in the theater even more than before.
 
@@ -81,5 +83,3 @@ At that performance in Philadelphia, all of my family were there, and my {{< var
 -- Know what I think!... You are {{< var meshuga >}}^[crazy], that's all...
 
 She had nothing more to say about it. Frankly, I resented this. What does it mean I'm {{< var meshuga >}}?... I played theater, showed everyone that I was an actor and she says I am {{< var meshuga >}}!
-
-
