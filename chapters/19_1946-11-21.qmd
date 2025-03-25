@@ -1,6 +1,9 @@
-# November 21st, 1946
+# Success in Cincinnati
 
-##### _Link to [{{< var forverts >}} edition](https://www.nli.org.il/en/newspapers/frw/1946/11/21/01/)_ {.unnumbered}
+::: {style="text-align: right;"}
+Published in the {{< var forverts >}} on [ November 21st, 1946](https://www.nli.org.il/en/newspapers/frw/1946/11/21/01/)
+:::
+
 
 > Our troupe puts on {{< var gordin >}}'s plays in Cincinnati and wins the trust of the Jewish theater world. - How [{{< var clara-rafalo >}}](https://www.museumoffamilyhistory.com/yt/lex/R/rafalo-clara.htm) became an actress.
 

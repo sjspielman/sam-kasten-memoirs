@@ -1,6 +1,9 @@
-# January 18th, 1947
+# Dancing in the street 
 
-##### _Link to [{{< var forverts >}} edition](https://www.nli.org.il/en/newspapers/frw/1947/01/18/01/)_ {.unnumbered}
+::: {style="text-align: right;"}
+Published in the {{< var forverts >}} on [January 18th, 1947](https://www.nli.org.il/en/newspapers/frw/1947/01/18/01/)
+:::
+
 
 > A dance in the middle of the street. -- The first time the two famous artists {{< var shild-full >}} and {{< var kessler-full >}} encountered one another.
 

@@ -1,6 +1,9 @@
-# November 30th, 1946
+# A blast from the past
 
-##### _Link to [{{< var forverts >}} edition](https://www.nli.org.il/en/newspapers/frw/1946/11/30/01/)_ {.unnumbered}
+::: {style="text-align: right;"}
+Published in the {{< var forverts >}} on [ November 30th, 1946](https://www.nli.org.il/en/newspapers/frw/1946/11/30/01/)
+:::
+
 
 > In a troupe with the famous opera singer {{< var medvedev >}}. -- Why {{< var thomash >}} came all the way to Chicago to invite me to play in the People's Theater^[Formerly located at 199-201 Bowery, between Rivington and Spring Sts].
 
@@ -69,7 +72,6 @@ They thought that I would surely take it. But I answered them coldly:
 While the conversation was going on between me and the two Jews, whose names I don't want to mention here, {{< var medvedev >}} sat with a sullen expression, measuring the two Jews up from head to toe. And suddenly he put his hand on my knee and started speaking in Russian:
 
 -- Take the \$500 from them... take it and send the money to the strikers!...
-
 
 He was sure that the two Jews did not understand Russian. But in fact they did understand Russian, and they got angry at him.
 

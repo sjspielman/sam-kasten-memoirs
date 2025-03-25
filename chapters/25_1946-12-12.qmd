@@ -1,6 +1,8 @@
-# December 12th, 1946
+# Simanoff's gambit 
 
-_This article is not available from the National Library of Israel. The article was obtained from the New York Public Library's microfiche archives._
+::: {style="text-align: right;"}
+Published in the {{< var forverts >}} on December 12th, 1946
+:::
 
 > The music halls of yesteryear -- The atmosphere of pub and theater. -- "Yes" and "No" in the {{< var hau >}}.
 

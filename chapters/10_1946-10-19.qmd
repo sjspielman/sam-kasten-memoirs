@@ -1,6 +1,9 @@
-# October 19th, 1946
+# A troupe of my own
 
-##### _Link to [{{< var forverts >}} edition](https://www.nli.org.il/en/newspapers/frw/1946/10/19/01/)_ {.unnumbered}
+::: {style="text-align: right;"}
+Published in the {{< var forverts >}} on [October 19th, 1946](https://www.nli.org.il/en/newspapers/frw/1946/10/19/01/)
+:::
+
 
 <br>
 

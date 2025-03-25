@@ -1,5 +1,9 @@
-# 
-<br>
+# My _tate_ the _chasid_
+
+::: {style="text-align: right;"}
+_Published in the {{< var forverts >}} on [September 19th, 1946](https://www.nli.org.il/en/newspapers/frw/1946/09/19/01/)_
+:::
+
 
 
 :::: {.columns}
@@ -89,9 +93,3 @@ You had to think about it, even when you didn't want to, because {{< var tate >}
 -- I want to be with my eldest daughter at the wedding... I want to lead {{< var Batsheva >}} to the {{< var chuppah >}} and I beg God, may he give me strength so that I may see before my death that my family honors the {{< var tekkaf >}}...
 
 And he counted the days that remained until two weeks before {{< var pesach >}}. And he looked forward to the good hour...I also counted the days left until the wedding. But I did not understand the silent tragedy that was taking place there. I was still too young to understand this. I just wanted dance at the first wedding in our family...
-
-
-
-##### Source
-
-This article was published in [_The Forverts_ on September 19th, 1946](https://www.nli.org.il/en/newspapers/frw/1946/09/19/01/article/41). {.unnumbered}

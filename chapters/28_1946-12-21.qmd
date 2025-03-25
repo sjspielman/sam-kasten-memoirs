@@ -1,6 +1,8 @@
-# December 21st, 1946
+# The king of _shund_
 
-_This article is not available from the National Library of Israel. The article was obtained from the New York Public Library's microfiche archives._
+::: {style="text-align: right;"}
+Published in the {{< var forverts >}} on December 21st, 1946
+:::
 
 
 > A character portrait of the famous "Professor" {{< var horowitz >}}, the "king" of {{< var shund >}}^[low-brow, often translated as "trash," art. The kind of cultural output loved by the masses but devoid of sophistication.] on the stage.

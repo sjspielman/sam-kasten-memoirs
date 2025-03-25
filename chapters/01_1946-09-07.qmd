@@ -1,6 +1,9 @@
-# Where to begin?
+# Where do I begin?
 
-<br>
+::: {style="text-align: right;"}
+_Published in the {{< var forverts >}} on [September 7th, 1946](https://www.nli.org.il/en/newspapers/frw/1946/09/07/01/)_
+:::
+
 
 First of all, I would like to make a brief introduction. I would like to say that when I try to describe what I went through during over 50 years in the American Yiddish theater, as well as things I heard and saw over that time, I feel just as if I were back there now, for the very first time - dressed in "vinegar and honey"^[Yiddish idiom meaning "dressed to kill"; "all dolled up"], released alone on a big stage in a huge theater, with the eyes of thousands and thousands of people turned to me; Everyone is waiting, waiting to hear me say something, but I'm standing up there in a panic, completely confused and without any idea where to begin...
 
@@ -70,12 +73,3 @@ I was very ashamed then. Why did I jump around so much in the middle of it? But 
 > Hop, moyi mili^[{{< var sam >}} writes _mili_, but the folk song linked above says _bili_. Still, likely the same song and possibly a typo in {{< var sam >}}'s article.].
 
 It was good for me. I was happy...
-
-
-
-##### Source
-
-This article was published in [_The Forverts_ on September 7th, 1946](https://www.nli.org.il/en/newspapers/frw/1946/09/07/01/article/28). {.unnumbered}
-
-
-

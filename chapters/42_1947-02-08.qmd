@@ -1,6 +1,10 @@
-# February 8th, 1947
+# Performing in _Der Griner Milyoner_
 
-##### _Link to [{{< var forverts >}} edition](https://www.nli.org.il/en/newspapers/frw/1947/02/08/01/)_ {.unnumbered}
+
+::: {style="text-align: right;"}
+Published in the {{< var forverts >}} on [February 8th, 1947](https://www.nli.org.il/en/newspapers/frw/1947/02/08/01/)
+:::
+
 
 > {{< var a-shomer >}}'s {{< var griner-m >}}. -- Compliments from {{< var sholem-a >}}. {{< var boris >}}, {{< var blank-full >}}, and [{{< var gershon-full >}}](https://www.museumoffamilyhistory.com/yt/lex/R/rubin-gershon.htm)
 

@@ -1,6 +1,9 @@
-# October 26th, 1946
+# Rescued from the narrows, for now
 
-##### _Link to [{{< var forverts >}} edition](https://www.nli.org.il/en/newspapers/frw/1946/10/26/01/)_ {.unnumbered}
+::: {style="text-align: right;"}
+Published in the {{< var forverts >}} on [October 26th, 1946](https://www.nli.org.il/en/newspapers/frw/1946/10/26/01/)
+:::
+
 
 <br>
 

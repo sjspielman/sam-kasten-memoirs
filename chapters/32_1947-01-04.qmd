@@ -1,6 +1,9 @@
-# January 4th, 1947
+# The genius of Mogulesko
 
-##### _Link to [{{< var forverts >}} edition](https://www.nli.org.il/en/newspapers/frw/1947/01/04/01/)_ {.unnumbered}
+::: {style="text-align: right;"}
+Published in the {{< var forverts >}} on [January 4th, 1947](https://www.nli.org.il/en/newspapers/frw/1947/01/04/01/)
+:::
+
 
 > {{< var dora-full >}} and I in the roles of {{< var piye >}} and {{< var shmiye >}}. -- {{< var kessler-full >}}'s expert opinion about a play. -- How {{< var mogu >}} taught me to perform a role.
 

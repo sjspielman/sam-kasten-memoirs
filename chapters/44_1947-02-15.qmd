@@ -1,6 +1,9 @@
-# February 15th, 1947
+# The dark side of the stars
 
-_This article is not available from the National Library of Israel. The article was obtained from the New York Public Library's microfiche archives._
+::: {style="text-align: right;"}
+Published in the {{< var forverts >}} on February 15th, 1947
+:::
+
 
 > [{{< var satz-full >}}](https://www.museumoffamilyhistory.com/yt/lex/S/satz-ludwig.htm) could have become a {{< var mogu >}}. How "starism" ran wild after [{{< var leb-full >}}](https://www.museumoffamilyhistory.com/yt/lex/L/lebedeff-aaron.htm)'s success in {{< var liovke >}}.
 

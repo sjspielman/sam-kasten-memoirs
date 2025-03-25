@@ -1,8 +1,8 @@
-# October 3rd, 1946
+# Parlor matches, shirts, and the stage
 
-##### _Link to [{{< var forverts >}} edition](https://www.nli.org.il/en/newspapers/frw/1946/10/03/01/)_ {.unnumbered}
-
-<br>
+::: {style="text-align: right;"}
+Published in the {{< var forverts >}} on [October 3rd, 1946](https://www.nli.org.il/en/newspapers/frw/1946/10/03/01/)
+:::
 
 
 Selling matches on the streets of Philadelphia became something of a game for me, not just a way to make a living. That's how I approached it. And little by little I became so interested in the various people who bought the matches from me that I didn't just call out my goods for sale, but I sang them out in my own way: 
@@ -51,7 +51,7 @@ And it's safe to say that we often sang [{{< var chazanishe >}}](https://en.wiki
 >
 > ויראה רנוני–נו–נו עד ערב
 
-And soon everyone has has joined in, and it would become a "sing-along" in rounds. I remember how once our {{< var landsmen >}} in Philadelphia suddenly started making a fuss^[has a positive connotation here] about a new {{< var chazan >}} who came to {{< var daven >}}^[pray] in the "Russian _Shul_"^[In general, and certainly in Philadelphia, Jews attended a {{< var shul >}} founded by their {{< var landsmen >}}. [The "Russian _Shul_"](https://en.wikipedia.org/wiki/Historic_Congregation_B%27nai_Abraham#Russian_Shul,_1874-1891) is what is now [B'nei Abraham](https://www.phillyshul.com/history-timeline/), a Chabad {{< var shul >}} on Lombard between 5th-6th.] We heard that he was the brother of the famous {{< var chazan >}} [Pinie Minkowski](https://www.jewishvirtuallibrary.org/minkowski-pinchas), and he came from the city of {{< var bt >}}, which Jews called _Sdeh-Levan_^[This is the city's Hebrew name; it means "white fields"] and also _Schwartz-Tuma_^[This is the city's Yiddish name: "black church/ritual impurity". This is a play on words; in Ukrainian the name "Bila Tserkva" means "white church," and the word _tuma_ means a state of ritual impurity and is a pejorative word for church].
+And soon everyone has has joined in, and it would become a "sing-along" in rounds. I remember how once our {{< var landsmen >}} in Philadelphia suddenly started making a fuss^[has a positive connotation here] about a new {{< var chazan >}} who came to {{< var daven >}}^[pray] in the "Russian _Shul_"^[In general, and certainly in Philadelphia, Jews attended a {{< var shul >}} founded by their {{< var landsmen >}}. [The "Russian _Shul_"](https://en.wikipedia.org/wiki/Historic_Congregation_B%27nai_Abraham#Russian_Shul,_1874-1891) is what is now [B'nei Abraham](https://www.phillyshul.com/history-timeline/), a Chabad {{< var shul >}} on Lombard between 5th-6th.] We heard that he was the brother of the famous {{< var chazan >}} [Pinie Minkowski](https://www.jewishvirtuallibrary.org/minkowski-pinchas), and he came from the city of {{< var bt >}}, which Jews called _Sdeh-Levan_^[This is the city's Hebrew name; it means "white fields"] and also _Schwartz-Tuma_^[This is the city's Yiddish name: "black church/ritual impurity". This is a play on words; in Ukrainian the name "Bila Tserkva" means "white church," and the word _tuma_ means a state of ritual impurity and is also a pejorative word for church].
 
 More than anyone else, the {{< var tumult >}}^[ruckus; again, here it is a positive connotation] was strongest from the the {{< var bt >}}ans. But also the {{< var vasil >}}ers, the {{< var rybinker >}}s, the Solovinkers, and all the other {{< var landsmen >}} who were from that general area. And when everyone went to {{< var shul >}} on {{< var shabes >}} to hear the new {{< var chazan >}}, I also went, and I really liked his {{< var daven >}}_ing_ very much. Around the same time, I actually took over a few {{< var tefilot >}}^[prayers, but can also refer to full services] from him, and then I began to sing them in my own way - both in {{< var shul >}} and at work in the shop...
 
@@ -93,9 +93,7 @@ Even so, I was satisfied. And when they let me out on stage for the first time^[
 > 
 > To our holy land.
 
-
 Everything I saw then on the stage enchanted me and I took it all in... {{< var zilberman-full >}} in the role of {{< var avisholem >}}, {{< var karp-full >}} in the role of {{< var manoyekh >}}, [{{< var vakhtel-full >}}](https://www.museumoffamilyhistory.com/yt/lex/V/vakhtel-yosef.htm) in the role of {{< var tsing >}}^[{{< var avisholem >}}'s African servant. This role almost certainly would have been played in blackface.], and {{< var heine-full >}} in the role of {{< var natank >}}. But more than anyone else, I loved the actress who played the role of {{< var shulamith-role >}} herself...
-
 
 [{{< var sara-adler >}}](https://en.wikipedia.org/wiki/Sara_Adler)^[See her Leksikon entry [here](https://www.museumoffamilyhistory.com/yt/lex/A/adler-sarah.htm)] played the role of {{< var shulamith-role >}}...
 

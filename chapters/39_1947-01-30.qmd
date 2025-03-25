@@ -1,6 +1,9 @@
-# January 30th, 1947
+# Coming to Mogulesko's aid
 
-##### _Link to [{{< var forverts >}} edition](https://www.nli.org.il/en/newspapers/frw/1947/01/30/01/)_ {.unnumbered}
+::: {style="text-align: right;"}
+Published in the {{< var forverts >}} on [ January 30th, 1947](https://www.nli.org.il/en/newspapers/frw/1947/01/30/01/)
+:::
+
 
 > Playing two roles in a benefit performance for {{< var mogu >}}. -- How {{< var mogu >}} ruled over the stage and how his wife ruled over him at home.
 
