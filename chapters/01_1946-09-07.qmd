@@ -38,7 +38,7 @@ I don't know what city I was born in. And don't think that this is some joke on 
 
 But, as if to spite me, as though it was not {{< var beshert >}}^[fate/destiny] that I could take pride in this, there was a second version of where I was born - not in the big city of {{< var kyiv >}}, but in the small village of {{< var zat >}}, which is located between the two cities of {{< var bt >}}^[In Ukrainian, this is [Bila Tserkva](https://en.wikipedia.org/wiki/Bila_Tserkva)] and {{< var vasil >}}^[In Ukrainian, this is [Vasilkyv](https://en.wikipedia.org/wiki/Vasylkiv)], in the {{< var kyiv >}} Governorate.
 
-I'm not sure which version is true. We have this whole issue with us, the family is so confused, it was impossible to figure it out. One thing I am sure of, however, is that I was indeed born.
+I'm not sure which version is true. We have this whole issue with us...the family is so confused, it was impossible to figure it out. One thing I am sure of, however, is that I was indeed born.
 
 The best thing about it is that I am alive and that for 50 years, I have been acting and singing and dancing on the Yiddish stage in America. I also know that now I am already, {{< var baruch-hashem >}}, 77 years old, and that means that I was born in 1869, when Alexander the 2nd was still sitting on the throne of Russia.
 
@@ -46,7 +46,7 @@ This was exactly eight years after {{< var panshina >}}^[serfdom, which Russia a
 
 In the village of {{< var zat >}}, where we lived for a long time, my {{< var tate >}}^["tateh" - father], {{< var Leybs >}}, had a farm, and that is why they called him {{< var Leybs >}} the {{< var Possessor >}}^[the farmer], and my {{< var mame >}}^["mameh" - mother] was called {{< var Feige >}} the {{< var Possessorka >}}. When he was home, he did business with the landowner, Graf^[Graf is count/earl in Russian] Branitsky, who was the owner of the whole village and who also had a large fortune and was loaded with money.
 
-{{< var Tate >}} was a constant presence in the landowner's court. I still remember how every time he went to court, he combed his beautiful beard in a very special way into two points, and when he came back, but he told stories about the strange nobles' whims that he could not understand. And all the usual stories ended with my father shrugging and saying "That guy's nuts!"
+{{< var Tate >}} was a constant presence in the landowner's court. I still remember how every time he went to court, he combed his beautiful beard in a very special way into two points, and when he came back, but he told stories about the strange nobles' whims that he could not understand. And all the usual stories ended with my father shrugging and saying, "That guy's nuts!"
 
 And by this he meant, what else is there say - we're living in his world, not ours...
 
