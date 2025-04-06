@@ -513,6 +513,7 @@ melamed: _melamed_
 mentsh: _mentsh_
 mentshl: _mentshl_
 mirtzeshem: _mirtzeshem_
+meshoyrer: _meshoyrer_
 meshuga: _meshuga_
 meshugas: _meshugas_
 meshumed: _meshumed_
@@ -527,7 +528,7 @@ naches: _naches_
 nebech: _nebech_
 nigun: _nign_
 nigunim: _nigunim_
-okher-yisrael: _ocher yisroel_
+okher-yisrael: _oycher yisro'el_
 oyveyzmir: _Oy vey iz mir_
 panshina: _panshina_
 parnaseh-shtieb: _parnose shtieb_
@@ -541,7 +542,7 @@ Possessorka: _Possessorka_
 Possessor: _Possessor_
 purim-sm: _Purim shalach-manes_
 purim: _Purim_
-reb: _Reb_
+reb: Reb # not italics!!
 rebbe: _rebbe_
 rebbeinu-shel-olam: _Rebbeinu Shel Oylem_
 refua-shlema: _refue shlema_
